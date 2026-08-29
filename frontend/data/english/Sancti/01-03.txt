@@ -1,0 +1,78 @@
+[Officium]
+In the Octave of Saint John the Apostle and Evangelist
+
+[Rank]
+;;Simple;;1.4;;see Sancti/12-27
+(but Tridentine rubric)
+;;Double;;3.2;;from Sancti/12-27
+
+[Rule]
+see Sancti/12-27;
+Feria with Te Deum
+Comkey=70
+9 lessons
+no second Vespers
+Lesson 1 from TempNat
+Gloria
+Preface=Apostles
+
+[Rule] (Tridentine rubric)
+from Sancti/12-27;
+9 lessons
+Psalms of Sunday
+Antiphons of the Hours
+Feria with Te Deum
+Gloria
+Preface=Apostles
+Credo
+
+[Commemoratio] (Tridentine rubric)
+@Sancti/12-28:Octava
+
+[Lectio1] (Tridentine rubric)
+@Tempora/Pasc3-2::1-6 s/5/4/
+
+[Lectio2] (Tridentine rubric)
+!Apoc 4:5-8
+5 And from the throne proceeded lightnings, and voices, and thunderings: and seven lamps burning before the throne, which are the seven spirits of God.  
+6 And before the throne was, as it were, a sea of glass like crystal: and in the midst of the throne, and round about the throne, four living creatures full of eyes before and behind.  
+7 And the first living creature was like a lion, and the second like a calf, and the third had a face as a man, and the fourth was like a flying eagle.  
+8 And the four living creatures, each of them having six wings, and round about and within they are full of eyes.
+
+[Lectio3] (Tridentine rubric)
+!Apoc 4:8-11
+8 And they had no rest day and night, saying: Holy, Holy, Holy, Lord God Almighty, who was, and who is, and who is to come.  
+@Tempora/Pasc3-2:Lectio3:2-4
+
+[Lectio4]
+From the Tractate of Saint Augustine the Bishop on John  
+!Tractate 36  
+In the four Gospels, or rather the four books of one Gospel, Saint John the Apostle is not undeservedly compared, according to spiritual understanding, to the eagle, for he raised his preaching higher and far more sublimely than the other three; and in his soaring he wished our hearts also to be lifted up. For the other three Evangelists walk, as it were, with the Lord as man upon the earth, and said little about His divinity: but this one, as though it were too low for him to walk upon the earth, as he proclaimed in the very beginning of his discourse, lifted himself not only above the earth, and above the whole region of the air and heaven, but above the whole host of Angels and every order of invisible Powers: and he reached Him through whom all things were made, saying: In the beginning was the Word, and the Word was with God, and the Word was God.
+
+[Lectio5]
+To such sublimity of beginning he preached other things also fitting, and spoke of the Lord’s divinity as no one else: he belched forth what he had drunk. For it is not without reason that in this very Gospel it is narrated of him that at the supper he reclined upon the Lord’s breast. From that breast therefore he drank in secret, but what he drank in secret he poured forth openly: so that the Incarnation of the Son of God, His Passion, and Resurrection might reach all nations, and also that which He was before the Incarnation, the Only‑begotten of the Father, the Word of the Father, co‑eternal with Him who begot Him, equal to Him by whom He was sent.
+
+[Lectio6]
+John himself is the eagle, the preacher of sublime things, and the beholder with fixed eyes of the inner and eternal light. For it is said that even the eaglets are tested by their parents in this way: namely, suspended by the father’s talon, they are exposed to the rays of the sun. He who has firmly gazed is recognized as the son; if his sight falters, he is dropped as spurious. See then how sublime things he ought to speak, who is compared to the eagle: and yet even we, creeping on the ground, weak, and scarcely of any account among men, dare to treat these things and explain them: and we think that we can either grasp them when we think, or be grasped by them when we speak.
+
+[Lectio7]
+A reading from the holy Gospel according to John  
+!John 21:20-24  
+At that time: Jesus said to Peter: Follow me. Peter turning, saw that disciple whom Jesus loved following. And the rest.  
+_  
+A homily of Saint John Chrysostom  
+!Homily 87 on John, near the middle  
+After Christ had communicated great things to Peter, entrusted to him the care of the whole world, foretold his martyrdom, and testified His greater love toward him: when Peter wished John to be his companion and colleague, he said: But what of this man? Will he undertake the same path? And just as at the supper he did not dare to ask, but made use of John; so now he repays the favor, thinking that John wishes, but does not dare, to inquire about himself. Then Christ says: If I will that he remain until I come, what is that to you?
+
+[Lectio8]
+For since Peter said this out of excessive affection, and did not wish to be separated from him, Christ, showing that although He loved him greatly, he could not attain His own will, said: If I will that he remain, what is that to you? Teaching us by these words that we should neither grieve nor curiously investigate beyond the divine will. For since Peter always leapt forth more fervently in such questions, Christ again restraining his fervor, and showing that he should not inquire further, answered in this manner.
+
+[Lectio9]
+Therefore this saying went abroad among the brethren, that that disciple does not die: and Jesus did not say to him that he does not die; but, If I will that he remain until I come, what is that to you? Do not think, He says, that I have disposed of you in the same way. He said this to remove untimely affection and the desire of being always together. For since they were to undertake the care of the whole world, it was not fitting that they should always be together: for it would have been a great loss to the world. Therefore He says: You have undertaken a work, consider that: fulfill it, labor, and expose yourself to the contests. What is it to you if I will that he remain here? You take care of your office, and carry it out.  
+&teDeum
+
+[Lectio93] (divino rubric)
+@:Lectio4
+
+[Ant Vespers 3] (Tridentine rubric)
+@Sancti/12-27:Ant Laudes: s/$/_/gm s/\_/;;109/s s/\_/;;112/ s/\_/;;115/ s/\_/;;125/ s/\_/;;138/

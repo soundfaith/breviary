@@ -1,0 +1,29 @@
+[Officium]
+Saint Timothy, Bishop and Martyr
+
+[Rank]
+;;Double;;3;;see C2
+(but rubric 1570 or monastic or 1962)
+;;Simple;;1.1;;see C2
+(but rubric 1617)
+;;Semidouble;;2.2;;see C2
+
+[Rule]
+see C2;
+9 lessons
+
+[Name]
+Timothy
+
+[Lectio4]
+Timothy, born at Lystra in Lycaonia of a Gentile father and a Jewish mother, practiced the Christian religion when the Apostle Paul came into those regions. Moved by the fame which had spread concerning Timothy’s holiness, Paul took him as a companion in his travels; but because of the Jews who had converted to Christ, knowing Timothy’s father was a Gentile, he circumcised him. When both came to Ephesus, he was ordained bishop there by the Apostle, that he might govern that church.
+
+[Lectio5]
+To him the Apostle wrote two epistles, one from Laodicea, the other from Rome. Strengthened by these in the care of the pastoral office, when he could not bear the sacrifice which is owed to God alone being offered to the idols of demons, he attempted to turn the people of Ephesus away from their impiety as they sacrificed to Diana during her festival. He was stoned, and nearly dead, was rescued by Christians and carried to a mountain near the town, where he fell asleep in the Lord on the ninth day before the Kalends of February.
+
+[Lectio6]
+@Commune/C2:Lectio4
+
+[Lectio94]
+Timothy, born at Lystra in Lycaonia of a Gentile father and a Jewish mother, practiced the Christian religion when the Apostle Paul came into those regions. Moved by the fame which had spread concerning Timothy’s holiness, Paul took him as a companion in his travels; but because of the Jews who had converted to Christ, knowing Timothy’s father was a Gentile, he circumcised him. When both came to Ephesus, he was ordained bishop there by the Apostle, that he might govern that church. To him the Apostle wrote two epistles, one from Laodicea, the other from Rome. Strengthened by these in the care of the pastoral office, when he could not bear the sacrifice which is owed to God alone being offered to the idols of demons, he attempted to turn the people of Ephesus away from their impiety as they sacrificed to Diana during her festival. He was stoned, and nearly dead, was rescued by Christians and carried to a mountain near the town, where he fell asleep in the Lord on the ninth day before the Kalends of February.  
+&teDeum

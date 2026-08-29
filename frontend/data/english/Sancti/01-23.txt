@@ -1,0 +1,29 @@
+[Officium]
+Saint Raymond of Peñafort, Confessor
+
+[Rank]
+;;Semidouble;;2.2;;see C5
+
+[Rule]
+see C5; mtv  
+9 lessons
+
+[Oratio]
+O God, who chose blessed Raymond as an excellent minister of the sacrament of penance, and wonderfully brought him across the waves of the sea: grant that through his intercession we may be able to produce worthy fruits of penance and arrive at the port of eternal salvation.
+$Through our Lord
+
+[Lectio4]
+Blessed Raymond of Barcelona, of the noble family of Peñafort, having been imbued with the rudiments of the Christian religion, seemed even as a child, by his remarkable disposition of mind and body, to portend something great. As a youth, having taught the humanities in his homeland, he went to Bologna, where, diligently applying himself to works of piety and to pontifical and civil law, and having been adorned with the doctorate, he interpreted the sacred canons there with great admiration from all. As his fame for virtue spread, Berengarius, bishop of Barcelona, returning from Rome to his church, traveled to Bologna to meet him, and at last, by earnest entreaties, obtained that he return with him to his homeland. Soon adorned with the canonry and provostship of that church, he shone before the entire clergy and people by integrity, modesty, learning, and sweetness of manners, and always increased, as far as he could, the honor and devotion of the Virgin Mother of God, whom he venerated with singular affection.
+
+[Lectio5]
+At about the forty‑fifth year of his age, having made solemn profession in the Order of Preachers, he exercised himself as a new soldier in every kind of virtue, but especially in charity toward the needy and most of all toward captives detained by infidels. Hence, when at his exhortation Saint Peter Nolasco (whose confessions he heard) devoted his wealth to this most pious work, the Blessed Virgin appeared to him, to blessed Raymond, and to James I, king of Aragon, saying that it would be most pleasing to herself and to her Only‑begotten Son if a religious order were founded in her honor, whose members would devote themselves to the liberation of captives from the tyranny of infidels. Therefore, having consulted together, they founded the Order of the Blessed Virgin Mary of Mercy for the Redemption of Captives; to which blessed Raymond prescribed certain rules of life most suited to the vocation of that order, whose approval he obtained a few years later from Gregory IX, and he himself clothed Saint Peter with the habit and made him the first master general of the order.
+
+[Lectio6]
+Summoned to Rome by Gregory IX, and honored with the office of chaplain, confessor, and penitentiary, he, by the Pope’s command, compiled into one volume the Decretals of the Roman Pontiffs, scattered through various councils and letters. He steadfastly refused the archbishopric of Tarragona offered to him by the same Pontiff, and voluntarily resigned the general mastership of the Order of Preachers, which he had administered most holily for two years. He was the author, for King James of Aragon, of establishing the office of the Holy Inquisition in his kingdoms. He performed many miracles, among which the most famous was that, wishing to return from the island of Majorca to Barcelona, he crossed one hundred and sixty miles in six hours on a cloak spread upon the waters, and entered his monastery with the doors closed. At last, nearly a centenarian, enriched with virtues and merits, he fell asleep in the Lord in the year of salvation 1275. Clement VIII enrolled him in the number of the Saints.
+
+[Lectio94]
+Raymond of Barcelona, of the noble family of Peñafort, diligently applying himself at Bologna to works of piety and to pontifical and civil law, and adorned with the doctorate, interpreted the sacred canons there with great praise. Soon adorned with the canonry and provostship of the church of Barcelona by Bishop Berengarius, he shone in virtue, learning, and sweetness of manners, and increased the devotion of the Virgin Mother of God as far as he could. At the age of forty‑five he was received among the Friars Preachers, and was the author, together with Saint Peter Nolasco (whose confessions he heard) and King James I of Aragon, of founding the Order of the Blessed Virgin Mary of Mercy for the Redemption of Captives, to which Raymond prescribed excellent rules of life. By command of Gregory IX he compiled the Decretals of the Supreme Pontiffs into one volume. Having steadfastly refused the archbishopric of Tarragona, and resigned the general mastership of the Order of Preachers, which he had administered most holily for two years, he fell asleep in the Lord, nearly a centenarian, in the year of salvation 1275. Clement VIII enrolled him in the number of the Saints.  
+&teDeum
+
+[Versum 0]
+@Commune/C2a::s/N\./Raymúnde/

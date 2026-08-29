@@ -1,0 +1,137 @@
+[Officium]
+The Conversion of Saint Paul the Apostle
+
+[Rank]
+;;Greater Double;;4;;from Sancti/06-30
+(but updated rubric)
+;;Double Feast;;5;;from Sancti/06-30
+(but Cistercian rubric)
+;;Major Feast of Martyrs;;4.1;;from Sancti/06-30
+
+[Rule]
+from Sancti/06-30;
+9 lessons
+Psalm5Vespera=116
+
+[Hymnus Vespera]
+@Sancti/06-30:Hymnus Matutinum
+
+[HymnusM Vespera]
+@Sancti/06-30:HymnusM Matutinum
+
+[Ant 1]
+Go, Ananias, * and seek Saul: for behold, he prays; for he is a vessel of election to me, that he may carry my name before the Gentiles, and kings, and the children of Israel.
+
+[Oratio]
+O God, who taught the whole world by the preaching of blessed Paul the Apostle: grant us, we beseech You, that we who celebrate his Conversion today may walk toward You by his example.
+$Through our Lord
+_
+@Sancti/01-25:Commemoratio4
+
+[Invit]
+Let us praise our God, * in the conversion of the Doctor of the Gentiles.
+
+[Lectio1]
+From the Acts of the Apostles  
+!Acts 9:1-5  
+1 But Saul, still breathing threats and slaughter against the disciples of the Lord, went to the high priest,  
+2 and asked from him letters to Damascus for the synagogues, that if he found any men or women belonging to this Way, he might bring them bound to Jerusalem.  
+3 And as he journeyed, it happened that he drew near to Damascus: and suddenly a light from heaven shone around him.  
+4 And falling to the ground, he heard a voice saying to him: Saul, Saul, why do you persecute me?  
+5 And he said: Who are you, Lord? And He: I am Jesus, whom you persecute: it is hard for you to kick against the goad.
+
+[Responsory1]
+@Sancti/06-30
+
+[Lectio2]
+!Acts 9:6-9  
+6 And trembling and astonished, he said: Lord, what do you want me to do?  
+7 And the Lord said to him: Arise, and go into the city, and there it shall be told you what you must do. And the men who journeyed with him stood amazed, hearing indeed the voice, but seeing no one.  
+8 And Saul arose from the ground, and when his eyes were opened, he saw nothing. But leading him by the hand, they brought him into Damascus.  
+9 And he was there three days without sight, and did not eat or drink.
+
+[Responsory2]
+@Sancti/06-30
+
+[Lectio3]
+!Acts 9:10-16  
+10 Now there was a certain disciple at Damascus named Ananias: and the Lord said to him in a vision: Ananias. And he said: Behold, I am here, Lord.  
+11 And the Lord said to him: Arise, and go into the street called Straight, and seek in the house of Judas one Saul of Tarsus: for behold, he prays.  
+12 (And he has seen a man named Ananias coming in and laying his hands upon him, that he may receive his sight.)  
+13 But Ananias answered: Lord, I have heard from many about this man, how much evil he has done to your saints in Jerusalem.  
+14 And here he has authority from the chief priests to bind all who call upon your name.  
+15 But the Lord said to him: Go, for this man is a vessel of election to me, to carry my name before the Gentiles, and kings, and the children of Israel.  
+16 For I will show him how much he must suffer for my name.
+
+[Responsory3]
+@Sancti/06-30:Responsory3
+
+[Lectio4]
+A sermon of Saint Augustine the Bishop  
+!Sermon 14 on the Saints  
+Today this reading from the Acts of the Apostles was proclaimed, where Paul the Apostle, from persecutor of Christians, became a herald of Christ. For Christ cast down the persecutor, that He might make him a teacher of the Church: striking him and healing him; killing and giving life; the Lamb slain by wolves, and making lambs out of wolves. For in that noble prophecy, when Jacob the Patriarch blessed his sons (touching the present, foreseeing the future), it had been foretold what happened in Paul. For Paul, as he himself testifies, was of the tribe of Benjamin. And when Jacob, blessing his sons, came to bless Benjamin, he said of him: Benjamin is a ravening wolf.
+
+[Lectio5]
+What then? A ravening wolf forever? Far from it; but one who in the morning devours the prey, and in the evening divides the spoils. This was fulfilled in the Apostle Paul, because it had been said of him. Now, if you please, let us hear him devouring in the morning, dividing spoils in the evening. Morning and evening are set for “before and after.” So let us take it thus: First he will devour, afterwards he will divide the spoils. Consider the devourer: Saul, he says, having received letters from the chief priests, went, that wherever he found Christians, he might drag them to the priests to be punished.
+
+[Lectio6]
+He went breathing and panting slaughter: this is devouring in the morning. For when Stephen the first Martyr was stoned for the name of Christ, Saul was clearly present; and he was so present to those who stoned him that it did not suffice him to stone with his own hands. That he might be in the hands of all who stoned, he himself kept the garments of all; raging more by helping all than by stoning with his own hands. We have heard him devouring in the morning: let us see how in the evening he divides the spoils. Cast down by the voice of Christ from heaven, and receiving from above the prohibition of raging further, he fell on his face, first to be cast down, afterwards to be raised; first to be struck, afterwards to be healed.
+
+[Lectio7]
+@Commune/C1:Lectio7 in 2 loco
+
+[Lectio8]
+@Commune/C1:Lectio8 in 2 loco
+
+[Lectio9]
+@Commune/C1:Lectio9 in 2 loco
+
+[Versum 0]
+@Commune/C1
+
+[Ant Laudes]
+@:Ant Vespera 3:s/;;.*//g
+
+[Capitulum Laudes]
+!Acts 9:1-2  
+v. But Saul, still breathing threats and slaughter against the disciples of the Lord, went to the high priest, and asked from him letters to Damascus for the synagogues: that if he found any men or women belonging to this Way, he might bring them bound to Jerusalem.  
+$Thanks be to God
+
+[Ant 2]
+@Sancti/06-30:Ant 2
+
+[Lectio Prima]
+!Acts 9:22  
+v. But Saul grew all the stronger, and confounded the Jews who lived at Damascus, affirming that this is the Christ.
+
+[Capitulum Sexta]
+!Acts 9:8-9  
+v. And Saul arose from the ground, and when his eyes were opened, he saw nothing. But leading him by the hand, they brought him into Damascus. And he was there three days without sight, and did not eat nor drink.  
+$Thanks be to God
+
+[Capitulum Nona]
+@:Lectio Prima  
+$Thanks be to God
+
+[Ant Vespera 3] (unless Cistercian rubric)
+I planted, * Apollos watered, but God gave the increase. Alleluia.;;109  
+Gladly will I glory * in my infirmities, that the power of Christ may dwell in me.;;112  
+The grace of God * in me was not in vain, but His grace always remains in me.;;115  
+At Damascus, the governor * of the nation of King Aretas wanted to seize me: through the wall I was let down in a basket by the brethren, and thus I escaped his hands in the name of the Lord.;;125  
+Thrice was I beaten with rods, * once was I stoned, thrice I suffered shipwreck for the name of Christ.;;138
+
+[Ant 3]
+@Sancti/06-30:Ant 1
+
+[Commemoratio4]
+!Commemoration of Saint Peter the Apostle  
+(and then is said)  
+Ant. You are the shepherd of the sheep, Prince of the Apostles; to you are entrusted the keys of the kingdom of heaven.  
+_  
+V. You are Peter.  
+R. And upon this rock I will build my Church.  
+_  
+$Let us pray  
+(but rubric 196 omits these verses)  
+v. O God, who to blessed Peter Your Apostle, having given the keys of the heavenly kingdom, entrusted the power of binding and loosing: grant that by the help of his intercession we may be freed from the bonds of our sins:  
+$Who lives

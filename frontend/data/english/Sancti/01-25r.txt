@@ -1,0 +1,26 @@
+[Officium]
+The Conversion of Saint Paul the Apostle
+
+[Rank]
+;;Greater Double;;4;;from Sancti/01-25
+
+[Rule]
+from Sancti/01-25;
+Under one conclusion
+Sunday Psalms
+
+[Lectio1]
+@Sancti/01-25
+
+[Responsory1]
+@Sancti/06-30
+
+[Lectio2]
+@Sancti/01-25
+
+[Responsory3]
+@Sancti/06-30:Responsory2
+
+[Lectio4]
+@Sancti/01-25:Lectio3
+&teDeum

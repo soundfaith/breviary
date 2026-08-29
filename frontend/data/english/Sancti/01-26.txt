@@ -1,0 +1,36 @@
+[Officium]
+S. Polycarp, Bishop and Martyr
+
+[Rank]
+;;Duplex;;3;;vide C2-1
+(but according to rubric 1570 or monastic rubric or rubric 1962)
+;;Simplex;;1.1;;vide C2-1
+(but according to rubric 1617)
+;;Semiduplex;;2.2;;vide C2-1
+
+[Rule]
+vide C2-1;
+9 readings
+
+[Name]
+Polycárpi
+
+[Lectio4]
+From the book of Saint Jerome, Presbyter, on Ecclesiastical Writers
+!Cap. 17
+Polycarp, a disciple of the Apostle John and ordained by him as bishop of Smyrna, was a leader of all Asia; indeed, he had some of the Apostles and those who had seen the Lord as teachers, whom he both saw. He came to Rome concerning certain questions about Easter, under Emperor Antoninus Pius, while Anicetus was ruling the Church in the City; there he brought back to the faith many believers who had been deceived by the persuasion of Marcion and Valentinus. And when Marcion chanced to meet him and said: Do you know us? he replied: I know the firstborn of the devil. Later, under the reign of Marcus Aurelius and Lucius Aurelius Commodus, in the fourth persecution after Nero, at Smyrna, with the proconsul presiding and all the people in the amphitheater opposing him, he was handed over to the fire. He wrote a very useful letter to the Philippians, which is read even today in the assembly of Asia.
+
+[Lectio5]
+@Sancti/07-13:Lectio5
+
+[Lectio6]
+@Sancti/07-13:Lectio6
+
+[Lectio7]
+@Commune/C2:Lectio7 in 4 loco
+
+[Lectio8]
+@Commune/C2:Lectio8 in 4 loco
+
+[Lectio9]
+@Commune/C2:Lectio9 in 4 loco

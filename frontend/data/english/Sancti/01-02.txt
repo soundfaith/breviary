@@ -1,0 +1,94 @@
+[Officium]
+In the Octave of Saint Stephen the Protomartyr
+
+[Rank]
+;;Simple;;1.4;;see Sancti/12-26
+(but Tridentine rubric)
+;;Double;;3.1;;from Sancti/12-26
+
+[Rule]
+see Sancti/12-26;
+Feria with Te Deum
+Comkey=70
+Lesson 1 from TempNat
+Gloria
+Preface=Nat
+
+[Rule] (Tridentine rubric)
+from Sancti/12-26;
+9 lessons
+Psalms of Sunday
+Antiphons of the Hours
+Feria with Te Deum
+Psalm 5 at 3rd Vespers = 115
+Gloria
+Preface=Nat
+Credo
+
+[Oratio]
+Almighty and eternal God, who dedicated the first fruits of Martyrs  
+in the blood of the blessed Levite Stephen:  
+grant, we beseech You, that he may stand as an intercessor for us,  
+who even for his persecutors prayed to our Lord Jesus Christ Your Son:  
+$Who lives with You
+
+[Lectio1] (Tridentine rubric)
+From the Acts of the Apostles  
+!Acts 7:51-54  
+51 Stiff‑necked and uncircumcised in heart and ears, you always resist the Holy Spirit: as your fathers did, so do you.  
+52 Which of the prophets did not your fathers persecute? And they killed those who foretold the coming of the Just One, of whom you have now become betrayers and murderers:  
+53 you who received the Law by the disposition of angels, and did not keep it.  
+54 Hearing these things, they were cut to the heart, and gnashed their teeth at him.
+
+[Lectio2] (Tridentine rubric)
+!Acts 7:55-58  
+55 But he, being full of the Holy Spirit, looking steadfastly into heaven, saw the glory of God, and Jesus standing at the right hand of God. And he said: Behold, I see the heavens opened, and the Son of Man standing at the right hand of God.  
+56 But they, crying out with a loud voice, stopped their ears, and rushed upon him with one accord.  
+57 And casting him out of the city, they stoned him: and the witnesses laid down their garments at the feet of a young man named Saul.  
+58 And they stoned Stephen, invoking and saying: Lord Jesus, receive my spirit.
+
+[Lectio3] (Tridentine rubric)
+!Acts 7:59; 8:1-2  
+59 And kneeling down, he cried out with a loud voice, saying: Lord, do not hold this sin against them. And when he had said this, he fell asleep in the Lord. And Saul was consenting to his death.  
+1 And on that day there arose a great persecution against the Church which was in Jerusalem, and all were scattered throughout the regions of Judea and Samaria, except the Apostles.  
+2 But devout men buried Stephen, and made great lamentation over him.
+
+[Lectio4]
+A sermon of Saint Augustine the Bishop.  
+!Sermon 2 on Saint Stephen  
+After yesterday’s most festive day, on which the Nativity of Christ our Savior shone upon us, today also is adorned with the crown of the blessed Martyr Stephen. No part of the world is ignorant of the merits of that Martyr: for he suffered in the very beginning of the Church, that is, in the city of Jerusalem itself. There the Deacon ministered; and in the very flower of youth he crimsoned the beauty of his age with his blood. His passion is notable and very wonderful. This we have just heard from the book of the Acts of the Apostles as it was read, and we have also seen it with our eyes.
+
+[Lectio5]
+Christ therefore, the head of Martyrs, first suffered for us, leaving you an example that you may follow His footsteps. Following the footsteps of His passion, the most blessed Stephen, confessing Christ, was stoned by the Jews, and merited the crown as though placed upon him by his own name. For Stephen in Greek, in Latin is called “crown.” Already he bore the name of crown, and therefore he carried the palm of martyrdom by his own name.
+
+[Lectio6]
+When he was being stoned, he not only did not expect to receive vengeance upon his persecutors, but rather asked from God pardon for them. For he remembered that the Lord had said: Vengeance is mine, I will repay, says the Lord. And again: Do not say, I will avenge myself on my enemies; but wait for the Lord, that He may help you. The Lord God commands us to wait, that on the day of future retribution we may be avenged with the holy Martyrs.
+
+[Lectio7]
+A reading from the holy Gospel according to Matthew  
+!Matt 23:34-35  
+At that time: Jesus said to the scribes and Pharisees: Behold, I send to you prophets, and wise men, and scribes: and of them you will kill and crucify. And the rest.  
+_  
+A homily of Saint Jerome the Priest  
+!Book 4 Commentary on Matthew 23  
+Jerusalem, Jerusalem, who kills the prophets. He calls Jerusalem not the stones and buildings of the city, but its inhabitants: whom He laments with a father’s affection, just as we read in another place that seeing it, He wept. In what He says: How often would I have gathered your children: He testifies that all the prophets sent before were sent by Himself. And the likeness of a hen gathering her chicks under her wings we read in the canticle of Deuteronomy: As an eagle protects its nest, and longs for its young: spreading its wings, it receives them, and carries them upon its feathers.
+
+[Lectio8]
+Behold, your house is left to you desolate. This same thing He had already said in the person of Jeremiah: I have forsaken my house, I have abandoned my inheritance: my inheritance has become to me like a den of hyenas. We see with our eyes that the desolate house of the Jews, that is, that temple which once shone with majesty, has lost Christ its inhabitant, and desiring to seize the inheritance, killed the heir.
+
+[Lectio9]
+For I say to you: You shall not see me henceforth, until you say: Blessed is He who comes in the name of the Lord. He speaks to Jerusalem and to the people of the Jews. And this verse, which even little children and infants used at the entrance of the Lord and Savior into Jerusalem, when they said: Blessed is He who comes in the name of the Lord, hosanna in the highest, He took from Psalm 117, which is clearly written about the coming of the Lord.  
+&teDeum
+
+[Lectio93] (divino rubric)
+A sermon of Saint Augustine the Bishop  
+!Sermon 2 on Saint Stephen  
+Christ, the head of Martyrs, first suffered for us, leaving you an example that you may follow His footsteps. Following the footsteps of His passion, the most blessed Stephen, confessing Christ, was stoned by the Jews, and merited the crown as though placed upon him by his own name. For Stephen in Greek, in Latin is called “crown.” Already he bore the name of crown, and therefore he carried the palm of martyrdom by his own name. When he was being stoned, he not only did not expect to receive vengeance upon his persecutors, but rather asked from God pardon for them.  
+&teDeum
+
+[Commemoratio 2] (Tridentine rubric)
+@Sancti/12-27:Octava  
+@Sancti/12-28:Octava
+
+[Ant Vespers 3] (Tridentine rubric)
+@Sancti/12-26:Ant Laudes

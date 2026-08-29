@@ -1,0 +1,16 @@
+[Officium]
+Saints Marius, Martha, Audifax, and Abachum, Martyrs
+
+[Rank]
+;;Simple;;1.1;;see C3a
+
+[Rule]
+see C3a;
+
+[Oratio]
+Hear, O Lord, Your people praying with the patronage of Your Saints: that You may grant us to rejoice in the peace of this temporal life, and to find help for eternal life.
+$Through our Lord
+
+[Lectio93]
+Marius, a Persian of noble rank, with Martha his wife of equal nobility, and their two sons Audifax and Abachum, came to Rome under the emperor Claudius to venerate the tombs of the Martyrs. There they comforted Christians cast into chains, supporting them with their works and resources, and buried the bodies of the Saints. For this reason they were all arrested; and since they were moved neither by threats nor terrors of the impious to sacrifice to the gods, they were first beaten with clubs, then dragged with ropes, then burned with red‑hot plates, and torn with iron claws. Finally, their hands were cut off and tied to their necks, and they were led through the middle of the city, on the Cornelian Way, to the thirteenth milestone from the City, to a place called Nymphae, where they were killed: first Martha, who had strongly exhorted her husband and sons to endure the tortures for the faith of Jesus Christ; then the others, in the same sandpit, had their necks cut, and their bodies thrown into the fire. These half‑burned remains were gathered by Felicitas, a noble Roman matron, and buried on her own estate.
+&teDeum

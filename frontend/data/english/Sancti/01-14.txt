@@ -1,0 +1,70 @@
+[Officium]
+Saint Hilary, Bishop, Confessor, Doctor of the Church
+(but rubric 1570 or 1617)
+Saint Hilary, Bishop and Confessor
+
+[Rank]
+;;Double;;3;;see C4a
+(but rubric 1570 or 1617)
+;;Semidouble;;2.2;;see C4
+(but rubric 1963 or Cistercian)
+;;Simple;;1.1;;see C4a
+(but updated rubric)
+;;Optional Double;;2;;see C4a
+(but Barroux rubric)
+;;Double;;3;;see C4a
+
+[Rule]
+see C4a; mtv
+(but rubric 1570 or 1617)
+see C4; mtv
+9 lessons
+(but rubric 1617)
+12 lessons
+
+[Name]
+Hilary
+(but rubric 1570 or 1617)
+Hilary’s
+Ant=Hilary
+
+[Responsory1] (unless rubric 1960)
+@Tempora/Epi2-0:Responsory1
+
+[Responsory2] (unless rubric 1960)
+@Tempora/Epi2-0:Responsory2
+
+[Responsory3] (unless rubric 1960)
+@Tempora/Epi2-0:Responsory3
+
+[Lectio4]
+Hilary, born of noble family in Aquitaine, excelled in doctrine and eloquence. He first lived in marriage almost as a monk; then, because of his singular virtues, he was made bishop of Poitiers. He exercised the episcopal office in such a way that he obtained the highest praise from the faithful. At that time, when the emperor Constantius vexed Catholics with terrors, confiscation of goods, exile, and every cruelty unless they passed over to the Arian party, Hilary, opposing himself to the Arians like a most solid wall, stirred up their fury against himself. Therefore, sought by many plots, he was at last, by the deceit of Saturninus, bishop of Arles, exiled from the synod of Béziers to Phrygia; where he raised a dead man and wrote twelve books on the Trinity against the Arians.
+
+[Lectio5]
+After four years, when a council was assembled at Seleucia, a city of Isauria, Hilary was compelled to be present; and then he went to Constantinople, where he perceived the extreme danger to the faith. Having publicly presented three petitions, he demanded an audience with the emperor so that he might dispute concerning the faith with his adversaries in his presence. But when Ursacius and Valens, Arian bishops whom Hilary had refuted in writing, feared his learning in person, they persuaded Constantius to restore him to his bishopric under the appearance of honor. Then Hilary, returning from the battle with the heretics, was embraced by the Church of Gaul, as Saint Jerome says; and Martin, who afterwards presided over the Church of Tours, followed him to the episcopate, and profited so much under that teacher as his holiness later declared.
+
+[Lectio6]
+@Sancti/01-14:Lectio6beginning
+@Sancti/01-14:Lectio6recentaddition
+
+[Lectio6] (rubric 1570)
+@Sancti/01-14:Lectio6beginning
+
+[Lectio6beginning]
+He afterwards governed the Church of Poitiers with great tranquility, and led all Gaul to condemn the impiety of the Arians. He wrote many books with wonderful learning; all of which Saint Jerome testifies to Laeta can be read without any suspicion of error, with these words: “Let one run through the books of Hilary with unoffending foot.” He departed to heaven on the Ides of January, under the emperors Valentinian and Valens, in the year of the Lord three hundred sixty‑nine.
+
+[Lectio6recentaddition]
+He, having been called a distinguished Doctor of the Church by many Fathers and councils, and honored as such in several dioceses, was at last, at the urging of the synod of Bordeaux, declared and confirmed Doctor of the Universal Church by Pope Pius IX, by decree of the Sacred Congregation of Rites, and ordered that on his feast day the Mass and Office of Doctors be recited by all.
+
+[Lectio94]
+Hilary, born of noble family in Aquitaine, excelled in doctrine and eloquence. Made bishop of Poitiers, he exercised that office so as to obtain the highest praise from the faithful. For the Catholic faith, which he vigorously defended, he was exiled for four years in Phrygia, where among other miracles he raised a dead man. He wrote twelve books on the Trinity against the Arians, and led all Gaul to condemn the impiety of the Arians. He wrote many books with wonderful learning; all of which Saint Jerome testifies to Laeta can be read without any suspicion of error, with these words: “Let one run through the books of Hilary with unoffending foot.” He departed to heaven on the Ides of January, in the year three hundred sixty‑nine. He was declared and confirmed Doctor of the Universal Church by Pope Pius IX, at the urging of the synod of Bordeaux.  
+&teDeum
+
+[Lectio7]
+@Commune/C4a:Lectio7 in 2 loco
+
+[Lectio8]
+@Commune/C4a:Lectio8 in 2 loco
+
+[Lectio9]
+@Commune/C4a:Lectio9 in 2 loco

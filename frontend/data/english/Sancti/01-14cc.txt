@@ -1,0 +1,32 @@
+[Officium]
+Saint Felix, Priest and Martyr
+
+[Rank]
+;;Simple;;1.1;;see C2a
+
+[Rule]
+see C2a;
+
+[Oratio]
+v. Grant, we beseech You, almighty God, that the examples of Your Saints may urge us on to a better life; so that we may imitate the deeds of those whose solemnities we celebrate.
+$Through our Lord
+
+[Commemoratio 1] (Cistercian rubric)
+!Commemoration of Saint Guarinus, Bishop and Confessor
+Ant. Well done, good * and faithful servant, because you have been faithful over a few things, I will set you over many, says the Lord.
+@CommuneCist/C4:Nocturn 1 Versum
+$Let us pray
+v. O God, who by wondrous disposition always illumine Your Church with new splendors of the Saints: grant, we beseech You, that we who rejoice in the solemnities of blessed Guarinus, Your Confessor and Bishop, may be happily brought to his fellowship.
+$Through our Lord
+
+[Lectio93]
+Felix, priest of Nola, when he inveighed vehemently against idols, was variously harassed by unbelievers and cast into prison. From there, being led out at night by an Angel, he was ordered to seek Maximinus, bishop of Nola; who, worn out by age and despairing that he could endure the tortures of persecutors, had hidden himself in a forest. When Felix, led by God, reached the place, he found the holy bishop lying on the ground almost dead; whom he revived and lifted onto his shoulders, and brought to a faithful widow to be cared for. But when he again reproved the worshippers of idols for their impiety, an attack was made upon him; fleeing, he hid himself in a narrow space between two walls. The entrance, suddenly covered with spider webs, left no suspicion to anyone of a recently used hiding place. Escaping from there, Felix hid for three months in the house of the pious woman. But when the Church of God began to have peace, returning to Nola, and converting many to the faith of Christ by examples of life, teachings of doctrine, and miracles, he fell asleep in the Lord, having steadfastly refused the episcopate of that city, and was buried near Nola in a place called “in Pincis.”
+&teDeum
+
+[Commemoratio 2] (Cistercian rubric)
+!Commemoration of Saint Guarinus, Bishop and Confessor
+Ant. Priest and Bishop, * and worker of virtues, good shepherd among the people, pray for us to the Lord.
+@CommuneCist/C4:Nocturn 1 Versum
+$Let us pray
+v. O God, who by wondrous disposition always illumine Your Church with new splendors of the Saints: grant, we beseech You, that we who rejoice in the solemnities of blessed Guarinus, Your Confessor and Bishop, may be happily brought to his fellowship.
+$Through our Lord

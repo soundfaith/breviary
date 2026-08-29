@@ -1,0 +1,36 @@
+[Officium]
+Saints Fabian and Sebastian, Martyrs
+
+[Rank]
+;;Double;;3;;see C3
+(but updated rubric)
+;;Optional Double;;2;;see C3
+
+[Rule]
+see C3;
+9 lessons
+
+[Oratio]
+@Commune/C2::s/beáti N\. Mártyris tui atque Pontíficis/beatórum Mártyrum tuórum Fabiáni et Sebastiáni/
+
+[Lectio4]
+Fabian, a Roman, governing the Church from Maximinus to Decius, divided the city into seven regions with seven deacons, who were to care for the poor. He created as many subdeacons, who were to collect the acts of the Martyrs written by seven notaries. He also decreed that every year on Maundy Thursday, the old chrism should be burned and new chrism consecrated. Finally, on the thirteenth day before the Kalends of February, in the persecution of Decius, he was crowned with martyrdom and buried in the cemetery of Callistus on the Appian Way, having sat fifteen years and four days. He made five ordinations in December, in which he created twenty‑two priests, seven deacons, and eleven bishops for various places.
+
+[Lectio5]
+Sebastian, born of a father from Narbonne and a mother from Milan, was dear to Diocletian because of his noble lineage and virtue. As captain of the first cohort, he secretly practiced the Christian faith, and aided Christians with his works and resources; and those who seemed to fear the violence of torments he strengthened with exhortation, so that many offered themselves voluntarily to the torturers for Jesus Christ. Among these were Marcus and Marcellianus, brothers who were in custody at Rome under Nicostratus; whose wife Zoe recovered her lost voice through Sebastian’s prayer. When these things were reported to Diocletian, he summoned Sebastian, and after vehemently rebuking him, attempted by every art to turn him away from the faith of Christ. But when he accomplished nothing either by promises or threats, he ordered him to be tied to a stake and shot with arrows.
+
+[Lectio6]
+Judged by all to be dead, he was ordered by the holy woman Irene to be taken away for burial; but found alive, she cared for him in her home. Shortly afterward, his health restored, he met Diocletian and boldly accused his impiety. At the sight of him — whom he believed dead — the emperor first stood astonished; then, enraged by the novelty of the event and Sebastian’s sharp rebuke, he ordered him to be beaten with rods until he gave up his spirit. His body, thrown into the sewer, was revealed in a dream to Lucina by Sebastian, telling her where it was and where he wished to be buried; and she buried him in the Catacombs, where a celebrated church under the name of Saint Sebastian was built.
+
+[Lectio94]
+Fabian, a Roman, governing the Church from Maximinus to Decius, divided the city into seven regions with seven deacons, who were to care for the poor. He created as many subdeacons, who were to collect the acts of the Martyrs written by seven notaries. He decreed that every year on Maundy Thursday, the old chrism should be burned and new chrism consecrated. Finally, on the thirteenth day before the Kalends of February, he was crowned with martyrdom and buried in the cemetery of Callistus on the Appian Way. Sebastian, dear to Diocletian for his noble lineage and virtue, captain of the first cohort, secretly practiced the Christian faith, aided Christians with his works and resources, and strengthened them in confessing Christ. When these things were reported to Diocletian, he attempted by every art to turn Sebastian from Christ. But when he accomplished nothing either by promises or threats, he ordered him to be tied to a stake and shot with arrows. But the servant of God, judged dead by all, shortly afterward, restored to health, met Diocletian and boldly accused his impiety; and by order of the tyrant was beaten with rods until he gave up his spirit.  
+&teDeum
+
+[Lectio7]
+@Commune/C3:Lectio7 in 2 loco
+
+[Lectio8]
+@Commune/C3:Lectio8 in 2 loco
+
+[Lectio9]
+@Commune/C3:Lectio9 in 2 loco

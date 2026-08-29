@@ -1,0 +1,58 @@
+[Rank]
+The Fourth Day within the Octave of the Epiphany;;Semidouble;;5.6;;from Sancti/01-06
+
+[Rank] (rubric 196 or rubric 1955)
+The Ninth Day of January;;Feria;;1.2;;see Sancti/01-06
+
+[Rule]
+from Sancti/01-06
+Lesson 1 from Tempora
+Doxology=Epiphany
+9 lessons
+Feria with Te Deum
+Within the Octave of the Epiphany of the Lord
+
+[Ant 1]
+@Sancti/01-08:Ant 3
+
+[Responsory1]
+@Sancti/01-06:Responsory1InfraOctavam
+
+[Responsory2]
+@Sancti/01-06:Responsory2
+
+[Responsory3]
+@Sancti/01-06:Responsory3
+
+[Lectio4]
+A sermon of Saint Leo the Pope  
+!Sermon 1 on the Epiphany  
+After the day just celebrated, on which inviolate virginity brought forth the Savior of the human race, the venerable feast of the Epiphany, most beloved, gives us perseverance in joys: so that among the neighboring sacraments of related solemnities, the vigor of exultation and the fervor of faith may not grow cold. For the salvation of all men is concerned in this, that the infancy of the Mediator between God and men was already being made known to the whole world, although He was still held in a small town.
+
+[Lectio5]
+For although He had chosen the Israelite people and one family of that people, from which He would assume the nature of all humanity, He did not wish the beginnings of His birth to lie hidden within the narrow dwelling of His Mother; but He wished to be known at once by all, He who deigned to be born for all. Therefore to the three Magi in the region of the East a star of new brightness appeared, more splendid and more beautiful than the other stars, easily turning the eyes and minds of those who looked upon it: so that it might immediately be noticed that what seemed so unusual was not without purpose.
+
+[Lectio6]
+He therefore gave understanding to those who saw the sign, who gave the sign; and what He made understood, He made sought, and offered Himself to be found when sought. Three men follow the guidance of heavenly light, and accompanying the indication of the preceding brightness with attentive contemplation, they are led by the splendor of grace to the recognition of truth: who by human sense judged that the birth of the King signified to them should be sought in the royal city. But He who had taken the form of a servant, and had come not to judge but to be judged, chose Bethlehem for His birth, Jerusalem for His Passion.
+
+[Lectio7]
+A reading from the holy Gospel according to Matthew  
+!Matt 2:1-12  
+When Jesus was born in Bethlehem of Judea in the days of King Herod, behold, Magi from the East came to Jerusalem, saying: Where is He who is born King of the Jews? And the rest.  
+_  
+From the Homily of Saint Gregory the Pope  
+!From Homily 10 on the Gospels  
+The Magi suggest something great to us, in that they return to their own region by another way. For in what they do when warned, they indeed show us what we must do. Our region is paradise: to which, once we have known Jesus, we are forbidden to return by the way by which we came. For from our region we departed by pride, by disobedience, by following visible things, by tasting forbidden food: but to it we must return by weeping, by obedience, by despising visible things, and by restraining the appetite of the flesh.
+
+[Lectio8]
+Therefore we return to our region by another way: because we who departed from the joys of paradise through delights are recalled to them through lamentations. Hence it is necessary, dearest brothers, that always fearful and always watchful, we place before the eyes of our heart on one side the faults of our deeds, on the other the judgment of the final strictness. Let us consider how strict the Judge will come, who threatens judgment and hides; who intends terrors for sinners, and yet still bears with them; and therefore delays to come quickly, so that He may find less to condemn.
+
+[Lectio9]
+Let us punish our faults with tears, and with the voice of the Psalmist let us go before His face in confession. Let no deceit of pleasures deceive us, no vain joy seduce us. For near is the Judge, who said: Woe to you who laugh now, for you shall mourn and weep. Hence Solomon says: Laughter shall be mingled with sorrow; and, The end of joy is occupied by grief. Hence again he says: I judged laughter to be error, and to joy I said, Why are you vainly deceived? Hence again he says: The heart of the wise is where sadness is; and the heart of fools where joy is.  
+&teDeum
+
+[Ant 2]
+We have seen His star * in the East, and we have come with gifts to adore the Lord.
+
+[Ant 3]
+Herod questioned * the Magi: What sign did you see over the newborn King? We saw a shining star, whose splendor illumines the world.

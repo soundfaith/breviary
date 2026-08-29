@@ -1,0 +1,72 @@
+[Rank]
+The Seventh Day within the Octave of the Epiphany;;Semidouble;;5.6;;from Sancti/01-06
+(but Tridentine rubric or 1930 rubric: omitted)
+
+[Rank] (rubric 196 or rubric 1955)
+The Twelfth Day of January;;Feria;;1.8;;see Sancti/01-06
+
+[Rule]
+from Sancti/01-06
+Lesson 1 from Tempora
+Doxology=Epiphany
+9 lessons
+Feria with Te Deum
+No Second Vespers
+Within the Octave of the Epiphany of the Lord
+
+[Hymnus Vespera] (rubric 196)
+@Sancti/01-06:Hymnus Vespera
+
+[Ant 1]
+@Sancti/01-11:Ant 3
+
+[Responsory1] (rubric 196)
+@Sancti/01-06:Responsory1
+
+[Responsory1] (Tridentine or Divino rubric)
+@Sancti/01-06:Responsory1InfraOctavam
+
+[Responsory2]
+@Sancti/01-06:Responsory2
+
+[Responsory3]
+@Sancti/01-06:Responsory3
+
+[Lectio4]
+A sermon of Saint Leo the Pope  
+!Sermon 4 on the Epiphany  
+It is just and reasonable, most beloved, a service of true piety, that on the days which proclaim the works of divine mercy, we rejoice with our whole heart and celebrate with honor the things done for our salvation, the very law of recurring times calling us to this devotion. For after the day on which the co‑eternal Son of God was born of the Virgin, the law of the calendar has brought us, after a short interval, the feast of the Epiphany, consecrated by the manifestation of the Lord.
+
+[Lectio5]
+In this feast divine providence has established a great support for our faith: so that while the infancy of the Savior, adored at its beginnings, is recalled with solemn veneration, the very original documents may prove that the nature of true man was born in Him. For this is what justifies the impious; this is what makes saints out of sinners, if in one and the same Lord Jesus Christ both true divinity and true humanity are believed: divinity, by which before all ages He is equal to the Father in the form of God; humanity, by which in the last days He was united to man in the form of a servant.
+
+[Lectio6]
+To strengthen therefore this faith, which was fortified against all errors, it was done by the great kindness of divine counsel that a nation dwelling in a far‑off region of the East, skilled in observing the stars, should receive the sign of the birth of the Child who was to reign above all Israel. For a new brightness of a more illustrious star appeared to the Magi, and filled the minds of those who looked upon it with such admiration of its splendor that they could not believe that what was announced by so great a sign should be neglected.
+
+[Lectio7]
+A reading from the holy Gospel according to Matthew  
+!Matt 2:1-12  
+When Jesus was born in Bethlehem of Judea in the days of King Herod, behold, Magi from the East came to Jerusalem, saying: Where is He who is born King of the Jews? And the rest.  
+_  
+From the Homily of Saint John Chrysostom  
+!Homily 8 on Matthew, no. 1  
+The Magi, entering the house, saw the Child with Mary His Mother. And falling down, they adored Him; and opening their treasures, they offered Him gifts — gold, incense, and myrrh. But what led them to adore the Child? For the Virgin bore no sign of distinction, nor was the house magnificent, nor was there anything else there that could strike or attract them. Yet they not only adore, but opening their treasures, they offer gifts — gifts, I say, not as to a mere man, but as to God. For incense and myrrh were especially symbols of God. What persuaded them to this? The very thing that stirred them to leave their home and undertake so great a journey: namely, the star and the illumination of mind given to them by God, which gradually led them to a more perfect knowledge.
+
+[Lectio8]
+For unless the matter were so, when all that they saw there was lowly, they would not have shown Him such honor. And therefore nothing great among the things that fall under the senses was there — but a manger, a hut, a poor mother — so that you may perceive the pure philosophy of the Magi, and learn that they came not as to a mere man, but as to God, and a beneficent God. Therefore they were not offended by anything that appeared outwardly, but adored; and they offered gifts which differed greatly from Jewish grossness. For they did not sacrifice sheep and calves, but things akin to ecclesiastical philosophy; for they offered knowledge, obedience, and love.
+
+[Lectio9]
+And having received a warning in a dream not to return to Herod, they went back to their own region by another way. See here the faith of these men — how they are not offended, but are quiet and obedient, neither disturbed nor saying among themselves: “Surely, if this Child is great, and if He has any power, what need is there of flight and secret departure? Why does the Angel dismiss us from the city as fugitives, we who approached the people openly and with confidence, and stood before the raging king?” But they said or thought nothing of the kind. For this belongs especially to faith: that no reason of the commands be sought, but that the commands alone be obeyed.  
+&teDeum
+
+[Capitulum Laudes] (rubric 196)
+@Sancti/01-06
+
+[Ant 2]
+Manifestly great * is the mystery of piety: which was manifested in the flesh, justified in the spirit, appeared to Angels, was preached to the Gentiles, believed in the world, taken up in glory, alleluia.
+
+[Versum 3] (rubric 196)
+@Sancti/01-06:Versum 1
+
+[Ant 3] (rubric 196)
+@Sancti/01-06:Ant 3

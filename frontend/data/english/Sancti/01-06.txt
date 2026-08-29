@@ -1,0 +1,332 @@
+[Rank]
+On the Epiphany of the Lord;;Double of the First Class;;6.5
+
+[Rule]
+Psalms of Sunday
+Antiphons of the Hours
+Omit at Matins the beginning Invitatory Hymn
+Doxology=Epiphany
+9 lessons
+Psalm 5 at Vespers = 116
+Psalm 5 at 3rd Vespers = 113
+Feast of the Lord
+
+[Ant Vespera]
+@:Ant Laudes
+
+[Hymnus Vespera]
+{:H-CrudelisHerodes:}v. Cruel Herod, why do you fear
+the coming of God the King?
+He does not seize earthly realms,
+who gives the heavenly kingdoms.
+_
+The Magi went, following
+the star they had seen before:
+light they seek by light,
+and confess God by their gift.
+_
+The Lamb of heaven touched
+the waters of the pure stream:
+the sins He did not bear,
+He removed by washing us.
+_
+A new kind of power:
+the jars of water grow red,
+and the water, ordered to pour wine,
+changed its very nature.
+_
+* Jesus, to You be glory,
+who appeared to the nations,
+with the Father and the loving Spirit,
+forever and ever.
+Amen.
+
+[HymnusM Vespera]
+@:Hymnus Vespera:s/Crudélis Heródes, Deum.Regem/Hostis Heródes ímpie,\nChristum/s
+
+[Versum 1_]
+V. The kings of Tharsis and the islands shall offer gifts.
+R. The kings of Arabia and Saba shall bring presents.
+
+[Versum 1]
+@:Versum 1_
+(but Cistercian rubric)
+@:Versum 1C
+
+[Versum 1C]
+V. All shall come from Saba.
+R. Bringing gold and incense, and proclaiming the praise of the Lord.
+
+[Ant 1_]
+Seeing the star, * the Magi said to one another: This is the sign of the great King; let us go and seek Him, and offer Him gifts — gold, incense, and myrrh, alleluia.
+
+[Ant 1]
+@:Ant 1_
+(but Cistercian rubric)
+@:Ant 1_:s/Magi vidéntes \* stellam,/Magi \* vidérunt stellam, et/i
+
+[Oratio]
+O God, who on this day revealed Your Only‑begotten to the nations by the guidance of a star: grant in Your mercy that we who already know You by faith may be led to the contemplation of the beauty of Your majesty.  
+$Through the same
+
+[Invit]
+Christ has appeared to us, * Come, let us adore.
+
+[Hymnus Matutinum]
+@Sancti/01-06:Hymnus Vespera
+
+[Ant Matutinum]
+Bring to the Lord, * O sons of God; adore the Lord in His holy court.;;28
+The stream of the river * makes glad, alleluia, the city of God, alleluia.;;45
+Sing praises to our God, * sing praises: sing praises to our King, sing wisely.;;46
+Let all the earth adore You, * and sing to You: let it sing a psalm to Your name, O Lord.;;65
+The kings of Tharsis * and the islands shall offer gifts to the Lord the King.;;71
+All nations * You have made shall come and adore before You, O Lord.;;85
+@SanctiM/01-06:AntMatutinumM:2
+(but on the day of Epiphany it is said)
+Come, let us adore Him: * for He is the Lord our God.;;94
+Adore the Lord, * alleluia: in His holy court, alleluia.;;95
+Adore God, * alleluia: all His Angels, alleluia.;;96
+
+[Nocturn 1 Versum]
+V. Let all the earth adore You and sing to You.
+R. Let it sing a psalm to Your name, O Lord.
+
+[Nocturn 2 Versum]
+@:Versum 1
+(but Cistercian rubric)
+@:Versum 1_
+
+[Nocturn 3 Versum]
+V. Adore the Lord, alleluia.
+R. In His holy court, alleluia.
+
+[Lectio1]
+From the Prophet Isaiah  
+!Isa 55:1-4  
+1 All you who thirst, come to the waters; and you who have no money, hasten, buy and eat: come, buy wine and milk without money and without price.  
+2 Why do you spend money for that which is not bread, and your labor for that which does not satisfy? Hear me, and eat what is good, and your soul shall delight in richness.  
+3 Incline your ear and come to me; hear, and your soul shall live; and I will make with you an everlasting covenant, the faithful mercies of David.  
+4 Behold, I have given him as a witness to the peoples, a leader and commander of the nations.
+
+[Responsory1]
+R. Today, when the Lord was baptized in the Jordan, the heavens were opened, and the Spirit rested upon Him like a dove, and the voice of the Father thundered:  
+* This is my beloved Son, in whom I am well pleased.  
+V. The Holy Spirit descended in bodily form like a dove upon Him, and a voice came from heaven.  
+R. This is my beloved Son, in whom I am well pleased.
+
+[Responsory1InfraOctavam]
+R. Three precious gifts the Magi offered to the Lord on this day, and they contain divine mysteries:  
+* In gold, behold the power of the King; in incense, consider the great Priest; and in myrrh, the burial of the Lord.  
+V. The Magi worshiped the Author of our salvation in the manger, and from their treasures offered Him mystical kinds of gifts.  
+R. In gold, behold the power of the King; in incense, consider the great Priest; and in myrrh, the burial of the Lord.
+
+[Lectio2]
+!Isa 60:1-6  
+1 Arise, shine, O Jerusalem, for your light has come, and the glory of the Lord has risen upon you.  
+2 For behold, darkness shall cover the earth, and thick gloom the peoples; but upon you the Lord shall arise, and His glory shall be seen upon you.  
+3 Nations shall walk in your light, and kings in the brightness of your rising.  
+4 Lift up your eyes round about and see: all these have gathered together, they have come to you; your sons shall come from afar, and your daughters shall rise at your side.  
+5 Then you shall see and overflow; your heart shall marvel and be enlarged, when the multitude of the sea is turned to you, and the strength of the nations shall come to you.  
+6 A multitude of camels shall cover you, the dromedaries of Midian and Epha; all from Saba shall come, bringing gold and incense, and proclaiming the praise of the Lord.
+
+[Responsory2]
+R. In the form of a dove the Holy Spirit was seen, the voice of the Father was heard:  
+* This is my beloved Son, in whom I am well pleased.  
+V. The heavens were opened over Him, and the voice of the Father thundered.  
+R. This is my beloved Son, in whom I am well pleased.
+
+[Lectio3]
+!Isa 61:10-11; 62:1  
+10 I will greatly rejoice in the Lord, and my soul shall exult in my God, for He has clothed me with the garments of salvation, and wrapped me with the robe of justice, as a bridegroom adorned with a crown, and as a bride decked with her jewels.  
+11 For as the earth brings forth its growth, and as a garden makes its seeds spring up, so the Lord God will make justice and praise spring forth before all nations.  
+1 For Zion’s sake I will not be silent, and for Jerusalem’s sake I will not rest, until her just one goes forth as brightness, and her Savior as a lamp that is lit.
+
+[Responsory3]
+R. The kings of Tharsis and the islands shall offer gifts:  
+* The kings of Arabia and Saba shall bring gifts to the Lord God.  
+V. All shall come from Saba, bringing gold and incense.  
+R. The kings of Arabia and Saba shall bring gifts to the Lord God.  
+&Gloria  
+R. The kings of Arabia and Saba shall bring gifts to the Lord God.
+
+[Lectio4]
+A sermon of Saint Leo the Pope  
+!Sermon 2 on the Epiphany  
+Rejoice in the Lord, most beloved; again I say, rejoice: for after a short interval of time, following the solemnity of Christ’s Nativity, the feast of His manifestation has shone upon us: and He whom the Virgin bore on that day, the world recognized on this. For the Word made flesh so tempered the beginnings of our adoption that the newborn Jesus was manifest to believers and hidden from persecutors. Already then the heavens declared the glory of God, and the sound of truth went forth into all the earth, when to the shepherds the army of Angels appeared announcing the Savior, and the star led the Magi before Him to adore: so that from the rising of the sun to its setting the birth of the true King might shine, when through the Magi the kingdoms of the East learned the truth of events, and the Roman Empire was not ignorant.
+
+[Responsory4]
+R. Arise, shine, O Jerusalem, for your light has come:  
+* And the glory of the Lord has risen upon you.  
+V. And nations shall walk in your light, and kings in the brightness of your rising.  
+R. And the glory of the Lord has risen upon you.
+
+[Lectio5]
+For even the cruelty of Herod, wishing to extinguish the beginnings of the King suspected by him, unknowingly served this dispensation: so that while intent on a savage crime, he pursued the Child unknown to him by indiscriminate slaughter of infants, and everywhere the more notable fame of the heavenly‑announced birth of the Lord was spoken; made more ready to be told both by the novelty of the heavenly sign and by the impiety of the most bloodthirsty persecutor. Then also the Savior was brought into Egypt, so that a nation given to ancient errors might already be marked for near salvation by hidden grace: and that which had not yet cast superstition from its heart might already receive truth in its hospitality.
+
+[Responsory5]
+R. All shall come from Saba, bringing gold and incense, and proclaiming the praise of the Lord,  
+* Alleluia, alleluia, alleluia.  
+V. The kings of Tharsis and the islands shall offer gifts, the kings of Arabia and Saba shall bring presents.  
+R. Alleluia, alleluia, alleluia.
+
+[Lectio6]
+Let us then recognize, most beloved, in the Magi who adored Christ, the first fruits of our calling and faith; and with rejoicing hearts let us celebrate the beginnings of blessed hope. From that moment we began to enter into the eternal inheritance; from that moment the hidden mysteries of Scripture speaking of Christ were opened to us, and the truth which the blindness of the Jews does not receive brought its light to all nations. Therefore let this most holy day be honored by us, on which the Author of our salvation appeared: and Him whom the Magi worshiped as an infant in the manger, let us adore as almighty in heaven. And as they offered mystical kinds of gifts from their treasures to the Lord, so let us offer from our hearts what is worthy of God.
+
+[Responsory6]
+R. The Magi come from the East to Jerusalem, seeking and saying: Where is He who is born, whose star we have seen?  
+* And we have come to adore the Lord.  
+V. We have seen His star in the East.  
+R. And we have come to adore the Lord.  
+&Gloria  
+R. And we have come to adore the Lord.
+
+[Lectio7]
+A reading from the holy Gospel according to Matthew  
+!Matt 2:1-12  
+When Jesus was born in Bethlehem of Judea in the days of King Herod, behold, Magi from the East came to Jerusalem, saying: Where is He who is born King of the Jews? And the rest.  
+_  
+A homily of Saint Gregory the Pope  
+!Homily 10 on the Gospel  
+As you heard in the Gospel reading, dearest brothers, when the King of heaven was born, the king of earth was troubled: for earthly exaltation is confounded when heavenly majesty is revealed. But we must ask what it means that, when the Redeemer was born, an Angel appeared to the shepherds in Judea, but to lead the Magi from the East to adore Him, not an Angel but a star guided them. For to the Jews, as using reason, a rational creature — that is, an Angel — ought to preach; but the Gentiles, who did not use reason, were led to know the Lord not by voice but by signs. Hence Paul also says: Prophecies are given to the faithful, not to unbelievers; but signs to unbelievers, not to the faithful. For to the Jews prophecies were given as to the faithful, not to unbelievers; and to the Gentiles signs were given as to unbelievers, not to the faithful.
+
+[Responsory7]
+R. The star which the Magi had seen in the East went before them until it came to the place where the Child was.  
+* Seeing it, they rejoiced with great joy.  
+V. And entering the house, they found the Child with Mary His Mother, and falling down they adored Him.  
+R. Seeing it, they rejoiced with great joy.
+
+[Lectio8]
+And note that our Redeemer, when He was already of perfect age, was preached to the Gentiles by the Apostles, but as a little Child, not yet speaking by human voice, He was announced to the Gentiles by a star: for the order of reason required that the Lord already speaking should be made known to us by speaking preachers, and the Lord not yet speaking should be preached by mute elements. But in all the signs shown either at the Lord’s birth or at His death, we must consider how great was the hardness in the hearts of certain Jews, who did not recognize Him either by the gift of prophecy or by miracles.
+
+[Responsory8]
+R. Seeing the star, the Magi rejoiced with great joy:  
+* And entering the house, they found the Child with Mary His Mother, and falling down they adored Him: * And opening their treasures, they offered Him gifts — gold, incense, and myrrh.  
+V. The star which they had seen in the East went before them until it came and stood over where the Child was.  
+R. And entering the house, they found the Child with Mary His Mother, and falling down they adored Him:  
+&Gloria  
+R. And opening their treasures, they offered Him gifts — gold, incense, and myrrh.
+
+[Lectio9]
+All the elements bore witness that their Creator had come. To speak of them in human terms: the heavens recognized Him, for they immediately sent forth a star. The sea recognized Him, for it offered itself to be trodden under His feet. The earth recognized Him, for it trembled when He died. The sun recognized Him, for it hid its rays of light. The rocks and walls recognized Him, for they were split at the time of His death. Hell recognized Him, for it gave back the dead whom it held. And yet Him whom all the insensible elements felt to be Lord, the hearts of unbelieving Jews do not recognize as God, and harder than stones, they refuse to be broken unto repentance.  
+&teDeum
+
+[Versum 0]
+@:Responsory6:3-4
+
+[Ant Laudes]
+Begotten before the morning star, * and before all ages, the Lord our Savior has appeared today to the world.  
+Your light has come, * O Jerusalem, and the glory of the Lord has risen upon you, and nations shall walk in your light, alleluia.  
+Opening their treasures, * the Magi offered the Lord gold, incense, and myrrh, alleluia.  
+O seas and rivers, * bless the Lord: sing hymns to the Lord, O fountains, alleluia.  
+This star * shines like a flame and shows God, the King of kings: the Magi saw it and offered gifts to the great King.
+
+[Capitulum Laudes]
+!Isa 60:1  
+v. Arise, shine, O Jerusalem, for your light has come, and the glory of the Lord has risen upon you.  
+$Thanks be to God
+
+[Hymnus Laudes]
+{:H-Osolamagnarum:}v. O sole of the great cities,
+greater Bethlehem, to whom it fell
+to bear incarnate from heaven
+the Leader of salvation.
+_
+The star which surpasses
+the sun’s wheel in beauty and light
+announces that God has come
+to earth in earthly flesh.
+_
+When the Magi saw Him,
+they bring forth gifts from the East:
+and prostrate, they offer
+incense, myrrh, and royal gold.
+_
+Treasures and fragrant incense
+proclaim Him King and God,
+and the myrrh‑dust
+foretells His tomb.
+_
+* Jesus, to You be glory,
+who appeared to the nations,
+with the Father and the loving Spirit,
+forever and ever.
+Amen.
+
+[Versum 2]
+V. Adore God, alleluia.
+R. All His Angels, alleluia.
+
+[Versum 2] (Cistercian rubric)
+@:Versum 1
+
+[Ant 2]
+Today * the Church is joined to her heavenly Bridegroom, because in the Jordan Christ washed away her sins: the Magi run with gifts to the royal wedding, and the guests rejoice with wine made from water, alleluia.
+
+[Lectio Prima]
+!Isa 60:6  
+v. All shall come from Saba, bringing gold and incense, and proclaiming the praise of the Lord.
+
+[Responsory Breve Tertia]
+R.br. The kings of Tharsis and the islands shall offer gifts, * Alleluia, alleluia.  
+R. The kings of Tharsis and the islands shall offer gifts, * Alleluia, alleluia.  
+V. The kings of Arabia and Saba shall bring presents.  
+R. Alleluia, alleluia.  
+&Gloria
+R. The kings of Tharsis and the islands shall offer gifts, * Alleluia, alleluia.
+
+[Responsory Breve Tertia] (Cistercian rubric)
+R.br. A holy day has shone upon us, * It has shone upon us.
+R. A holy day has shone upon us, * It has shone upon us.
+V. Come, O nations, and adore the Lord.
+R. It has shone upon us.
+
+[Versum Tertia]
+V. All shall come from Saba, alleluia.
+R. Bringing gold and incense, alleluia.
+
+[Capitulum Sexta]
+!Isa 60:4
+v. Lift up your eyes round about and see: all these have gathered together, they have come to you; your sons shall come from afar, and your daughters shall rise at your side.
+$Thanks be to God
+
+[Responsory Breve Sexta]
+R.br. All shall come from Saba, * Alleluia, alleluia.
+R. All shall come from Saba, * Alleluia, alleluia.
+V. Bringing gold and incense.
+R. Alleluia, alleluia.
+&Gloria
+R. All shall come from Saba, * Alleluia, alleluia.
+
+[Responsory Breve Sexta] (Cistercian rubric)
+R.br. The kings of Tharsis and the islands * shall offer gifts.
+R. The kings of Tharsis and the islands * shall offer gifts.
+V. The kings of Arabia and Saba shall bring presents.
+R. They shall offer gifts.
+
+[Versum Sexta]
+@:Nocturn 3 Versum
+
+[Capitulum Nona]
+@:Lectio Prima
+$Thanks be to God
+
+[Responsory Breve Nona]
+R.br. Adore the Lord, * Alleluia, alleluia.
+R. Adore the Lord, * Alleluia, alleluia.
+V. In His holy court.
+R. Alleluia, alleluia.
+&Gloria
+R. Adore the Lord, * Alleluia, alleluia.
+
+[Versum Nona]
+@:Versum 2
+
+[Versum 3] (Cistercian rubric)
+@:Versum 1
+
+[Ant 3]
+We honor * this holy day adorned with three miracles: today the star led the Magi to the manger; today wine was made from water at the wedding; today in the Jordan Christ willed to be baptized by John, that He might save us, alleluia.
+
+[Ant 3] (Cistercian or Dominican rubric)
+From the East * the Magi came to Bethlehem to adore the Lord, and opening their treasures they offered precious gifts: gold as to a great King; incense as to the true God; myrrh for His burial.

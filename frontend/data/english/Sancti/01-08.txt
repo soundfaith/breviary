@@ -1,0 +1,58 @@
+[Rank]
+The Third Day within the Octave of the Epiphany;;Semidouble;;5.6;;from Sancti/01-06
+
+[Rank] (rubric 196 or rubric 1955)
+The Eighth Day of January;;Feria;;1.2;;see Sancti/01-06
+
+[Rule]
+from Sancti/01-06
+Lesson 1 from Tempora
+Doxology=Epiphany
+9 lessons
+Feria with Te Deum
+Within the Octave of the Epiphany of the Lord
+
+[Ant 1]
+@Sancti/01-07:Ant 3
+
+[Responsory1]
+@Sancti/01-06:Responsory1InfraOctavam
+
+[Responsory2]
+@Sancti/01-06:Responsory2
+
+[Responsory3]
+@Sancti/01-06:Responsory3
+
+[Lectio4]
+From the Sermon of Saint Augustine the Bishop  
+!Sermon 2 on the Epiphany  
+Although so many kings of the Jews had already been born and had died, did the Magi seek any of them to adore? No, because they had learned of none of them by heaven speaking. Yet what must not be overlooked is that this enlightenment of the Magi was a great testimony to the blindness of the Jews. In their land these men sought Him whom those in their own land did not recognize.
+
+[Lectio5]
+Among them these men found the infant whom those others denied among themselves. In these lands, from afar, these strangers adored the Child Christ who had not yet spoken a word, where those citizens crucified Him as a young man performing miracles. These men adored God in small limbs; those men did not spare Him even as a man in great deeds: as though it were more to see a new star shining at His birth than to see His sun mourning at His death.
+
+[Lectio6]
+And indeed the same star which led the Magi to the place where God the infant was with His Virgin Mother — which certainly could have led them to the very city — nevertheless withdrew itself and did not appear to them at all until the Jews themselves were asked about the city in which Christ was to be born, and they themselves named it according to the testimony of divine Scripture, saying: In Bethlehem of Judea. For thus it is written: And you, Bethlehem, land of Judah, are not the least among the princes of Judah: for out of you shall come a Leader who shall rule my people Israel. What else did divine providence signify here but that among the Jews only the divine Scriptures would remain, by which the Gentiles would be instructed, and they themselves blinded?
+
+[Lectio7]
+A reading from the holy Gospel according to Matthew  
+!Matt 2:1-12  
+When Jesus was born in Bethlehem of Judea in the days of King Herod, behold, Magi from the East came to Jerusalem, saying: Where is He who is born King of the Jews? And the rest.  
+_  
+From the Homily of Saint Gregory the Pope  
+!From Homily 10 on the Gospels  
+The Magi bring gold, incense, and myrrh. Gold is fitting for a King; incense is offered in sacrifice to God; myrrh is used to anoint the bodies of the dead. Therefore the Magi, whom they adore, also proclaim Him by mystical gifts: by gold, a King; by incense, God; by myrrh, mortal. But there are some heretics who believe Him to be God, but do not believe that He reigns everywhere. These indeed offer Him incense, but refuse to offer gold. And there are some who think Him to be a King, but deny Him to be God. These offer Him gold, but refuse to offer incense.
+
+[Lectio8]
+And there are some who confess Him to be both God and King, but deny that He assumed mortal flesh. These indeed offer Him gold and incense, but refuse to offer myrrh of assumed mortality. Let us therefore offer gold to the newborn Lord, that we may confess Him to reign everywhere; let us offer incense, that we may believe that He who appeared in time existed as God before time; let us offer myrrh, that we may believe that He whom we confess impassible in His divinity was also mortal in our flesh.
+
+[Lectio9]
+Although in gold, incense, and myrrh another meaning can also be understood. For gold signifies wisdom, as Solomon attests, who says: A desirable treasure rests in the mouth of the wise. Incense, which is burned to God, expresses the power of prayer, as the Psalmist attests, who says: Let my prayer be directed as incense in Your sight. By myrrh is figured the mortification of our flesh. Hence Holy Church says of her workers who fight for God even unto death: My hands have dripped myrrh.  
+&teDeum
+
+[Ant 2]
+Three are the gifts * which the Magi offered to the Lord — gold, incense, and myrrh — to the Son of God, the great King, alleluia.
+
+[Ant 3]
+Light from Light * You appeared, O Christ, to whom the Magi offer gifts, alleluia, alleluia, alleluia.

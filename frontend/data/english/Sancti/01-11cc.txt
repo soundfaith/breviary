@@ -1,0 +1,14 @@
+[Officium]
+Saint Hyginus, Pope and Martyr
+
+[Rank]
+;;Simple;;1.1;;see C2b
+
+[Rule]
+see C2b;
+Preface=Epiphany
+
+[Name]
+Hyginus
+(but in the Common of Supreme Pontiffs)
+Hyginum

@@ -1,0 +1,141 @@
+[Officium]
+Saint Agnes, Virgin and Martyr
+
+[Rank]
+;;Double;;3;;see C6‑1
+(but rubric 1930)
+;;Greater Double;;4;;from C6‑1
+(but Barroux rubric)
+;;Greater Double;;5;;see C6‑1
+(but Cistercian rubric)
+;;Semidouble;;2.2;;see C6‑1
+
+[Rule]
+see C6‑1;
+9 lessons
+Psalm5 Vespers=116
+Psalm5 Vespers3=147
+In the 1st Nocturn the Lessons are from the Common in the 2nd place
+
+[Ant Vespera]
+@:Ant Laudes
+
+[Ant 1]
+Blessed Agnes * in the midst of the flames prayed with outstretched hands:  
+I beseech You, almighty, adorable, worshipful, fearsome Father, because through Your holy Son I escaped the threats of the sacrilegious tyrant, and passed through the filth of the flesh by an undefiled path: and behold, I come to You, whom I loved, whom I sought, whom I always desired.
+
+[Oratio]
+Almighty and eternal God, who choose the weak things of the world to confound the strong: grant graciously that we who celebrate the solemnity of blessed Agnes, Your Virgin and Martyr, may feel her patronage with You.
+$Through our Lord
+
+[Ant Matutinum]
+Depart from me, * food of death, for I am already prevented by another Lover.;;1  
+My right hand * and my neck He has encircled with precious stones; He has given to my ears priceless pearls.;;2  
+He has placed a sign * upon my face, that I may admit no lover besides Him.;;3  
+The Lord has clothed me * with a cloak woven of gold, and adorned me with immense jewels.;;4  
+Honey and milk * I have received from His mouth, and His blood has adorned my cheeks.;;5  
+To Him alone I keep faith, * to Him I commit myself with total devotion.;;8  
+Whose beauty * the sun and moon admire — to Him alone I keep faith.;;14  
+Christ has surrounded me * with blooming and sparkling precious gems.;;44  
+I am espoused to Him * whom the Angels serve, whose beauty the sun and moon admire.;;45
+
+[Responsory1]
+R. Let us celebrate the feast day of the most holy Virgin, let us recall to memory how blessed Agnes suffered: in the thirteenth year of her age she lost death and found life:  
+* Because she loved only the Author of life.  
+V. Childhood indeed was counted in years, but the maturity of her mind was immense.  
+R. Because she loved only the Author of life.
+
+[Responsory2]
+R. My right hand and my neck He has encircled with precious stones, He has given to my ears priceless pearls,  
+* And He has surrounded me with blooming and sparkling gems.  
+V. He has placed a sign upon my face, that I may admit no lover besides Him.  
+R. And He has surrounded me with blooming and sparkling gems.
+
+[Responsory3]
+R. I love Christ, into whose bridal chamber I shall enter, whose Mother is a virgin, whose Father knows not woman, whose instruments sing to me with modulated voices:  
+* When I love Him, I am chaste; when I touch Him, I am pure; when I receive Him, I am a virgin.  
+V. With the ring of His faith He has betrothed me, and adorned me with immense jewels.  
+R. When I love Him, I am chaste; when I touch Him, I am pure; when I receive Him, I am a virgin.  
+&Gloria  
+R. When I love Him, I am chaste; when I touch Him, I am pure; when I receive Him, I am a virgin.
+
+[Lectio4]
+From the book of Saint Ambrose the Bishop *On Virgins*  
+!Book 1, after the beginning  
+Today is the birthday of a Virgin — let us follow her integrity. Today is the birthday of a Martyr — let us offer sacrifices. Today is the birthday of Saint Agnes — let men marvel, let children not despair, let married women be astonished, let the unmarried imitate her. But what worthy thing can we say of her whose very name is not empty of praise? Devotion beyond her age, virtue beyond nature: so that she seems to me not to have borne the name of a human, but the oracle of a Martyr, which indicated what she would be. The name of Virgin is a title of modesty. I will call her Martyr — I have praised her enough. A long praise is that which is not sought but held. No one is more praiseworthy than she who can be praised by all. As many men as there are, so many heralds who proclaim the Martyr while they speak.
+
+[Responsory4]
+R. The Lord has clothed me with the garment of salvation, and has surrounded me with the robe of joy:  
+* And as a bride He has adorned me with a crown.  
+V. He has given to my ears priceless pearls, He has surrounded me with blooming and sparkling gems.  
+R. And as a bride He has adorned me with a crown.
+
+[Lectio5]
+She is said to have achieved martyrdom at thirteen years of age. How detestable the cruelty that spared not even such a small age; rather, how great the strength of faith, which found testimony even in that age. Was there room for a wound in that little body? And she who had no place to receive the sword had a place to conquer it. She, fearless among the bloody hands of the executioners, unmoved by the heavy clanking of chains, now offering her whole body to the raging soldier’s blade, still not knowing how to die, but ready; or if she were dragged unwillingly to the altars, stretching her hands to Christ amid the flames, and in those sacrilegious fires marking the trophy of the Lord’s victory; now inserting her neck and both hands into iron shackles. But no chain could enclose such slender limbs. A new kind of martyrdom! Not yet fit for punishment, and already ripe for victory; difficult to fight, easy to crown: she fulfilled the mastery of virtue, who carried the prejudice of age.
+
+[Responsory5]
+R. Honey and milk I have received from His mouth,  
+* And His blood has adorned my cheeks.  
+V. He has shown me incomparable treasures, which He promised to give me.  
+R. And His blood has adorned my cheeks.
+
+[Lectio6]
+No bride hastened so to the bridal chamber as the Virgin, joyful in her success, hastened with eager step to the place of punishment. All wept, she alone without tears. Many marveled that she so easily gave away her life, which she had scarcely tasted, as though she had already completed it. All were astonished that she already stood as witness of divinity, who by age could not yet be mistress of herself. With what terror the executioner acted to be feared, with what blandishments to persuade, with what desires that she might come to him in marriage! But she said: “This is an injury to my Spouse, to wait for one who pleases. He who first chose me will receive me. Why do you delay, executioner? Let perish the body which can be loved by eyes I do not want.” She stood, she prayed, she bent her neck. You would see the executioner tremble, as though he himself were condemned; the right hand of the striker shake, the face grow pale of one fearing another’s danger, while the girl did not fear her own. You have therefore in one victim a double martyrdom — of modesty and of religion. And she remained a virgin, and obtained martyrdom.
+
+[Responsory6]
+R. Now her body is joined to my body, and her blood has adorned my cheeks:  
+* Whose Mother is a virgin, whose Father knows not woman.  
+V. I am espoused to Him whom the Angels serve, whose beauty the sun and moon admire.  
+R. Whose Mother is a virgin, whose Father knows not woman.  
+&Gloria  
+R. Whose Mother is a virgin, whose Father knows not woman.
+
+[Lectio94]
+From the book of Saint Ambrose the Bishop *On Virgins*  
+!Book 1, after the beginning  
+Today is the birthday of a Virgin — let us follow her integrity. Today is the birthday of a Martyr — let us offer sacrifices. Today is the birthday of Saint Agnes — let men marvel, let children not despair, let married women be astonished, let the unmarried imitate her. But what worthy thing can we say of her whose very name is not empty of praise? Devotion beyond her age, virtue beyond nature: so that she seems to me not to have borne the name of a human, but the oracle of a Martyr, which indicated what she would be. The name of Virgin is a title of modesty. I will call her Martyr — I have praised her enough. A long praise is that which is not sought but held. No one is more praiseworthy than she who can be praised by all. As many men as there are, so many heralds who proclaim the Martyr while they speak. She is said to have achieved martyrdom at thirteen years of age. How detestable the cruelty that spared not even such a small age; rather, how great the strength of faith, which found testimony even in that age.  
+&teDeum
+
+[Responsory7]
+R. I am espoused to Him whom the Angels serve, whose beauty the sun and moon admire:  
+* To Him alone I keep faith, to Him I commit myself with total devotion.  
+V. My right hand and my neck He has encircled with precious stones, He has given to my ears priceless pearls.  
+R. To Him alone I keep faith, to Him I commit myself with total devotion.
+
+[Responsory8]
+R. Almighty, adorable, worshipful, fearsome, I bless You,  
+* Because through Your Only‑begotten Son I escaped the threats of impious men, and passed through the filth of the devil by an undefiled path.  
+V. I confess You with my lips, I desire You with my heart, I long for You with all my inward being.  
+R. Because through Your Only‑begotten Son I escaped the threats of impious men, and passed through the filth of the devil by an undefiled path.  
+&Gloria  
+R. Because through Your Only‑begotten Son I escaped the threats of impious men, and passed through the filth of the devil by an undefiled path.
+
+[Versum 0]
+@Commune/C6::s/N\./Agnes/
+
+[Ant Laudes]
+Entering, Agnes * found in the place of shame an Angel of the Lord prepared.  
+For with me * I have the guardian of my body, the Angel of the Lord.  
+With His ring * my Lord Jesus Christ has betrothed me, and as a bride He has adorned me with a crown.  
+I bless You, * Father of my Lord Jesus Christ, because through Your Son the fire was extinguished at my side.  
+Rejoice with me * and congratulate me, because with all these I have received bright seats.
+
+[Capitulum Laudes]
+@Commune/C7
+
+[Ant 2]
+Behold, what I desired * I now see; what I hoped for, I now hold; I am joined in heaven to Him whom, placed on earth, I loved with all devotion.
+
+[Capitulum Sexta]
+!Sir 51:4‑5  
+v. You have delivered me according to the multitude of the mercy of Your name from roaring beasts prepared for food, from the hands of those who sought my soul, and from the many tribulations which surrounded me.  
+$Thanks be to God
+
+[Capitulum Nona]
+!Sir 51:8; 51:12  
+v. My soul shall praise the Lord even unto death, because You deliver those who wait for You, and free them from the hand of distress, O Lord our God.  
+$Thanks be to God
+
+[Ant 3]
+Standing, blessed Agnes * in the midst of the flame, with outstretched hands prayed to the Lord:  
+Almighty, adorable, worshipful, fearsome, I bless You, and glorify Your name forever.

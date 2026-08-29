@@ -1,0 +1,33 @@
+[Officium]
+Saints Vincent and Anastasius, Martyrs
+
+[Rank]
+;;Semidouble;;2.2;;see C3
+(but Cistercian rubric)
+;;Simple;;1.2;;see C3
+
+[Rule]
+see C3;
+9 lessons
+(but Cistercian rubric)
+3 lessons
+
+[Oratio]
+Be present, O Lord, to our supplications: that we, who know ourselves to be guilty because of our iniquity, may be freed by the intercession of Your blessed Martyrs Vincent and Anastasius.
+$Through our Lord
+
+[Lectio4]
+Vincent, born at Osca in Hither Spain, devoted himself from his earliest age to study, and learned the sacred letters from Valerius, bishop of Zaragoza; whose role he also undertook in preaching the Gospel, because the bishop, due to an impediment of speech, could not fulfill the office of preaching. This being reported to Dacian, governor of the province under Diocletian and Maximian, Vincent was arrested at Zaragoza and, bound, brought to Dacian at Valencia. There, tortured with scourges and the rack in the presence of many, since he could not be deterred from his purpose either by the violence of torments or by harsh or gentle words, he was placed on a gridiron with burning coals beneath, torn with iron hooks, and burned with glowing plates; then he was again taken to a prison strewn with potsherds, so that his naked body, overcome by sleep, might be tormented even by the sharp points of the shards beneath him.
+
+[Lectio5]
+But while he was shut in that dark prison, a very bright light arose and illuminated the whole place; which light, filling all present with great wonder, was reported by the jailer to Dacian. He then had Vincent brought out and placed on a soft couch, and tried to win over by comforts the one whom he could not draw to his own opinion by torments. But the invincible spirit of Vincent, fortified by the faith and hope of Jesus Christ, overcame all; and having conquered fire, iron, and the cruelty of the torturers, he flew victorious to the heavenly crown of martyrdom on the eleventh day before the Kalends of February. His body, when thrown out unburied, was marvelously defended by a raven from birds and from a wolf with its claws, beak, and wings. When this was known, Dacian ordered it to be cast into the deep sea; but being divinely cast back upon the shore, Christians buried it.
+
+[Lectio6]
+Anastasius the Persian, a monk, under the emperor Heraclius, after visiting the holy land of Jerusalem, endured chains and scourging at Caesarea in Palestine for the religion of Christ. Soon afterward, for the same cause, he was afflicted by the Persians with various tortures, and by King Chosroes was beheaded together with seventy other Christians. His relics were first brought to Jerusalem to the monastery in which he had professed the monastic life, and then to Rome, where they were placed in the monastery at Aquas Salvias.
+
+[Lectio94]
+Vincent, born at Osca in Hither Spain, devoted himself from his earliest age to study, and learned the sacred letters from Valerius, bishop of Zaragoza; whose role he also undertook in preaching the Gospel, because the bishop, due to an impediment of speech, could not fulfill the office of preaching. This being reported to the impious governor Dacian, Vincent was brought by him to Valencia; and having endured prisons, hunger, the rack, and other kinds of torments, he flew to the crown of martyrdom on the eleventh day before the Kalends of February. Anastasius the Persian, a monk, under the emperor Heraclius, after visiting the holy land of Jerusalem, endured chains and scourging at Caesarea in Palestine for the religion of Christ. Soon afterward, for the same cause, he was afflicted by the Persians with various tortures, and by King Chosroes was beheaded together with seventy other Christians. His relics were first brought to Jerusalem, then to Rome, and placed in the monastery at Aquas Salvias.  
+&teDeum
+
+[Versum 0]
+@Commune/C2a::s/N\./Vincénti/
