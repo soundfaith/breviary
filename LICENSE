@@ -1,0 +1,11 @@
+This project includes data files copied from the Divinum Officium repository:
+
+- `frontend/data/English_raw/`
+- `frontend/data/Latin_raw/`
+
+Those data files are provided under the MIT License reproduced in
+`frontend/data/DIVINUM_OFFICIUM_LICENSE`.
+
+The application source code, design, branding, and other project materials are
+separate from those data files and are not represented as being owned by
+Divinum Officium.
