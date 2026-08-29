@@ -1,0 +1,66 @@
+@Commune/C3
+
+[Capitulum Vespera]
+@Commune/C3
+_
+@Commune/C3:Responsory Sexta:1-6
+
+[Ant Matutinum]
+Secus decursus aquarum * plantavit vineam justorum, et in lege Domini fuit voluntas eorum;;1
+Tamquam aurum * in fornace probavit electos Dominus: et quasi holocausta accepit eos in aeternum;;2
+Oculi Domini * respexerunt in pauperes, cum peccatores arcus suos in eos intercederent;;10
+Dabo sanctis meis * locum nominatum in regno Patris mei, dicit Dominus.;;14
+Sanctis, qui in terra sunt ejus, * mirificavit omnes voluntates meas inter illos;;15
+Sancti qui sperant in Domino, * habebunt fortitudinem, assument pennas ut aquilae, volabunt, et non deficient;;23
+V. Laetamini in Domino, et exsultate justi.
+R. Et gloriamini omnes recti corde.
+Justi autem * in perpetuum vivent, et apud Dominum est merces eorum;;32
+Tradiderunt * corpora sua in mortem, ne servirent idolis: ideo coronati possident palmam;;33
+Ecce merces * sanctorum copiosa est apud Deum: ipsi vero mortui sunt pro Christo, et vivent in aeternum;;45
+Istorum est enim  * regnum caelorum, qui contempserunt vitam mundi, et pervenerunt ad premia regni, et laverunt stolas suas in sanguine Agni;;60
+Sanguis sanctorum martyrum * pro Christo effusus est in terra; ideo adepti sunt munera sempiterna;;63
+Vindica Domine * sanguinem Sanctorum tuorum, qui effusus est super terram;;78
+V. Exsultent justi in conspectu Dei.
+R. Et delectentur in laetitia
+Beati, * qui persecutionem patiuntur propter iustitiam, quoniam ipsorum est regnum caelorum;;259;254;255
+V. Justi autem in perpetuum vivent.
+R. Et apud Dominum est merces eorum.
+
+[Responsory9]
+R. Justorum animae in manu Dei sunt, et non tanget illos tormentum mortis. Visi~
+sunt oculis insipientium mori: illi autem sunt in pace.
+* Illi autem sunt in pace
+V. Deus tentavit eos, et invenit illos dignos se.
+R. Illi autem sunt in pace
+&Gloria
+R. Illi autem sunt in pace
+
+[Capitulum Laudes]
+@Commune/C3
+_
+@Commune/C3:Responsory Tertia:1-6
+
+[Responsory Tertia]
+@Commune/C3:Versum 1
+
+[Responsory Sexta]
+@Commune/C3:Responsory Tertia:8-9
+
+[Responsory Nona]
+@Commune/C3:Responsory Sexta:8-9
+
+[LectioE]
+v. Sequéntia sancti Evangélii secúndum Lucam
+!Luc 21:9-19
+21:9 Cum autem audiéritis prœ́lia et seditiónes, nolíte terréri: opórtet primum hæc fíeri, sed nondum statim finis.
+21:10 Tunc dicébat illis: Surget gens contra gentem, et regnum advérsus regnum.
+21:11 Et terræmótus magni erunt per loca, et pestiléntiæ, et fames, terrorésque de cælo, et signa magna erunt.
+21:12 Sed ante hæc ómnia inícient vobis manus suas, et persequéntur tradéntes in synagógas et custódias, trahéntes ad reges et prǽsides propter nomen meum:
+21:13 contínget autem vobis in testimónium.
+21:14 Pónite ergo in córdibus vestris non præmeditári quemádmodum respondeátis:
+21:15 ego enim dabo vobis os et sapiéntiam, cui non póterunt resístere et contradícere omnes adversárii vestri.
+21:16 Tradémini autem a paréntibus, et frátribus, et cognátis, et amícis, et morte affícient ex vobis:
+21:17 et éritis ódio ómnibus propter nomen meum:
+21:18 et capíllus de cápite vestro non períbit.
+21:19 In patiéntia vestra possidébitis ánimas vestras.
+$Te decet

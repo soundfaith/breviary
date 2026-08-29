@@ -1,0 +1,15 @@
+@Tempora/Epi4-0
+
+[LectioE]
+v. Sequentia Sancti Evangelii secundum Matthaeum
+!Matt 8:23-27
+8:23 Et ascendente eo in naviculam, secuti sunt eum discipuli ejus:
+8:24 et ecce motus magnus factus est in mari, ita ut navicula operiretur~
+fluctibus: ipse vero dormiebat.
+8:25 Et accesserunt ad eum discipuli ejus, et suscitaverunt eum, dicentes:~
+Domine, salva nos: perimus.
+8:26 Et dicit eis Jesus: Quid timidi estis, modicae fidei? Tunc surgens~
+imperavit ventis, et mari, et facta est tranquillitas magna.
+8:27 Porro homines mirati sunt, dicentes: Qualis est hic, quia venti et mare~
+obediunt ei?
+$Te decet

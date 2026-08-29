@@ -1,0 +1,49 @@
+@Tempora/Quad1-0
+
+[Capitulum Vespera]
+@Tempora/Quad1-0
+_
+@Psalterium/Major Special:QuadM Vespera:5-10
+
+[Capitulum Laudes]
+@Tempora/Quad1-0
+_
+@Psalterium/Major Special:QuadM Laudes:5-10
+
+[Responsory Tertia]
+@Psalterium/Minor Special:Dominica TertiaM:5-6
+
+[Responsory Sexta]
+@Psalterium/Minor Special:Dominica SextaM:5-6
+
+[Responsory Nona]
+@Psalterium/Minor Special:Dominica NonaM:5-6
+
+[Capitulum Vespera 3]
+@Tempora/Quad1-0:Capitulum Vespera
+_
+@Psalterium/Major Special:QuadM Vespera:5-10
+
+[LectioE]
+v. Sequentia Sancti Evangelii secundum Matthaeum
+!Matt 4:1-11
+4:1 Tunc Jesus ductus est in desertum a Spiritu, ut tentaretur a diabolo.
+4:2 Et cum jejunasset quadraginta diebus, et quadraginta noctibus, postea~
+esuriit.
+4:3 Et accedens tentator dixit ei: Si Filius Dei es, dic ut lapides isti panes~
+fiant.
+4:4 Qui respondens dixit: Scriptum est: Non in solo pane vivit homo, sed in omni~
+verbo, quod procedit de ore Dei.
+4:5 Tunc assumpsit eum diabolus in sanctam civitatem, et statuit eum super~
+pinnaculum templi,
+4:6 et dixit ei: Si Filius Dei es, mitte te deorsum. Scriptum est enim: Quia~
+angelis suis mandavit de te, et in manibus tollent te, ne forte offendas ad~
+lapidem pedem tuum.
+4:7 Ait illi Jesus: Rursum scriptum est: Non tentabis Dominum Deum tuum.
+4:8 Iterum assumpsit eum diabolus in montem excelsum valde: et ostendit ei omnia~
+regna mundi, et gloriam eorum,
+4:9 et dixit ei: Haec omnia tibi dabo, si cadens adoraveris me.
+4:10 Tunc dicit ei Jesus: Vade Satana: Scriptum est enim: Dominum Deum tuum~
+adorabis, et illi soli servies.
+4:11 Tunc reliquit eum diabolus: et ecce angeli accesserunt, et ministrabant ei.
+$Te decet

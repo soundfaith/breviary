@@ -1,0 +1,128 @@
+@Sancti/08-10
+
+[Rank]
+S. Laurentii Martyris;;II classis;;5.1;;ex C2
+
+[Rule]
+ex C2
+12 lectiones
+Antiphonas horas
+
+[Ant Vespera 3]
+@Sancti/08-10:Ant Vespera:s/\./;;109/ s/\./;;111/ s/\./;;112/ s/\./;;115/
+
+[Capitulum Vespera]
+@Sancti/08-10
+_
+@Commune/C2:Responsory Sexta:1-6
+
+[Ant Matutinum]
+Quo progréderis * sine fílio, pater? quo, sacérdos sancte, sine minístro próperas?;;1
+Noli me derelínquere, * pater sancte, quia thesáuros tuos jam expéndi, quos tradidísti mihi.;;2
+Non ego te désero, * fili, neque derelínquo; sed majóra tibi debéntur pro Christi fide certámina.;;4
+Beátus Lauréntius * orábat, dicens: Dómine Jesu Christe, Deus de Deo, miserére mihi servo tuo.;;5
+Dixit Románus * ad beátum Lauréntium: Vídeo ante te júvenem pulchérrimum, festína me baptizáre.;;8
+Beátus Lauréntius * dixit: Mea nox obscúrum non habet, sed ómnia in luce claréscunt.;;10
+V. Glória et honóre coronásti eum, Dómine.
+R. Et constituísti eum super ópera mánuum tuarum.
+Strinxérunt * córporis membra pósita super cratículam: subiciéntibus prunas insúltat Levíta Christi.;;14
+Igne me examinásti, * et non est invénta in me iníquitas.;;16
+Interrogátus * te Dóminum conféssus sum, assátus grátias ago.;;20
+Beatus Laurentius * clamavit et dixit: Deum meum colo, et illi solo servio.;;23
+Dispersit * dedit pauperibus: justitia eius manet in seculum saeculi.;;63
+Protector tuus * ego sum noli timere: si transieris per ignem, flamma non nocebit tibi, et odor ignis non erit in te.;;91
+V. Posuísti, Dómine, super caput ejus.
+R. Corónam de lápide pretióso.
+Nisi granum frumenti * cadens, in terram mortuum fuerit, ipsum solum manet.;;256;257;258
+V. Magna est glória ejus in salutári tuo.
+R. Glóriam et magnum decórem impónes super eum.
+
+[Lectio1]
+@Commune/C6:Lectio11:s/7/3/ s/.4 .*//s
+
+[Lectio2]
+@Commune/C6:Lectio11:s/:1/:4/ s/.*4 /4 /s
+
+[Lectio3]
+@Sancti/08-10:Lectio2
+
+[Lectio4]
+@Sancti/08-10:Lectio3
+
+[Responsory4]
+R. Beátus Lauréntius dixit: Ego me óbtuli sacrifícium
+* In odórem suavitátis.
+V. Gáudeo plane quia hóstia Christi éffici mérui.
+R. In odórem suavitátis.
+
+[Lectio5]
+@Sancti/08-10:Lectio4:s/ Armátur.*//
+
+[Responsory5]
+@Sancti/08-10:Responsory4
+
+[Lectio6]
+@Sancti/08-10:Lectio4:s/.* Armátur/Armátur/s
+
+[Responsory6]
+@Sancti/08-10:Responsory5
+
+[Lectio7]
+@Sancti/08-10:Lectio5
+
+[Responsory7]
+@Sancti/08-10:Responsory6
+
+[Lectio8]
+@Sancti/08-10:Lectio6
+
+[Responsory8]
+R. Méruit esse hóstia levíta Lauréntius, qui dum assarétur, non negávit Dóminum
+* Et ídeo invéntus est sacrifícium laudis.
+V. In cratícula pósitus Deum non negávit, et ad ignem applicátus Christum conféssus est.
+R. Et ídeo invéntus est sacrifícium laudis.
+
+[Lectio9]
+@Sancti/08-10:Lectio7:s/Item .*//s
+
+[Responsory9]
+@Sancti/08-10:Responsory7
+
+[Lectio10]
+@Sancti/08-10:Lectio7:s/.* Item/Item/s
+@Sancti/08-10:Lectio8:s/Magna.*//s
+
+[Responsory10]
+@Sancti/08-10:Responsory8
+
+[Lectio11]
+@Sancti/08-10:Lectio8:s/.* Magna/Magna/s
+@Sancti/08-10:Lectio9:s/Hinc .*//s
+
+[Responsory11]
+R. Beátus Lauréntius dixit: Disce, miser, quanta est virtus Dómini
+* Nam carbónes isti non dolórem sed refrigérium mihi praestant.
+V. Ecce, miser assásti me una parte regýra áliam et mandúca.
+R. Nam carbónes isti non dolórem sed refrigérium mihi praestant.
+
+[Lectio12]
+@Sancti/08-10:Lectio9:s/.* Hinc/Hinc/s
+
+[Responsory12]
+R. Gáudeo plane, quia hóstia Christi éffici mérui: accusátus, non negávi; interrogátus, Christum conféssus sum;
+* Assátus, grátias ago.
+V. Ego me óbtuli sacrifícium Deo, in odórem suavitátis.
+R. Assátus, grátias ag
+
+[Capitulum Laudes]
+@Sancti/08-10
+_
+@Commune/C2:Responsory Tertia:1-6
+
+[LectioE]
+v. Sequéntia sancti Evangélii secúndum Joánnem
+!Joannes 12:24-26
+12:24 Amen, amen dico vobis, nisi granum fruménti cadens in terram, mórtuum fúerit,
+12:25 ipsum solum manet: si autem mórtuum fúerit, multum fructum affert. Qui amat ánimam suam, perdet eam: et qui odit ánimam suam in hoc mundo, in vitam ætérnam custódit eam.
+12:26 Si quis mihi minístrat, me sequátur, et ubi sum ego, illic et miníster meus erit. Si quis mihi ministráverit, honorificábit eum Pater meus.
+$Te decet

@@ -1,0 +1,40 @@
+@Sancti/01-06
+
+[Capitulum Vespera]
+@Sancti/01-06
+_
+@Sancti/01-06:Responsory Sexta:1-6
+
+[Capitulum Laudes]
+@Sancti/01-06
+_
+@Sancti/01-06:Responsory Tertia:1-6
+
+[Responsory Tertia]
+@Sancti/01-06:Versum 1:s/\.$/, allelúja./gm
+
+[Responsory Sexta]
+@Sancti/01-06:Responsory Tertia:8-9
+
+[Responsory Nona]
+@Sancti/01-06:Responsory Sexta:8-9
+
+[Capitulum Nona]
+@Sancti/01-06
+
+[LectioE]
+v. Sequéntia sancti Evangélii secúndum Matthǽum
+!Matt 2:1-12
+2:1 Cum ergo natus esset Jesus in Béthlehem Juda in diébus Heródis regis, ecce magi ab oriénte venérunt Jerosólymam,
+2:2 dicéntes: Ubi est qui natus est rex Judæórum? vídimus enim stellam ejus in oriénte, et vénimus adoráre eum.
+2:3 Audiens autem Heródes rex, turbátus est, et omnis Jerosólyma cum illo.
+2:4 Et cóngregans omnes príncipes sacerdótum, et scribas pópuli, sciscitabátur ab eis ubi Christus nascerétur.
+2:5 At illi dixérunt: Jn Béthlehem Judæ: sic enim scriptum est per prophétam:
+2:6 Et tu Béthlehem terra Juda, nequáquam mínima es in princípibus Juda: ex te enim éxiet dux, qui regat pópulum meum Jsraël.
+2:7 Tunc Heródes clam vocátis magis diligénter dídicit ab eis tempus stellæ, quæ appáruit eis:
+2:8 et mittens illos in Béthlehem, dixit: Jte, et interrogáte diligénter de púero: et cum invenéritis, renuntiáte mihi, ut et ego véniens adórem eum.
+2:9 Qui cum audíssent regem, abiérunt, et ecce stella, quam víderant in oriénte, antecedébat eos, usque dum véniens staret supra, ubi erat puer.
+2:10 Vidéntes autem stellam gavísi sunt gáudio magno valde.
+2:11 Et intrántes domum, invenérunt púerum cum María matre ejus, et procidéntes adoravérunt eum: et apértis thesáuris suis obtulérunt ei múnera, aurum, thus, et myrrham.
+2:12 Et respónso accépto in somnis ne redírent ad Heródem, per áliam viam revérsi sunt in regiónem suam.
+$Te decet

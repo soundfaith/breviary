@@ -1,0 +1,59 @@
+@Tempora/Quadp1-0
+
+[Capitulum Vespera]
+@Tempora/Quadp1-0
+_
+@Psalterium/Major Special:Day6M Vespera:5-10
+
+[Capitulum Laudes]
+@Tempora/Quadp1-0
+_
+@Psalterium/Major Special:Day0M Laudes:5-10
+
+[Responsory Tertia]
+@Psalterium/Minor Special:Dominica TertiaM:5-6
+
+[Responsory Sexta]
+@Psalterium/Minor Special:Dominica SextaM:5-6
+
+[Responsory Nona]
+@Psalterium/Minor Special:Dominica NonaM:5-6
+
+[Capitulum Vespera 3]
+@Tempora/Quadp1-0:Capitulum Vespera
+_
+@Psalterium/Major Special:Day0M Vespera:5-10
+
+[LectioE]
+v. Sequentia Sancti Evangelii secundum Matthaeum
+!Matt 20:1-16
+20:1 Simile est regnum caelorum homini patrifamilias, qui exiit primo mane~
+conducere operarios in vineam suam.
+20:2 Conventione autem facta cum operariis ex denario diurno, misit eos in~
+vineam suam.
+20:3 Et egressus circa horam tertiam, vidit alios stantes in foro otiosos,
+20:4 et dixit illis: Ite et vos in vineam meam, et quod justum fuerit dabo~
+vobis.
+20:5 Illi autem abierunt. Iterum autem exiit circa sextam et nonam horam: et~
+fecit similiter.
+20:6 Circa undecimam vero exiit, et invenit alios stantes, et dicit illis: Quid~
+hic statis tota die otiosi?
+20:7 Dicunt ei: Quia nemo nos conduxit. Dicit illis: Ite et vos in vineam meam.
+20:8 Cum sero autem factum esset, dicit dominus vineae procuratori suo: Voca~
+operarios, et redde illis mercedem incipiens a novissimis usque ad primos.
+20:9 Cum venissent ergo qui circa undecimam horam venerant, acceperunt singulos~
+denarios.
+20:10 Venientes autem et primi, arbitrati sunt quod plus essent accepturi:~
+acceperunt autem et ipsi singulos denarios.
+20:11 Et accipientes murmurabant adversus patremfamilias,
+20:12 dicentes: Hi novissimi una hora fecerunt, et pares illos nobis fecisti,~
+qui portavimus pondus diei, et aestus.
+20:13 At ille respondens uni eorum, dixit: Amice, non facio tibi injuriam: nonne~
+ex denario convenisti mecum?
+20:14 Tolle quod tuum est, et vade: volo autem et huic novissimo dare sicut et~
+tibi.
+20:15 Aut non licet mihi quod volo, facere? an oculus tuus nequam est, quia ego~
+bonus sum?
+20:16 Sic erunt novissimi primi, et primi novissimi. Multi enim sunt vocati,~
+pauci vero electi.
+$Te decet

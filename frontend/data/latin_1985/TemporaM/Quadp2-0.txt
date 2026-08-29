@@ -1,0 +1,51 @@
+@Tempora/Quadp2-0
+
+[Capitulum Vespera]
+@Tempora/Quadp2-0
+_
+@Psalterium/Major Special:Day6M Vespera:5-10
+
+[Capitulum Laudes]
+@Tempora/Quadp2-0
+_
+@Psalterium/Major Special:Day0M Laudes:5-10
+
+[Responsory Tertia]
+@Psalterium/Minor Special:Dominica TertiaM:5-6
+
+[Responsory Sexta]
+@Psalterium/Minor Special:Dominica SextaM:5-6
+
+[Responsory Nona]
+@Psalterium/Minor Special:Dominica NonaM:5-6
+
+[Capitulum Vespera 3]
+@Tempora/Quadp2-0:Capitulum Vespera
+_
+@Psalterium/Major Special:Day0M Vespera:5-10
+
+[LectioE]
+v. Sequentia Sancti Evangelii secundum Lucam
+!Luc 8:4-15
+8:4 Cum autem turba plurima convenirent, et de civitatibus properarent ad eum,~
+dixit per similitudinem:
+8:5 Exiit qui seminat, seminare semen suum. Et dum seminat, aliud cecidit secus~
+viam, et conculcatum est, et volucres caeli comederunt illud.
+8:6 Et aliud cecidit supra petram: et natum aruit, quia non habebat humorem.
+8:7 Et aliud cecidit inter spinas, et simul exortae spinae suffocaverunt illud.
+8:8 Et aliud cecidit in terram bonam: et ortum fecit fructum centuplum. Haec~
+dicens clamabat: Qui habet aures audiendi, audiat.
+8:9 Interrogabant autem eum discipuli ejus, quae esset haec parabola.
+8:10 Quibus ipse dixit: Vobis datum est nosse mysterium regni Dei, ceteris autem~
+in parabolis: ut videntes non videant, et audientes non intelligant.
+8:11 Est autem haec parabola: Semen est verbum Dei.
+8:12 Qui autem secus viam, hi sunt qui audiunt: deinde venit diabolus, et tollit~
+verbum de corde eorum, ne credentes salvi fiant.
+8:13 Nam qui supra petram, qui cum audierint, cum gaudio suscipiunt verbum: et~
+hi radices non habent: qui ad tempus credunt, et in tempore tentationis~
+recedunt.
+8:14 Quod autem in spinas cecidit: hi sunt qui audierunt, et a sollicitudinibus,~
+et divitiis, et voluptatibus vitae euntes, suffocantur, et non referunt fructum.
+8:15 Quod autem in bonam terram: hi sunt qui in corde bono et optimo audientes~
+verbum retinent, et fructum afferunt in patientia.
+$Te decet

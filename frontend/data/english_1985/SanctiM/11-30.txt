@@ -1,0 +1,79 @@
+[Ant Matutinum]
+The Lord saw Peter and Andrew, * and He called them;;18
+Follow Me, and I will make you fishers of men, * saith the Lord;;33
+And they left their nets, * and followed the Lord their Saviour;;44
+Whom the Lord called to be His Apostle, * when he was by the sea, him also He counted worthy to be His martyr. Alleluia;;46
+Andrew was to the Lord as a sweet savour, * which He loved exceedingly;;60
+The blessed Andrew hung alive upon the cross for two days * for Christ's Name's sake, and, all the while, he taught the people;;63
+V. Their sound hath gone forth into all the earth
+R. And their words unto the ends of the world.
+Suffer not thy servant, O Lord, to be parted from thee * the hour is come to lay my body in the earth, and for thee to bid me come unto thyself;;74
+The Lord loved Andreas for an odour of sweetness.;;95
+But Andrew besought the people * not to hinder his passion;;96
+Non me permittas Domine, famulum tuum a te separari: tempus est ut commendetur terrae corpus meum, et me ad te venire jubeas;;97
+Andreas vero rogabat populum, ut non impediret passionem ipsius;;98
+Accipe me ab hominibus, et redde me magistro meo: ut per te me recipiat, qui per te me redemit alleluia;;100
+V. Thou shalt make them princes over all the earth
+R. They shall remember thy name O Lord.
+Unus ex duobus * qui secuti sunt Dominum, erat Andreas, frater Simonis Petri, alleluia.;;253;254;255
+V. Your friends O Lord * are made exceedingly honourable:
+R. Their principality is exceedingly strengthened.
+
+[Responsory4]
+R. When blessed Andrew saw the cross, he exclaimed and said, hail cross, how long have you tired of waiting for me?
+* Look out for me, as you looked for my Lord and master.
+V. O good cross, long have I desired you, and now you are ready to fulfill the desire of my soul.
+R. Look out for me, as you looked for my Lord and master.
+
+[Lectio5]
+@Sancti/11-30:Lectio4:s/Finally.*//s
+
+[Lectio6]
+@Sancti/11-30:Lectio4:s/.* Finally/Finally/s s/$/~/
+@Sancti/11-30:Lectio5:s/Then Aegeas .*//s
+
+[Lectio7]
+@Sancti/11-30:Lectio5:s/.* Then Aegeas /Then Aegeas /s s/$/~/
+@Sancti/11-30:Lectio6:s/Andrew, .*//s
+
+[Lectio8]
+@Sancti/11-30:Lectio6:s/.* Andrew,/Andrew,/s
+
+[Responsory8]
+R. Blessed Andrew cried out from the cross, saying: Lord Jesus Christ, good master,
+* Do not allow me to be released from this cross, unless you first accept my spirit.
+V. Since you are my protector, O Christ, in your hands I commend my spirit.
+R. Do not let me be released from this cross, unless you first accept my spirit.
+
+[Lectio10]
+@Sancti/11-30:Lectio8:s/Dearly .*//s
+
+[Lectio11]
+@Sancti/11-30:Lectio8:s/.* Dearly/Dearly/s s/$/~/
+@Sancti/11-30:Lectio9:s/Dearly .*//s
+
+[Responsory11]
+R. This man appeared as the meekest of his people, but full of holiness and grace.
+* This is he who prayed assiduously for the people and for this city.
+V. Instead of making me a return of love, they detracted me: but I gave myself to prayer.
+R. This is he who prayed assiduously for the people and for this city.
+
+[Lectio12]
+@Sancti/11-30:Lectio9:s/.* Dearly/Dearly/s
+
+[Responsory12]
+R. The Lord loved Andrew in the odour of sweetness, when he hung on the cross, he accorded him the honour of being his martyr, whom he called as an apostle when he was at sea.
+* And therefore he was called God's friend.
+V. Andrew, servant of Christ, worthy apostle of God, brother of Peter, and companion in his inheritance.
+R. And therefore he was called God's friend.
+
+[LectioE]
+Continuation + of the Holy Gospel according to Matthew
+!Matt 4:18-22
+At that time, as Jesus was walking by the sea of Galilee, He saw two brothers,~
+Simon, who is called Peter, and his brother Andrew, casting a net into the sea~
+- for they were fishermen -. And He said to them, Come, follow Me, and I will make~
+you fishers of men. And at once they left the nets, and followed Him. And going~
+farther on, He saw two other brothers, James the son of Zebedee, and his brother~
+John, in a boat with Zebedee their father, mending their nets; and He called~
+them. And immediately they left their nets and their father, and followed him.

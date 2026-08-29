@@ -1,0 +1,49 @@
+@Tempora/Quadp3-0
+
+[Capitulum Vespera]
+@Tempora/Quadp3-0
+_
+@Psalterium/Major Special:Day6M Vespera:5-10
+
+[Capitulum Laudes]
+@Tempora/Quadp3-0
+_
+@Psalterium/Major Special:Day0M Laudes:5-10
+
+[Responsory Tertia]
+@Psalterium/Minor Special:Dominica TertiaM:5-6
+
+[Responsory Sexta]
+@Psalterium/Minor Special:Dominica SextaM:5-6
+
+[Responsory Nona]
+@Psalterium/Minor Special:Dominica NonaM:5-6
+
+[Capitulum Vespera 3]
+@Tempora/Quadp3-0:Capitulum Vespera
+_
+@Psalterium/Major Special:Day0M Vespera:5-10
+
+[LectioE]
+v. Sequentia Sancti Evangelii secundum Lucam
+!Luc 18:31-43
+18:31 Assumpsit autem Jesus duodecim, et ait illis: Ecce ascendimus Jerosolymam,~
+et consummabuntur omnia quae scripta sunt per prophetas de Filio hominis:
+18:32 tradetur enim gentibus, et illudetur, et flagellabitur, et conspuetur:
+18:33 et postquam flagellaverint, occident eum, et tertia die resurget.
+18:34 Et ipsi nihil horum intellexerunt, et erat verbum istud absconditum ab eis,~
+et non intelligebant quae dicebantur.
+18:35 Factum est autem, cum appropinquaret Jericho, caecus quidam sedebat secus~
+viam, mendicans.
+18:36 Et cum audiret turbam praetereuntem, interrogabat quid hoc esset.
+18:37 Dixerunt autem ei quod Jesus Nazarenus transiret.
+18:38 Et clamavit, dicens: Jesu, fili David, miserere mei.
+18:39 Et qui praeibant, increpabant eum ut taceret. Ipse vero multo magis~
+clamabat: Fili David, miserere mei.
+18:40 Stans autem Jesus jussit illum adduci ad se. Et cum appropinquasset,~
+interrogavit illum,
+18:41 dicens: Quid tibi vis faciam? At ille dixit: Domine, ut videam.
+18:42 Et Jesus dixit illi: Respice, fides tua te salvum fecit.
+18:43 Et confestim vidit, et sequebatur illum magnificans Deum. Et omnis plebs~
+ut vidit, dedit laudem Deo.
+$Te decet

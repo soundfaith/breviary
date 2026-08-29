@@ -1,0 +1,55 @@
+@Tempora/Quad3-0
+
+[Capitulum Vespera]
+@Tempora/Quad3-0
+_
+@Psalterium/Major Special:QuadM Vespera:5-10
+
+[Capitulum Laudes]
+@Tempora/Quad3-0
+_
+@Psalterium/Major Special:QuadM Laudes:5-10
+
+[Responsory Tertia]
+@Psalterium/Minor Special:Dominica TertiaM:5-6
+
+[Responsory Sexta]
+@Psalterium/Minor Special:Dominica SextaM:5-6
+
+[Responsory Nona]
+@Psalterium/Minor Special:Dominica NonaM:5-6
+
+[Capitulum Vespera 3]
+@Tempora/Quad3-0:Capitulum Vespera
+_
+@Psalterium/Major Special:QuadM Vespera:5-10
+
+[LectioE]
+v. Sequentia Sancti Evangelii secundum Lucam
+!Luc 11:14-28
+11:14 Et erat ejiciens daemonium, et illud erat mutum. Et cum ejecisset~
+daemonium, locutus est mutus, et admiratae sunt turbae.
+11:15 Quidam autem ex eis dixerunt: In Beelzebub principe daemoniorum ejicit~
+daemonia.
+11:16 Et alii tentantes, signum de caelo quaerebant ab eo.
+11:17 Ipse autem ut vidit cogitationes eorum, dixit eis: Omne regnum in seipsum~
+divisum desolabitur, et domus supra domum cadet.
+11:18 Si autem et Satanas in seipsum divisus est, quomodo stabit regnum ejus?~
+quia dicitis in Beelzebub me ejicere daemonia.
+11:19 Si autem ego in Beelzebub ejicio daemonia: filii vestri in quo ejiciunt?~
+ideo ipsi judices vestri erunt.
+11:20 Porro si in digito Dei ejicio daemonia: profecto pervenit in vos regnum~
+Dei.
+11:21 Cum fortis armatus custodit atrium suum, in pace sunt ea quae possidet.
+11:22 Si autem fortior eo superveniens vicerit eum, universa arma ejus auferet,~
+in quibus confidebat, et spolia ejus distribuet.
+11:23 Qui non est mecum, contra me est: et qui non colligit mecum, dispergit.
+11:24 Cum immundus spiritus exierit de homine, ambulat per loca inaquosa,~
+quaerens requiem: et non inveniens dicit: Revertar in domum meam unde exivi.
+11:25 Et cum venerit, invenit eam scopis mundatam, et ornatam.
+11:26 Tunc vadit, et assumit septem alios spiritus secum, nequiores se, et~
+ingressi habitant ibi. Et fiunt novissima hominis illius pejora prioribus.
+11:27 Factum est autem, cum haec diceret: extollens vocem quaedam mulier de~
+turba dixit illi: Beatus venter qui te portavit, et ubera quae suxisti.
+11:28 At ille dixit: Quinimmo beati, qui audiunt verbum Dei et custodiunt illud.
+$Te decet

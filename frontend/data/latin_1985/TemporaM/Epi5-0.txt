@@ -1,0 +1,21 @@
+@Tempora/Epi5-0
+
+[LectioE]
+v. Sequentia Sancti Evangelii secundum Matthaeum
+!Matt 13:24-30
+13:24 Aliam parabolam proposuit illis, dicens: Simile factum est regnum caelorum~
+homini, qui seminavit bonum semen in agro suo:
+13:25 cum autem dormirent homines, venit inimicus ejus, et superseminavit~
+zizania in medio tritici, et abiit.
+13:26 Cum autem crevisset herba, et fructum fecisset, tunc apparuerunt et~
+zizania.
+13:27 Accedentes autem servi patrisfamilias, dixerunt ei: Domine, nonne bonum~
+semen seminasti in agro tuo? unde ergo habet zizania?
+13:28 Et ait illis: Inimicus homo hoc fecit. Servi autem dixerunt ei: Vis, imus,~
+et colligimus ea?
+13:29 Et ait: Non: ne forte colligentes zizania, eradicetis simul cum eis et~
+triticum.
+13:30 Sinite utraque crescere usque ad messem, et in tempore messis dicam~
+messoribus: Colligite primum zizania, et alligate ea in fasciculos ad~
+comburendum: triticum autem congregate in horreum meum.
+$Te decet

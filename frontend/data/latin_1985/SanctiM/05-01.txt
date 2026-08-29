@@ -1,0 +1,26 @@
+@Tempora/Pasc2-3
+
+[Rank]
+S. Joseph Opificis;;Duplex I classis;;6;;
+
+[Capitulum Vespera]
+@Tempora/Pasc2-3
+_
+@Tempora/Pasc2-3:Responsory Tertia:1-6
+
+[Versum 1]
+@Tempora/Pasc2-3:Responsory Tertia:8-9
+
+[Capitulum Laudes]
+@Tempora/Pasc2-3
+_
+@Tempora/Pasc2-3:Responsory Sexta:1-6
+
+[Responsory Tertia]
+@Tempora/Pasc2-3:Responsory Tertia:8-9
+
+[Responsory Sexta]
+@Tempora/Pasc2-3:Responsory Sexta:8-9
+
+[Responsory Nona]
+@Tempora/Pasc2-3:Responsory Nona:8-9

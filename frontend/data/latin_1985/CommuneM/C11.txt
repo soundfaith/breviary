@@ -1,0 +1,56 @@
+@Commune/C11
+
+[Capitulum Vespera]
+@CommuneM/C10:Capitulum Vespera
+
+[Ant Matutinum]
+Benedicta tu * in mulieribus, et benedictus fructus ventris tui;;8
+Sicut myrrha * electa odorem dedisti suavitatis sancta Dei Genitrix;;18
+Ante torum * hujus Virginis frequentate nobis dulcia cantica dramatis;;23
+Spécie tua * et pulchritúdine tua inténde, † próspere procéde, et regna.;;44
+Adiuvábit eam * Deus vultu suo: † Deus in médio eius, non commovébitur.;;45
+Favus distíllans * lábia tua, Sponsa, mel et lac sub lingua tua: † et odor vestimentórum tuórum sicut odor thuris.;;47
+V. Specie tua et pulchritudine tua.
+R. Intende, prospere procede, et regna.
+Fons hortórum, * púteus aquárum vivéntium, † quae fluunt ímpetu de Líbano.;;84
+Sicut lætántium * ómnium nostrum habitátio est in te, † sancta Dei Génetrix.;;86
+Gaude, * María Virgo: † cunctas hǽreses sola interemísti in univérso mundo.;;95
+Dignáre me * laudáre te, Virgo sacráta: † da mihi virtútem contra hostes tuos.;;96
+Post partum, * Virgo, invioláta permansísti: † Dei Génetrix, intercéde pro nobis.;;97
+Descéndi * in hortum nucum, ut vidérem poma convállium, † et inspícerem, si floruísset vinea, et germinássent mala púnica, allelúia.;;98
+V. Adjuvabit eam Deus vultu suo.
+R. Deus in medio ejus, non commovebitur.
+Hortus conclúsus * es Dei Génitrix, hortus conclúsus, fons signátus: † surge própera, amíca mea, et veni.;;249;250;251
+V. Elegit eam Deus, et praeelegit eam.
+R. In tabernaculo suo habitare facit eam.
+
+[Responsory9]
+R. Beata es Virgo Maria, Dei Genitrix, quae credidisti Domino: perfecta sunt in~
+te quae dicta sunt tibi: ecce exaltata es super choros Angelorum:
+* Intercede pro nobis ad Dominum Deum nostrum.
+V. Ave Maria, gratia plena, Dominus tecum.
+R. Intercede pro nobis ad Dominum Deum nostrum.
+&Gloria
+R. Intercede pro nobis ad Dominum Deum nostrum.
+
+[Capitulum Laudes]
+@CommuneM/C10:Capitulum Vespera
+
+[Hymnus Laudes]
+@Commune/C10:HymnusM Laudes
+
+[Responsory Tertia]
+@CommuneM/C10:Responsory Tertia
+
+[Responsory Sexta]
+@CommuneM/C10:Responsory Sexta
+
+[Responsory Nona]
+@CommuneM/C10:Responsory Nona
+
+[LectioE]
+v. Sequéntia sancti Evangélii secúndum Lucam
+!Luc 11:27-28
+11:27 Factum est autem, cum hæc díceret: extóllens vocem quædam múlier de turba dixit illi: Beátus venter qui te portávit, et úbera quæ suxísti.
+11:28 At ille dixit: Quinímmo beáti, qui áudiunt verbum Dei et custódiunt illud.
+$Te decet

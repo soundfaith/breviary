@@ -47,8 +47,10 @@ const rubricItems: RubricItem[] = [
   { slug: '1960-1930', title: 'Rubrics 1960 / 1930', description: 'A historical note on the older rubrics and their continuity with the current form.' },
 ]
 
-const latinCorpusModules = import.meta.glob('../data/Latin_raw/**/*.txt', { query: '?raw', import: 'default' }) as Record<string, () => Promise<string>>
-const englishCorpusModules = import.meta.glob('../data/English_raw/**/*.txt', { query: '?raw', import: 'default' }) as Record<string, () => Promise<string>>
+const latin1962CorpusModules = import.meta.glob('../data/Latin_raw/{Sancti,Tempora,Commune,CommuneM,CommuneOP,Ordinarium,Psalterium,Martyrologium1960}/**/*.txt', { query: '?raw', import: 'default' }) as Record<string, () => Promise<string>>
+const english1962CorpusModules = import.meta.glob('../data/English_raw/{Sancti,Tempora,Commune,CommuneM,CommuneOP,Ordinarium,Psalterium,Martyrologium1960}/**/*.txt', { query: '?raw', import: 'default' }) as Record<string, () => Promise<string>>
+const latin1985CorpusModules = import.meta.glob('../data/latin_1985/{Sancti,Tempora,Commune,CommuneM,CommuneOP,Ordinarium,Psalterium,Martyrologium}/**/*.txt', { query: '?raw', import: 'default' }) as Record<string, () => Promise<string>>
+const english1985CorpusModules = import.meta.glob('../data/english_1985/{Sancti,Tempora,Commune,CommuneM,CommuneOP,Ordinarium,Psalterium,Martyrologium}/**/*.txt', { query: '?raw', import: 'default' }) as Record<string, () => Promise<string>>
 
 async function loadCorpus(modules: Record<string, () => Promise<string>>) {
   const entries = await Promise.all(
@@ -534,6 +536,67 @@ function assembleLaudsPrayer(
   return parts.slice(0, 22)
 }
 
+function assembleLaudsPrayer1985(
+  proper: string,
+  ordinary: string,
+  properSource: string,
+  ordinarySource: string,
+  commonDoctor: string,
+  commonDoctorSource: string,
+  commonConfessor: string,
+  commonConfessorSource: string,
+  corpus: Record<string, string> = {},
+) {
+  const getSection = (source: string, sourcePath: string, tags: string[]) => {
+    for (const tag of tags) {
+      const section = getTaggedSection(source, tag, sourcePath, corpus)
+      if (section) return { value: section, source: sourcePath }
+    }
+    return { value: '', source: '' }
+  }
+
+  const resolveCommonOrProper = (tags: string[]) => {
+    const properValue = getSection(proper, properSource, tags)
+    if (properValue.value) return { value: properValue.value, source: properSource }
+
+    const doctorValue = getSection(commonDoctor, commonDoctorSource, tags)
+    if (doctorValue.value) return { value: doctorValue.value, source: commonDoctorSource }
+
+    const confessorValue = getSection(commonConfessor, commonConfessorSource, tags)
+    if (confessorValue.value) return { value: confessorValue.value, source: commonConfessorSource }
+
+    return { value: '', source: '' }
+  }
+
+  const parts: PrayerBlock[] = []
+  const push = (heading: string, text: string, source?: string) => {
+    if (text && text.trim()) parts.push({ heading, text: cleanVisibleText(text.replace(/\r/g, '').trim()), source })
+  }
+
+  const invitatory = getSection(ordinary, ordinarySource, ['Invit', 'Invitatorium']) || getSection(proper, properSource, ['Invit', 'Invitatorium'])
+  push('Invitatory', invitatory.value, invitatory.source || ordinarySource || properSource)
+
+  const hymn = resolveCommonOrProper(['Hymnus Laudes', 'Hymnus', 'HymnusM Laudes'])
+  push('Hymn', hymn.value, hymn.source)
+
+  const antiphons = resolveCommonOrProper(['Ant Laudes', 'Ant 1', 'Ant 2', 'Ant 3', 'Ant Vespera'])
+  push('Antiphons', antiphons.value, antiphons.source)
+
+  const capitulum = resolveCommonOrProper(['Capitulum Laudes', 'Capitulum'])
+  push('Capitulum', capitulum.value, capitulum.source)
+
+  const collect = getSection(proper, properSource, ['Oratio'])
+  push('Collect', collect.value, collect.source || properSource)
+
+  const conclusion = getTaggedSection(ordinary, 'Conclusio', ordinarySource, corpus)
+    || getTaggedSection(ordinary, 'Dominus_vobiscum', ordinarySource, corpus)
+    || getTaggedSection(proper, 'Conclusio', properSource, corpus)
+    || 'Dominus vobiscum. Benedicamus Domino. Fidelium animæ.'
+  push('Conclusion', conclusion, ordinarySource || properSource)
+
+  return parts.slice(0, 18)
+}
+
 function buildReferenceEntries(corpus: Record<string, string>): ReferenceEntry[] {
   const counts = new Map<string, number>()
   const entries: ReferenceEntry[] = []
@@ -630,52 +693,108 @@ export default function AppExpanded() {
   const [debugMode, setDebugMode] = useState(false)
   const [fontSize, setFontSize] = useState(18)
   const [language, setLanguage] = useState<'en' | 'la'>('en')
+  const [edition, setEdition] = useState<'1962' | '1985'>('1985')
   const [selected, setSelected] = useState(currentHour())
   const [route, setRoute] = useState(() => window.location.pathname + window.location.search)
   const [referencePage, setReferencePage] = useState<Record<string, number>>({})
   const itemsPerPage = 12
 
-  const [corpusCache, setCorpusCache] = useState<{ en: Record<string, string>; la: Record<string, string> }>({ en: {}, la: {} })
+  const [corpusCache, setCorpusCache] = useState<{
+    '1962': { en: Record<string, string>; la: Record<string, string> }
+    '1985': { en: Record<string, string>; la: Record<string, string> }
+  }>({
+    '1962': { en: {}, la: {} },
+    '1985': { en: {}, la: {} },
+  })
   const currentPath = route.split('?')[0]
-  const activeCorpus = language === 'en' ? corpusCache.en : corpusCache.la
-  const fallbackCorpus = language === 'en' ? corpusCache.la : corpusCache.en
-  const activeRoot = language === 'en' ? '../data/English_raw' : '../data/Latin_raw'
-  const fallbackRoot = language === 'en' ? '../data/Latin_raw' : '../data/English_raw'
+  const activeEditionCorpus = corpusCache[edition]
+  const activeCorpus = language === 'en' ? activeEditionCorpus.en : activeEditionCorpus.la
+  const fallbackCorpus = language === 'en' ? activeEditionCorpus.la : activeEditionCorpus.en
+  const activeRoot = language === 'en'
+    ? edition === '1985' ? '../data/english_1985' : '../data/English_raw'
+    : edition === '1985' ? '../data/latin_1985' : '../data/Latin_raw'
+  const fallbackRoot = language === 'en'
+    ? edition === '1985' ? '../data/latin_1985' : '../data/Latin_raw'
+    : edition === '1985' ? '../data/english_1985' : '../data/English_raw'
+  const key = dateKey(selectedDate)
 
   useEffect(() => {
-    const routeNeedsCorpus = ['/prayer', '/library', '/calendar'].includes(currentPath) ||
-      currentPath.startsWith('/sancti/') ||
-      currentPath.startsWith('/tempora/') ||
-      currentPath.startsWith('/commune/') ||
-      currentPath.startsWith('/psalterium/') ||
-      currentPath.startsWith('/ordinarium/') ||
-      currentPath.startsWith('/martyrologium1960/')
+    const routeNeedsCorpus = currentPath === '/prayer'
 
     if (!routeNeedsCorpus) return
-    if (Object.keys(corpusCache.en).length && Object.keys(corpusCache.la).length) return
+
+    const requiredPaths = [
+      `${edition === '1985' ? '../data/english_1985' : '../data/English_raw'}/Sancti/${key}.txt`,
+      `${edition === '1985' ? '../data/latin_1985' : '../data/Latin_raw'}/Sancti/${key}.txt`,
+      `${edition === '1985' ? '../data/english_1985' : '../data/English_raw'}/Tempora/${key}.txt`,
+      `${edition === '1985' ? '../data/latin_1985' : '../data/Latin_raw'}/Tempora/${key}.txt`,
+      `${edition === '1985' ? '../data/english_1985' : '../data/English_raw'}/${selected.source}`,
+      `${edition === '1985' ? '../data/latin_1985' : '../data/Latin_raw'}/${selected.source}`,
+      `${edition === '1985' ? '../data/english_1985' : '../data/English_raw'}/Commune/C5.txt`,
+      `${edition === '1985' ? '../data/latin_1985' : '../data/Latin_raw'}/Commune/C5.txt`,
+      `${edition === '1985' ? '../data/english_1985' : '../data/English_raw'}/Commune/C6.txt`,
+      `${edition === '1985' ? '../data/latin_1985' : '../data/Latin_raw'}/Commune/C6.txt`,
+      `${edition === '1985' ? '../data/english_1985' : '../data/English_raw'}/CommuneM/C5.txt`,
+      `${edition === '1985' ? '../data/latin_1985' : '../data/Latin_raw'}/CommuneM/C5.txt`,
+      `${edition === '1985' ? '../data/english_1985' : '../data/English_raw'}/CommuneM/C6.txt`,
+      `${edition === '1985' ? '../data/latin_1985' : '../data/Latin_raw'}/CommuneM/C6.txt`,
+    ].filter((path, index, array) => array.indexOf(path) === index)
+
+    const existingEdition = corpusCache[edition]
+    const missingFiles = requiredPaths.filter((path) => !existingEdition.en[path] && !existingEdition.la[path])
+
+    if (!missingFiles.length) return
 
     let active = true
-    Promise.all([
-      loadCorpus(englishCorpusModules),
-      loadCorpus(latinCorpusModules),
-    ])
-      .then(([englishCorpus, latinCorpus]) => {
+    const moduleSets = {
+      en: edition === '1985' ? english1985CorpusModules : english1962CorpusModules,
+      la: edition === '1985' ? latin1985CorpusModules : latin1962CorpusModules,
+    }
+
+    Promise.all(
+      Object.entries(moduleSets).map(async ([languageKey, modules]) => {
+        const nextEntries: Record<string, string> = {}
+        for (const filePath of missingFiles) {
+          const importer = modules[filePath]
+          if (importer) {
+            nextEntries[filePath] = await importer()
+          }
+        }
+        return [languageKey, nextEntries] as const
+      }),
+    )
+      .then((entries) => {
         if (!active) return
-        setCorpusCache({ en: englishCorpus, la: latinCorpus })
+        const nextEdition = entries.reduce(
+          (acc, [languageKey, loadedFiles]) => {
+            acc[languageKey as 'en' | 'la'] = { ...acc[languageKey as 'en' | 'la'], ...loadedFiles }
+            return acc
+          },
+          { en: { ...existingEdition.en }, la: { ...existingEdition.la } } as { en: Record<string, string>; la: Record<string, string> },
+        )
+
+        setCorpusCache((current) => ({
+          ...current,
+          [edition]: nextEdition,
+        }))
       })
       .catch(() => {
-        if (active) setCorpusCache({ en: {}, la: {} })
+        if (active) {
+          setCorpusCache((current) => ({
+            ...current,
+            [edition]: { en: { ...current[edition].en }, la: { ...current[edition].la } },
+          }))
+        }
       })
 
     return () => {
       active = false
     }
-  }, [currentPath, corpusCache])
+  }, [currentPath, edition, key, selected.source])
 
   const referenceEntries = useMemo(() => buildReferenceEntries(activeCorpus), [activeCorpus])
 
   const today = useMemo(() => new Date(), [])
-  const key = dateKey(selectedDate)
   const properPath = `Sancti/${key}.txt`
   const ordinaryPath = selected.source
   const proper = activeCorpus[`${activeRoot}/Sancti/${key}.txt`] ?? activeCorpus[`${activeRoot}/Tempora/${key}.txt`] ?? fallbackCorpus[`${fallbackRoot}/Sancti/${key}.txt`] ?? fallbackCorpus[`${fallbackRoot}/Tempora/${key}.txt`] ?? ''
@@ -683,6 +802,34 @@ export default function AppExpanded() {
   const commonDoctor = activeCorpus[`${activeRoot}/Commune/C6.txt`] ?? fallbackCorpus[`${fallbackRoot}/Commune/C6.txt`] ?? activeCorpus[`${activeRoot}/CommuneM/C6.txt`] ?? fallbackCorpus[`${fallbackRoot}/CommuneM/C6.txt`] ?? ''
   const commonConfessor = activeCorpus[`${activeRoot}/Commune/C5.txt`] ?? fallbackCorpus[`${fallbackRoot}/Commune/C5.txt`] ?? activeCorpus[`${activeRoot}/CommuneM/C5.txt`] ?? fallbackCorpus[`${fallbackRoot}/CommuneM/C5.txt`] ?? ''
   const prayer = useMemo(() => {
+    if (edition === '1985') {
+      if (selected.id === 'matutinum') {
+        return assembleMatutinumPrayer(
+          proper,
+          ordinary,
+          properPath,
+          ordinaryPath,
+          activeCorpus,
+        )
+      }
+
+      if (selected.id === 'laudes') {
+        return assembleLaudsPrayer1985(
+          proper,
+          ordinary,
+          properPath,
+          ordinaryPath,
+          commonDoctor,
+          `${activeRoot}/Commune/C6.txt`,
+          commonConfessor,
+          `${activeRoot}/Commune/C5.txt`,
+          activeCorpus,
+        )
+      }
+
+      return parsePrayer([proper, ordinary].filter(Boolean).join('\n'), selected.latin, ordinaryPath)
+    }
+
     if (selected.id === 'matutinum') {
       return assembleMatutinumPrayer(
         proper,
@@ -707,7 +854,7 @@ export default function AppExpanded() {
       )
     }
     return parsePrayer([proper, ordinary].filter(Boolean).join('\n'), selected.latin, ordinaryPath)
-  }, [commonConfessor, commonDoctor, ordinary, ordinaryPath, proper, properPath, selected.id, selected.latin, activeCorpus])
+  }, [commonConfessor, commonDoctor, edition, ordinary, ordinaryPath, proper, properPath, selected.id, selected.latin, activeCorpus, activeRoot])
   const info = infoFor(proper, selectedDate)
 
   const firstDay = (new Date(month.getFullYear(), month.getMonth(), 1).getDay() + 6) % 7
@@ -728,6 +875,15 @@ export default function AppExpanded() {
       const nextLanguage = current === 'en' ? 'la' : 'en'
       setReferencePage({})
       return nextLanguage
+    })
+    setRoute(window.location.pathname + window.location.search)
+  }
+
+  const toggleEdition = () => {
+    setEdition((current) => {
+      const nextEdition = current === '1962' ? '1985' : '1962'
+      setReferencePage({})
+      return nextEdition
     })
     setRoute(window.location.pathname + window.location.search)
   }
@@ -772,7 +928,9 @@ export default function AppExpanded() {
     }
   }
 
-  const corpusLoading = currentPath === '/prayer' && !Object.keys(corpusCache.en).length
+  const corpusLoading = currentPath === '/prayer' && (
+    !Object.keys(activeEditionCorpus.en).length || !Object.keys(activeEditionCorpus.la).length
+  )
   const searchParams = new URLSearchParams(route.split('?')[1] ?? '')
   const searchQuery = searchParams.get('q') ?? ''
   const results = useMemo(() => {
@@ -1009,7 +1167,7 @@ export default function AppExpanded() {
       {currentPath === '/' && (
         <main className="home-page">
           <section className="hero">
-            <div className="eyebrow"><span className="eyebrow-dot" /> 1962 edition · latin</div>
+            <div className="eyebrow"><span className="eyebrow-dot" /> {edition} edition · {language === 'en' ? 'english' : 'latin'}</div>
             <h1>
               A quiet place
               <br />
@@ -1124,7 +1282,13 @@ export default function AppExpanded() {
               <div className="month-grid">
                 {Array.from({ length: firstDay }).map((_, index) => <span className="empty-day" key={`empty-${index}`} />)}
                 {days.map((date) => {
-                  const day = infoFor(activeCorpus[`../data/${language === 'en' ? 'english' : 'latin'}/Sancti/${dateKey(date)}.txt`] ?? fallbackCorpus[`../data/${language === 'en' ? 'latin' : 'english'}/Sancti/${dateKey(date)}.txt`], date)
+                  const day = infoFor(
+                    activeCorpus[`${activeRoot}/Sancti/${dateKey(date)}.txt`] ??
+                    fallbackCorpus[`${fallbackRoot}/Sancti/${dateKey(date)}.txt`] ??
+                    activeCorpus[`${activeRoot}/Tempora/${dateKey(date)}.txt`] ??
+                    fallbackCorpus[`${fallbackRoot}/Tempora/${dateKey(date)}.txt`],
+                    date,
+                  )
                   return (
                     <button className={`calendar-day ${dateKey(date) === key ? 'selected' : ''} ${dateKey(date) === dateKey(today) ? 'today' : ''}`} key={date.toISOString()} onClick={() => goToDate(date)}>
                       <span>{date.getDate()}</span>
@@ -1269,6 +1433,10 @@ export default function AppExpanded() {
               <button onClick={toggleLanguage}>
                 <span>{language === 'en' ? 'English' : 'Latin'}</span>
                 <span className="setting-state">{language === 'en' ? 'EN' : 'LA'}</span>
+              </button>
+              <button onClick={toggleEdition}>
+                <span>{edition === '1985' ? '1985 edition' : '1962 edition'}</span>
+                <span className="setting-state">{edition}</span>
               </button>
               <button onClick={() => setDebugMode((current) => !current)}>
                 <span>Debug source labels</span>
