@@ -1,0 +1,18 @@
+{
+  "id": "07_15_rosalia",
+  "saint_id": "07_15_rosalia",
+  "summary": "Exáudi nos, Deus, salutáris noster: ut sicut de beátæ Rosaliæ Vírginis tuæ festivitate gaudemus; ita piæ devotiónis erudiamur afféctu; et ejus intercessióne ab iracundiæ tuæ flagéllis misericórditer liberémur.\n$Per Domin",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/Urbis/07-15-Rosalia.txt",
+  "source_section": "Oratio",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

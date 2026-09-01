@@ -1,0 +1,11 @@
+{
+  "id": "psalm50",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm50.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "50:3a Miserére mei, Deus, * secúndum magnam misericórdiam tuam.\n50:3b Et secúndum multitúdinem miseratiónum tuárum, * dele iniquitátem meam.\n50:4 Ámplius lava me ab iniquitáte mea: * et a peccáto meo munda me.\n50:5 Quóniam iniquitátem meam ego cognósco: * et peccátum meum contra me est semper.\n50:6 Tibi soli peccávi, et malum coram te feci: * ut justificéris in sermónibus tuis, et vincas cum judicáris.\n50:7 Ecce enim, in iniquitátibus concéptus sum: * et in peccátis concépit me mater mea.\n50:8 Ecce enim, veritátem dilexísti: * incérta et occúlta sapiéntiæ tuæ manifestásti mihi.\n50:9 Aspérges me hyssópo, et mundábor: * lavábis me, et super nivem dealbábor.\n50:10 Audítui meo dabis gáudium et lætítiam: * et exsultábunt ossa humiliáta.\n50:11 Avérte fáciem tuam a peccátis meis: * et omnes iniquitátes meas dele.\n50:12 Cor mundum crea in me, Deus: * et spíritum rectum ínnova in viscéribus meis.\n50:13 Ne proícias me a fácie tua: * et spíritum sanctum tuum ne áuferas a me.\n50:14 Redde mihi lætítiam salutáris tui: * et spíritu principáli confírma me.\n50:15 Docébo iníquos vias tuas: * et ímpii ad te converténtur.\n50:16 Líbera me de sanguínibus, Deus, Deus salútis meæ: * et exsultábit lingua mea justítiam tuam.\n50:17 Dómine, lábia mea apéries: * et os meum annuntiábit laudem tuam.\n50:18 Quóniam si voluísses sacrifícium, dedíssem útique: * holocáustis non delectáberis.\n50:19 Sacrifícium Deo spíritus contribulátus: * cor contrítum, et humiliátum, Deus, non despícies.\n50:20 Benígne fac, Dómine, in bona voluntáte tua Sion: * ut ædificéntur muri Jerúsalem.\n50:21 Tunc acceptábis sacrifícium justítiæ, oblatiónes, et holocáusta: * tunc impónent super altáre tuum vítulos.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "12_29o",
+  "saint_id": "12_29o",
+  "summary": "@Sancti/12-29\n[Lectio1] (rubrica tridentina)\n@Commune/C2\n[Responsory1] (rubrica tridentina)\n@Commune/C2a\n[Lectio2] (rubrica tridentina)\n@Commune/C2\n[Responsory2] (rubrica tridentina)\n@Commune/C2a\n[Lectio3] (rubrica tride",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/12-29o.txt",
+  "source_section": "Responsory1",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

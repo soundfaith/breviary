@@ -1,0 +1,11 @@
+{
+  "id": "nat04",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Tempora/Nat04.txt",
+  "source_section": "Responsory1",
+  "translation_status": "placeholder_latin",
+  "text": "@Sancti/12-25:Responsory6",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

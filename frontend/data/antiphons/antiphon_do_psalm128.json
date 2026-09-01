@@ -1,0 +1,11 @@
+{
+  "id": "psalm128",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm128.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "128:1 Sæpe expugnavérunt me a juventúte mea, * dicat nunc Israël.\n128:2 Sæpe expugnavérunt me a juventúte mea: * étenim non potuérunt mihi.\n128:3 Supra dorsum meum fabricavérunt peccatóres: * prolongavérunt iniquitátem suam.\n128:4 Dóminus justus concídit cervíces peccatórum: * (5) confundántur et convertántur retrórsum omnes, qui odérunt Sion.\n128:6 Fiant sicut fænum tectórum: * quod priúsquam evellátur, exáruit:\n128:7 De quo non implévit manum suam qui metit, * et sinum suum qui manípulos cólligit.\n128:8 Et non dixérunt qui præteríbant: Benedíctio Dómini super vos: * benedíximus vobis in nómine Dómini.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

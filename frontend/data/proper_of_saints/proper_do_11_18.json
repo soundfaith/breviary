@@ -1,0 +1,18 @@
+{
+  "id": "11_18",
+  "saint_id": "11_18",
+  "summary": "@Sancti/11-18o\nIdem beátus Silvester basilicam sancti Pauli Apóstoli, in via Ostiénsi ab eodem Constantino imperatóre magnificentíssime ædificatam, dedicávit. Quas basilicas idem imperátor multis prædiis attributis locup",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/11-18.txt",
+  "source_section": "Lectio5",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

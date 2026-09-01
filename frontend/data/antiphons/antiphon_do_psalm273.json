@@ -1,0 +1,11 @@
+{
+  "id": "psalm273",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm273.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum Sapientiæ * Sap 16:20-21, 26, 29; 17:1)\n16:20 Angelórum esca nutrivísti pópulum tuum, * et parátum panem de cælo præstitísti illis sine labóre,\n16:20 Omne delectaméntum in se habéntem, * et omnis sapóris suavitátem.\n16:21 Substántia enim tua dulcédinem tuam, * quam in fílios habes, ostendébat:\n16:21 Et desérviens uniuscujúsque voluntáti, * ad quod quisque volébat convertebátur.\n16:26 Ut scirent fílii tui quos dilexísti, Dómine, † quóniam non nativitátis fructus pascunt hómines, * sed sermo tuus hos qui in te credíderint consérvat.\n16:29 Ingráti enim spes tamquam hibernális glácies tabéscet, * et dispériet tamquam aqua supervácua.\n17:1 Magna sunt enim judícia tua, Dómine, † et inenarrabília verba tua: * propter hoc indisciplinátæ ánimæ erravérunt.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

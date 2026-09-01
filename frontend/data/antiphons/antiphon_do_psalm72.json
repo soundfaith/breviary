@@ -1,0 +1,11 @@
+{
+  "id": "psalm72",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm72.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "72:1 Quam bonus Israël Deus, * his, qui recto sunt corde!\n72:2 Mei autem pæne moti sunt pedes: * pæne effúsi sunt gressus mei.\n72:3 Quia zelávi super iníquos, * pacem peccatórum videns.\n72:4 Quia non est respéctus morti eórum: * et firmaméntum in plaga eórum.\n72:5 In labóre hóminum non sunt, * et cum homínibus non flagellabúntur:\n72:6 Ídeo ténuit eos supérbia, * opérti sunt iniquitáte et impietáte sua.\n72:7 Pródiit quasi ex ádipe iníquitas eórum: * transiérunt in afféctum cordis.\n72:8 Cogitavérunt, et locúti sunt nequítiam: * iniquitátem in excélso locúti sunt.\n72:9 Posuérunt in cælum os suum: * et lingua eórum transívit in terra.\n72:10 Ídeo convertétur pópulus meus hic: * et dies pleni inveniéntur in eis.\n72:11 Et dixérunt: Quómodo scit Deus, * et si est sciéntia in excélso?\n72:12 Ecce, ipsi peccatóres, et abundántes in sǽculo, * obtinuérunt divítias.\n72:13 Et dixi: Ergo sine causa justificávi cor meum, * et lavi inter innocéntes manus meas:\n72:14 Et fui flagellátus tota die, * et castigátio mea in matutínis.\n72:15 Si dicébam: Narrábo sic: * ecce, natiónem filiórum tuórum reprobávi.\n72:16 Existimábam ut cognóscerem hoc, * labor est ante me:\n72:17 Donec intrem in Sanctuárium Dei: * et intéllegam in novíssimis eórum.\n72:18 Verúmtamen propter dolos posuísti eis: * dejecísti eos dum allevaréntur.\n72:19 Quómodo facti sunt in desolatiónem, súbito defecérunt: * periérunt propter iniquitátem suam.\n72:20 Velut sómnium surgéntium, Dómine, * in civitáte tua imáginem ipsórum ad níhilum rédiges.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

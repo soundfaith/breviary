@@ -1,0 +1,11 @@
+{
+  "id": "psalm31",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm31.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "31:1 Beáti quorum remíssæ sunt iniquitátes: * et quorum tecta sunt peccáta.\n31:2 Beátus vir, cui non imputávit Dóminus peccátum, * nec est in spíritu ejus dolus.\n31:3 Quóniam tácui, inveteravérunt ossa mea, * dum clamárem tota die.\n31:4 Quóniam die ac nocte graváta est super me manus tua: * convérsus sum in ærúmna mea, dum confígitur spina.\n31:5 Delíctum meum cógnitum tibi feci: * et injustítiam meam non abscóndi.\n31:5 Dixi: Confitébor advérsum me injustítiam meam Dómino: * et tu remisísti impietátem peccáti mei.\n31:6 Pro hac orábit ad te omnis sanctus, * in témpore opportúno.\n31:6 Verúmtamen in dilúvio aquárum multárum, * ad eum non approximábunt.\n31:7 Tu es refúgium meum a tribulatióne, quæ circúmdedit me: * exsultátio mea, érue me a circumdántibus me.\n31:8 Intelléctum tibi dabo, et ínstruam te in via hac, qua gradiéris: * firmábo super te óculos meos.\n31:9 Nolíte fíeri sicut equus et mulus, * quibus non est intelléctus.\n31:9 In camo et freno maxíllas eórum constrínge, * qui non appróximant ad te.\n31:10 Multa flagélla peccatóris, * sperántem autem in Dómino misericórdia circúmdabit.\n31:11 Lætámini in Dómino et exsultáte, justi, * et gloriámini, omnes recti corde.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

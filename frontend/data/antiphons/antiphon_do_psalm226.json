@@ -1,0 +1,11 @@
+{
+  "id": "psalm226",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm226.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum Moysis * Deut 32:1-65)\n32:1 Audíte, cæli, quæ loquor: * áudiat terra verba oris mei.\n32:2 Concréscat ut plúvia doctrína mea, * fluat ut ros elóquium meum.\n32:3 Quasi imber super herbam, et quasi stillæ super grámina. * Quia nomen Dómini invocábo.\n32:4 Date magnificéntiam Deo nostro. * Dei perfécta sunt ópera, et omnes viæ ejus judícia:\n32:5 Deus fidélis, et absque ulla iniquitáte, justus et rectus. * Peccavérunt ei, et non fílii ejus in sórdibus:\n32:6 Generátio prava atque pervérsa. * Hǽccine reddis Dómino, pópule stulte et insípiens?\n32:7 Numquid non ipse est pater tuus, * qui possédit te, et fecit, et creávit te?\n32:8 Meménto diérum antiquórum, * cógita generatiónes síngulas:\n32:9 Intérroga patrem tuum, et annuntiábit tibi: * majóres tuos, et dicent tibi.\n32:10 Quando dividébat Altíssimus gentes: * quando separábat fílios Adam.\n32:11 Constítuit términos populórum * juxta númerum filiórum Israël.\n32:12 Pars autem Dómini, pópulus ejus: * Jacob funículus hereditátis ejus.\n32:13 Invénit eum in terra desérta, * in loco horróris et vastæ solitúdinis:\n32:14 Circumdúxit eum, et dócuit: * et custodívit quasi pupíllam óculi sui.\n32:15 Sicut áquila próvocans ad volándum pullos suos, * et super eos vólitans,\n32:16 Expándit alas suas, et assúmpsit eum, * atque portávit in húmeris suis.\n32:17 Dóminus solus dux ejus fuit: * et non erat cum eo deus aliénus.\n32:18 Constítuit eum super excélsam terram: * ut coméderet fructus agrórum,\n32:19 Ut súgeret mel de petra, * oleúmque de saxo duríssimo.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

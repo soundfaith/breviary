@@ -1,0 +1,18 @@
+{
+  "id": "09_20",
+  "saint_id": "09_20",
+  "summary": "Eustachius, qui et Placidus, genere, opibus et militari glória inter Romanos insígnis, sub Trajano imperatóre magistri militum titulum meruit.  Cum vero sese aliquándo in venatióne exercéret ac fugiéntem miræ magnitúdini",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/09-20.txt",
+  "source_section": "Lectio4",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

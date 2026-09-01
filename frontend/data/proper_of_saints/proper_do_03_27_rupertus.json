@@ -1,0 +1,18 @@
+{
+  "id": "03_27_rupertus",
+  "saint_id": "03_27_rupertus",
+  "summary": "Exáudi, quǽsumus, Dómine, preces nostras, quas in beáti Rupérti Confessóris tui atque Pontificis solemnitáte deférimus: et, qui tibi digne méruit famulári, ejus intercedéntibus méritis, ab ómnibus nos absólve peccátis.\n$",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/Bavaria/03-27-Rupertus.txt",
+  "source_section": "Oratio",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

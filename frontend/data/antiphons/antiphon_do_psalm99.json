@@ -1,0 +1,11 @@
+{
+  "id": "psalm99",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm99.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "99:2a Jubiláte Deo, omnis terra: * servíte Dómino in lætítia.\n99:2b Introíte in conspéctu ejus, * in exsultatióne.\n99:3a Scitóte quóniam Dóminus ipse est Deus: * ipse fecit nos, et non ipsi nos.\n99:3b Pópulus ejus, et oves páscuæ ejus: ‡ (4a) introíte portas ejus in confessióne, * átria ejus in hymnis: confitémini illi.\n99:4b Laudáte nomen ejus: (5) quóniam suávis est Dóminus, † in ætérnum misericórdia ejus, * et usque in generatiónem et generatiónem véritas ejus.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

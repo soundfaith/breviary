@@ -1,0 +1,11 @@
+{
+  "id": "psalm124",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm124.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "124:1 Qui confídunt in Dómino, sicut mons Sion: * non commovébitur in ætérnum, qui hábitat (2a) in Jerúsalem.\n124:2b Montes in circúitu ejus: ‡ et Dóminus in circúitu pópuli sui, * ex hoc nunc et usque in sǽculum.\n124:3 Quia non relínquet Dóminus virgam peccatórum super sortem justórum: * ut non exténdant justi ad iniquitátem manus suas.\n124:4 Bénefac, Dómine, bonis, * et rectis corde.\n124:5 Declinántes autem in obligatiónes addúcet Dóminus cum operántibus iniquitátem: * pax super Israël.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

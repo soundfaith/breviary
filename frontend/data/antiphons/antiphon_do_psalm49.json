@@ -1,0 +1,11 @@
+{
+  "id": "psalm49",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm49.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "49:1 Deus deórum, Dóminus locútus est: * et vocávit terram,\n49:1 A solis ortu usque ad occásum: * ex Sion spécies decóris ejus.\n49:3 Deus maniféste véniet: * Deus noster et non silébit.\n49:3 Ignis in conspéctu ejus exardéscet: * et in circúitu ejus tempéstas válida.\n49:4 Advocábit cælum desúrsum: * et terram discérnere pópulum suum.\n49:5 Congregáte illi sanctos ejus: * qui órdinant testaméntum ejus super sacrifícia.\n49:6 Et annuntiábunt cæli justítiam ejus: * quóniam Deus judex est.\n49:7 Audi, pópulus meus, et loquar: Israël, et testificábor tibi: * Deus, Deus tuus ego sum.\n49:8 Non in sacrifíciis tuis árguam te: * holocáusta autem tua in conspéctu meo sunt semper.\n49:9 Non accípiam de domo tua vítulos: * neque de grégibus tuis hircos.\n49:10 Quóniam meæ sunt omnes feræ silvárum: * juménta in móntibus et boves.\n49:11 Cognóvi ómnia volatília cæli: * et pulchritúdo agri mecum est.\n49:12 Si esuríero, non dicam tibi: * meus est enim orbis terræ, et plenitúdo ejus.\n49:13 Numquid manducábo carnes taurórum? * aut sánguinem hircórum potábo?\n49:14 Ímmola Deo sacrifícium laudis: * et redde Altíssimo vota tua.\n49:15 Et ínvoca me in die tribulatiónis: * éruam te, et honorificábis me.\n49:16 Peccatóri autem dixit Deus: * Quare tu enárras justítias meas, et assúmis testaméntum meum per os tuum?\n49:17 Tu vero odísti disciplínam: * et projecísti sermónes meos retrórsum:\n49:18 Si vidébas furem, currébas cum eo: * et cum adúlteris portiónem tuam ponébas.\n49:19 Os tuum abundávit malítia: * et lingua tua concinnábat dolos.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

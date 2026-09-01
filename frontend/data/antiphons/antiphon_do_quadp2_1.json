@@ -1,0 +1,11 @@
+{
+  "id": "quadp2_1",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Tempora/Quadp2-1.txt",
+  "source_section": "Ant 3",
+  "translation_status": "placeholder_latin",
+  "text": "R. In artículo diéi illíus ingréssus est Noë in arcam et fílii ejus,\n* Uxor illíus et uxóres filiórum ejus.\nV. Deléta sunt univérsa de terra, remánsit autem solus Noë, et qui cum eo erant in arca.\nR. Uxor illíus et uxóres filiórum ejus.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

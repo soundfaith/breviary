@@ -1,0 +1,11 @@
+{
+  "id": "quad4_2",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Tempora/Quad4-2.txt",
+  "source_section": "Ant 2",
+  "translation_status": "placeholder_latin",
+  "text": "Quid me quǽritis * interfícere, hóminem qui vera locútus sum vobis?",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

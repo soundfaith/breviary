@@ -1,0 +1,11 @@
+{
+  "id": "psalm150",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm150.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "150:1 Laudáte Dóminum in sanctis ejus: * laudáte eum in firmaménto virtútis ejus.\n150:2 Laudáte eum in virtútibus ejus: * laudáte eum secúndum multitúdinem magnitúdinis ejus.\n150:3 Laudáte eum in sono tubæ: * laudáte eum in psaltério, et cíthara.\n150:4 Laudáte eum in týmpano, et choro: * laudáte eum in chordis, et órgano.\n150:5 Laudáte eum in cýmbalis benesonántibus: † laudáte eum in cýmbalis jubilatiónis: * (6) omnis spíritus laudet Dóminum.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

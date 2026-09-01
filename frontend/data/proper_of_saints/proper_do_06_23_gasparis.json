@@ -1,0 +1,18 @@
+{
+  "id": "06_23_gasparis",
+  "saint_id": "06_23_gasparis",
+  "summary": "Quam pulchri super montes pedes annuntiántis et prædicántis pacem: annuntiántis bonum, prædicántis salútem, dicéntis Sion: Regnábit Deus tuus.",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/Urbis/06-23-Gasparis.txt",
+  "source_section": "Ant 1",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

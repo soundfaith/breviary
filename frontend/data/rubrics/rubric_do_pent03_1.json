@@ -1,0 +1,10 @@
+{
+  "id": "pent03_1",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Tempora/Pent03-1.txt",
+  "source_section": "Lectio1",
+  "translation_status": "placeholder_latin",
+  "text": "De libro primo Regum\n!1 Reg 10:17-19\n17 Et convocávit Sámuel pópulum ad Dóminum in Maspha:\n18 et ait ad fílios Israël: Hæc dicit Dóminus Deus Israël: Ego edúxi Israël de Ægýpto, et érui vos de manu Ægyptiórum et de manu ómnium regum, qui affligébant vos.\n19 Vos autem hódie projecístis Deum vestrum, qui solus salvávit vos de univérsis malis et tribulatiónibus vestris, et dixístis: Nequáquam, sed regem constítue super nos. Nunc ergo state coram Dómino per tribus vestras et per famílias.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

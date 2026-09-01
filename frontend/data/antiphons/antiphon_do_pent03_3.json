@@ -1,0 +1,11 @@
+{
+  "id": "pent03_3",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Tempora/Pent03-3.txt",
+  "source_section": "Lectio1",
+  "translation_status": "placeholder_latin",
+  "text": "De libro primo Regum\n!1 Reg 13:1-4\n1 Fílius uníus anni erat Saul, cum regnáre cœpísset; duóbus autem annis regnávit super Israël.\n2 Et elégit sibi Saul tria míllia de Israël. Et erant cum Saul duo míllia in Machmas et in monte Bethel, mille autem cum Jónatha in Gábaa Bénjamin. Porro céterum pópulum remísit unumquémque in tabernácula sua.\n3 Et percússit Jónathas statiónem Philisthinórum, quæ erat in Gábaa. Quod cum audíssent Philísthiim Saul cécinit búccina in omni terra dicens: Audiant Hebrǽi.\n4 Et univérsus Israël audívit hujuscémodi famam: Percússit Saul statiónem Philisthinórum, et eréxit se Israël advérsus Philísthiim; clamávit ergo pópulus post Saul in Gálgala.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

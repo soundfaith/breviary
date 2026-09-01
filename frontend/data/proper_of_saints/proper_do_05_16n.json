@@ -1,0 +1,18 @@
+{
+  "id": "05_16n",
+  "saint_id": "05_16n",
+  "summary": "Deus, qui ob invictum beati Joannis sacramentale silentium, nova Ecclesiam tuam martyrii corona decorasti: da nobis, ejus intercessione et exemplo, linguam caute custodire; ac omnia potius mala, quam animæ detrimentum, i",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/05-16n.txt",
+  "source_section": "Oratio",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

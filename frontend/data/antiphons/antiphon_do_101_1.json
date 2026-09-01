@@ -1,0 +1,11 @@
+{
+  "id": "101_1",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Tempora/101-1.txt",
+  "source_section": "Responsory1",
+  "translation_status": "placeholder_latin",
+  "text": "R. Dixit Judas Simóni fratri suo: Elige tibi viros et vade, líbera fratres tuos in Galilǽam; ego autem et Jónathas frater tuus íbimus in Galaadítim:\n* Sicut fúerit volúntas in cælo, sic fiat.\nV. Accingímini, fílii poténtes, et estóte paráti: quóniam mélius est nobis, mori in bello, quam vidére mala gentis nostræ et sanctórum.\nR. Sicut fúerit volúntas in cælo, sic fiat.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

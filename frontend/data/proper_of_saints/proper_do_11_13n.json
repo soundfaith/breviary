@@ -1,0 +1,18 @@
+{
+  "id": "11_13n",
+  "saint_id": "11_13n",
+  "summary": "Dómine Jesu Christe, qui sanctam Vírginem Francíscam Xavériam, Sacratíssimi Cordis tui igne succénsam, per amplíssimas mundi plagas ad ánimas tibi lucrándas deduxísti, et per eam novam in Ecclésia tua Vírginum famíliam s",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/11-13n.txt",
+  "source_section": "Oratio",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

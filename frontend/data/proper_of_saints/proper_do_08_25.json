@@ -1,0 +1,18 @@
+{
+  "id": "08_25",
+  "saint_id": "08_25",
+  "summary": "Deus, qui beátum Ludovícum Confessórem tuum de terréno regno ad cæléstis regni glóriam transtulísti: ejus, quǽsumus, méritis et intercessióne; Regis regum Jesu Christi, Fílii tui, fácias nos esse consórtes:\n$Qui tecum",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/08-25.txt",
+  "source_section": "Oratio",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

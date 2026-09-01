@@ -1,0 +1,11 @@
+{
+  "id": "psalm81",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm81.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "81:1 Deus stetit in synagóga deórum: * in médio autem deos dijúdicat.\n81:2 Úsquequo judicátis iniquitátem: * et fácies peccatórum súmitis?\n81:3 Judicáte egéno, et pupíllo: * húmilem, et páuperem justificáte.\n81:4 Erípite páuperem: * et egénum de manu peccatóris liberáte.\n81:5 Nesciérunt, neque intellexérunt, in ténebris ámbulant: * movebúntur ómnia fundaménta terræ.\n81:6 Ego dixi: Dii estis, * et fílii Excélsi omnes.\n81:7 Vos autem sicut hómines moriémini: * et sicut unus de princípibus cadétis.\n81:8 Surge, Deus, júdica terram: * quóniam tu hereditábis in ómnibus géntibus.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

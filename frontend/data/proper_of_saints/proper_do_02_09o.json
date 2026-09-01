@@ -1,0 +1,18 @@
+{
+  "id": "02_09o",
+  "saint_id": "02_09o",
+  "summary": "S. Apolloniæ Virginis et Martyris\n;;Simplex;;1.1;;vide C6\nvide C6;\nApollóniæ\nPostcommunio=Apollónia\nApollónia virgo Alexandrína, sub Décio imperatóre, cum ingravescénte jam ætáte ad idóla sisterétur, ut eis veneratiónem ",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/02-09o.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "09_05",
+  "saint_id": "09_05",
+  "summary": "Laurentius, ex illustri Justinianorum familia Venetiis natus, eximiam vel puer morum gravitatem præ se tulit. Exacta inter pietatis officia adolescentia, ad castum verbi et animæ connubium a divina sapientia invitatus, d",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/09-05.txt",
+  "source_section": "Lectio4",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

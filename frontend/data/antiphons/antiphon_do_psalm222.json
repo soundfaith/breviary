@@ -1,0 +1,11 @@
+{
+  "id": "psalm222",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm222.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum Ezechiæ * Isa 38:10-24)\n38:10 Ego dixi: In dimídio diérum meórum * vadam ad portas ínferi.\n38:11 Quæsívi resíduum annórum meórum. * Dixi: Non vidébo Dóminum Deum in terra vivéntium.\n38:12 Non aspíciam hóminem ultra, * et habitatórem quiétis.\n38:13 Generátio mea abláta est, et convolúta est a me, * quasi tabernáculum pastórum.\n38:14 Præcísa est velut a texénte, vita mea: dum adhuc ordírer, succídit me: * de mane usque ad vésperam fínies me.\n38:15 Sperábam usque ad mane, * quasi leo sic contrívit ómnia ossa mea:\n38:16 De mane usque ad vésperam fínies me: * sicut pullus hirúndinis sic clamábo, meditábor ut colúmba:\n38:17 Attenuáti sunt óculi mei, * suspiciéntes in excélsum.\n38:18 Dómine, vim pátior, respónde pro me. * Quid dicam, aut quid respondébit mihi, cum ipse fécerit?\n38:19 Recogitábo tibi omnes annos meos * in amaritúdine ánimæ meæ.\n38:20 Dómine, si sic vívitur, et in tálibus vita spíritus mei, corrípies me, et vivificábis me. * Ecce, in pace amaritúdo mea amaríssima:\n38:21 Tu autem eruísti ánimam meam ut non períret: * projecísti post tergum tuum ómnia peccáta mea.\n38:22 Quia non inférnus confitébitur tibi, neque mors laudábit te: * non exspectábunt qui descéndunt in lacum, veritátem tuam.\n38:23 Vivens vivens ipse confitébitur tibi, sicut et ego hódie: * pater fíliis notam fáciet veritátem tuam.\n38:24 Dómine, salvum me fac * et psalmos nostros cantábimus cunctis diébus vitæ nostræ in domo Dómini.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

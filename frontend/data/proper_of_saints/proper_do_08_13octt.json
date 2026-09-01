@@ -1,0 +1,18 @@
+{
+  "id": "08_13octt",
+  "saint_id": "08_13octt",
+  "summary": "Sermo sancti Cyrílli Epíscopi Alexandríni\n!Ap. Metaph. post med.\nArbitrátus fortásse beátus Petrus advenisse tempus regni Dei, in monte quidem versari deligit: dicit autem tria esse facienda tabernácula, nesciens quid dí",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/Urbis/08-13octT.txt",
+  "source_section": "Lectio4",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

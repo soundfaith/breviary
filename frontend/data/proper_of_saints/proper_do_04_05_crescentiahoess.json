@@ -1,0 +1,18 @@
+{
+  "id": "04_05_crescentiahoess",
+  "saint_id": "04_05_crescentiahoess",
+  "summary": "Deus, qui in beáta Crescéntia Vírgine tua christiánæ perfectiónis exémplum misericórditer tribuísti: præsta, quǽsumus; ut, ejus imitatióni júgiter inhæréntes, glóriam consequámur ætérnam.\n$Per Dominum",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/Bavaria/04-05-CrescentiaHoess.txt",
+  "source_section": "Oratio",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

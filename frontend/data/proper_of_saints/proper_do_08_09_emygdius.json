@@ -1,0 +1,18 @@
+{
+  "id": "08_09_emygdius",
+  "saint_id": "08_09_emygdius",
+  "summary": "Emýgdius spíritu oris sui idolórum cultum et templa subvértit: quos in Christo génuit fílios, illos fidéliter a ruínis terræmótus servávit.",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/Urbis/08-09-Emygdius.txt",
+  "source_section": "Ant 1",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

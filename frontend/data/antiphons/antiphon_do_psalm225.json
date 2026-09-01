@@ -1,0 +1,11 @@
+{
+  "id": "psalm225",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm225.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum Habacuc * Hab 3:2-19)\n3:2a Dómine, audívi auditiónem tuam, * et tímui.\n3:2b Dómine, opus tuum, * in médio annórum vivífica illud:\n3:2c In médio annórum notum fácies: * cum irátus fúeris, misericórdiæ recordáberis.\n3:3a Deus ab Austro véniet, * et sanctus de monte Pharan:\n3:3b Opéruit cælos glória ejus: * et laudis ejus plena est terra.\n3:4a Splendor ejus ut lux erit: * córnua in mánibus ejus:\n3:4b Ibi abscóndita est fortitúdo ejus: * (5a) ante fáciem ejus ibit mors.\n3:5b Et egrediétur diábolus ante pedes ejus. * (6a) Stetit, et mensus est terram.\n3:6b Aspéxit, et dissólvit gentes: * et contríti sunt montes sǽculi.\n3:6c Incurváti sunt colles mundi, * ab itinéribus æternitátis ejus.\n3:7 Pro iniquitáte vidi tentória Æthiópiæ, * turbabúntur pelles terræ Mádian.\n3:8a Numquid in flumínibus irátus es, Dómine? * aut in flumínibus furor tuus? vel in mari indignátio tua?\n3:8b Qui ascéndes super equos tuos: * et quadrígæ tuæ salvátio.\n3:9a Súscitans suscitábis arcum tuum: * juraménta tríbubus quæ locútus es.\n3:9b Flúvios scindes terræ: † (10a) vidérunt te, et doluérunt montes: * gurges aquárum tránsiit.\n3:10b Dedit abýssus vocem suam: * altitúdo manus suas levávit.\n3:11 Sol, et luna stetérunt in habitáculo suo, * in luce sagittárum tuárum, ibunt in splendóre fulgurántis hastæ tuæ.\n3:12 In frémitu conculcábis terram: * et in furóre obstupefácies gentes.\n3:13a Egréssus es in salútem pópuli tui: * in salútem cum Christo tuo.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

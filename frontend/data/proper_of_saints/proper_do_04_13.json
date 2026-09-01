@@ -1,0 +1,18 @@
+{
+  "id": "04_13",
+  "saint_id": "04_13",
+  "summary": "Deus, qui beátum Hermenegíldum Mártyrem tuum cælésti regno terrénum postpónere docuísti: da quǽsumus nobis; ejus exémplo cadúca despícere, atque ætérna sectári.\n$Per Dominum",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/04-13.txt",
+  "source_section": "Oratio",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

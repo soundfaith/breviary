@@ -1,0 +1,11 @@
+{
+  "id": "benedictions",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Benedictions.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "Exáudi, Dómine Jesu Christe, preces servórum tuórum, et miserére nobis: Qui cum Patre et Spíritu Sancto vivis et regnas in sǽcula sæculórum.\nIpsíus píetas et misericórdia nos ádjuvet, qui cum Patre et Spíritu Sancto vivit et regnat in sǽcula sæculórum.\nA vínculis peccatórum nostrórum absólvat nos omnípotens et miséricors Dóminus.\nBenedictióne perpétua benedícat nos Pater ætérnus.\nUnigénitus Dei Fílius nos benedícere et adjuváre dignétur.\n(sed rubrica praedicatorum)\nAd gáudia paradísi perdúcat nos misericórdia Christi.\nSpíritus Sancti grátia illúminet sensus et corda nostra.\nIn unitáte Sancti Spíritus, benedícat nos Pater et Fílius.\nDeus Pater omnípotens sit nobis propítius et clemens.\nChristus perpétuæ det nobis gáudia vitæ.\nIgnem sui amóris accéndat Deus in córdibus nostris.\nA cunctis vítiis et peccátis absólvat nos virtus sanctæ Trinitátis.\nIlle nos benedícat, qui sine fine vivit et regnat.\nDivínum auxílium máneat semper nobíscum.\nAd societátem cívium supernórum perdúcat nos Rex Angelórum.\nCujus festum cólimus, ipse intercédat pro nobis ad Dóminum.\nQuorum festum cólimus, ipsi intercédant pro nobis ad Dóminum.\nCujus festum cólimus, ipsa intercédat pro nobis ad Dóminum.\nQuarum festum cólimus, ipsæ intercédant pro nobis ad Dóminum.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

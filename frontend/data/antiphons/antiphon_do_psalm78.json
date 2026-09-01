@@ -1,0 +1,11 @@
+{
+  "id": "psalm78",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm78.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "78:1 Deus, venérunt gentes in hereditátem tuam, polluérunt templum sanctum tuum: * posuérunt Jerúsalem in pomórum custódiam.\n78:2 Posuérunt morticína servórum tuórum, escas volatílibus cæli: * carnes sanctórum tuórum béstiis terræ.\n78:3 Effudérunt sánguinem eórum tamquam aquam in circúitu Jerúsalem: * et non erat qui sepelíret.\n78:4 Facti sumus oppróbrium vicínis nostris: * subsannátio et illúsio his, qui in circúitu nostro sunt.\n78:5 Úsquequo, Dómine, irascéris in finem: * accendétur velut ignis zelus tuus?\n78:6 Effúnde iram tuam in gentes, quæ te non novérunt: * et in regna quæ nomen tuum non invocavérunt:\n78:7 Quia comedérunt Jacob: * et locum ejus desolavérunt.\n78:8 Ne memíneris iniquitátum nostrárum antiquárum, cito antícipent nos misericórdiæ tuæ: * quia páuperes facti sumus nimis.\n78:9 Ádjuva nos, Deus, salutáris noster: et propter glóriam nóminis tui, Dómine, líbera nos: * et propítius esto peccátis nostris, propter nomen tuum:\n78:10 Ne forte dicant in géntibus: Ubi est Deus eórum? * et innotéscat in natiónibus coram óculis nostris.\n78:10 Últio sánguinis servórum tuórum, qui effúsus est: * intróeat in conspéctu tuo gémitus compeditórum.\n78:11 Secúndum magnitúdinem brácchii tui, * pósside fílios mortificatórum.\n78:12 Et redde vicínis nostris séptuplum in sinu eórum: * impropérium ipsórum, quod exprobravérunt tibi, Dómine.\n78:13 Nos autem pópulus tuus, et oves páscuæ tuæ, * confitébimur tibi in sǽculum.\n78:13 In generatiónem et generatiónem * annuntiábimus laudem tuam.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

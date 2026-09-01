@@ -1,0 +1,18 @@
+{
+  "id": "05_13",
+  "saint_id": "05_13",
+  "summary": "Deus, qui ad errórum insídias repelléndas et apostólicæ Sedis jura propugnánda, beátum Robértum Pontíficem tuum atque Doctórem mira eruditióne et virtúte decorásti: ejus méritis et intercessióne concéde; ut nos in veritá",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/05-13.txt",
+  "source_section": "Oratio",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

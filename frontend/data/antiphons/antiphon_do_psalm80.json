@@ -1,0 +1,11 @@
+{
+  "id": "psalm80",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm80.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "80:2 Exsultáte Deo, adjutóri nostro: * jubiláte Deo Jacob.\n80:3 Súmite psalmum, et date týmpanum: * psaltérium jucúndum cum cíthara.\n80:4 Buccináte in Neoménia tuba, * in insígni die solemnitátis vestræ.\n80:5 Quia præcéptum in Israël est: * et judícium Deo Jacob.\n80:6 Testimónium in Joseph pósuit illud, cum exíret de terra Ægýpti: * linguam, quam non nóverat, audívit.\n80:7 Divértit ab onéribus dorsum ejus: * manus ejus in cóphino serviérunt.\n80:8 In tribulatióne invocásti me, et liberávi te: * exaudívi te in abscóndito tempestátis: probávi te apud aquam contradictiónis.\n80:9 Audi, pópulus meus, et contestábor te: * Israël, si audíeris me, non erit in te deus recens, neque adorábis deum aliénum.\n80:11 Ego enim sum Dóminus Deus tuus, qui edúxi te de terra Ægýpti: * diláta os tuum, et implébo illud.\n80:12 Et non audívit pópulus meus vocem meam: * et Israël non inténdit mihi.\n80:13 Et dimísi eos secúndum desidéria cordis eórum: * ibunt in adinventiónibus suis.\n80:14 Si pópulus meus audísset me: * Israël si in viis meis ambulásset:\n80:15 Pro níhilo fórsitan inimícos eórum humiliássem: * et super tribulántes eos misíssem manum meam.\n80:16 Inimíci Dómini mentíti sunt ei: * et erit tempus eórum in sǽcula.\n80:17 Et cibávit eos ex ádipe fruménti: * et de petra, melle saturávit eos.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

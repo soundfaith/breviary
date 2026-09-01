@@ -1,0 +1,10 @@
+{
+  "id": "nat10",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/TemporaOP/Nat10.txt",
+  "source_section": "Lectio1",
+  "translation_status": "placeholder_latin",
+  "text": "De Epístola ad Romános\n!Rom 14:16-20\n16 Non ergo blasphemétur bonum nostrum.\n17 Non est enim regnum Dei esca et potus: sed justítia, et pax, et gáudium in Spíritu Sancto:\n18 qui enim in hoc servit Christo, placet Deo, et probátus est homínibus.\n19 Itaque quæ pacis sunt, sectémur: et quæ ædificatiónis sunt, in ínvicem custodiámus.\n20 Noli propter escam destrúere opus Dei: ómnia quidem sunt munda: sed malum est hómini, qui per offendículum mandúcat.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

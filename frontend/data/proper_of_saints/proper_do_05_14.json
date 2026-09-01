@@ -1,0 +1,18 @@
+{
+  "id": "05_14",
+  "saint_id": "05_14",
+  "summary": "Da, quǽsumus, omnípotens Deus: ut qui beáti Bonifátii Mártyris tui solémnia cólimus, ejus apud te intercessiónibus adjuvémur.\n$Per Dominum",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/05-14.txt",
+  "source_section": "Oratio",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

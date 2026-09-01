@@ -1,0 +1,11 @@
+{
+  "id": "psalm101",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm101.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "101:2 Dómine, exáudi oratiónem meam: * et clamor meus ad te véniat.\n101:3 Non avértas fáciem tuam a me: * in quacúmque die tríbulor, inclína ad me aurem tuam.\n101:3 In quacúmque die invocávero te, * velóciter exáudi me.\n101:4 Quia defecérunt sicut fumus dies mei: * et ossa mea sicut crémium aruérunt.\n101:5 Percússus sum ut fænum, et áruit cor meum: * quia oblítus sum comédere panem meum.\n101:6 A voce gémitus mei * adhǽsit os meum carni meæ.\n101:7 Símilis factus sum pellicáno solitúdinis: * factus sum sicut nyctícorax in domicílio.\n101:8 Vigilávi, * et factus sum sicut passer solitárius in tecto.\n101:9 Tota die exprobrábant mihi inimíci mei: * et qui laudábant me, advérsum me jurábant.\n101:10 Quia cínerem tamquam panem manducábam, * et potum meum cum fletu miscébam.\n101:11 A fácie iræ et indignatiónis tuæ: * quia élevans allisísti me.\n101:12 Dies mei sicut umbra declinavérunt: * et ego sicut fænum árui.\n101:13 Tu autem, Dómine, in ætérnum pérmanes: * et memoriále tuum in generatiónem et generatiónem.\n101:14 Tu exsúrgens miseréberis Sion: * quia tempus miseréndi ejus, quia venit tempus.\n101:15 Quóniam placuérunt servis tuis lápides ejus: * et terræ ejus miserebúntur.\n101:16 Et timébunt gentes nomen tuum, Dómine, * et omnes reges terræ glóriam tuam.\n101:17 Quia ædificávit Dóminus Sion: * et vidébitur in glória sua.\n101:18 Respéxit in oratiónem humílium: * et non sprevit precem eórum.\n101:19 Scribántur hæc in generatióne áltera: * et pópulus, qui creábitur, laudábit Dóminum:\n101:20 Quia prospéxit de excélso sancto suo: * Dóminus de cælo in terram aspéxit:",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

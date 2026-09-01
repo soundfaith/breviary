@@ -1,0 +1,11 @@
+{
+  "id": "psalm115",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm115.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "115:1 Crédidi, propter quod locútus sum: * ego autem humiliátus sum nimis.\n115:2 Ego dixi in excéssu meo: * Omnis homo mendax.\n115:3 Quid retríbuam Dómino, * pro ómnibus, quæ retríbuit mihi?\n115:4 Cálicem salutáris accípiam: * et nomen Dómini invocábo.\n115:5 Vota mea Dómino reddam coram omni pópulo ejus: * (6) pretiósa in conspéctu Dómini mors sanctórum ejus:\n115:7a O Dómine, quia ego servus tuus: * ego servus tuus, et fílius ancíllæ tuæ.\n115:7b Dirupísti víncula mea: ‡ (8) tibi sacrificábo hóstiam laudis, * et nomen Dómini invocábo.\n115:9 Vota mea Dómino reddam in conspéctu omnis pópuli ejus: * (10) in átriis domus Dómini, in médio tui, Jerúsalem.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

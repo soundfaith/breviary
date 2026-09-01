@@ -1,0 +1,11 @@
+{
+  "id": "psalm144",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm144.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "144:1 Exaltábo te, Deus meus, rex: * et benedícam nómini tuo in sǽculum, et in sǽculum sǽculi.\n144:2 Per síngulos dies benedícam tibi: * et laudábo nomen tuum in sǽculum, et in sǽculum sǽculi.\n144:3 Magnus Dóminus, et laudábilis nimis: * et magnitúdinis ejus non est finis.\n144:4 Generátio et generátio laudábit ópera tua: * et poténtiam tuam pronuntiábunt.\n144:5 Magnificéntiam glóriæ sanctitátis tuæ loquéntur: * et mirabília tua narrábunt.\n144:6 Et virtútem terribílium tuórum dicent: * et magnitúdinem tuam narrábunt.\n144:7 Memóriam abundántiæ suavitátis tuæ eructábunt: * et justítia tua exsultábunt.\n144:8 Miserátor, et miséricors Dóminus: * pátiens, et multum miséricors.\n144:9 Suávis Dóminus univérsis: * et miseratiónes ejus super ómnia ópera ejus.\n144:10 Confiteántur tibi, Dómine, ómnia ópera tua: * et sancti tui benedícant tibi.\n144:11 Glóriam regni tui dicent: * et poténtiam tuam loquéntur:\n144:12 Ut notam fáciant fíliis hóminum poténtiam tuam: * et glóriam magnificéntiæ regni tui.\n144:13a Regnum tuum regnum ómnium sæculórum: * et dominátio tua in omni generatióne et generatiónem.\n144:13b Fidélis Dóminus in ómnibus verbis suis: * et sanctus in ómnibus opéribus suis.\n144:14 Állevat Dóminus omnes qui córruunt: * et érigit omnes elísos.\n144:15 Óculi ómnium in te sperant, Dómine: * et tu das escam illórum in témpore opportúno.\n144:16 Áperis tu manum tuam: * et imples omne ánimal benedictióne.\n144:17 Justus Dóminus in ómnibus viis suis: * et sanctus in ómnibus opéribus suis.\n144:18 Prope est Dóminus ómnibus invocántibus eum: * ómnibus invocántibus eum in veritáte.\n144:19 Voluntátem timéntium se fáciet: ‡ et deprecatiónem eórum exáudiet: * et salvos fáciet eos.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

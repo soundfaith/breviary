@@ -1,0 +1,11 @@
+{
+  "id": "02_01",
+  "date": "unspecified",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Martyrologium1960/02-01.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "Kaléndis Februárii\n_\nSancti Ignátii, Epíscopi Antiochéni et Mártyris, qui glorióse martýrium consummávit tertiodécimo Kaléndas Januárii.\nSmyrnæ sancti Piónii, Presbýteri et Mártyris; qui, post apologías pro fide Christiána conscríptas, post squalórem cárceris, ubi multos fratrum ad martýrii tolerántiam suis exhortatiónibus roborávit, tandem, cruciátibus multis vexátus, clavis confíxus et ardénti rogo superpósitus, beátum pro Christo finem sortítus est. Cum ipso autem et álii quíndecim passi sunt.\nRavénnæ sancti Sevéri Epíscopi, qui, ob præclára mérita, signo colúmbæ fuit eléctus.\nIn civitáte Tricastína, in Gállia, sancti Pauli Epíscopi, cujus vita virtútibus cláruit, et mors pretiósa miráculis commendátur.\nApud Kildáriam, in Hibérnia, sanctæ Brígidæ Vírginis, quæ cum lignum altáris tetigísset in testimónium virginitátis suæ, lignum ipsum statim víride factum est.\nApud Castrum Florentínum, in Etrúria, beátæ Viridiánæ, Vírginis reclúsæ, ex Ordine Vallis Umbrósæ.",
+  "notes": "Imported from Divinum Officium martyrology source pending translation."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "psalm220",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm220.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum Trium Puerorum * Dan 3:52-57)\n3:52 Benedíctus es, Dómine, Deus patrum nostrórum: * et laudábilis, et gloriósus, et superexaltátus in sǽcula.\n3:53 Et benedíctum nomen glóriæ tuæ sanctum: * et laudábile, et superexaltátum in ómnibus sǽculis.\n3:54 Benedíctus es in templo sancto glóriæ tuæ: * et superlaudábilis, et supergloriósus in sǽcula.\n3:55 Benedíctus es in throno regni tui: * et superlaudábilis, et superexaltátus in sǽcula.\n3:56 Benedíctus es, qui intuéris abýssos, et sedes super Chérubim: * et laudábilis, et superexaltátus in sǽcula.\n3:57 Benedíctus es in firmaménto cæli: * et laudábilis, et gloriósus in sǽcula.\n3:58 Benedícite, ómnia ópera Dómini, Dómino: * laudáte, et superexaltáte eum in sǽcula.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

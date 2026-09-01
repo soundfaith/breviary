@@ -1,0 +1,11 @@
+{
+  "id": "pasc6_3",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/TemporaM/Pasc6-3.txt",
+  "source_section": "Ant Matutinum",
+  "translation_status": "placeholder_latin",
+  "text": "@TemporaM/Pasc5-4:AntMatutinumM:3 s/;;.*//\n;;\n;;\n;;\n;;\n;;\n@Tempora/Pasc5-4::7 s/;;.*//\n;;\n;;\n;;\n;;\n;;",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

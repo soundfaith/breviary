@@ -1,0 +1,18 @@
+{
+  "id": "11_02oct",
+  "saint_id": "11_02oct",
+  "summary": "De Sermone Venerabilis Bedæ Presbýteri.\n!Ex Sermone 18. de Sanctis.\nQuam laxo sinu de prælio revertentes civitas cælestis excipit, de hoste prostrato trophæa ferentibus occurrit. Cum triumphantibus viris et feminæ veniun",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/11-02oct.txt",
+  "source_section": "Lectio4",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

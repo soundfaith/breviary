@@ -1,0 +1,12 @@
+{
+  "id": "adv4_2",
+  "hour": "unspecified",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/TemporaM/Adv4-2.txt",
+  "source_section": "Responsory4",
+  "translation_status": "placeholder_latin",
+  "verse": "@Tempora/Adv4-2::s/\\n3 / ¶\\n3 /",
+  "response": "TBD",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "083_6",
+  "hour": "unspecified",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Tempora/083-6.txt",
+  "source_section": "Responsory1",
+  "translation_status": "placeholder_latin",
+  "verse": "@Tempora/081-0:Responsory7",
+  "response": "TBD",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

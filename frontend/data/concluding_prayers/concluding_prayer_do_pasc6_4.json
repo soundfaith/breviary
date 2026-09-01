@@ -1,0 +1,11 @@
+{
+  "id": "pasc6_4",
+  "hour": "unspecified",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/TemporaM/Pasc6-4.txt",
+  "source_section": "Oratio",
+  "translation_status": "placeholder_latin",
+  "text": "@Tempora/Pasc6-4::1-8 s/-8/-6/",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

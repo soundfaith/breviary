@@ -1,0 +1,18 @@
+{
+  "id": "10_21cc",
+  "saint_id": "10_21cc",
+  "summary": "Ss. Ursulæ et Sociarum Virg. et Mart.\n;;Simplex;;1.1;;vide C6b\nvide C6b;\nUrsulæ et Sociárum\nPostcommunio=Ursula et Sociábus",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/10-21cc.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "psalm122",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm122.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "122:1 Ad te levávi óculos meos, * qui hábitas in cælis.\n122:2a Ecce, sicut óculi servórum * in mánibus dominórum suórum,\n122:2b Sicut óculi ancíllæ in mánibus dóminæ suæ: * ita óculi nostri ad Dóminum, Deum nostrum, donec misereátur nostri.\n122:3 Miserére nostri, Dómine, miserére nostri: * quia multum repléti sumus despectióne:\n122:4 Quia multum repléta est ánima nostra: * oppróbrium abundántibus, et despéctio supérbis.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

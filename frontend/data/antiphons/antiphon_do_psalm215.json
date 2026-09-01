@@ -1,0 +1,11 @@
+{
+  "id": "psalm215",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm215.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum Isaiæ * Isa 45:15-30)\n45:15 Vere tu es Deus abscónditus, * Deus Israël, Salvátor.\n45:16 Confúsi sunt, et erubuérunt omnes: * simul abiérunt in confusiónem fabricatóres errórum.\n45:17 Israël salvátus est in Dómino salúte ætérna: * non confundémini, et non erubescétis usque in sǽculum sǽculi.\n45:18 Quia hæc dicit Dóminus creans cælos, * ipse Deus formans terram, et fáciens eam, ipse plastes ejus:\n45:19 Non in vanum creávit eam, ut habitarétur, formávit eam: * Ego Dóminus, et non est álius.\n45:20 Non in abscóndito locútus sum, * in loco terræ tenebróso:\n45:21 Non dixi sémini Jacob frustra: Quǽrite me: * ego Dóminus loquens justítiam, annúntians recta.\n45:22 Congregámini, et veníte, et accédite simul * qui salváti estis ex géntibus:\n45:23 Nesciérunt qui levant lignum sculptúræ suæ, * et rogant deum non salvántem.\n45:24 Annuntiáte, et veníte, et consiliámini simul: * Quis audítum fecit hoc ab inítio, ex tunc prædíxit illud?\n45:25 Numquid non ego Dóminus, et non est ultra Deus absque me? * Deus justus, et salvans non est præter me.\n45:26 Convertímini ad me, et salvi éritis, omnes fines terræ: * quia ego Deus, et non est álius.\n45:27 In memetípso jurávi, egrediétur de ore meo justítiæ verbum, * et non revertétur:\n45:28 Quia mihi curvábitur omne genu, * et jurábit omnis lingua.\n45:29 Ergo in Dómino, dicet, meæ sunt justítiæ et impérium: * ad eum vénient, et confundéntur omnes qui repúgnant ei.\n45:30 In Dómino justificábitur, et laudábitur * omne semen Israël.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

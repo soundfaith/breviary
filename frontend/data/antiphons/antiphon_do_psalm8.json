@@ -1,0 +1,11 @@
+{
+  "id": "psalm8",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm8.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "8:2a Dómine, Dóminus noster, * quam admirábile est nomen tuum in univérsa terra!\n8:2b Quóniam eleváta est magnificéntia tua, * super cælos.\n8:3 Ex ore infántium et lacténtium perfecísti laudem propter inimícos tuos, * ut déstruas inimícum et ultórem.\n8:4 Quóniam vidébo cælos tuos, ópera digitórum tuórum: * lunam et stellas, quæ tu fundásti.\n8:5 Quid est homo quod memor es ejus? * aut fílius hóminis, quóniam vísitas eum?\n8:6 Minuísti eum paulo minus ab Ángelis, † glória et honóre coronásti eum: * (7) et constituísti eum super ópera mánuum tuárum.\n8:8 Ómnia subjecísti sub pédibus ejus, * oves et boves univérsas: ínsuper et pécora campi.\n8:9 Vólucres cæli, et pisces maris, * qui perámbulant sémitas maris.\n8:10 Dómine, Dóminus noster, * quam admirábile est nomen tuum in univérsa terra!",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

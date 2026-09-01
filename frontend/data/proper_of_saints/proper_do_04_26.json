@@ -1,0 +1,18 @@
+{
+  "id": "04_26",
+  "saint_id": "04_26",
+  "summary": "Cletus Romanus, patre Æmiliano, de regione quinta, e vico Patricio, imperatoribus Vespasiano et Tito, Ecclesiam gubernavit. Is ex præcepto Principis Apostolorum in Urbe viginti quinque presbyteros ordinavit. Primus in li",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/04-26.txt",
+  "source_section": "Lectio4",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

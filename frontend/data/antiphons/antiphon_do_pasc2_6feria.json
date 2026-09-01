@@ -1,0 +1,11 @@
+{
+  "id": "pasc2_6feria",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Tempora/Pasc2-6Feria.txt",
+  "source_section": "Responsory1",
+  "translation_status": "placeholder_latin",
+  "text": "@Tempora/Pasc0-6:Responsory1",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

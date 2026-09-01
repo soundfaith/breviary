@@ -1,0 +1,18 @@
+{
+  "id": "08_08",
+  "saint_id": "08_08",
+  "summary": "Cyríacus diaconus, cum Sisinio, Largo et Smaragdo diutius inclusus in carcere, multa édidit miracula, in quibus Arthémiam Diocletiáni filiam precibus a dæmone liberávit; missusque ad Saporem Persárum regem, Jobíam étiam ",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/08-08.txt",
+  "source_section": "Lectio4",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

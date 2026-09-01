@@ -1,0 +1,18 @@
+{
+  "id": "06_27oct",
+  "saint_id": "06_27oct",
+  "summary": "Sermo sancti Basilíi Magni\n!Homilia 2 in Psalm. 28\nVox Dómini super aquas. Qualis vox? super quas aquas? Velut prophetíam accipiámus quod dictum est. Memíneris Joánnis, qui interrogátus a Judǽis: Tu quis es? quod respóns",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/06-27oct.txt",
+  "source_section": "Lectio4",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

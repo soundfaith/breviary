@@ -1,0 +1,11 @@
+{
+  "id": "psalm263",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm263.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum Isaiæ * Isa 9:2-7)\n9:2 Pópulus, qui ambulábat in ténebris, * vidit lucem magnam.\n9:2 Habitántibus in regióne umbræ mortis, * lux orta est eis.\n9:3 Multiplicásti gentem, * et non magnificásti lætítiam.\n9:3 Lætabúntur coram te, sicut qui lætántur in messe: * sicut exsúltant victóres capta præda, quando dívidunt spólia.\n9:4 Jugum enim óneris ejus, et virgam húmeri ejus, * et sceptrum exactóris ejus superásti sicut in die Mádian.\n9:5 Quia omnis violénta prædátio cum tumúltu, * et vestiméntum mistum sánguine, erit in combustiónem, et cibus ignis.\n9:6 Párvulus enim natus est nobis, * et fílius datus est nobis,\n9:6 Et factus est principátus super húmerum ejus: * et vocábitur nomen ejus, Admirábilis, Consiliárius,\n9:6 Deus, Fortis, Pater futúri sǽculi, * Princeps pacis.\n9:7 Multiplicábitur ejus impérium, * et pacis non erit finis.\n9:7 Super sólium David, et super regnum ejus sedébit, * ut confírmet illud et corróboret in judício et justítia,\n9:7 Ámodo et usque in sempitérnum: * zelus Dómini exercítuum fáciet hoc.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

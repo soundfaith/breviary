@@ -1,0 +1,11 @@
+{
+  "id": "psalm127",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm127.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "127:1 Beáti, omnes, qui timent Dóminum, * qui ámbulant in viis ejus.\n127:2 Labóres mánuum tuárum quia manducábis: * beátus es, et bene tibi erit.\n127:3a Uxor tua sicut vitis abúndans, * in latéribus domus tuæ.\n127:3b Fílii tui sicut novéllæ olivárum, * in circúitu mensæ tuæ.\n127:4 Ecce, sic benedicétur homo, * qui timet Dóminum.\n127:5 Benedícat tibi Dóminus ex Sion: * et vídeas bona Jerúsalem ómnibus diébus vitæ tuæ.\n127:6 Et vídeas fílios filiórum tuórum, * pacem super Israël.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

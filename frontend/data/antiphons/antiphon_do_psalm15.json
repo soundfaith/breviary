@@ -1,0 +1,11 @@
+{
+  "id": "psalm15",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm15.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "15:1 Consérva me, Dómine, quóniam sperávi in te. ‡ (2) Dixi Dómino: Deus meus es tu, * quóniam bonórum meórum non eges.\n15:3 Sanctis, qui sunt in terra ejus, * mirificávit omnes voluntátes meas in eis.\n15:4a Multiplicátæ sunt infirmitátes eórum: * póstea acceleravérunt.\n15:4b Non congregábo conventícula eórum de sanguínibus, * nec memor ero nóminum eórum per lábia mea.\n15:5 Dóminus pars hereditátis meæ, et cálicis mei: * tu es, qui restítues hereditátem meam mihi.\n15:6 Funes cecidérunt mihi in præcláris: * étenim heréditas mea præclára est mihi.\n15:7 Benedícam Dóminum, qui tríbuit mihi intelléctum: * ínsuper et usque ad noctem increpuérunt me renes mei.\n15:8 Providébam Dóminum in conspéctu meo semper: * quóniam a dextris est mihi, ne commóvear.\n15:9 Propter hoc lætátum est cor meum, et exsultávit lingua mea: * ínsuper et caro mea requiéscet in spe.\n15:10 Quóniam non derelínques ánimam meam in inférno: * nec dabis sanctum tuum vidére corruptiónem.\n15:11 Notas mihi fecísti vias vitæ, † adimplébis me lætítia cum vultu tuo: * delectatiónes in déxtera tua usque in finem.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

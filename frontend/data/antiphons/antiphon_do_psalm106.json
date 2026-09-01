@@ -1,0 +1,11 @@
+{
+  "id": "psalm106",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm106.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "106:1 Confitémini Dómino quóniam bonus: * quóniam in sǽculum misericórdia ejus.\n106:2 Dicant qui redémpti sunt a Dómino, quos redémit de manu inimíci: * et de regiónibus congregávit eos:\n106:3 A solis ortu, et occásu: * ab aquilóne, et mari.\n106:4 Erravérunt in solitúdine in inaquóso: * viam civitátis habitáculi non invenérunt.\n106:5 Esuriéntes, et sitiéntes: * ánima eórum in ipsis defécit.\n106:6 Et clamavérunt ad Dóminum cum tribularéntur: * et de necessitátibus eórum erípuit eos.\n106:7 Et dedúxit eos in viam rectam: * ut irent in civitátem habitatiónis.\n106:8 Confiteántur Dómino misericórdiæ ejus: * et mirabília ejus fíliis hóminum.\n106:9 Quia satiávit ánimam inánem: * et ánimam esuriéntem satiávit bonis.\n106:10 Sedéntes in ténebris, et umbra mortis: * vinctos in mendicitáte et ferro.\n106:11 Quia exacerbavérunt elóquia Dei: * et consílium Altíssimi irritavérunt.\n106:12 Et humiliátum est in labóribus cor eórum: * infirmáti sunt, nec fuit qui adjuváret.\n106:13 Et clamavérunt ad Dóminum cum tribularéntur: * et de necessitátibus eórum liberávit eos.\n106:14 Et edúxit eos de ténebris, et umbra mortis: * et víncula eórum disrúpit.\n106:15 Confiteántur Dómino misericórdiæ ejus: * et mirabília ejus fíliis hóminum.\n106:16 Quia contrívit portas ǽreas: * et vectes férreos confrégit.\n106:17 Suscépit eos de via iniquitátis eórum: * propter injustítias enim suas humiliáti sunt.\n106:18 Omnem escam abomináta est ánima eórum: * et appropinquavérunt usque ad portas mortis.\n106:19 Et clamavérunt ad Dóminum cum tribularéntur: * et de necessitátibus eórum liberávit eos.\n106:20 Misit verbum suum, et sanávit eos: * et erípuit eos de interitiónibus eórum.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

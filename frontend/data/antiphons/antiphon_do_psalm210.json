@@ -1,0 +1,11 @@
+{
+  "id": "psalm210",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm210.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum Trium Puerorum * Dan 3:57-88,56)\n3:57 Benedícite, ómnia ópera Dómini, Dómino: * laudáte et superexaltáte eum in sǽcula.\n3:58 Benedícite, Ángeli Dómini, Dómino: * benedícite, cæli, Dómino.\n3:59 Benedícite, aquæ omnes, quæ super cælos sunt, Dómino: * benedícite, omnes virtútes Dómini, Dómino.\n3:60 Benedícite, sol et luna, Dómino: * benedícite, stellæ cæli, Dómino.\n3:61 Benedícite, omnis imber et ros, Dómino: * benedícite, omnes spíritus Dei, Dómino.\n3:62 Benedícite, ignis et æstus, Dómino: * benedícite, frigus et æstus, Dómino.\n3:63 Benedícite, rores et pruína, Dómino: * benedícite, gelu et frigus, Dómino.\n3:64 Benedícite, glácies et nives, Dómino: * benedícite, noctes et dies, Dómino.\n3:65 Benedícite, lux et ténebræ, Dómino: * benedícite, fúlgura et nubes, Dómino.\n3:66 Benedícat terra Dóminum: * laudet et superexáltet eum in sǽcula.\n3:67 Benedícite, montes et colles, Dómino: * benedícite, univérsa germinántia in terra, Dómino.\n3:68 Benedícite, fontes, Dómino: * benedícite, mária et flúmina, Dómino.\n3:69 Benedícite, cete, et ómnia, quæ movéntur in aquis, Dómino: * benedícite, omnes vólucres cæli, Dómino.\n3:70 Benedícite, omnes béstiæ et pécora, Dómino: * benedícite, fílii hóminum, Dómino.\n3:71 Benedícat Israël Dóminum: * laudet et superexáltet eum in sǽcula.\n3:72 Benedícite, sacerdótes Dómini, Dómino: * benedícite, servi Dómini, Dómino.\n3:73 Benedícite, spíritus, et ánimæ justórum, Dómino: * benedícite, sancti, et húmiles corde, Dómino.\n3:74 Benedícite, Ananía, Azaría, Mísaël, Dómino: * laudáte et superexaltáte eum in sǽcula.\n3:75 (Fit reverentia:) Benedicámus Patrem et Fílium cum Sancto Spíritu: * laudémus et superexaltémus eum in sǽcula.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

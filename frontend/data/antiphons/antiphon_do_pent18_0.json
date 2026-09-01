@@ -1,0 +1,11 @@
+{
+  "id": "pent18_0",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Tempora/Pent18-0.txt",
+  "source_section": "Ant 2",
+  "translation_status": "placeholder_latin",
+  "text": "Dixit Dóminus * paralýtico: Confíde, fili, remittúntur tibi peccáta tua.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

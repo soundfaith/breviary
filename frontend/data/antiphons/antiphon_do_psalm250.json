@@ -1,0 +1,11 @@
+{
+  "id": "psalm250",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm250.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum Isaiæ * Isa 61:10-11; 62:1-3)\n61:10 Gaudens gaudébo in Dómino, * et exsultábit ánima mea in Deo meo:\n61:10 Quia índuit me vestiméntis salútis, * et induménto justítiæ circúmdedit me,\n61:10 Quasi sponsum decorátum coróna, * et quasi sponsam ornátam monílibus suis.\n61:11 Sicut enim terra profert germen suum, † et sicut hortus semen suum gérminat, * sic Dóminus Deus germinábit justítiam et laudem coram univérsis géntibus.\n62:1 Propter Sion non tacébo, et propter Jerúsalem non quiéscam, † donec egrediátur ut splendor justus ejus, * et salvátor ejus ut lampas accendátur.\n62:2 Et vidébunt gentes justum tuum, * et cuncti reges ínclitum tuum;\n62:2 Et vocábitur tibi nomen novum, * quod os Dómini nominábit.\n62:3 Et eris coróna glóriæ in manu Dómini, * et diadéma regni in manu Dei tui.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

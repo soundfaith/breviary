@@ -1,0 +1,11 @@
+{
+  "id": "psalm23",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm23.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "23:1 Dómini est terra, et plenitúdo ejus: * orbis terrárum, et univérsi qui hábitant in eo.\n23:2 Quia ipse super mária fundávit eum: * et super flúmina præparávit eum.\n23:3 Quis ascéndet in montem Dómini? * aut quis stabit in loco sancto ejus?\n23:4 Ínnocens mánibus et mundo corde, * qui non accépit in vano ánimam suam, nec jurávit in dolo próximo suo.\n23:5 Hic accípiet benedictiónem a Dómino: * et misericórdiam a Deo, salutári suo.\n23:6 Hæc est generátio quæréntium eum, * quæréntium fáciem Dei Jacob.\n23:7 Attóllite portas, príncipes, vestras, et elevámini, portæ æternáles: * et introíbit Rex glóriæ.\n23:8 Quis est iste Rex glóriæ? * Dóminus fortis et potens: Dóminus potens in prǽlio.\n23:9 Attóllite portas, príncipes, vestras, et elevámini, portæ æternáles: * et introíbit Rex glóriæ.\n23:10 Quis est iste Rex glóriæ? * Dóminus virtútum ipse est Rex glóriæ.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

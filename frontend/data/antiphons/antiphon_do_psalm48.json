@@ -1,0 +1,11 @@
+{
+  "id": "psalm48",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm48.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "48:2 Audíte hæc, omnes gentes: * áuribus percípite omnes, qui habitátis orbem:\n48:3 Quique terrígenæ, et fílii hóminum: * simul in unum dives et pauper.\n48:4 Os meum loquétur sapiéntiam: * et meditátio cordis mei prudéntiam.\n48:5 Inclinábo in parábolam aurem meam: * apériam in psaltério propositiónem meam.\n48:6 Cur timébo in die mala? * iníquitas calcánei mei circúmdabit me:\n48:7 Qui confídunt in virtúte sua: * et in multitúdine divitiárum suárum gloriántur.\n48:8 Frater non rédimit, rédimet homo: * non dabit Deo placatiónem suam.\n48:9 Et prétium redemptiónis ánimæ suæ: * et laborábit in ætérnum, et vivet adhuc in finem.\n48:11 Non vidébit intéritum, cum víderit sapiéntes moriéntes: * simul insípiens, et stultus períbunt.\n48:11 Et relínquent aliénis divítias suas: * et sepúlcra eórum domus illórum in ætérnum.\n48:12 Tabernácula eórum in progénie et progénie: * vocavérunt nómina sua in terris suis.\n48:13 Et homo, cum in honóre esset, non intelléxit: * comparátus est juméntis insipiéntibus, et símilis factus est illis.\n48:14 Hæc via illórum scándalum ipsis: * et póstea in ore suo complacébunt.\n48:15 Sicut oves in inférno pósiti sunt: * mors depáscet eos.\n48:15 Et dominabúntur eórum justi in matutíno: * et auxílium eórum veteráscet in inférno a glória eórum.\n48:16 Verúmtamen Deus rédimet ánimam meam de manu ínferi: * cum accéperit me.\n48:17 Ne timúeris, cum dives factus fúerit homo: * et cum multiplicáta fúerit glória domus ejus.\n48:18 Quóniam cum interíerit, non sumet ómnia: * neque descéndet cum eo glória ejus.\n48:19 Quia ánima ejus in vita ipsíus benedicétur: * confitébitur tibi cum beneféceris ei.\n48:20 Introíbit usque in progénies patrum suórum: * et usque in ætérnum non vidébit lumen.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

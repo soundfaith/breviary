@@ -1,0 +1,11 @@
+{
+  "id": "psalm71",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm71.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "71:2 Deus, judícium tuum regi da: * et justítiam tuam fílio regis:\n71:2 Judicáre pópulum tuum in justítia, * et páuperes tuos in judício.\n71:3 Suscípiant montes pacem pópulo: * et colles justítiam.\n71:4 Judicábit páuperes pópuli, et salvos fáciet fílios páuperum: * et humiliábit calumniatórem.\n71:5 Et permanébit cum sole, et ante lunam, * in generatióne et generatiónem.\n71:6 Descéndet sicut plúvia in vellus: * et sicut stillicídia stillántia super terram.\n71:7 Oriétur in diébus ejus justítia, et abundántia pacis: * donec auferátur luna.\n71:8 Et dominábitur a mari usque ad mare: * et a flúmine usque ad términos orbis terrárum.\n71:9 Coram illo prócident Æthíopes: * et inimíci ejus terram lingent.\n71:10 Reges Tharsis, et ínsulæ múnera ófferent: * reges Árabum et Saba dona addúcent.\n71:11 Et adorábunt eum omnes reges terræ: * omnes gentes sérvient ei:\n71:12 Quia liberábit páuperem a poténte: * et páuperem, cui non erat adjútor.\n71:13 Parcet páuperi et ínopi: * et ánimas páuperum salvas fáciet.\n71:14 Ex usúris et iniquitáte rédimet ánimas eórum: * et honorábile nomen eórum coram illo.\n71:15 Et vivet, et dábitur ei de auro Arábiæ, et adorábunt de ipso semper: * tota die benedícent ei.\n71:16 Et erit firmaméntum in terra in summis móntium, superextollétur super Líbanum fructus ejus: * et florébunt de civitáte sicut fænum terræ.\n71:17 Sit nomen ejus benedíctum in sǽcula: * ante solem pérmanet nomen ejus.\n71:17 Et benedicéntur in ipso omnes tribus terræ: * omnes gentes magnificábunt eum.\n71:18 Benedíctus Dóminus, Deus Israël, * qui facit mirabília solus:\n71:19 Et benedíctum nomen majestátis ejus in ætérnum: * et replébitur majestáte ejus omnis terra: fiat, fiat.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "psalm216",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm216.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum Ecclesiastici * Sir 36:1-16)\n36:1 Miserére nostri, Deus ómnium, et réspice nos, * et osténde nobis lucem miseratiónum tuárum:\n36:2 Et immítte timórem tuum super gentes, * quæ non exquisiérunt te,\n36:3 Ut cognóscant quia non est Deus nisi tu, * et enárrent magnália tua.\n36:4 Álleva manum tuam super gentes aliénas, * ut vídeant poténtiam tuam.\n36:5 Sicut enim in conspéctu eórum sanctificátus es in nobis, * sic in conspéctu nostro magnificáberis in eis,\n36:6 Ut cognóscant te, sicut et nos cognóvimus, * quóniam non est Deus præter te, Dómine.\n36:7 Ínnova signa, et immúta mirabília. * Glorífica manum, et brácchium dextrum.\n36:8 Éxcita furórem, et effúnde iram. * Tolle adversárium, et afflíge inimícum.\n36:9 Festína tempus, et meménto finis, * ut enárrent mirabília tua.\n36:10 In ira flammæ devorétur qui salvátur: * et qui péssimant plebem tuam, invéniant perditiónem.\n36:11 Cóntere caput príncipum inimicórum, * dicéntium: Non est álius præter nos.\n36:12 Cóngrega omnes tribus Jacob: ut cognóscant quia non est Deus nisi tu, * et enárrent magnália tua:\n36:13 Et hereditábis eos, * sicut ab inítio.\n36:14 Miserére plebi tuæ, super quam invocátum est nomen tuum: * et Israël, quem coæquásti primogénito tuo.\n36:15 Miserére civitáti sanctificatiónis tuæ Jerúsalem, * civitáti requiéi tuæ.\n36:16 Reple Sion inenarrabílibus verbis tuis, * et glória tua pópulum tuum.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

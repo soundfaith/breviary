@@ -1,0 +1,18 @@
+{
+  "id": "07_18o",
+  "saint_id": "07_18o",
+  "summary": "Symphorosa Tiburtina, Getulli martyris uxor, ex eo septem filios peperit, Crescentium, Julianum, Nemesium, Primitivum, Justinium, Stacteum, et Eugenium: qui omnes propter christianæ fidei professionem una cum matre, Adri",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/07-18o.txt",
+  "source_section": "Lectio2",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

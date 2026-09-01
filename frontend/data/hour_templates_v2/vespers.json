@@ -1,0 +1,17 @@
+{
+  "id": "vespers",
+  "hour": "vespers",
+  "elements": [
+    "hymn",
+    "psalmody_block_1",
+    "psalmody_block_2",
+    "psalmody_block_3",
+    "short_reading",
+    "responsory_1",
+    "gospel_canticle_magnificat",
+    "gospel_canticle_antiphon",
+    "intercessions",
+    "concluding_prayer",
+    "blessing"
+  ]
+}

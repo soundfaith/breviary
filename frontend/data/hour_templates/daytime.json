@@ -1,0 +1,13 @@
+{
+  "id": "daytime",
+  "hour": "daytime",
+  "elements": [
+    "hymn",
+    "psalmody_block_1",
+    "psalmody_block_2",
+    "psalmody_block_3",
+    "short_reading",
+    "concluding_prayer",
+    "blessing"
+  ]
+}

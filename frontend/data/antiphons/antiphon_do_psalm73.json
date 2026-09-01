@@ -1,0 +1,11 @@
+{
+  "id": "psalm73",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm73.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "73:1 Ut quid, Deus, repulísti in finem: * irátus est furor tuus super oves páscuæ tuæ?\n73:2 Memor esto congregatiónis tuæ, * quam possedísti ab inítio.\n73:2 Redemísti virgam hereditátis tuæ: * mons Sion, in quo habitásti in eo.\n73:3 Leva manus tuas in supérbias eórum in finem: * quanta malignátus est inimícus in sancto!\n73:4 Et gloriáti sunt qui odérunt te: * in médio solemnitátis tuæ.\n73:5 Posuérunt signa sua, signa: * et non cognovérunt sicut in éxitu super summum.\n73:6 Quasi in silva lignórum secúribus excidérunt jánuas ejus in idípsum: * in secúri et áscia dejecérunt eam.\n73:7 Incendérunt igni Sanctuárium tuum: * in terra polluérunt tabernáculum nóminis tui.\n73:8 Dixérunt in corde suo cognátio eórum simul: * Quiéscere faciámus omnes dies festos Dei a terra.\n73:9 Signa nostra non vídimus, jam non est prophéta: * et nos non cognóscet ámplius.\n73:10 Úsquequo, Deus, improperábit inimícus: * irrítat adversárius nomen tuum in finem?\n73:11 Ut quid avértis manum tuam, et déxteram tuam, * de médio sinu tuo in finem?\n73:12 Deus autem Rex noster ante sǽcula: * operátus est salútem in médio terræ.\n73:13 Tu confirmásti in virtúte tua mare: * contribulásti cápita dracónum in aquis.\n73:14 Tu confregísti cápita dracónis: * dedísti eum escam pópulis Æthíopum.\n73:15 Tu dirupísti fontes, et torréntes: * tu siccásti flúvios Ethan.\n73:16 Tuus est dies, et tua est nox: * tu fabricátus es auróram et solem.\n73:17 Tu fecísti omnes términos terræ: * æstátem et ver tu plasmásti ea.\n73:18 Memor esto hujus, inimícus improperávit Dómino: * et pópulus insípiens incitávit nomen tuum.\n73:19 Ne tradas béstiis ánimas confiténtes tibi, * et ánimas páuperum tuórum ne obliviscáris in finem.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

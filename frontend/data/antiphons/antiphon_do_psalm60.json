@@ -1,0 +1,11 @@
+{
+  "id": "psalm60",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm60.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "60:2 Exáudi, Deus, deprecatiónem meam: * inténde oratióni meæ.\n60:3 A fínibus terræ ad te clamávi: * dum anxiarétur cor meum, in petra exaltásti me.\n60:4 Deduxísti me, quia factus es spes mea: * turris fortitúdinis a fácie inimíci.\n60:5 Inhabitábo in tabernáculo tuo in sǽcula: * prótegar in velaménto alárum tuárum.\n60:6 Quóniam tu, Deus meus, exaudísti oratiónem meam: * dedísti hereditátem timéntibus nomen tuum.\n60:7 Dies super dies regis adícies: * annos ejus usque in diem generatiónis et generatiónis.\n60:8 Pérmanet in ætérnum in conspéctu Dei: * misericórdiam et veritátem ejus quis requíret?\n60:9 Sic psalmum dicam nómini tuo in sǽculum sǽculi: * ut reddam vota mea de die in diem.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

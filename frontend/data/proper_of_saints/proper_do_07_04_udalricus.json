@@ -1,0 +1,18 @@
+{
+  "id": "07_04_udalricus",
+  "saint_id": "07_04_udalricus",
+  "summary": "Deus, qui nos beáti Udalríci Confessóris tui atque Pontíficis ánnua solemnitáte lætíficas: concéde propítius; ut, ejus méritis et intercessióne, a peccatórum nostrórum perículis liberémur et ætérnis gáudiis pérfrui mereá",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/Bavaria/07-04-Udalricus.txt",
+  "source_section": "Oratio",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

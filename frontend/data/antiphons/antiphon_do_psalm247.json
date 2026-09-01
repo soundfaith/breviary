@@ -1,0 +1,11 @@
+{
+  "id": "psalm247",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm247.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum * Ibid. v. 7-12)\n3:7 Pro iniquitáte vidi tentória Æthiópiæ, * turbabúntur pelles terræ Mádian.\n3:8 Numquid in flumínibus irátus es Dómine? † aut in flumínibus furor tuus? * vel in mari indignátio tua?\n3:8 Qui ascéndes super equos tuos: * et quadrígæ tuæ salvátio.\n3:9 Súscitans suscitábis arcum tuum: * juraménta tríbubus quæ locútus es:\n3:9 Flúvios scindes terræ: † Vidérunt te, et doluérunt montes: * gurges aquárum tránsiit.\n3:10 Dedit abýssus vocem suam: * altitúdo manus suas levávit.\n3:11 Sol et luna stetérunt in habitáculo suo, † in luce sagittárum tuárum, * ibunt in splendóre fulgurántis hastæ tuæ.\n3:12 In frémitu conculcábis terram: * in furóre obstupefácies Gentes.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

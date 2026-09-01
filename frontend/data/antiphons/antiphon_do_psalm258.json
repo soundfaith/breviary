@@ -1,0 +1,11 @@
+{
+  "id": "psalm258",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm258.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum Ecclesiasticæ * Eccli 31:8-11)\n31:8 Beátus vir, qui invéntus est sine mácula,† et qui post aurum non ábiit, * nec sperávit in pecúnia et thesáuris.\n31:9 Quis est hic, et laudábimus eum? * fecit enim mirabília in vita sua.\n31:10 Qui probátus est in illo, et perféctus est, * erit illi glória ætérna:\n31:10 Qui pótuit tránsgredi, et non est transgréssus; * fácere mala, et non fecit.\n31:11 Ideo stabilíta sunt bona illíus in Dómino, * et eleemósynas illíus enarrábit omnis ecclésia sanctórum.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

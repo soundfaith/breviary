@@ -1,0 +1,27 @@
+{
+  "psalms": 150,
+  "canticles": 6,
+  "readings": 1182,
+  "hymns": 50,
+  "saints": 20,
+  "antiphons": 160,
+  "intercessions": 4,
+  "concluding_prayers": 5,
+  "responsories": 5,
+  "proper_of_saints": 20,
+  "patristic_readings": 3,
+  "gospel_canticle_antiphons": 3,
+  "psalm_prayers": 150,
+  "psalmody_blocks": 14,
+  "invitatory": 1,
+  "blessings": 5,
+  "rubrics": 5,
+  "hours": [
+    "invitatory",
+    "office_of_readings",
+    "lauds",
+    "daytime",
+    "vespers",
+    "compline"
+  ]
+}

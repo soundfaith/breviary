@@ -1,0 +1,18 @@
+{
+  "id": "08_02o",
+  "saint_id": "08_02o",
+  "summary": "S. Stephani Papæ Martyris\n;;Simplex;;1.1;;vide C2b-1\nvide C2b-1;\nStéphani\n(sed communi Summorum Pontificum)\nStéphanum\nStephanus Romanus pontificátum gessit Valeriáno et Gallieno imperatóribus. Instituit ut sacerdótes et ",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/08-02o.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

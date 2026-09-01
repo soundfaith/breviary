@@ -1,0 +1,11 @@
+{
+  "id": "quad6_5r",
+  "hour": "unspecified",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/TemporaM/Quad6-5r.txt",
+  "source_section": "Oratio",
+  "translation_status": "placeholder_latin",
+  "text": "@Tempora/Quad6-5",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

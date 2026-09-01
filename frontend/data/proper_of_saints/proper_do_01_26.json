@@ -1,0 +1,18 @@
+{
+  "id": "01_26",
+  "saint_id": "01_26",
+  "summary": "Ex libro sancti Hierónymi Presbýteri de Scriptóribus ecclesiásticis\n!Cap. 17\nPolycárpus, Joánnis Apóstoli discípulus et ab eo Smyrnæ epíscopus ordinátus, totíus Asiæ princeps fuit, quippe qui nonnúllos Apostolórum et eór",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/01-26.txt",
+  "source_section": "Lectio4",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

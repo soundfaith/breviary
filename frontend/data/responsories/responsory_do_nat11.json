@@ -1,0 +1,12 @@
+{
+  "id": "nat11",
+  "hour": "unspecified",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Tempora/Nat11.txt",
+  "source_section": "Responsory1",
+  "translation_status": "placeholder_latin",
+  "verse": "De Epístola ad Romános\n!Rom 15:1-4\n1 Debémus autem nos firmióres imbecillitátes infirmórum sustinére, et non nobis placére.\n2 Unusquísque vestrum próximo suo pláceat in bonum, ad ædificatiónem.\n3 Etenim Christus non sibi plácuit, sed sicut scriptum est: Impropéria improperántium tibi cecidérunt super me.\n4 Quæcúmque enim scripta sunt, ad nostram doctrínam scripta sunt: ut per patiéntiam et consolatiónem Scripturárum, spem habeámus.",
+  "response": "TBD",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

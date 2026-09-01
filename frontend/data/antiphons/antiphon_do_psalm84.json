@@ -1,0 +1,11 @@
+{
+  "id": "psalm84",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm84.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "84:2 Benedixísti, Dómine, terram tuam: * avertísti captivitátem Jacob.\n84:3 Remisísti iniquitátem plebis tuæ: * operuísti ómnia peccáta eórum.\n84:4 Mitigásti omnem iram tuam: * avertísti ab ira indignatiónis tuæ.\n84:5 Convérte nos, Deus, salutáris noster: * et avérte iram tuam a nobis.\n84:6 Numquid in ætérnum irascéris nobis? * aut exténdes iram tuam a generatióne in generatiónem?\n84:7 Deus, tu convérsus vivificábis nos: * et plebs tua lætábitur in te.\n84:8 Osténde nobis, Dómine, misericórdiam tuam: * et salutáre tuum da nobis.\n84:9 Áudiam quid loquátur in me Dóminus Deus: * quóniam loquétur pacem in plebem suam.\n84:9 Et super sanctos suos: * et in eos, qui convertúntur ad cor.\n84:10 Verúmtamen prope timéntes eum salutáre ipsíus: * ut inhábitet glória in terra nostra.\n84:11 Misericórdia, et véritas obviavérunt sibi: * justítia, et pax osculátæ sunt.\n84:12 Véritas de terra orta est: * et justítia de cælo prospéxit.\n84:13 Étenim Dóminus dabit benignitátem: * et terra nostra dabit fructum suum.\n84:14 Justítia ante eum ambulábit: * et ponet in via gressus suos.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

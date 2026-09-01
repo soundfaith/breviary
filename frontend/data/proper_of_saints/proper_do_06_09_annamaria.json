@@ -1,0 +1,18 @@
+{
+  "id": "06_09_annamaria",
+  "saint_id": "06_09_annamaria",
+  "summary": "Fidéles tuos, quǽsumus, Dómine, pio favore proséquere: ut, quibus in beáta Anna María ómnium domesticárum virtútum exémplum ostendísti; eosdem, ipsíus vestigis inhæréntes, júgiter in sanctis opéribus confirmare digneris.",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/Urbis/06-09-AnnaMaria.txt",
+  "source_section": "Oratio",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

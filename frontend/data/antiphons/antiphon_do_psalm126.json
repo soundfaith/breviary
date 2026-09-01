@@ -1,0 +1,11 @@
+{
+  "id": "psalm126",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm126.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "126:1a Nisi Dóminus ædificáverit domum, * in vanum laboravérunt qui ædíficant eam.\n126:1b Nisi Dóminus custodíerit civitátem, * frustra vígilat qui custódit eam.\n126:2a Vanum est vobis ante lucem súrgere: * súrgite postquam sedéritis, qui manducátis panem dolóris.\n126:2b Cum déderit diléctis suis somnum: * (3) ecce heréditas Dómini fílii: merces, fructus ventris.\n126:4 Sicut sagíttæ in manu poténtis: * ita fílii excussórum.\n126:5 Beátus vir, qui implévit desidérium suum ex ipsis: * non confundétur cum loquétur inimícis suis in porta.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

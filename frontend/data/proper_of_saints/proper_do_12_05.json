@@ -1,0 +1,18 @@
+{
+  "id": "12_05",
+  "saint_id": "12_05",
+  "summary": "S. Sabbæ Abbatis\n;;Simplex;;1.1;;vide C5b\nvide C5b;\nSabbæ",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/12-05.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

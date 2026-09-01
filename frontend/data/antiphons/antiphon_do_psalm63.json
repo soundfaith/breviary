@@ -1,0 +1,11 @@
+{
+  "id": "psalm63",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm63.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "63:2 Exáudi, Deus, oratiónem meam cum déprecor: * a timóre inimíci éripe ánimam meam.\n63:3 Protexísti me a convéntu malignántium: * a multitúdine operántium iniquitátem.\n63:4 Quia exacuérunt ut gládium linguas suas: * intendérunt arcum rem amáram, ut sagíttent in occúltis immaculátum.\n63:6 Súbito sagittábunt eum, et non timébunt: * firmavérunt sibi sermónem nequam.\n63:6 Narravérunt ut abscónderent láqueos: * dixérunt: Quis vidébit eos?\n63:7 Scrutáti sunt iniquitátes: * defecérunt scrutántes scrutínio.\n63:7 Accédet homo ad cor altum: * et exaltábitur Deus.\n63:8 Sagíttæ parvulórum factæ sunt plagæ eórum: * et infirmátæ sunt contra eos linguæ eórum.\n63:9 Conturbáti sunt omnes qui vidébant eos: * et tímuit omnis homo.\n63:10 Et annuntiavérunt ópera Dei, * et facta ejus intellexérunt.\n63:11 Lætábitur justus in Dómino, et sperábit in eo, * et laudabúntur omnes recti corde.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

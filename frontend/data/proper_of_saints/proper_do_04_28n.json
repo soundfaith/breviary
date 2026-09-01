@@ -1,0 +1,18 @@
+{
+  "id": "04_28n",
+  "saint_id": "04_28n",
+  "summary": "S. Peter Chanel, priest and martyr\n;;Duplex optional;;2;;vide C2a\nvide C2a;\nPetri",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/04-28n.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

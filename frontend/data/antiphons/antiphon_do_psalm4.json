@@ -1,0 +1,11 @@
+{
+  "id": "psalm4",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm4.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "4:2a Cum invocárem exaudívit me Deus justítiæ meæ: * in tribulatióne dilatásti mihi.\n4:2b Miserére mei, * et exáudi oratiónem meam.\n4:3 Fílii hóminum, úsquequo gravi corde? * ut quid dilígitis vanitátem, et quǽritis mendácium?\n4:4 Et scitóte quóniam mirificávit Dóminus sanctum suum: * Dóminus exáudiet me cum clamávero ad eum.\n4:5 Irascímini, et nolíte peccáre: ‡ quæ dícitis in córdibus vestris, * in cubílibus vestris compungímini.\n4:6 Sacrificáte sacrifícium justítiæ, † et speráte in Dómino. * Multi dicunt: Quis osténdit nobis bona?\n4:7 Signátum est super nos lumen vultus tui, Dómine: * dedísti lætítiam in corde meo.\n4:8 A fructu fruménti, vini, et ólei sui * multiplicáti sunt.\n4:9 In pace in idípsum * dórmiam, et requiéscam;\n4:10 Quóniam tu, Dómine, singuláriter in spe * constituísti me.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

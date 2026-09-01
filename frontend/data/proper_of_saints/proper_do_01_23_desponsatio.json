@@ -1,0 +1,18 @@
+{
+  "id": "01_23_desponsatio",
+  "saint_id": "01_23_desponsatio",
+  "summary": "Gloriósæ Vírginis Maríæ Desponsatiónem digníssimam recolámus, quæ et Genitrícis dignitátem obtínuit, et virginálem pudicítiam non amísit.",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/aliquibus locis/01-23-Desponsatio.txt",
+  "source_section": "Ant 1",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

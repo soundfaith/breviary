@@ -1,0 +1,11 @@
+{
+  "id": "psalm261",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm261.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum Isaiæ * Isa 2:2-3)\n2:2 Et erit in novíssimis diébus: præparátus mons domus Dómini * in vértice móntium,\n2:2 Et elevábitur super colles, * et fluent ad eum omnes gentes.\n2:3 et ibunt pópuli multi, et dicent: * Veníte, et ascendámus ad montem Dómini, et ad domum Dei Jacob,\n2:3 Et docébit nos vias suas, * et ambulábimus in sémitis ejus:\n2:3 Quia de Sion exíbit lex, * et verbum Dómini de Jerúsalem.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

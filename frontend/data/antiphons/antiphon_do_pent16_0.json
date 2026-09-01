@@ -1,0 +1,11 @@
+{
+  "id": "pent16_0",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Tempora/Pent16-0.txt",
+  "source_section": "Ant 2",
+  "translation_status": "placeholder_latin",
+  "text": "Cum intráret Jesus * in domum cujúsdam príncipis pharisæórum sábbato manducáre panem, ecce homo quidam hydrópicus erat ante illum: ipse vero apprehénsum sanávit eum, ac dimísit.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

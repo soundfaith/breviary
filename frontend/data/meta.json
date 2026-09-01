@@ -1,0 +1,14 @@
+{
+  "dataset": "SoundFaith English breviary dataset",
+  "version": 2,
+  "language": "English",
+  "source_policy": "Public-domain or original English only",
+  "generated_by": "generate_breviary_data.js",
+  "runtime_scraping": false,
+  "completeness_status": "Complete Douay-Rheims Psalm and chapter-reading corpus; hymn corpus and liturgical coverage require completion",
+  "known_source_blockers": [
+    "Knox Bible is not generally public domain and was replaced by Douay-Rheims",
+    "Hymn records require item-level provenance and full-text verification",
+    "Modern Roman Liturgy of the Hours proper texts are not public domain and are not reproduced"
+  ]
+}

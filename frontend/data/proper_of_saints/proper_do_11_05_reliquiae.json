@@ -1,0 +1,18 @@
+{
+  "id": "11_05_reliquiae",
+  "saint_id": "11_05_reliquiae",
+  "summary": "Auge in nobis Dómine resurrectiónis fidem, qui in sanctórum tuórum Relíquiis mirabília operaris: et fac nos immortális glóriæ partícipes, cujus in eórum cineribus pignora venerámur.\n$Per Dominum",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/aliquibus locis/11-05-Reliquiae.txt",
+  "source_section": "Oratio",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

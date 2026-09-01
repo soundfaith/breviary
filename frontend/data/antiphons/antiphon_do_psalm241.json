@@ -1,0 +1,11 @@
+{
+  "id": "psalm241",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm241.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum ejusdem * Isa 42:10-16)\n42:10 Cantáte Dómino cánticum novum, * laus ejus ab extrémis terræ,\n42:10 Qui descénditis in mare, et plenitúdo ejus: * ínsulæ, et habitatóres eárum.\n42:11 Sublevétur desértum et civitátes ejus * in dómibus habitábit Cedar.\n42:11 Laudáte, habitatóres Petræ: * de vértice móntium clamábunt.\n42:12 Ponent Dómino glóriam, * et laudem ejus in ínsulis nuntiábunt.\n42:13 Dóminus sicut fortis egrediétur, * sicut vir prœliátor suscitábit zelum:\n42:13 Vociferábitur, et clamábit: * super inimícos suos confortábitur.\n42:14 Tácui semper, sílui, pátiens fui: * sicut partúriens loquar.\n42:14 Dissipábo, et absorbébo simul. * desértos fáciam montes et colles, et omne gramen eórum exsiccábo.\n42:15 Et ponam flúmina in ínsulas, * et stagna arefáciam.\n42:16 Et ducam cæcos in viam quam nésciunt, * et in sémitis quas ignoravérunt ambuláre eos fáciam.\n42:16 Ponam ténebras coram eis in lucem, * et prava in recta.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

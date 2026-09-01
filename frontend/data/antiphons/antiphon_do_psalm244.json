@@ -1,0 +1,11 @@
+{
+  "id": "psalm244",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm244.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum Oseæ * Osea 6:1-6)\n6:1 Veníte, et revertámur ad Dóminum, † quia ipse cepit, et sanábit nos; * percútiet, et curábit nos.\n6:3 Vivificábit nos post duos dies; † in die tértia suscitábit nos, * et vivémus in conspéctu ejus.\n6:3 Sciémus, sequemúrque, * ut cognoscámus Dóminum.\n6:3 Quasi dilúculum præparátus est egréssus ejus, * et véniet quasi imber nobis temporáneus et serótinus terræ.\n6:4 Quid fáciam tibi, Ephraim? quid fáciam tibi, Juda? † misericórdia vestra quasi nubes matutína, * et quasi ros mane pertránsiens.\n6:5 Propter hoc dolávi in prophétis; † occídi eos in verbis oris mei: * et judícia tua quasi lux egrediéntur.\n6:6 Quia misericórdiam vólui, et non sacrifícium; * et sciéntiam Dei plus quam holocáusta.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

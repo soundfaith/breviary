@@ -1,0 +1,11 @@
+{
+  "id": "psalm117",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm117.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "117:1 Confitémini Dómino quóniam bonus: * quóniam in sǽculum misericórdia ejus.\n117:2 Dicat nunc Israël quóniam bonus: * quóniam in sǽculum misericórdia ejus.\n117:3 Dicat nunc domus Aaron: * quóniam in sǽculum misericórdia ejus.\n117:4 Dicant nunc qui timent Dóminum: * quóniam in sǽculum misericórdia ejus.\n117:5 De tribulatióne invocávi Dóminum: * et exaudívit me in latitúdine Dóminus.\n117:6 Dóminus mihi adjútor: * non timébo quid fáciat mihi homo.\n117:7 Dóminus mihi adjútor: * et ego despíciam inimícos meos.\n117:8 Bonum est confídere in Dómino, * quam confídere in hómine:\n117:9 Bonum est speráre in Dómino, * quam speráre in princípibus.\n117:10 Omnes gentes circuiérunt me: * et in nómine Dómini quia ultus sum in eos.\n117:11 Circumdántes circumdedérunt me: * et in nómine Dómini quia ultus sum in eos.\n117:12 Circumdedérunt me sicut apes, † et exarsérunt sicut ignis in spinis: * et in nómine Dómini quia ultus sum in eos.\n117:13 Impúlsus evérsus sum ut cáderem: * et Dóminus suscépit me.\n117:14 Fortitúdo mea, et laus mea Dóminus: * et factus est mihi in salútem.\n117:15 Vox exsultatiónis, et salútis * in tabernáculis justórum.\n117:16 Déxtera Dómini fecit virtútem: † déxtera Dómini exaltávit me, * déxtera Dómini fecit virtútem.\n117:17 Non móriar, sed vivam: * et narrábo ópera Dómini.\n117:18 Castígans castigávit me Dóminus: * et morti non trádidit me.\n117:19 Aperíte mihi portas justítiæ, † ingréssus in eas confitébor Dómino: * (20) hæc porta Dómini, justi intrábunt in eam.\n117:21 Confitébor tibi quóniam exaudísti me: * et factus es mihi in salútem.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

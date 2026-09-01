@@ -1,0 +1,18 @@
+{
+  "id": "12_13bmv",
+  "saint_id": "12_13bmv",
+  "summary": "De VI die infra Octavam Concept. Immac. Beatæ Mariæ Virginis;;Semiduplex;;2.19;;vide Sancti/12-08\nvide Sancti/12-08;\nDoxology=Nat",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/12-13bmv.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

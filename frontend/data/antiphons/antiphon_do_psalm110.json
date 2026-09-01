@@ -1,0 +1,11 @@
+{
+  "id": "psalm110",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm110.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "110:1 Confitébor tibi, Dómine, in toto corde meo: * in consílio justórum, et congregatióne.\n110:2 Magna ópera Dómini: * exquisíta in omnes voluntátes ejus.\n110:3 Conféssio et magnificéntia opus ejus: * et justítia ejus manet in sǽculum sǽculi.\n110:4 Memóriam fecit mirabílium suórum, † miséricors et miserátor Dóminus: * (5a) escam dedit timéntibus se.\n110:5b Memor erit in sǽculum testaménti sui: * (6) virtútem óperum suórum annuntiábit pópulo suo:\n110:7 Ut det illis hereditátem géntium: * ópera mánuum ejus véritas, et judícium.\n110:8 Fidélia ómnia mandáta ejus: † confirmáta in sǽculum sǽculi, * facta in veritáte et æquitáte.\n110:9a Redemptiónem misit pópulo suo: * mandávit in ætérnum testaméntum suum.\n110:9b (fit reverentia) Sanctum, et terríbile nomen ejus: * (10a) inítium sapiéntiæ timor Dómini.\n110:10b Intelléctus bonus ómnibus faciéntibus eum: * laudátio ejus manet in sǽculum sǽculi.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c4c_1",
+  "hour": "unspecified",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Commune/aliquibus locis/C4c-1.txt",
+  "source_section": "Oratio",
+  "translation_status": "placeholder_latin",
+  "text": "Ecclésiam tuam, Dómine, beatórum N. et N. Confessórum tuórum atque Pontíficum continua protectióne custódi: ut, sicut illos pastorális sollicitúdo gloriosos réddidit; ita nos eórum intercessio in tuo semper fáciat amóre ferventes.\n$Per Dominum",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "psalm118",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm118.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "118:1 (Aleph) Beáti immaculáti in via: * qui ámbulant in lege Dómini.\n118:2 Beáti, qui scrutántur testimónia ejus: * in toto corde exquírunt eum.\n118:3 Non enim qui operántur iniquitátem, * in viis ejus ambulavérunt.\n118:4 Tu mandásti * mandáta tua custodíri nimis.\n118:5 Útinam dirigántur viæ meæ, * ad custodiéndas justificatiónes tuas!\n118:6 Tunc non confúndar, * cum perspéxero in ómnibus mandátis tuis.\n118:7 Confitébor tibi in directióne cordis: * in eo quod dídici judícia justítiæ tuæ.\n118:8 Justificatiónes tuas custódiam: * non me derelínquas usquequáque.\n118:9 (Beth) In quo córrigit adolescéntior viam suam? * In custodiéndo sermónes tuos.\n118:10 In toto corde meo exquisívi te: * ne repéllas me a mandátis tuis.\n118:11 In corde meo abscóndi elóquia tua: * ut non peccem tibi.\n118:12 Benedíctus es, Dómine: * doce me justificatiónes tuas.\n118:13 In lábiis meis, * pronuntiávi ómnia judícia oris tui.\n118:14 In via testimoniórum tuórum delectátus sum, * sicut in ómnibus divítiis.\n118:15 In mandátis tuis exercébor: * et considerábo vias tuas.\n118:16 In justificatiónibus tuis meditábor: * non oblivíscar sermónes tuos.\n118:17 (Ghimel) Retríbue servo tuo, vivífica me: * et custódiam sermónes tuos:\n118:18 Revéla óculos meos: * et considerábo mirabília de lege tua.\n118:19 Íncola ego sum in terra: * non abscóndas a me mandáta tua.\n118:20 Concupívit ánima mea desideráre justificatiónes tuas, * in omni témpore.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c2b",
+  "hour": "unspecified",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Commune/C2b.txt",
+  "source_section": "Oratio",
+  "translation_status": "placeholder_latin",
+  "text": "Commune unius Summi Pontificis et Martyris\nPrefatio=Apostolis\nGregem tuum, Pastor ætérne, placátus inténde: et, per beátum N. Mártyrem tuum atque Summum Pontíficem, perpétua protectióne custódi; quem totíus Ecclésiæ præstitísti esse pastórem.\n$Per Dominum\nDeus, qui Ecclésiam tuam, in apostólicæ petræ soliditáte fundátam, ab infernárum éruis terróre portárum: præsta, quǽsumus; ut, intercedénte beáto N. Mártyre tuo atque Summo Pontífice, in tua veritáte persístens, contínua securitáte muniátur.\n$Per Dominum.\nMultíplica, quǽsumus, Dómine, in Ecclésia tua spíritum grátiæ, quem dedísti: ut beáti N. Mártyris tui atque Summi Pontíficis deprecatióne nec pastóri obœdiéntia gregis nec gregi desit cura pastóris.\n$Per Dominum",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

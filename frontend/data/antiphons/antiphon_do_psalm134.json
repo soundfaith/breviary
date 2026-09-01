@@ -1,0 +1,11 @@
+{
+  "id": "psalm134",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm134.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "134:1 Laudáte nomen Dómini, * laudáte, servi, Dóminum.\n134:2 Qui statis in domo Dómini, * in átriis domus Dei nostri.\n134:3 Laudáte Dóminum, quia bonus Dóminus: * psállite nómini ejus, quóniam suáve.\n134:4 Quóniam Jacob elégit sibi Dóminus, * Israël in possessiónem sibi.\n134:5 Quia ego cognóvi quod magnus est Dóminus, * et Deus noster præ ómnibus diis.\n134:6 Ómnia quæcúmque vóluit, Dóminus fecit in cælo, et in terra, * in mari, et in ómnibus abýssis.\n134:7a Edúcens nubes ab extrémo terræ: * fúlgura in plúviam fecit.\n134:7b Qui prodúcit ventos de thesáuris suis: * (8) qui percússit primogénita Ægýpti ab hómine usque ad pecus.\n134:9 Et misit signa, et prodígia in médio tui, Ægýpte: * in Pharaónem, et in omnes servos ejus.\n134:10 Qui percússit gentes multas: * et occídit reges fortes:\n134:11 Sehon, regem Amorrhæórum, et Og, regem Basan, * et ómnia regna Chánaan.\n134:12 Et dedit terram eórum hereditátem, * hereditátem Israël, pópulo suo.\n134:13 Dómine, nomen tuum in ætérnum: * Dómine, memoriále tuum in generatiónem et generatiónem.\n134:14 Quia judicábit Dóminus pópulum suum: * et in servis suis deprecábitur.\n134:15 Simulácra géntium argéntum, et aurum, * ópera mánuum hóminum.\n134:16 Os habent, et non loquéntur: * óculos habent, et non vidébunt.\n134:17 Aures habent, et non áudient: * neque enim est spíritus in ore ipsórum.\n134:18 Símiles illis fiant qui fáciunt ea: * et omnes qui confídunt in eis.\n134:19 Domus Israël, benedícite Dómino: * domus Aaron, benedícite Dómino.\n134:20 Domus Levi, benedícite Dómino: * qui timétis Dóminum, benedícite Dómino.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

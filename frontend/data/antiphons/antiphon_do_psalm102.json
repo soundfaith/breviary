@@ -1,0 +1,11 @@
+{
+  "id": "psalm102",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm102.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "102:1 Bénedic, ánima mea, Dómino: * et ómnia, quæ intra me sunt, nómini sancto ejus.\n102:2 Bénedic, ánima mea, Dómino: * et noli oblivísci omnes retributiónes ejus.\n102:3 Qui propitiátur ómnibus iniquitátibus tuis: * qui sanat omnes infirmitátes tuas.\n102:4 Qui rédimit de intéritu vitam tuam: * qui corónat te in misericórdia et miseratiónibus.\n102:5 Qui replet in bonis desidérium tuum: * renovábitur ut áquilæ juvéntus tua:\n102:6 Fáciens misericórdias Dóminus: * et judícium ómnibus injúriam patiéntibus.\n102:7 Notas fecit vias suas Móysi, * fíliis Israël voluntátes suas.\n102:8 Miserátor, et miséricors Dóminus: * longánimis, et multum miséricors.\n102:9 Non in perpétuum irascétur: * neque in ætérnum comminábitur.\n102:10 Non secúndum peccáta nostra fecit nobis: * neque secúndum iniquitátes nostras retríbuit nobis.\n102:11 Quóniam secúndum altitúdinem cæli a terra: * corroborávit misericórdiam suam super timéntes se.\n102:12 Quantum distat ortus ab occidénte: * longe fecit a nobis iniquitátes nostras.\n102:13 Quómodo miserétur pater filiórum, misértus est Dóminus timéntibus se: * quóniam ipse cognóvit figméntum nostrum.\n102:14 Recordátus est quóniam pulvis sumus: * homo, sicut fænum dies ejus, tamquam flos agri sic efflorébit.\n102:16 Quóniam spíritus pertransíbit in illo, et non subsístet: * et non cognóscet ámplius locum suum.\n102:17 Misericórdia autem Dómini ab ætérno, * et usque in ætérnum super timéntes eum.\n102:17 Et justítia illíus in fílios filiórum, * his qui servant testaméntum ejus:\n102:18 Et mémores sunt mandatórum ipsíus, * ad faciéndum ea.\n102:19 Dóminus in cælo parávit sedem suam: * et regnum ipsíus ómnibus dominábitur.\n102:20 Benedícite Dómino, omnes Ángeli ejus: * poténtes virtúte, faciéntes verbum illíus, ad audiéndam vocem sermónum ejus.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

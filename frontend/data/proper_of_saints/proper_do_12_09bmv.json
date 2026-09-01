@@ -1,0 +1,18 @@
+{
+  "id": "12_09bmv",
+  "saint_id": "12_09bmv",
+  "summary": "Ex Bulla dogmatica Pii Papæ IX\n_\nIneffabilis Deus, cujus viæ misericordia et veritas, cujus voluntas omnipotentia, et cujus sapientia attingit a fine usque ad finem fortiter, et disponit omnia suaviter, cum ab omni ætern",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/12-09bmv.txt",
+  "source_section": "Ant Vespera",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

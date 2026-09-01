@@ -1,0 +1,11 @@
+{
+  "id": "psalm249",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm249.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum Ecclesiasticæ * Eccli 39:17-21)\n39:17 Obaudíte me, divíni fructus, * et quasi rosa plantáta super rivos aquárum fructificáte.\n39:18 Quasi Líbanus * odórem suavitátis habéte.\n39:19 Floréte flores, quasi lílium, et date odórem, † et frondéte in grátiam; et collaudáte cánticum, * et benedícite Dóminum in opéribus suis.\n39:20 Date nómini ejus magnificéntiam, † et confitémini illi in voce labiórum vestrórum, * et in cánticis labiórum, et cítharis;\n39:21 Et sic dicétis in confessióne: * Opera Dómini univérsa bona valde.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

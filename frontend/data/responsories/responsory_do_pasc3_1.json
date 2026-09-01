@@ -1,0 +1,12 @@
+{
+  "id": "pasc3_1",
+  "hour": "unspecified",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Tempora/Pasc3-1.txt",
+  "source_section": "Responsory1",
+  "translation_status": "placeholder_latin",
+  "verse": "R. Vidi portam civitátis ad Oriéntem pósitam, et Apostolórum nómina et Agni super eam scripta:\n* Et super muros ejus Angelórum custódiam, allelúja.\nV. Vidi cælum novum, et terram novam, et civitátem novam descendéntem de cælo.\nR. Et super muros ejus Angelórum custódiam, allelúja.",
+  "response": "TBD",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

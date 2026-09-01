@@ -1,0 +1,11 @@
+{
+  "id": "psalm105",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm105.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "105:1 Confitémini Dómino, quóniam bonus: * quóniam in sǽculum misericórdia ejus.\n105:2 Quis loquétur poténtias Dómini, * audítas fáciet omnes laudes ejus?\n105:3 Beáti, qui custódiunt judícium, * et fáciunt justítiam in omni témpore.\n105:4 Meménto nostri, Dómine, in beneplácito pópuli tui: * vísita nos in salutári tuo:\n105:5 Ad vidéndum in bonitáte electórum tuórum, ad lætándum in lætítia gentis tuæ: * ut laudéris cum hereditáte tua.\n105:6 Peccávimus cum pátribus nostris: * injúste égimus, iniquitátem fécimus.\n105:7 Patres nostri in Ægýpto non intellexérunt mirabília tua: * non fuérunt mémores multitúdinis misericórdiæ tuæ.\n105:7 Et irritavérunt ascendéntes in mare, * Mare Rubrum.\n105:8 Et salvávit eos propter nomen suum: * ut notam fáceret poténtiam suam.\n105:9 Et incrépuit Mare Rubrum, et exsiccátum est, * et dedúxit eos in abýssis sicut in desérto.\n105:10 Et salvávit eos de manu odiéntium: * et redémit eos de manu inimíci.\n105:11 Et opéruit aqua tribulántes eos: * unus ex eis non remánsit.\n105:12 Et credidérunt verbis ejus: * et laudavérunt laudem ejus.\n105:13 Cito fecérunt, oblíti sunt óperum ejus: * et non sustinuérunt consílium ejus.\n105:14 Et concupiérunt concupiscéntiam in desérto: * et tentavérunt Deum in inaquóso.\n105:15 Et dedit eis petitiónem ipsórum: * et misit saturitátem in ánimas eórum.\n105:16 Et irritavérunt Móysen in castris: * Aaron, sanctum Dómini.\n105:17 Apérta est terra, et deglutívit Dathan: * et opéruit super congregatiónem Abíron.\n105:18 Et exársit ignis in synagóga eórum * flamma combússit peccatóres.\n105:19 Et fecérunt vítulum in Horeb * et adoravérunt scúlptile.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

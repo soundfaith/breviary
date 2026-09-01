@@ -1,0 +1,15 @@
+{
+  "id": "compline",
+  "hour": "compline",
+  "elements": [
+    "hymn",
+    "psalmody_block_1",
+    "psalmody_block_2",
+    "short_reading",
+    "responsory_1",
+    "gospel_canticle_nunc_dimittis",
+    "gospel_canticle_antiphon",
+    "concluding_prayer",
+    "blessing"
+  ]
+}

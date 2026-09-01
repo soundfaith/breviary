@@ -1,0 +1,18 @@
+{
+  "id": "02_13_gregoriusii",
+  "saint_id": "02_13_gregoriusii",
+  "summary": "Gregórius, hujus nóminis secúndus, natióne Románus, patre Marcéllo, anno Christi septingentésimo décimo quarto, mirábili totíus cleri et pópuli concórdia, ad suprémum Ecclésiæ cathólicæ pontificátum evéctus est. Hic a pu",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/Urbis/02-13-GregoriusII.txt",
+  "source_section": "Lectio4",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

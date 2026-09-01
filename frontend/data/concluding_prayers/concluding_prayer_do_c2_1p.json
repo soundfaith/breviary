@@ -1,0 +1,11 @@
+{
+  "id": "c2_1p",
+  "hour": "unspecified",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Commune/C2-1p.txt",
+  "source_section": "Oratio",
+  "translation_status": "placeholder_latin",
+  "text": "@Commune/C2-1",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

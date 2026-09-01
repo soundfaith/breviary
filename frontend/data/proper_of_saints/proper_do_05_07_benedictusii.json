@@ -1,0 +1,18 @@
+{
+  "id": "05_07_benedictusii",
+  "saint_id": "05_07_benedictusii",
+  "summary": "Benedíctus hujus nóminis secúndus, Romdnusgenere, patre Joánne ortus, post Leónis secúndi óbitum ad munus Apostolicum assúmptus est, anno Christi sexcentésimo octogésimo quarto, et suprémum christiánæ rei publicæ clavum ",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/Urbis/05-07-BenedictusII.txt",
+  "source_section": "Lectio4",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

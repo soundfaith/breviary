@@ -1,0 +1,10 @@
+{
+  "id": "major_special",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Special/Major Special.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "v. Benedíctio, et cláritas, et sapiéntia, et gratiárum áctio, honor, virtus, et fortitúdo Deo nostro in sǽcula sæculórum. Amen.\n$Deo gratias\nR.br. Inclína cor meum, Deus, * In testimónia tua.\nR. Inclína cor meum, Deus, * In testimónia tua.\nV. Avérte óculos meos, ne vídeant vanitátem: in via tua vivífica me.\nR. In testimónia tua.\nR. Inclína cor meum, Deus, * in testimónia tua.\nR.br. Hæc est dies * Quam fecit Dóminus.\nR. Hæc est dies * Quam fecit Dóminus.\nV. Exultémus et lætemur in ea.\nR. Quam fecit Dóminus.\nR. Hæc est dies * Quam fecit Dóminus.\n(sed rubrica cisterciensis)\n{:H-Ecceiamnoctis:}v. Ecce, jam noctis tenuátur umbra,\nLux et auróræ rútilans corúscat:\nSúpplices rerum Dóminum canóra\nVoce precémur:\n_\nUt reos culpæ miserátus omnem\nPellat angórem, tríbuat salútem,",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

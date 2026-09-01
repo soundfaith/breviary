@@ -1,0 +1,11 @@
+{
+  "id": "psalm93",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm93.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "93:1 Deus ultiónum Dóminus: * Deus ultiónum líbere egit.\n93:2 Exaltáre, qui júdicas terram: * redde retributiónem supérbis.\n93:3 Úsquequo peccatóres, Dómine, * úsquequo peccatóres gloriabúntur:\n93:4 Effabúntur, et loquéntur iniquitátem: * loquéntur omnes, qui operántur injustítiam?\n93:5 Pópulum tuum, Dómine, humiliavérunt: * et hereditátem tuam vexavérunt.\n93:6 Víduam, et ádvenam interfecérunt: * et pupíllos occidérunt.\n93:7 Et dixérunt: Non vidébit Dóminus, * nec intélleget Deus Jacob.\n93:8 Intellégite, insipiéntes in pópulo: * et stulti, aliquándo sápite.\n93:9 Qui plantávit aurem, non áudiet? * aut qui finxit óculum, non consíderat?\n93:10 Qui córripit gentes, non árguet: * qui docet hóminem sciéntiam?\n93:11 Dóminus scit cogitatiónes hóminum, * quóniam vanæ sunt.\n93:12 Beátus homo, quem tu erudíeris, Dómine: * et de lege tua docúeris eum,\n93:13 Ut mítiges ei a diébus malis: * donec fodiátur peccatóri fóvea.\n93:14 Quia non repéllet Dóminus plebem suam: * et hereditátem suam non derelínquet.\n93:15 Quoadúsque justítia convertátur in judícium: * et qui juxta illam omnes qui recto sunt corde.\n93:16 Quis consúrget mihi advérsus malignántes? * aut quis stabit mecum advérsus operántes iniquitátem?\n93:17 Nisi quia Dóminus adjúvit me: * paulo minus habitásset in inférno ánima mea.\n93:18 Si dicébam: Motus est pes meus: * misericórdia tua, Dómine, adjuvábat me.\n93:19 Secúndum multitúdinem dolórum meórum in corde meo: * consolatiónes tuæ lætificavérunt ánimam meam.\n93:20 Numquid adhǽret tibi sedes iniquitátis: * qui fingis labórem in præcépto?",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

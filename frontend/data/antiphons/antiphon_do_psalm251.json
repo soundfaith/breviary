@@ -1,0 +1,11 @@
+{
+  "id": "psalm251",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm251.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum Isaiæ * Isa 62:4-7)\n62:4 Non vocáberis ultra Derelícta, * et terra tua non vocábitur ámplius Desoláta:\n62:4 Sed vocáberis, Volúntas mea in ea, * et terra tua inhabitáta:\n62:4 Quia complácuit Dómino in te: * et terra tua inhabitábitur.\n62:5 Habitábit enim júvenis cum vírgine, * et habitábunt in te fílii tui:\n62:5 Et gaudébit sponsus super sponsam, * et gaudébit super te Deus tuus.\n62:6 Super muros tuos, Jerúsalem, constítui custódes; * tota die et tota nocte in perpétuum non tacébunt.\n62:6 Qui reminiscímini Dómini, ne taceátis, † et ne detis siléntium ei, * donec stabíliat et donec ponat Jerúsalem laudem in terra.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

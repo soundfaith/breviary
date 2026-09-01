@@ -1,0 +1,11 @@
+{
+  "id": "psalm59",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm59.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "59:3 Deus, repulísti nos, et destruxísti nos: * irátus es, et misértus es nobis.\n59:4 Commovísti terram, et conturbásti eam: * sana contritiónes ejus, quia commóta est.\n59:5 Ostendísti pópulo tuo dura: * potásti nos vino compunctiónis.\n59:6 Dedísti metuéntibus te significatiónem: * ut fúgiant a fácie arcus:\n59:7 Ut liberéntur dilécti tui: * salvum fac déxtera tua, et exáudi me.\n59:8 Deus locútus est in sancto suo: * lætábor, et partíbor Síchimam: et convállem tabernaculórum metíbor.\n59:9 Meus est Gálaad, et meus est Manásses: * et Éphraim fortitúdo cápitis mei.\n59:9 Juda rex meus: * Moab olla spei meæ.\n59:10 In Idumǽam exténdam calceaméntum meum: * mihi alienígenæ súbditi sunt.\n59:11 Quis dedúcet me in civitátem munítam? * quis dedúcet me usque in Idumǽam?\n59:12 Nonne tu, Deus, qui repulísti nos? * et non egrediéris, Deus, in virtútibus nostris?\n59:13 Da nobis auxílium de tribulatióne: * quia vana salus hóminis.\n59:14 In Deo faciémus virtútem: * et ipse ad níhilum dedúcet tribulántes nos.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

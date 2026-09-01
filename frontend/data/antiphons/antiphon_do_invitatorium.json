@@ -1,0 +1,11 @@
+{
+  "id": "invitatorium",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Invitatorium.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "$ant\n$ant\nv. Veníte, exsultémus Dómino, + jubilémus Deo, salutári nostro: * præoccupémus fáciem ejus in confessióne, et in psalmis jubilémus ei.\n$ant\nv. Quóniam Deus magnus Dóminus, et Rex magnus super omnes deos, = quóniam non repéllet Dóminus plebem suam: quia in manu ejus sunt omnes fines terræ, et altitúdines móntium ipse cónspicit.\n$ant2\nv. Quóniam ipsíus est mare, et ipse fecit illud, et áridam fundavérunt manus ejus /:(genuflectitur):/ veníte, adorémus, et procidámus ante Deum: plorémus coram Dómino, qui fecit nos, quia ipse est Dóminus, Deus noster; nos autem pópulus ejus, et oves páscuæ ejus.\n$ant\nv. Hódie, si vocem ejus audiéritis, nolíte obduráre corda vestra, ^ sicut in exacerbatióne secúndum diem tentatiónis in desérto: ubi tentavérunt me patres vestri, probavérunt et vidérunt ópera mea.\n$ant2\nv. Quadragínta annis próximus fui generatióni huic, et dixi: _ Semper hi errant corde, _ ipsi vero non cognovérunt vias meas: quibus jurávi in ira mea: Si introíbunt in réquiem meam.\n$ant\n$ant2\n$ant",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

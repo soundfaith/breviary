@@ -1,0 +1,11 @@
+{
+  "id": "psalm108",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm108.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "108:2 Deus, laudem meam ne tacúeris: * quia os peccatóris, et os dolósi super me apértum est.\n108:3 Locúti sunt advérsum me lingua dolósa, et sermónibus ódii circumdedérunt me: * et expugnavérunt me gratis.\n108:4 Pro eo ut me dilígerent, detrahébant mihi: * ego autem orábam.\n108:5 Et posuérunt advérsum me mala pro bonis: * et ódium pro dilectióne mea.\n108:6 Constítue super eum peccatórem: * et diábolus stet a dextris ejus.\n108:7 Cum judicátur, éxeat condemnátus: * et orátio ejus fiat in peccátum.\n108:8 Fiant dies ejus pauci: * et episcopátum ejus accípiat alter.\n108:9 Fiant fílii ejus órphani: * et uxor ejus vídua.\n108:10 Nutántes transferántur fílii ejus, et mendícent: * et eiciántur de habitatiónibus suis.\n108:11 Scrutétur fænerátor omnem substántiam ejus: * et dirípiant aliéni labóres ejus.\n108:12 Non sit illi adjútor: * nec sit qui misereátur pupíllis ejus.\n108:13 Fiant nati ejus in intéritum: * in generatióne una deleátur nomen ejus.\n108:14 In memóriam rédeat iníquitas patrum ejus in conspéctu Dómini: * et peccátum matris ejus non deleátur.\n108:15 Fiant contra Dóminum semper, et dispéreat de terra memória eórum: * pro eo quod non est recordátus fácere misericórdiam.\n108:17 Et persecútus est hóminem ínopem, et mendícum, * et compúnctum corde mortificáre.\n108:18 Et diléxit maledictiónem, et véniet ei: * et nóluit benedictiónem, et elongábitur ab eo.\n108:18 Et índuit maledictiónem sicut vestiméntum, * et intrávit sicut aqua in interióra ejus, et sicut óleum in óssibus ejus.\n108:19 Fiat ei sicut vestiméntum, quo operítur: * et sicut zona, qua semper præcíngitur.\n108:20 Hoc opus eórum, qui détrahunt mihi apud Dóminum: * et qui loquúntur mala advérsus ánimam meam.\n108:21 Et tu, Dómine, Dómine, fac mecum propter nomen tuum: * quia suávis est misericórdia tua.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

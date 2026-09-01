@@ -1,0 +1,18 @@
+{
+  "id": "12_31o",
+  "saint_id": "12_31o",
+  "summary": "Cui Imperatori, cum lepræ curandæ causa, sibi ex infantium sanguine, medicorum consilio, balneum parari jussisset, sancti Apostoli Petrus et Paulus in quiete apparuerunt, præcipientes ei, ut si ex lepra liberari vellet, ",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/12-31o.txt",
+  "source_section": "Lectio4",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

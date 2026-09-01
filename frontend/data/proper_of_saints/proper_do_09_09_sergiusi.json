@@ -1,0 +1,18 @@
+{
+  "id": "09_09_sergiusi",
+  "saint_id": "09_09_sergiusi",
+  "summary": "Sérgius, Antiochénus génere, Tiberio patre, Panormi in Sicília natus, Conone vita functo, anno Christi sexcentésimo octogésimo séptimo, anuente Deo, et suffragántibus ómnium votis, in sacro Lateranénsi palatio assúmptus,",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/Urbis/09-09-SergiusI.txt",
+  "source_section": "Lectio4",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "05_19o",
+  "saint_id": "05_19o",
+  "summary": "S. Pudentianæ Virginis\n;;Simplex;;1.1;;vide C6a\nvide C6a;\nPudentiánæ\nPudentiana virgo, Pudentis Romani filia, parentibus orbata, cum admirabili pietate christianam religionem coleret, una cum sorore Praxede pecuniam ex v",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/05-19o.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "psalm257",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm257.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum Jeremiæ * Jer 17:7-8)\n17:7 Benedíctus vir qui confídit in Dómino, * et erit Dóminus fidúcia ejus.\n17:8 Et erit quasi lignum quod transplantátur super aquas, † quod ad humórem mittit radíces suas, * et non timébit cum vénerit æstus.\n17:8 Et erit fólium ejus víride, † et in témpore siccitátis non erit sollícitum, * nec aliquándo désinet fácere fructum.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

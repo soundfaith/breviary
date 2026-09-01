@@ -1,0 +1,11 @@
+{
+  "id": "c7a",
+  "hour": "unspecified",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Commune/C7a.txt",
+  "source_section": "Oratio",
+  "translation_status": "placeholder_latin",
+  "text": "Exáudi nos, Deus, salutáris noster: ut sicut de beátæ N. festivitáte gaudémus; ita piæ devotiónis erudiámur afféctu.\n$Per Dominum",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

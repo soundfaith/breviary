@@ -1,0 +1,11 @@
+{
+  "id": "psalm234",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm234.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum Quicumque * Symbolum Athanasium)\nQuicúmque vult salvus esse, * ante ómnia opus est, ut téneat cathólicam fidem:\nQuam nisi quisque íntegram inviolatámque serváverit, * absque dúbio in ætérnum períbit.\nFides autem cathólica hæc est: * ut unum Deum in Trinitáte, et Trinitátem in unitáte venerémur.\nNeque confundéntes persónas, * neque substántiam separántes.\nAlia est enim persóna Patris, ália Fílii, * ália Spíritus Sancti:\nSed Patris, et Fílii, et Spíritus Sancti una est divínitas, * æquális glória, coætérna majéstas.\nQualis Pater, talis Fílius, * talis Spíritus Sanctus.\nIncreátus Pater, increátus Fílius, * increátus Spíritus Sanctus.\nImménsus Pater, imménsus Fílius, * imménsus Spíritus Sanctus.\nÆtérnus Pater, ætérnus Fílius, * ætérnus Spíritus Sanctus.\nEt tamen non tres ætérni, * sed unus ætérnus.\nSicut non tres increáti, nec tres imménsi, * sed unus increátus, et unus imménsus.\nSimíliter omnípotens Pater, omnípotens Fílius, * omnípotens Spíritus Sanctus.\nEt tamen non tres omnipoténtes, * sed unus omnípotens.\nIta Deus Pater, Deus Fílius, * Deus Spíritus Sanctus.\nEt tamen non tres Dii, * sed unus est Deus.\nIta Dóminus Pater, Dóminus Fílius, * Dóminus Spíritus Sanctus.\nEt tamen non tres Dómini, * sed unus est Dóminus.\nQuia, sicut singillátim unamquámque persónam Deum ac Dóminum confitéri christiána veritáte compéllimur: * ita tres Deos aut Dóminos dícere cathólica religióne prohibémur.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

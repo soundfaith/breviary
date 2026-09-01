@@ -1,0 +1,18 @@
+{
+  "id": "06_17r",
+  "saint_id": "06_17r",
+  "summary": "Deus, qui beátum Gregórium Confessórem tuum atque Pontíficem pastoráli sollicitúdine, et páuperum miseratióne claréscere voluísti: concéde propítius; ut, cujus mérita celebrámus, caritátis imitémur exémpla.\n$Per Dominum",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/06-17r.txt",
+  "source_section": "Oratio",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

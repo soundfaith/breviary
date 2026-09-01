@@ -1,0 +1,11 @@
+{
+  "id": "psalm86",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm86.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "86:1 Fundaménta ejus in móntibus sanctis: * díligit Dóminus portas Sion super ómnia tabernácula Jacob.\n86:3 Gloriósa dicta sunt de te, * cívitas Dei.\n86:4 Memor ero Rahab, et Babylónis * sciéntium me.\n86:4 Ecce, alienígenæ, et Tyrus, et pópulus Æthíopum, * hi fuérunt illic.\n86:5 Numquid Sion dicet: Homo, et homo natus est in ea: * et ipse fundávit eam Altíssimus?\n86:6 Dóminus narrábit in scriptúris populórum, et príncipum: * horum, qui fuérunt in ea.\n86:7 Sicut lætántium ómnium * habitátio est in te.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

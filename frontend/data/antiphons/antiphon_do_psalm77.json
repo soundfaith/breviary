@@ -1,0 +1,11 @@
+{
+  "id": "psalm77",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm77.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "77:1 Atténdite, pópule meus, legem meam: * inclináte aurem vestram in verba oris mei.\n77:2 Apériam in parábolis os meum: * loquar propositiónes ab inítio.\n77:3 Quanta audívimus et cognóvimus ea: * et patres nostri narravérunt nobis.\n77:4 Non sunt occultáta a fíliis eórum: * in generatióne áltera.\n77:4 Narrántes laudes Dómini, et virtútes ejus: * et mirabília ejus, quæ fecit.\n77:5 Et suscitávit testimónium in Jacob: * et legem pósuit in Israël.\n77:5 Quanta mandávit pátribus nostris nota fácere ea fíliis suis: * ut cognóscat generátio áltera.\n77:6 Fílii qui nascéntur, et exsúrgent, * et narrábunt fíliis suis.\n77:7 Ut ponant in Deo spem suam, et non obliviscántur óperum Dei: * et mandáta ejus exquírant.\n77:8 Ne fiant sicut patres eórum: * generátio prava et exásperans.\n77:8 Generátio, quæ non diréxit cor suum: * et non est créditus cum Deo spíritus ejus.\n77:9 Fílii Ephrem intendéntes et mitténtes arcum: * convérsi sunt in die belli.\n77:10 Non custodiérunt testaméntum Dei: * et in lege ejus noluérunt ambuláre.\n77:11 Et oblíti sunt benefactórum ejus: * et mirabílium ejus quæ osténdit eis.\n77:12 Coram pátribus eórum fecit mirabília in terra Ægýpti: * in campo Táneos.\n77:13 Interrúpit mare, et perdúxit eos: * et státuit aquas quasi in utre.\n77:14 Et dedúxit eos in nube diéi: * et tota nocte in illuminatióne ignis.\n77:15 Interrúpit petram in erémo: * et adaquávit eos velut in abýsso multa.\n77:16 Et edúxit aquam de petra: * et dedúxit tamquam flúmina aquas.\n77:17 Et apposuérunt adhuc peccáre ei: * in iram excitavérunt Excélsum in inaquóso.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

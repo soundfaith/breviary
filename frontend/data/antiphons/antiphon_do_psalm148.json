@@ -1,0 +1,11 @@
+{
+  "id": "psalm148",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm148.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "148:1 Laudáte Dóminum de cælis: * laudáte eum in excélsis.\n148:2 Laudáte eum, omnes Ángeli ejus: * laudáte eum, omnes virtútes ejus.\n148:3 Laudáte eum, sol et luna: * laudáte eum, omnes stellæ et lumen.\n148:4 Laudáte eum, cæli cælórum: * et aquæ omnes, quæ super cælos sunt, laudent nomen Dómini.\n148:5 Quia ipse dixit, et facta sunt: * ipse mandávit, et creáta sunt.\n148:6 Státuit ea in ætérnum, et in sǽculum sǽculi: * præcéptum pósuit, et non præteríbit.\n148:7 Laudáte Dóminum de terra, * dracónes, et omnes abýssi.\n148:8 Ignis, grando, nix, glácies, spíritus procellárum: * quæ fáciunt verbum ejus:\n148:9 Montes, et omnes colles: * ligna fructífera, et omnes cedri.\n148:10 Béstiæ, et univérsa pécora: * serpéntes, et vólucres pennátæ:\n148:11 Reges terræ, et omnes pópuli: * príncipes, et omnes júdices terræ.\n148:12 Júvenes, et vírgines: † senes cum junióribus laudent nomen Dómini: * (13) quia exaltátum est nomen ejus solíus.\n148:14a Conféssio ejus super cælum et terram: * et exaltávit cornu pópuli sui.\n148:14b Hymnus ómnibus sanctis ejus: * fíliis Israël, pópulo appropinquánti sibi.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

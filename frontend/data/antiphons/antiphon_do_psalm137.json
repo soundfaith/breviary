@@ -1,0 +1,11 @@
+{
+  "id": "psalm137",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm137.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "137:1a Confitébor tibi, Dómine, in toto corde meo: * quóniam audísti verba oris mei.\n137:1b In conspéctu Angelórum psallam tibi: * (2a) adorábo ad templum sanctum tuum, et confitébor nómini tuo.\n137:2b Super misericórdia tua, et veritáte tua: * quóniam magnificásti super omne, nomen sanctum tuum.\n137:3 In quacúmque die invocávero te, exáudi me: * multiplicábis in ánima mea virtútem.\n137:4 Confiteántur tibi, Dómine, omnes reges terræ: * quia audiérunt ómnia verba oris tui:\n137:5 Et cantent in viis Dómini: * quóniam magna est glória Dómini.\n137:6 Quóniam excélsus Dóminus, et humília réspicit: * et alta a longe cognóscit.\n137:7 Si ambulávero in médio tribulatiónis, vivificábis me: ‡ et super iram inimicórum meórum extendísti manum tuam, * et salvum me fecit déxtera tua.\n137:8 Dóminus retríbuet pro me: ‡ Dómine, misericórdia tua in sǽculum: * ópera mánuum tuárum ne despícias.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

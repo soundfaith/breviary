@@ -1,0 +1,11 @@
+{
+  "id": "psalm90",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm90.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "90:1 Qui hábitat in adjutório Altíssimi, * in protectióne Dei cæli commorábitur.\n90:2 Dicet Dómino: Suscéptor meus es tu, et refúgium meum: * Deus meus sperábo in eum.\n90:3 Quóniam ipse liberávit me de láqueo venántium, * et a verbo áspero.\n90:4 Scápulis suis obumbrábit tibi: * et sub pennis ejus sperábis.\n90:5 Scuto circúmdabit te véritas ejus: * non timébis a timóre noctúrno,\n90:6 A sagítta volánte in die, † a negótio perambulánte in ténebris: * ab incúrsu, et dæmónio meridiáno.\n90:7 Cadent a látere tuo mille, † et decem míllia a dextris tuis: * ad te autem non appropinquábit.\n90:8 Verúmtamen óculis tuis considerábis: * et retributiónem peccatórum vidébis.\n90:9 Quóniam tu es, Dómine, spes mea: * Altíssimum posuísti refúgium tuum.\n90:10 Non accédet ad te malum: * et flagéllum non appropinquábit tabernáculo tuo.\n90:11 Quóniam Ángelis suis mandávit de te: * ut custódiant te in ómnibus viis tuis.\n90:12 In mánibus portábunt te: * ne forte offéndas ad lápidem pedem tuum.\n90:13 Super áspidem, et basilíscum ambulábis: * et conculcábis leónem et dracónem.\n90:14 Quóniam in me sperávit, liberábo eum: * prótegam eum, quóniam cognóvit nomen meum.\n90:15 Clamábit ad me, et ego exáudiam eum: ‡ cum ipso sum in tribulatióne: * erípiam eum et glorificábo eum.\n90:16 Longitúdine diérum replébo eum: * et osténdam illi salutáre meum.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

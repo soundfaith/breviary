@@ -1,0 +1,11 @@
+{
+  "id": "psalm5",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm5.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "5:2 Verba mea áuribus pércipe, Dómine, * intéllege clamórem meum.\n5:3 Inténde voci oratiónis meæ, * Rex meus et Deus meus.\n5:4 Quóniam ad te orábo: * Dómine, mane exáudies vocem meam.\n5:5 Mane astábo tibi et vidébo: * quóniam non Deus volens iniquitátem tu es.\n5:6 Neque habitábit juxta te malígnus: * neque permanébunt injústi ante óculos tuos.\n5:7a Odísti omnes, qui operántur iniquitátem: * perdes omnes, qui loquúntur mendácium.\n5:7b Virum sánguinum et dolósum abominábitur Dóminus: * (8a) ego autem in multitúdine misericórdiæ tuæ.\n5:8b Introíbo in domum tuam: * adorábo ad templum sanctum tuum in timóre tuo.\n5:9 Dómine, deduc me in justítia tua: * propter inimícos meos dírige in conspéctu tuo viam meam.\n5:10 Quóniam non est in ore eórum véritas: * cor eórum vanum est.\n5:11a Sepúlcrum patens est guttur eórum, † linguis suis dolóse agébant, * júdica illos, Deus.\n5:11b Décidant a cogitatiónibus suis, † secúndum multitúdinem impietátum eórum expélle eos, * quóniam irritavérunt te, Dómine.\n5:12a Et læténtur omnes, qui sperant in te, * in ætérnum exsultábunt: et habitábis in eis.\n5:12b Et gloriabúntur in te omnes, qui díligunt nomen tuum, * (13a) quóniam tu benedíces justo.\n5:13b Dómine, ut scuto bonæ voluntátis tuæ * coronásti nos.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

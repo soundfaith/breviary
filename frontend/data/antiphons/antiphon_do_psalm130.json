@@ -1,0 +1,11 @@
+{
+  "id": "psalm130",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm130.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "130:1a Dómine, non est exaltátum cor meum: * neque eláti sunt óculi mei.\n130:1b Neque ambulávi in magnis: * neque in mirabílibus super me.\n130:2a Si non humíliter sentiébam: * sed exaltávi ánimam meam:\n130:2b Sicut ablactátus est super matre sua, * ita retribútio in ánima mea.\n130:3 Speret Israël in Dómino, * ex hoc nunc et usque in sǽculum.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

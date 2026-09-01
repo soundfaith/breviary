@@ -1,0 +1,11 @@
+{
+  "id": "psalm253",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm253.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum Isaiæ * Isa 61:6-9)\n61:6 Vos autem sacerdótes Dómini vocabímini: * minístri Dei nostri, dicétur vobis:\n61:6 Fortitúdinem géntium comedétis, * et in glória eárum superbiétis.\n61:7 Pro confusióne vestra dúplici et rubóre, * laudábunt partem suam;\n61:7 Propter hoc in terra sua duplícia possidébunt, * lætítia sempitérna erit eis.\n61:8 Quia ego Dóminus díligens judícium, * et ódio habens rapínam in holocáusto:\n61:8 Et dabo opus eórum in veritáte, * et fœdus perpétuum fériam eis.\n61:9 Et scient in géntibus semen eórum, * et germen eórum in médio populórum:\n61:9 Omnes qui víderint eos cognóscent illos, * quia isti sunt semen, cui benedíxit Dóminus.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

@@ -1,0 +1,10 @@
+{
+  "id": "adv1_4o",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Tempora/Adv1-4o.txt",
+  "source_section": "Lectio1",
+  "translation_status": "placeholder_latin",
+  "text": "@Tempora/Adv1-4::s/-3/-5/\n4 Si ablúerit Dóminus sordes filiárum Sion, et sánguinem Jerúsalem láverit de médio ejus in spíritu judícii, et spíritu ardóris.\n5 Et creábit Dóminus super omnem locum montis Sion, et ubi invocátus est, nubem per diem, et fumum et splendórem ignis flammántis in nocte: super omnem enim glóriam protéctio.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

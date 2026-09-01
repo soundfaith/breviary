@@ -1,0 +1,11 @@
+{
+  "id": "coronatio",
+  "hour": "unspecified",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Commune/Coronatio.txt",
+  "source_section": "Oratio",
+  "translation_status": "placeholder_latin",
+  "text": "Deus, ómnium fidélium pastor et rector, fámulum tuum N.p, quem pastórem Ecclésiæ tuæ præésse voluísti, propítius réspice: da ei, quǽsumus, verbo et exémplo, quibus præest, profícere; ut ad vitam, una cum grege sibi crédito, pervéniat sempitérnam.\n$Per Dominum",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

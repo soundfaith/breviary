@@ -1,0 +1,11 @@
+{
+  "id": "nat1_0tt",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/TemporaM/Nat1-0tt.txt",
+  "source_section": "Ant Matutinum",
+  "translation_status": "placeholder_latin",
+  "text": "@Sancti/01-01::7 s/;;.*//\n;;\n;;\n;;\n;;\n;;\nNatus est nobis * hódie Salvátor, qui est Christus Dóminus, in civitáte David.\n;;\n;;\n;;\n;;\n;;",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

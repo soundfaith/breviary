@@ -1,0 +1,18 @@
+{
+  "id": "09_10bmv",
+  "saint_id": "09_10bmv",
+  "summary": "Léctio sancti Evangélii secúndum Matthǽum.\n!Matt 1:1-17\nLiber generationis Jesu Christi filii David, filii Abraham. Abraham genuit Isaac. Isaac autem genuit Jacob. Et réliqua.\n_\nDe Homilia S. Hierónymi Presbýteri\n_\nEt po",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/09-10bmv.txt",
+  "source_section": "Ant 3",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

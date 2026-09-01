@@ -1,0 +1,11 @@
+{
+  "id": "pasc0_1",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Tempora/Pasc0-1.txt",
+  "source_section": "Ant 2",
+  "translation_status": "placeholder_latin",
+  "text": "Jesus junxit se * discípulis suis in via, et ibat cum illis: óculi autem eórum tenebántur, ne eum agnóscerent: et increpávit eos, dicens: O stulti et tardi corde ad credéndum in his, quæ locúti sunt Prophétæ, allelúja.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "psalm254",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm254.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum * Sap 3:7-9)\n3:7 Fulgébunt justi, * et tamquam scintíllæ in arundinéto discúrrent.\n3:8 Judicábunt natiónes, et dominabúntur pópulis, * et regnábit Dóminus illórum in perpétuum.\n3:9 Qui confídunt in illo, intélligent veritátem, * et fidéles in dilectióne acquiéscent illi:\n3:9 Quóniam donum * et pax est eléctis ejus.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

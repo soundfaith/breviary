@@ -1,0 +1,18 @@
+{
+  "id": "09_26_eusebius",
+  "saint_id": "09_26_eusebius",
+  "summary": "Eusébius natióne Græcus, patre médico, post sanctum Marcellum Románæ Ecclésiæ est constitútus epíscopus. Is hæréticos invénit in Urbe, quos resipiscentes sola mánuum impositióne Ecclésiæ reconciliavit. Cui et e Sardinia ",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/Urbis/09-26-Eusebius.txt",
+  "source_section": "Lectio4",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "psalm139",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm139.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "139:2 Éripe me, Dómine, ab hómine malo: * a viro iníquo éripe me.\n139:3 Qui cogitavérunt iniquitátes in corde: * tota die constituébant prǽlia.\n139:4 Acuérunt linguas suas sicut serpéntis: * venénum áspidum sub lábiis eórum.\n139:5 Custódi me, Dómine, de manu peccatóris: * et ab homínibus iníquis éripe me.\n139:5 Qui cogitavérunt supplantáre gressus meos: * abscondérunt supérbi láqueum mihi:\n139:6 Et funes extendérunt in láqueum: * juxta iter scándalum posuérunt mihi.\n139:7 Dixi Dómino: Deus meus es tu: * exáudi, Dómine, vocem deprecatiónis meæ.\n139:8 Dómine, Dómine, virtus salútis meæ: * obumbrásti super caput meum in die belli.\n139:9 Ne tradas me, Dómine, a desidério meo peccatóri: * cogitavérunt contra me, ne derelínquas me, ne forte exalténtur.\n139:10 Caput circúitus eórum: * labor labiórum ipsórum opériet eos.\n139:11 Cadent super eos carbónes, in ignem deícies eos: * in misériis non subsístent.\n139:12 Vir linguósus non dirigétur in terra: * virum injústum mala cápient in intéritu.\n139:13 Cognóvi quia fáciet Dóminus judícium ínopis: * et vindíctam páuperum.\n139:14 Verúmtamen justi confitebúntur nómini tuo: * et habitábunt recti cum vultu tuo.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

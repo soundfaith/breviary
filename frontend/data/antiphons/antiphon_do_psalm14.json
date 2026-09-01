@@ -1,0 +1,11 @@
+{
+  "id": "psalm14",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm14.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "14:1 Dómine, quis habitábit in tabernáculo tuo? * aut quis requiéscet in monte sancto tuo?\n14:2 Qui ingréditur sine mácula, * et operátur justítiam:\n14:3a Qui lóquitur veritátem in corde suo, * qui non egit dolum in lingua sua:\n14:3b Nec fecit próximo suo malum, * et oppróbrium non accépit advérsus próximos suos.\n14:4a Ad níhilum dedúctus est in conspéctu ejus malígnus: * timéntes autem Dóminum gloríficat:\n14:4b Qui jurat próximo suo, et non décipit, * (5a) qui pecúniam suam non dedit ad usúram, et múnera super innocéntem non accépit.\n14:5b Qui facit hæc: * non movébitur in ætérnum.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

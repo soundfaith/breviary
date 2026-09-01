@@ -1,0 +1,11 @@
+{
+  "id": "psalm113",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm113.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "113:1 In éxitu Israël de Ægýpto, * domus Jacob de pópulo bárbaro:\n113:2 Facta est Judǽa sanctificátio ejus, * Israël potéstas ejus.\n113:3 Mare vidit, et fugit: * Jordánis convérsus est retrórsum.\n113:4 Montes exsultavérunt ut aríetes, * et colles sicut agni óvium.\n113:5 Quid est tibi, mare, quod fugísti: * et tu, Jordánis, quia convérsus es retrórsum?\n113:6 Montes, exsultástis sicut aríetes, * et colles, sicut agni óvium.\n113:7 A fácie Dómini mota est terra, * a fácie Dei Jacob.\n113:8 Qui convértit petram in stagna aquárum, * et rupem in fontes aquárum.\n113:9 Non nobis, Dómine, non nobis: * sed nómini tuo da glóriam.\n113:10 Super misericórdia tua, et veritáte tua: * nequándo dicant gentes: Ubi est Deus eórum?\n113:11 Deus autem noster in cælo: * ómnia quæcúmque vóluit, fecit.\n113:12 Simulácra géntium argéntum, et aurum, * ópera mánuum hóminum.\n113:13 Os habent, et non loquéntur: * óculos habent, et non vidébunt.\n113:14 Aures habent, et non áudient: * nares habent, et non odorábunt.\n113:15 Manus habent, et non palpábunt: † pedes habent, et non ambulábunt: * non clamábunt in gútture suo.\n113:16 Símiles illis fiant qui fáciunt ea: * et omnes qui confídunt in eis.\n113:17 Domus Israël sperávit in Dómino: * adjútor eórum et protéctor eórum est,\n113:18 Domus Aaron sperávit in Dómino: * adjútor eórum et protéctor eórum est,\n113:19 Qui timent Dóminum, speravérunt in Dómino: * adjútor eórum et protéctor eórum est.\n113:20a Dóminus memor fuit nostri: * et benedíxit nobis:",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

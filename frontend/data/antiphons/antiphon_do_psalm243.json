@@ -1,0 +1,11 @@
+{
+  "id": "psalm243",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm243.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum Isaiæ * Isa 63:1-5)\n63:1 Quis est iste, qui venit de Edom, * tinctis véstibus de Bosra?\n63:1 Iste formósus in stola sua, * grádiens in multitúdine fortitúdinis suæ.\n63:1 Ego qui loquor justítiam, * et propugnátor sum ad salvándum.\n63:2 Quare ergo rubrum est induméntum tuum, * et vestiménta tua sicut calcántium in torculári?\n63:3 Tórcular calcávi solus, * et de géntibus non est vir mecum:\n63:3 Calcávi eos in furóre meo, * et conculcávi eos in ira mea:\n63:3 Et aspérsus est sanguis eorum super vestiménta mea, * et ómnia induménta mea inquinávi.\n63:4 Dies enim ultiónis in corde meo; * annus redemptiónis meæ venit.\n63:5 Circumspéxi, et non erat auxiliátor; * quæsívi, et non fuit qui adjuváret:\n63:5 Et salvávit mihi bráchium meum, * et indignátio mea ipsa auxiliáta est mihi.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "psalm240",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm240.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum Isaiæ * Isa 40:10-17)\n40:10 Ecce Dóminus Deus in fortitúdine véniet, * et bráchium ejus dominábitur:\n40:10 Ecce merces ejus cum eo, * et opus illíus coram illo.\n40:11 Sicut pastor gregem suum pascet: in bráchio suo congregábit agnos, * et in sinu suo levábit, fœtas ipse portábit.\n40:12 Quis mensus est pugíllo aquas, * et cælos palmo ponderávit?\n40:12 Quis appéndit tribus dígitis molem terræ, * et librávit in póndere montes, et colles in statéra?\n40:13 Quis adjúvit spíritum Dómini? * aut quis consiliárius ejus fuit, et osténdit illi?\n40:14 Cum quo íniit consílium, et instrúxit eum, et dócuit eum sémitam justítiæ, * et erudívit eum sciéntiam, et viam prudéntiæ osténdit illi?\n40:15 Ecce gentes quasi stilla sítulæ, * et quasi moméntum statéræ reputátæ sunt:\n40:16 Ecce ínsulæ quasi pulvis exíguus. Et Líbanus non suffíciet ad succendéndum, * et animália ejus non suffícient ad holocáustum.\n40:17 Omnes gentes quasi non sint, sic sunt coram eo, * et quasi níhilum et ináne reputátæ sunt ei.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

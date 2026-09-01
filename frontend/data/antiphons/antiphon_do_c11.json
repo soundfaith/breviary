@@ -1,0 +1,11 @@
+{
+  "id": "c11",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Commune/C11.txt",
+  "source_section": "Ant 1",
+  "translation_status": "placeholder_latin",
+  "text": "Sancta María, * succúrre míseris, juva pusillánimes, réfove flébiles, ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu: séntiant omnes tuum juvámen, quicúmque célebrant tuam sanctam festivitátem.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "psalm256",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm256.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum Ecclesiasticæ * Eccli 14:22;15:3-4;15:6)\n14:22 Beátus vir qui in sapiéntia morábitur, † et qui in justítia sua meditábitur, * et in sensu cogitábit circumspectiónem Dei.\n15:3 Cibábit illum pane vitæ et intelléctus, * et aqua sapiéntiæ salutáris potábit illum:\n15:4 Et firmábitur in illo, et non flectétur: † et continébit illum, et non confundétur: * et exaltábit illum apud próximos suos.\n15:6 Et nómine ætérno hæreditábit illum * Dóminus Deus noster.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

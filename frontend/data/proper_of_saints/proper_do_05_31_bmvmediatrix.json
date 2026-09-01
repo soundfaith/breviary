@@ -1,0 +1,18 @@
+{
+  "id": "05_31_bmvmediatrix",
+  "saint_id": "05_31_bmvmediatrix",
+  "summary": "Ecce Dóminus meus * ómnia mihi trádidit, nec quidquam est, quod non in mea sit potestáte, vel non tradíderit mihi.",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/aliquibus locis/05-31-BMVMediatrix.txt",
+  "source_section": "Ant 1",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

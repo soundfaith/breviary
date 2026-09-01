@@ -1,0 +1,11 @@
+{
+  "id": "psalm136",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm136.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "136:1 Super flúmina Babylónis, illic sédimus et flévimus: * cum recordarémur Sion:\n136:2 In salícibus in médio ejus, * suspéndimus órgana nostra.\n136:3a Quia illic interrogavérunt nos, qui captívos duxérunt nos, * verba cantiónum:\n136:3b Et qui abduxérunt nos: * Hymnum cantáte nobis de cánticis Sion.\n136:4 Quómodo cantábimus cánticum Dómini * in terra aliéna?\n136:5 Si oblítus fúero tui, Jerúsalem, * oblivióni detur déxtera mea.\n136:6a Adhǽreat lingua mea fáucibus meis, * si non memínero tui:\n136:6b Si non proposúero Jerúsalem, * in princípio lætítiæ meæ.\n136:7a Memor esto, Dómine, filiórum Edom, * in die Jerúsalem:\n136:7b Qui dicunt: Exinaníte, exinaníte * usque ad fundaméntum in ea.\n136:8 Fília Babylónis mísera: * beátus, qui retríbuet tibi retributiónem tuam, quam retribuísti nobis.\n136:9 Beátus, qui tenébit, * et allídet párvulos tuos ad petram.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

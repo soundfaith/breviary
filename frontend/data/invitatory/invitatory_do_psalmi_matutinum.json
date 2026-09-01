@@ -1,0 +1,10 @@
+{
+  "id": "psalmi_matutinum",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmi/Psalmi matutinum.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "Beátus vir * qui in lege Dómini meditátur.;;1\nServíte Dómino * in timóre, et exsultáte ei cum tremóre.;;2\nExsúrge, * Dómine, salvum me fac, Deus meus.;;3\nV. Memor fui nocte nóminis tui, Dómine.\nR. Et custodívi legem tuam.\nQuam admirábile * est nomen tuum, Dómine, in univérsa terra!;;8\nSedísti super thronum * qui júdicas justítiam.;;9(2-11)\nExsúrge, Dómine, * non præváleat homo.;;9(12-21)\nV. Média nocte surgébam ad confiténdum tibi.\nR. Super judícia justificatiónis tuæ.\nUt quid, Dómine, * recessísti longe?;;9(22-32)\nExsúrge, * Dómine Deus, exaltétur manus tua.;;9(33-39)\nJustus Dóminus * et justítiam diléxit.;;10\nV. Prævenérunt óculi mei ad te dilúculo.\nR. Ut meditárer elóquia tua, Dómine.\nDóminus de cælo * prospéxit super fílios hóminum.;;13\nQui operátur justítiam * requiéscet in monte sancto tuo, Dómine.;;14\nInclína, Dómine, * aurem tuam mihi, et exáudi verba mea.;;16\nV. Mirífica Dómine misericórdias tuas.\nR. Qui salvos facis sperántes in te.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "office_of_readings",
+  "hour": "office_of_readings",
+  "elements": [
+    "hymn",
+    "psalmody_block_1",
+    "psalmody_block_2",
+    "psalmody_block_3",
+    "long_reading_scripture",
+    "responsory_1",
+    "long_reading_patristic",
+    "responsory_2",
+    "concluding_prayer",
+    "blessing"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "05_spr",
+  "saint_id": "05_spr",
+  "summary": "Ecce, María * erat spes nostra, ad quam confúgimus in auxílium, ut liberáret nos, et venit in adjutórium nobis, allelúja.",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/Bavaria/05-SPr.txt",
+  "source_section": "Ant 1",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

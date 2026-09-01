@@ -1,0 +1,10 @@
+{
+  "id": "adv3_2o",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Tempora/Adv3-2o.txt",
+  "source_section": "Lectio1",
+  "translation_status": "placeholder_latin",
+  "text": "@Tempora/Adv3-2::s/-20/-21/\n21 Et aures tuæ áudient verbum post tergum monéntis: Hæc est via, ambuláte in ea, et non declinétis neque ad déxteram, neque ad sinístram.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "psalm133",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm133.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "133:1a Ecce nunc benedícite Dóminum, * omnes servi Dómini:\n133:1b Qui statis in domo Dómini, * in átriis domus Dei nostri.\n133:2 In nóctibus extóllite manus vestras in sancta, * et benedícite Dóminum.\n133:3 Benedícat te Dóminus ex Sion, * qui fecit cælum et terram.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

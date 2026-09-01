@@ -1,0 +1,11 @@
+{
+  "id": "psalm35",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm35.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "35:2 Dixit injústus ut delínquat in semetípso: * non est timor Dei ante óculos ejus.\n35:3 Quóniam dolóse egit in conspéctu ejus: * ut inveniátur iníquitas ejus ad ódium.\n35:4 Verba oris ejus iníquitas, et dolus: * nóluit intellégere ut bene ágeret.\n35:5 Iniquitátem meditátus est in cubíli suo: * ástitit omni viæ non bonæ, malítiam autem non odívit.\n35:6 Dómine, in cælo misericórdia tua: * et véritas tua usque ad nubes.\n35:7 Justítia tua sicut montes Dei: * judícia tua abýssus multa.\n35:7 Hómines, et juménta salvábis, Dómine: * quemádmodum multiplicásti misericórdiam tuam, Deus.\n35:8 Fílii autem hóminum, * in tégmine alárum tuárum sperábunt.\n35:9 Inebriabúntur ab ubertáte domus tuæ: * et torrénte voluptátis tuæ potábis eos.\n35:10 Quóniam apud te est fons vitæ: * et in lúmine tuo vidébimus lumen.\n35:11 Præténde misericórdiam tuam sciéntibus te, * et justítiam tuam his, qui recto sunt corde.\n35:12 Non véniat mihi pes supérbiæ: * et manus peccatóris non móveat me.\n35:13 Ibi cecidérunt qui operántur iniquitátem: * expúlsi sunt, nec potuérunt stare.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

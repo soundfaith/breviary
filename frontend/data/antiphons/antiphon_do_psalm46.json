@@ -1,0 +1,11 @@
+{
+  "id": "psalm46",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm46.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "46:2 Omnes gentes, pláudite mánibus: * jubiláte Deo in voce exsultatiónis.\n46:3 Quóniam Dóminus excélsus, terríbilis: * Rex magnus super omnem terram.\n46:4 Subjécit pópulos nobis: * et gentes sub pédibus nostris.\n46:5 Elégit nobis hereditátem suam: * spéciem Jacob, quam diléxit.\n46:6 Ascéndit Deus in júbilo: * et Dóminus in voce tubæ.\n46:7 Psállite Deo nostro, psállite: * psállite Regi nostro, psállite.\n46:8 Quóniam Rex omnis terræ Deus: * psállite sapiénter.\n46:9 Regnábit Deus super gentes: * Deus sedet super sedem sanctam suam.\n46:10 Príncipes populórum congregáti sunt cum Deo Ábraham: * quóniam dii fortes terræ veheménter eleváti sunt.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "01_06n",
+  "saint_id": "01_06n",
+  "summary": "De Epístola ad Romános\n!Rom 8:12-16\n12 ergo fratres debitores sumus non carni ut secundum carnem vivamus\n13 si enim secundum carnem vixeritis moriemini si autem Spiritu facta carnis mortificatis vivetis\n14 quicumque enim",
+  "themes": [
+    "Guardian",
+    "Providence",
+    "Justice"
+  ],
+  "antiphon_text": "Imported from Divinum Officium pending translation.",
+  "prayer_text": "Imported from Divinum Officium pending translation.",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Sancti/01-06n.txt",
+  "source_section": "Lectio1",
+  "translation_status": "placeholder_latin",
+  "notes": "Imported from Divinum Officium source pending translation."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "psalm213",
+  "type": "do_import",
+  "source_repository": "DivinumOfficium/divinum-officium",
+  "source_commit": "5724b44fc313cf2274c23248bde2932a32fe6517",
+  "source_path": "sources/divinum-officium-latin/Psalterium/Psalmorum/Psalm213.txt",
+  "source_section": "text",
+  "translation_status": "placeholder_latin",
+  "text": "(Canticum Judith * Judith 16:15-22)\n16:15 Hymnum cantémus Dómino, * hymnum novum cantémus Deo nostro.\n16:16 Adonái, Dómine, magnus es tu, et præclárus in virtúte tua, * et quem superáre nemo potest.\n16:17 Tibi sérviat omnis creatúra tua: * quia dixísti, et facta sunt:\n16:18 Misísti spíritum tuum, et creáta sunt, * et non est qui resístat voci tuæ.\n16:19 Montes a fundaméntis movebúntur cum aquis: * petræ, sicut cera, liquéscent ante fáciem tuam.\n16:20 Qui autem timent te, * magni erunt apud te per ómnia.\n16:21 Væ genti insurgénti super genus meum: Dóminus enim omnípotens vindicábit in eis, * in die judícii visitábit illos.\n16:22 Dabit enim ignem, et vermes in carnes eórum, * ut urántur, et séntiant usque in sempitérnum.",
+  "notes": "Imported from Divinum Officium source pending translation."
+}
