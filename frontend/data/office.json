@@ -18,7 +18,15 @@
     },
     "vespers": {
       "opening": "opening_common",
-      "psalmOrCanticle": "psalm_134",
+      "ntCanticleIds": [
+        "ephesians_1",
+        "philippians_2",
+        "colossians_1",
+        "first_peter_2",
+        "revelation_4_5",
+        "revelation_11_12",
+        "revelation_15"
+      ],
       "canticleId": "song_of_mary",
       "shortPrayer": "seasonal",
       "blessing": "blessing_vespers"
@@ -27,8 +35,8 @@
       "opening": "opening_common",
       "fixedPsalmIds": [
         "psalm_4",
-        "psalm_91",
-        "psalm_134"
+        "psalm_91_compline",
+        "psalm_134_compline"
       ],
       "canticleId": "song_of_simeon",
       "nightPrayer": "night_prayer_common",
