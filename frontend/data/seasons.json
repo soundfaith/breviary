@@ -1,0 +1,106 @@
+{
+  "id": "seasonal_overrides",
+  "seasons": {
+    "advent": {
+      "id": "advent",
+      "name": "Advent",
+      "antiphon": {
+        "text": "The Lord is near: come, let us adore him."
+      },
+      "shortPrayer": {
+        "text": "Come, Lord Jesus, and make our hearts ready for your coming."
+      },
+      "intercessions": {
+        "text": "Come, Lord Jesus, and awaken your Church to hope. Hear the prayers of all who wait for your kingdom."
+      },
+      "concludingPrayer": {
+        "text": "Lord Jesus Christ, awaken our hearts to your coming and make us ready to welcome you in love."
+      },
+      "optionalReadingIds": [
+        "cycle_reading_04",
+        "cycle_reading_10",
+        "cycle_reading_16"
+      ]
+    },
+    "christmas": {
+      "id": "christmas",
+      "name": "Christmas",
+      "antiphon": {
+        "text": "Christ is born for us: come, let us adore him."
+      },
+      "shortPrayer": {
+        "text": "Christ our light, remain with us and fill the world with your peace."
+      },
+      "intercessions": {
+        "text": "Christ our light, bless families, the poor, and all who seek peace in your coming."
+      },
+      "concludingPrayer": {
+        "text": "O God, you have made this holy night radiant with the glory of Christ; shine in our hearts and make us bearers of your peace."
+      },
+      "optionalReadingIds": [
+        "cycle_reading_01",
+        "cycle_reading_07",
+        "cycle_reading_13"
+      ]
+    },
+    "lent": {
+      "id": "lent",
+      "name": "Lent",
+      "antiphon": {
+        "text": "Come, let us return to the Lord, for he is our light and our salvation."
+      },
+      "shortPrayer": {
+        "text": "Merciful Lord, teach us to return to you with a faithful heart."
+      },
+      "intercessions": {
+        "text": "Merciful Father, turn our hearts to you and strengthen all who return to the Gospel."
+      },
+      "concludingPrayer": {
+        "text": "Lord our God, bring us back to you with our whole heart, and renew us in the grace of your Son."
+      },
+      "optionalReadingIds": [
+        "cycle_reading_03",
+        "cycle_reading_09",
+        "cycle_reading_15"
+      ]
+    },
+    "easter": {
+      "id": "easter",
+      "name": "Easter",
+      "antiphon": {
+        "text": "This is the day the Lord has made: let us rejoice and be glad."
+      },
+      "shortPrayer": {
+        "text": "Risen Lord, make us joyful witnesses of your new life."
+      },
+      "intercessions": {
+        "text": "Risen Lord, make your people witnesses of joy, mercy, and new life."
+      },
+      "concludingPrayer": {
+        "text": "God of life, you have raised your Son and opened for us the way to hope; keep us faithful witnesses to his resurrection."
+      },
+      "optionalReadingIds": [
+        "cycle_reading_04",
+        "cycle_reading_10",
+        "cycle_reading_16"
+      ]
+    },
+    "ordinary_time": {
+      "id": "ordinary_time",
+      "name": "Ordinary Time",
+      "antiphon": {
+        "text": "Come, let us worship the Lord, who calls us into his light."
+      },
+      "shortPrayer": {
+        "text": "Faithful God, receive this day and make our work an offering of love."
+      },
+      "intercessions": {
+        "text": "Faithful God, receive the work, needs, and hopes of your people this day."
+      },
+      "concludingPrayer": {
+        "text": "Lord God, guide us by your wisdom and make the ordinary work of this day an offering of love."
+      },
+      "optionalReadingIds": []
+    }
+  }
+}

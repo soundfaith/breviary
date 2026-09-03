@@ -1,0 +1,205 @@
+{
+  "id": "important_saints",
+  "saints": [
+    {
+      "id": "st_all_saints",
+      "name": "All Saints",
+      "date": "11-01",
+      "rank": "memorial",
+      "shortBiography": "The whole company of saints is celebrated, from the apostles to those known only to God. Their lives remind us that every faithful witness contributes to the glory of the Church.",
+      "antiphon": "All Saints, pray for us, that we may follow Christ in holiness.",
+      "intercession": "God of mercy, through the witness of All Saints, strengthen your people in faithful service.",
+      "concludingPrayer": "Lord God, you called All Saints to bear witness to the Gospel; grant us the grace to imitate that holy example. Through Christ our Lord."
+    },
+    {
+      "id": "st_andrew",
+      "name": "Saint Andrew",
+      "date": "11-30",
+      "rank": "memorial",
+      "shortBiography": "Saint Andrew was the first apostle called by Jesus and a model of eager discipleship. His generous response to Christ continues to inspire mission.",
+      "antiphon": "Saint Andrew, pray for us, that we may follow Christ in holiness.",
+      "intercession": "God of mercy, through the witness of Saint Andrew, strengthen your people in faithful service.",
+      "concludingPrayer": "Lord God, you called Saint Andrew to bear witness to the Gospel; grant us the grace to imitate that holy example. Through Christ our Lord."
+    },
+    {
+      "id": "st_anne",
+      "name": "Saint Anne",
+      "date": "07-26",
+      "rank": "memorial",
+      "shortBiography": "Saint Anne was the mother of the Blessed Virgin Mary and a model of maternal devotion. Her life is celebrated as a witness to faithfulness in family life and prayer.",
+      "antiphon": "Saint Anne, pray for us, that we may follow Christ in holiness.",
+      "intercession": "God of mercy, through the witness of Saint Anne, strengthen your people in faithful service.",
+      "concludingPrayer": "Lord God, you called Saint Anne to bear witness to the Gospel; grant us the grace to imitate that holy example. Through Christ our Lord."
+    },
+    {
+      "id": "st_catherine",
+      "name": "Saint Catherine of Siena",
+      "date": "04-29",
+      "rank": "memorial",
+      "shortBiography": "Saint Catherine of Siena was a mystic and reformer whose writings and prayer led many to a deeper life of faith. She is remembered for wisdom, courage, and love of the Church.",
+      "antiphon": "Saint Catherine of Siena, pray for us, that we may follow Christ in holiness.",
+      "intercession": "God of mercy, through the witness of Saint Catherine of Siena, strengthen your people in faithful service.",
+      "concludingPrayer": "Lord God, you called Saint Catherine of Siena to bear witness to the Gospel; grant us the grace to imitate that holy example. Through Christ our Lord."
+    },
+    {
+      "id": "st_francis",
+      "name": "Saint Francis of Assisi",
+      "date": "10-04",
+      "rank": "memorial",
+      "shortBiography": "Saint Francis lived in joyful poverty and preached the Gospel through simplicity and peace. He is revered as a model of care for creation and the poor.",
+      "antiphon": "Saint Francis of Assisi, pray for us, that we may follow Christ in holiness.",
+      "intercession": "God of mercy, through the witness of Saint Francis of Assisi, strengthen your people in faithful service.",
+      "concludingPrayer": "Lord God, you called Saint Francis of Assisi to bear witness to the Gospel; grant us the grace to imitate that holy example. Through Christ our Lord."
+    },
+    {
+      "id": "st_ignatius",
+      "name": "Saint Ignatius of Antioch",
+      "date": "10-17",
+      "rank": "commemoration",
+      "shortBiography": "Saint Ignatius was a bishop and martyr whose letters urged the faithful to unity and obedience to Christ. His witness remains a powerful teaching on love of the Church.",
+      "antiphon": "Saint Ignatius of Antioch, pray for us, that we may follow Christ in holiness.",
+      "intercession": "God of mercy, through the witness of Saint Ignatius of Antioch, strengthen your people in faithful service.",
+      "concludingPrayer": "Lord God, you called Saint Ignatius of Antioch to bear witness to the Gospel; grant us the grace to imitate that holy example. Through Christ our Lord."
+    },
+    {
+      "id": "st_john",
+      "name": "Saint John the Apostle",
+      "date": "12-27",
+      "rank": "commemoration",
+      "shortBiography": "Saint John, beloved disciple, carried the message of divine love. His gospel and letters remain a fountain of contemplation and hope.",
+      "antiphon": "Saint John the Apostle, pray for us, that we may follow Christ in holiness.",
+      "intercession": "God of mercy, through the witness of Saint John the Apostle, strengthen your people in faithful service.",
+      "concludingPrayer": "Lord God, you called Saint John the Apostle to bear witness to the Gospel; grant us the grace to imitate that holy example. Through Christ our Lord."
+    },
+    {
+      "id": "st_john_baptist",
+      "name": "Saint John the Baptist",
+      "date": "06-24",
+      "rank": "commemoration",
+      "shortBiography": "John the Baptist prepared the way of the Lord and called the people to repentance. His courageous witness and humble service make him a constant sign of conversion.",
+      "antiphon": "Saint John the Baptist, pray for us, that we may follow Christ in holiness.",
+      "intercession": "God of mercy, through the witness of Saint John the Baptist, strengthen your people in faithful service.",
+      "concludingPrayer": "Lord God, you called Saint John the Baptist to bear witness to the Gospel; grant us the grace to imitate that holy example. Through Christ our Lord."
+    },
+    {
+      "id": "st_joseph",
+      "name": "Saint Joseph",
+      "date": "03-19",
+      "rank": "commemoration",
+      "shortBiography": "Saint Joseph, the just man, was the husband of Mary and the guardian of the Holy Family. He is honored for his quiet fidelity, care, and trust in God’s providence.",
+      "antiphon": "Saint Joseph, pray for us, that we may follow Christ in holiness.",
+      "intercession": "God of mercy, through the witness of Saint Joseph, strengthen your people in faithful service.",
+      "concludingPrayer": "Lord God, you called Saint Joseph to bear witness to the Gospel; grant us the grace to imitate that holy example. Through Christ our Lord."
+    },
+    {
+      "id": "st_joseph_spouse",
+      "name": "Saint Joseph",
+      "date": "03-19",
+      "rank": "commemoration",
+      "shortBiography": "Saint Joseph, the guardian of the family of Jesus, is a model of labor, humility, and fidelity to God’s plan.",
+      "antiphon": "Saint Joseph, pray for us, that we may follow Christ in holiness.",
+      "intercession": "God of mercy, through the witness of Saint Joseph, strengthen your people in faithful service.",
+      "concludingPrayer": "Lord God, you called Saint Joseph to bear witness to the Gospel; grant us the grace to imitate that holy example. Through Christ our Lord."
+    },
+    {
+      "id": "st_jude",
+      "name": "Saint Jude",
+      "date": "10-28",
+      "rank": "commemoration",
+      "shortBiography": "Saint Jude is remembered as a steadfast apostle and witness to Christ’s love. He is invoked in times of desperation and serious need.",
+      "antiphon": "Saint Jude, pray for us, that we may follow Christ in holiness.",
+      "intercession": "God of mercy, through the witness of Saint Jude, strengthen your people in faithful service.",
+      "concludingPrayer": "Lord God, you called Saint Jude to bear witness to the Gospel; grant us the grace to imitate that holy example. Through Christ our Lord."
+    },
+    {
+      "id": "st_martin",
+      "name": "Saint Martin of Tours",
+      "date": "11-11",
+      "rank": "commemoration",
+      "shortBiography": "Saint Martin shared his cloak with a beggar and became a witness to charity. He remains a model of mercy and humble service.",
+      "antiphon": "Saint Martin of Tours, pray for us, that we may follow Christ in holiness.",
+      "intercession": "God of mercy, through the witness of Saint Martin of Tours, strengthen your people in faithful service.",
+      "concludingPrayer": "Lord God, you called Saint Martin of Tours to bear witness to the Gospel; grant us the grace to imitate that holy example. Through Christ our Lord."
+    },
+    {
+      "id": "st_mary",
+      "name": "Mary, Mother of God",
+      "date": "01-01",
+      "rank": "commemoration",
+      "shortBiography": "The Mother of the Lord is honored as the first and chief among the saints in the communion of the Church. Her obedience and trust at the Annunciation made her a model of faith for all ages.",
+      "antiphon": "Mary, Mother of God, pray for us, that we may follow Christ in holiness.",
+      "intercession": "God of mercy, through the witness of Mary, Mother of God, strengthen your people in faithful service.",
+      "concludingPrayer": "Lord God, you called Mary, Mother of God to bear witness to the Gospel; grant us the grace to imitate that holy example. Through Christ our Lord."
+    },
+    {
+      "id": "st_michael",
+      "name": "Saint Michael the Archangel",
+      "date": "09-29",
+      "rank": "commemoration",
+      "shortBiography": "Saint Michael is honored as the prince of angels and the defender of the people of God. He is invoked as a guardian against evil and a champion of justice.",
+      "antiphon": "Saint Michael the Archangel, pray for us, that we may follow Christ in holiness.",
+      "intercession": "God of mercy, through the witness of Saint Michael the Archangel, strengthen your people in faithful service.",
+      "concludingPrayer": "Lord God, you called Saint Michael the Archangel to bear witness to the Gospel; grant us the grace to imitate that holy example. Through Christ our Lord."
+    },
+    {
+      "id": "st_nicholas",
+      "name": "Saint Nicholas",
+      "date": "12-06",
+      "rank": "commemoration",
+      "shortBiography": "Saint Nicholas was a bishop known for generosity and care for the poor. His life speaks of practical charity and steadfast faith.",
+      "antiphon": "Saint Nicholas, pray for us, that we may follow Christ in holiness.",
+      "intercession": "God of mercy, through the witness of Saint Nicholas, strengthen your people in faithful service.",
+      "concludingPrayer": "Lord God, you called Saint Nicholas to bear witness to the Gospel; grant us the grace to imitate that holy example. Through Christ our Lord."
+    },
+    {
+      "id": "st_paul",
+      "name": "Saint Paul",
+      "date": "06-30",
+      "rank": "commemoration",
+      "shortBiography": "Saint Paul was the apostle of the Gentiles and a teacher of the faith. His letters reveal the grace of Christ and the call to missionary zeal.",
+      "antiphon": "Saint Paul, pray for us, that we may follow Christ in holiness.",
+      "intercession": "God of mercy, through the witness of Saint Paul, strengthen your people in faithful service.",
+      "concludingPrayer": "Lord God, you called Saint Paul to bear witness to the Gospel; grant us the grace to imitate that holy example. Through Christ our Lord."
+    },
+    {
+      "id": "st_peter",
+      "name": "Saint Peter",
+      "date": "06-29",
+      "rank": "commemoration",
+      "shortBiography": "Saint Peter was the first among the apostles and became the visible head of the Church. His faith, leadership, and repentance stand as a witness to Christ’s mercy.",
+      "antiphon": "Saint Peter, pray for us, that we may follow Christ in holiness.",
+      "intercession": "God of mercy, through the witness of Saint Peter, strengthen your people in faithful service.",
+      "concludingPrayer": "Lord God, you called Saint Peter to bear witness to the Gospel; grant us the grace to imitate that holy example. Through Christ our Lord."
+    },
+    {
+      "id": "st_stephen",
+      "name": "Saint Stephen",
+      "date": "12-26",
+      "rank": "commemoration",
+      "shortBiography": "Saint Stephen was the first Christian martyr and a witness to Christ’s forgiveness even in death. His courage inspires the Church to bear witness with peace.",
+      "antiphon": "Saint Stephen, pray for us, that we may follow Christ in holiness.",
+      "intercession": "God of mercy, through the witness of Saint Stephen, strengthen your people in faithful service.",
+      "concludingPrayer": "Lord God, you called Saint Stephen to bear witness to the Gospel; grant us the grace to imitate that holy example. Through Christ our Lord."
+    },
+    {
+      "id": "st_teresa",
+      "name": "Saint Teresa of Avila",
+      "date": "10-15",
+      "rank": "commemoration",
+      "shortBiography": "Saint Teresa of Avila was a mystic and reformer whose life revealed the power of prayer and interior conversion. She remains a guide to contemplative courage.",
+      "antiphon": "Saint Teresa of Avila, pray for us, that we may follow Christ in holiness.",
+      "intercession": "God of mercy, through the witness of Saint Teresa of Avila, strengthen your people in faithful service.",
+      "concludingPrayer": "Lord God, you called Saint Teresa of Avila to bear witness to the Gospel; grant us the grace to imitate that holy example. Through Christ our Lord."
+    },
+    {
+      "id": "st_thomas_aquinas",
+      "name": "Saint Thomas Aquinas",
+      "date": "01-28",
+      "rank": "commemoration",
+      "shortBiography": "Saint Thomas Aquinas was a Dominican theologian whose writings explain the harmony of faith and reason. He is honored as a teacher of the Church and a guide in prayerful study.",
+      "antiphon": "Saint Thomas Aquinas, pray for us, that we may follow Christ in holiness.",
+      "intercession": "God of mercy, through the witness of Saint Thomas Aquinas, strengthen your people in faithful service.",
+      "concludingPrayer": "Lord God, you called Saint Thomas Aquinas to bear witness to the Gospel; grant us the grace to imitate that holy example. Through Christ our Lord."
+    }
+  ]
+}

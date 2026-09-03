@@ -1,0 +1,13 @@
+{
+  "id": "simplified_breviary",
+  "version": 1,
+  "language": "English",
+  "cycleDays": 50,
+  "collections": [
+    "office",
+    "psalm-cycle",
+    "reading-cycle",
+    "seasons",
+    "saints"
+  ]
+}

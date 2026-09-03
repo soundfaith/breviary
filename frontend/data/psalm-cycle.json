@@ -1,0 +1,405 @@
+{
+  "id": "psalm_cycle_50",
+  "days": [
+    {
+      "day": 1,
+      "psalms": [
+        "psalm_1",
+        "psalm_2",
+        "psalm_3"
+      ]
+    },
+    {
+      "day": 2,
+      "psalms": [
+        "psalm_4",
+        "psalm_5",
+        "psalm_6"
+      ]
+    },
+    {
+      "day": 3,
+      "psalms": [
+        "psalm_7",
+        "psalm_8",
+        "psalm_9"
+      ]
+    },
+    {
+      "day": 4,
+      "psalms": [
+        "psalm_10",
+        "psalm_11",
+        "psalm_12"
+      ]
+    },
+    {
+      "day": 5,
+      "psalms": [
+        "psalm_13",
+        "psalm_14",
+        "psalm_15"
+      ]
+    },
+    {
+      "day": 6,
+      "psalms": [
+        "psalm_16",
+        "psalm_17",
+        "psalm_18"
+      ]
+    },
+    {
+      "day": 7,
+      "psalms": [
+        "psalm_19",
+        "psalm_20",
+        "psalm_21"
+      ]
+    },
+    {
+      "day": 8,
+      "psalms": [
+        "psalm_22",
+        "psalm_23",
+        "psalm_24"
+      ]
+    },
+    {
+      "day": 9,
+      "psalms": [
+        "psalm_25",
+        "psalm_26",
+        "psalm_27"
+      ]
+    },
+    {
+      "day": 10,
+      "psalms": [
+        "psalm_28",
+        "psalm_29",
+        "psalm_30"
+      ]
+    },
+    {
+      "day": 11,
+      "psalms": [
+        "psalm_31",
+        "psalm_32",
+        "psalm_33"
+      ]
+    },
+    {
+      "day": 12,
+      "psalms": [
+        "psalm_34",
+        "psalm_35",
+        "psalm_36"
+      ]
+    },
+    {
+      "day": 13,
+      "psalms": [
+        "psalm_37",
+        "psalm_38",
+        "psalm_39"
+      ]
+    },
+    {
+      "day": 14,
+      "psalms": [
+        "psalm_40",
+        "psalm_41",
+        "psalm_42"
+      ]
+    },
+    {
+      "day": 15,
+      "psalms": [
+        "psalm_43",
+        "psalm_44",
+        "psalm_45"
+      ]
+    },
+    {
+      "day": 16,
+      "psalms": [
+        "psalm_46",
+        "psalm_47",
+        "psalm_48"
+      ]
+    },
+    {
+      "day": 17,
+      "psalms": [
+        "psalm_49",
+        "psalm_50",
+        "psalm_51"
+      ]
+    },
+    {
+      "day": 18,
+      "psalms": [
+        "psalm_52",
+        "psalm_53",
+        "psalm_54"
+      ]
+    },
+    {
+      "day": 19,
+      "psalms": [
+        "psalm_55",
+        "psalm_56",
+        "psalm_57"
+      ]
+    },
+    {
+      "day": 20,
+      "psalms": [
+        "psalm_58",
+        "psalm_59",
+        "psalm_60"
+      ]
+    },
+    {
+      "day": 21,
+      "psalms": [
+        "psalm_61",
+        "psalm_62",
+        "psalm_63"
+      ]
+    },
+    {
+      "day": 22,
+      "psalms": [
+        "psalm_64",
+        "psalm_65",
+        "psalm_66"
+      ]
+    },
+    {
+      "day": 23,
+      "psalms": [
+        "psalm_67",
+        "psalm_68",
+        "psalm_69"
+      ]
+    },
+    {
+      "day": 24,
+      "psalms": [
+        "psalm_70",
+        "psalm_71",
+        "psalm_72"
+      ]
+    },
+    {
+      "day": 25,
+      "psalms": [
+        "psalm_73",
+        "psalm_74",
+        "psalm_75"
+      ]
+    },
+    {
+      "day": 26,
+      "psalms": [
+        "psalm_76",
+        "psalm_77",
+        "psalm_78"
+      ]
+    },
+    {
+      "day": 27,
+      "psalms": [
+        "psalm_79",
+        "psalm_80",
+        "psalm_81"
+      ]
+    },
+    {
+      "day": 28,
+      "psalms": [
+        "psalm_82",
+        "psalm_83",
+        "psalm_84"
+      ]
+    },
+    {
+      "day": 29,
+      "psalms": [
+        "psalm_85",
+        "psalm_86",
+        "psalm_87"
+      ]
+    },
+    {
+      "day": 30,
+      "psalms": [
+        "psalm_88",
+        "psalm_89",
+        "psalm_90"
+      ]
+    },
+    {
+      "day": 31,
+      "psalms": [
+        "psalm_91",
+        "psalm_92",
+        "psalm_93"
+      ]
+    },
+    {
+      "day": 32,
+      "psalms": [
+        "psalm_94",
+        "psalm_95",
+        "psalm_96"
+      ]
+    },
+    {
+      "day": 33,
+      "psalms": [
+        "psalm_97",
+        "psalm_98",
+        "psalm_99"
+      ]
+    },
+    {
+      "day": 34,
+      "psalms": [
+        "psalm_100",
+        "psalm_101",
+        "psalm_102"
+      ]
+    },
+    {
+      "day": 35,
+      "psalms": [
+        "psalm_103",
+        "psalm_104",
+        "psalm_105"
+      ]
+    },
+    {
+      "day": 36,
+      "psalms": [
+        "psalm_106",
+        "psalm_107",
+        "psalm_108"
+      ]
+    },
+    {
+      "day": 37,
+      "psalms": [
+        "psalm_109",
+        "psalm_110",
+        "psalm_111"
+      ]
+    },
+    {
+      "day": 38,
+      "psalms": [
+        "psalm_112",
+        "psalm_113",
+        "psalm_114"
+      ]
+    },
+    {
+      "day": 39,
+      "psalms": [
+        "psalm_115",
+        "psalm_116",
+        "psalm_117"
+      ]
+    },
+    {
+      "day": 40,
+      "psalms": [
+        "psalm_118",
+        "psalm_119",
+        "psalm_120"
+      ]
+    },
+    {
+      "day": 41,
+      "psalms": [
+        "psalm_121",
+        "psalm_122",
+        "psalm_123"
+      ]
+    },
+    {
+      "day": 42,
+      "psalms": [
+        "psalm_124",
+        "psalm_125",
+        "psalm_126"
+      ]
+    },
+    {
+      "day": 43,
+      "psalms": [
+        "psalm_127",
+        "psalm_128",
+        "psalm_129"
+      ]
+    },
+    {
+      "day": 44,
+      "psalms": [
+        "psalm_130",
+        "psalm_131",
+        "psalm_132"
+      ]
+    },
+    {
+      "day": 45,
+      "psalms": [
+        "psalm_133",
+        "psalm_134",
+        "psalm_135"
+      ]
+    },
+    {
+      "day": 46,
+      "psalms": [
+        "psalm_136",
+        "psalm_137",
+        "psalm_138"
+      ]
+    },
+    {
+      "day": 47,
+      "psalms": [
+        "psalm_139",
+        "psalm_140",
+        "psalm_141"
+      ]
+    },
+    {
+      "day": 48,
+      "psalms": [
+        "psalm_142",
+        "psalm_143",
+        "psalm_144"
+      ]
+    },
+    {
+      "day": 49,
+      "psalms": [
+        "psalm_145",
+        "psalm_146",
+        "psalm_147"
+      ]
+    },
+    {
+      "day": 50,
+      "psalms": [
+        "psalm_148",
+        "psalm_149",
+        "psalm_150"
+      ]
+    }
+  ]
+}

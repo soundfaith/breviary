@@ -1,0 +1,65 @@
+{
+  "id": "simplified_daily_office",
+  "hours": {
+    "invitatory": {
+      "opening": "opening_common",
+      "psalmId": "psalm_95",
+      "seasonalAntiphon": true
+    },
+    "lauds": {
+      "opening": "opening_common",
+      "seasonalAntiphon": true,
+      "psalms": "cycle",
+      "reading": "cycle_or_seasonal",
+      "canticleId": "song_of_zechariah",
+      "intercessions": "season_or_saint",
+      "concludingPrayer": "season_or_saint",
+      "blessing": "blessing_lauds"
+    },
+    "vespers": {
+      "opening": "opening_common",
+      "psalmOrCanticle": "psalm_134",
+      "canticleId": "song_of_mary",
+      "shortPrayer": "seasonal",
+      "blessing": "blessing_vespers"
+    },
+    "compline": {
+      "opening": "opening_common",
+      "fixedPsalmIds": [
+        "psalm_4",
+        "psalm_91",
+        "psalm_134"
+      ],
+      "canticleId": "song_of_simeon",
+      "nightPrayer": "night_prayer_common",
+      "blessing": "blessing_compline"
+    }
+  },
+  "commonTexts": {
+    "opening": "O God, come to my assistance. O Lord, make haste to help me.",
+    "nightPrayer": "Visit this dwelling, Lord, and keep far from it every snare of the enemy. May your holy angels dwell here to preserve us in peace, and may your blessing be upon us always.",
+    "blessing": "May the Lord bless us, protect us from all evil, and bring us to everlasting life. Amen."
+  },
+  "assembly": {
+    "cycleDay": "((dayOfYear - 1) % 50) + 1",
+    "season": "calendar resolver",
+    "saint": "calendar resolver, optional"
+  },
+  "references": {
+    "canticles": {
+      "canticle_of_hannah": "library/canticles/canticle_of_hannah.json",
+      "canticle_of_isaiah": "library/canticles/canticle_of_isaiah.json",
+      "canticle_of_moses": "library/canticles/canticle_of_moses.json",
+      "song_of_mary": "library/canticles/song_of_mary.json",
+      "song_of_simeon": "library/canticles/song_of_simeon.json",
+      "song_of_zechariah": "library/canticles/song_of_zechariah.json"
+    },
+    "blessings": {
+      "blessing_compline": "library/blessings/blessing_compline.json",
+      "blessing_daytime": "library/blessings/blessing_daytime.json",
+      "blessing_lauds": "library/blessings/blessing_lauds.json",
+      "blessing_office_of_readings": "library/blessings/blessing_office_of_readings.json",
+      "blessing_vespers": "library/blessings/blessing_vespers.json"
+    }
+  }
+}
