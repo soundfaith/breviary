@@ -409,12 +409,12 @@ function AppExpanded() {
   );
   const previousHour =
     hours[
-      (hours.findIndex((hour) => hour.id === selected.id) + hours.length - 1) %
-        hours.length
+    (hours.findIndex((hour) => hour.id === selected.id) + hours.length - 1) %
+    hours.length
     ];
   const nextHour =
     hours[
-      (hours.findIndex((hour) => hour.id === selected.id) + 1) % hours.length
+    (hours.findIndex((hour) => hour.id === selected.id) + 1) % hours.length
     ];
   const libraryData = useMemo(() => libraryItems(libraryTab), [libraryTab]);
   const libraryPageSize = 12;
@@ -692,6 +692,7 @@ function AppExpanded() {
             </div>
           </section>
           <section className="hours-section">
+            {/* breviary */}
             <div className="section-heading">
               <div>
                 <span className="section-kicker">The daily office</span>
@@ -717,33 +718,45 @@ function AppExpanded() {
                   </button>
                 );
               })}
+            </div>
+          </section>
+
+          <section className="hours-section">
+            {/* readings and bible */}
+            <div className="section-heading">
+              <div>
+                <span className="section-kicker">Holy Scripture</span>
+                <h2>Readings & Bible</h2>
+              </div>
+            </div>
+            <div className="hours-grid">
               <section className="landing-reading-card">
-            <button
-              className="hour-card"
-              onClick={() => openMassReadings(new Date())}
-            >
-              <div className="hour-card-icon">
-                <ScrollText size={18} />
-              </div>
-              <strong>Today’s readings</strong>
-              <span className="hour-caption">Mass readings</span>
-              <span className="hour-description">Read the Scripture proclaimed at Mass, with the first reading, Psalm, and Gospel.</span>
-              <span className="hour-time">
-                Today’s lectionary
-              </span>
-            </button>
-          </section>
-          <section className="landing-reading-card">
-            <button className="hour-card" onClick={openBible}>
-              <div className="hour-card-icon">
-                <BookMarked size={18} />
-              </div>
-              <strong>Read the Bible</strong>
-              <span className="hour-caption">Bible reading</span>
-              <span className="hour-description">Explore the books of the Bible one chapter at a time, at your own pace.</span>
-              <span className="hour-time">World English Bible</span>
-            </button>
-          </section>
+                <button
+                  className="hour-card"
+                  onClick={() => openMassReadings(new Date())}
+                >
+                  <div className="hour-card-icon">
+                    <ScrollText size={18} />
+                  </div>
+                  <strong>Today’s readings</strong>
+                  <span className="hour-caption">Mass readings</span>
+                  <span className="hour-description">Read the Scripture proclaimed at Mass, with the first reading, Psalm, and Gospel.</span>
+                  <span className="hour-time">
+                    Today’s lectionary
+                  </span>
+                </button>
+              </section>
+              <section className="landing-reading-card">
+                <button className="hour-card" onClick={openBible}>
+                  <div className="hour-card-icon">
+                    <BookMarked size={18} />
+                  </div>
+                  <strong>Read the Bible</strong>
+                  <span className="hour-caption">Bible reading</span>
+                  <span className="hour-description">Explore the books of the Bible one chapter at a time, at your own pace.</span>
+                  <span className="hour-time">World English Bible</span>
+                </button>
+              </section>
             </div>
           </section>
         </main>
@@ -802,27 +815,27 @@ function AppExpanded() {
               <span>Previous: {previousHour.label}</span>
             </button>
             <div className={`audio-control ${audioProgressVisible ? "progress-visible" : ""}`} onMouseLeave={hideAudioProgressSoon}>
-            <input className="audio-progress" style={{ "--audio-progress": speechProgress } as React.CSSProperties} type="range" min="0" max="1" step="0.01" value={speechProgress} onMouseEnter={showAudioProgress} onFocus={showAudioProgress} onPointerDown={showAudioProgress} onPointerUp={(event) => { commitSpeechSeek(); hideAudioProgressSoon(); }} onKeyUp={commitSpeechSeek} onChange={(event) => updateSpeechSeek(Number(event.target.value))} aria-label="Seek audio" />
-            <button
-              className={`audio-button ${isSpeaking ? "is-speaking" : ""} ${audioButtonActive ? "audio-session-active" : ""}`}
-              onClick={speak}
-              onMouseEnter={showAudioProgress}
-              aria-label={isSpeaking ? "Pause reading" : audioPaused ? "Resume reading" : "Play reading"}
-              title={isSpeaking ? "Pause reading" : audioPaused ? "Resume reading" : "Play reading"}
-            >
-              {isSpeaking ? (
-                <span className="equalizer" aria-hidden="true">
-                  <i />
-                  <i />
-                  <i />
-                  <i />
-                </span>
-              ) : audioPaused ? (
-                <Pause size={18} fill="currentColor" />
-              ) : (
-                <Play size={18} fill="currentColor" />
-              )}
-            </button>
+              <input className="audio-progress" style={{ "--audio-progress": speechProgress } as React.CSSProperties} type="range" min="0" max="1" step="0.01" value={speechProgress} onMouseEnter={showAudioProgress} onFocus={showAudioProgress} onPointerDown={showAudioProgress} onPointerUp={(event) => { commitSpeechSeek(); hideAudioProgressSoon(); }} onKeyUp={commitSpeechSeek} onChange={(event) => updateSpeechSeek(Number(event.target.value))} aria-label="Seek audio" />
+              <button
+                className={`audio-button ${isSpeaking ? "is-speaking" : ""} ${audioButtonActive ? "audio-session-active" : ""}`}
+                onClick={speak}
+                onMouseEnter={showAudioProgress}
+                aria-label={isSpeaking ? "Pause reading" : audioPaused ? "Resume reading" : "Play reading"}
+                title={isSpeaking ? "Pause reading" : audioPaused ? "Resume reading" : "Play reading"}
+              >
+                {isSpeaking ? (
+                  <span className="equalizer" aria-hidden="true">
+                    <i />
+                    <i />
+                    <i />
+                    <i />
+                  </span>
+                ) : audioPaused ? (
+                  <Pause size={18} fill="currentColor" />
+                ) : (
+                  <Play size={18} fill="currentColor" />
+                )}
+              </button>
             </div>
             <button className="text-button" onClick={() => navigatePrayer(1)}>
               <span>Next: {nextHour.label}</span> <ChevronRight size={16} />
@@ -863,10 +876,10 @@ function AppExpanded() {
             <p className="prayer-subtitle">
               {massReadings
                 ? dateText(selectedDate, {
-                    month: "long",
-                    day: "numeric",
-                    year: "numeric",
-                  })
+                  month: "long",
+                  day: "numeric",
+                  year: "numeric",
+                })
                 : "No local reading record for this date"}
             </p>
             <div className="rule" />
@@ -879,7 +892,7 @@ function AppExpanded() {
               }).map(([key, label]) => {
                 const reading =
                   massReadings.readings[
-                    key as keyof typeof massReadings.readings
+                  key as keyof typeof massReadings.readings
                   ];
                 return reading ? (
                   <section className="prayer-block" key={key}>
@@ -899,15 +912,15 @@ function AppExpanded() {
           </article>
           <div className="reader-footer">
             <div className={`audio-control ${audioProgressVisible ? "progress-visible" : ""}`} onMouseLeave={hideAudioProgressSoon}>
-            <input className="audio-progress" style={{ "--audio-progress": speechProgress } as React.CSSProperties} type="range" min="0" max="1" step="0.01" value={speechProgress} onChange={(event) => updateSpeechSeek(Number(event.target.value))} onMouseEnter={showAudioProgress} onFocus={showAudioProgress} onPointerDown={showAudioProgress} onPointerUp={(event) => { commitSpeechSeek(); hideAudioProgressSoon(); }} onKeyUp={commitSpeechSeek} aria-label="Seek audio" />
-            <button
-              className="text-button"
-              onClick={() =>
-                openMassReadings(new Date(selectedDate.getTime() - 86400000))
-              }
-            >
-              <ChevronLeft size={16} /> Previous day
-            </button>
+              <input className="audio-progress" style={{ "--audio-progress": speechProgress } as React.CSSProperties} type="range" min="0" max="1" step="0.01" value={speechProgress} onChange={(event) => updateSpeechSeek(Number(event.target.value))} onMouseEnter={showAudioProgress} onFocus={showAudioProgress} onPointerDown={showAudioProgress} onPointerUp={(event) => { commitSpeechSeek(); hideAudioProgressSoon(); }} onKeyUp={commitSpeechSeek} aria-label="Seek audio" />
+              <button
+                className="text-button"
+                onClick={() =>
+                  openMassReadings(new Date(selectedDate.getTime() - 86400000))
+                }
+              >
+                <ChevronLeft size={16} /> Previous day
+              </button>
             </div>
             <button
               className={`audio-button ${isSpeaking ? "is-speaking" : ""} ${audioButtonActive ? "audio-session-active" : ""}`}
@@ -976,27 +989,27 @@ function AppExpanded() {
           <div className="reader-footer">
             <button className="text-button" onClick={() => moveBibleChapter(-1)}><ChevronLeft size={16} /> Previous chapter</button>
             <div className={`audio-control ${audioProgressVisible ? "progress-visible" : ""}`} onMouseLeave={hideAudioProgressSoon}>
-            <input className="audio-progress" style={{ "--audio-progress": speechProgress } as React.CSSProperties} type="range" min="0" max="1" step="0.01" value={speechProgress} onChange={(event) => updateSpeechSeek(Number(event.target.value))} onMouseEnter={showAudioProgress} onFocus={showAudioProgress} onPointerDown={showAudioProgress} onPointerUp={(event) => { commitSpeechSeek(); hideAudioProgressSoon(); }} onKeyUp={commitSpeechSeek} aria-label="Seek audio" />
-            <button
-              className={`audio-button ${isSpeaking ? "is-speaking" : ""} ${audioButtonActive ? "audio-session-active" : ""}`}
-              onClick={speak}
-              onMouseEnter={showAudioProgress}
-              aria-label={isSpeaking ? "Pause reading" : audioPaused ? "Resume reading" : "Play reading"}
-              title={isSpeaking ? "Pause reading" : audioPaused ? "Resume reading" : "Play reading"}
-            >
-              {isSpeaking ? (
-                <span className="equalizer" aria-hidden="true">
-                  <i />
-                  <i />
-                  <i />
-                  <i />
-                </span>
-              ) : audioPaused ? (
-                <Pause size={18} fill="currentColor" />
-              ) : (
-                <Play size={18} fill="currentColor" />
-              )}
-            </button>
+              <input className="audio-progress" style={{ "--audio-progress": speechProgress } as React.CSSProperties} type="range" min="0" max="1" step="0.01" value={speechProgress} onChange={(event) => updateSpeechSeek(Number(event.target.value))} onMouseEnter={showAudioProgress} onFocus={showAudioProgress} onPointerDown={showAudioProgress} onPointerUp={(event) => { commitSpeechSeek(); hideAudioProgressSoon(); }} onKeyUp={commitSpeechSeek} aria-label="Seek audio" />
+              <button
+                className={`audio-button ${isSpeaking ? "is-speaking" : ""} ${audioButtonActive ? "audio-session-active" : ""}`}
+                onClick={speak}
+                onMouseEnter={showAudioProgress}
+                aria-label={isSpeaking ? "Pause reading" : audioPaused ? "Resume reading" : "Play reading"}
+                title={isSpeaking ? "Pause reading" : audioPaused ? "Resume reading" : "Play reading"}
+              >
+                {isSpeaking ? (
+                  <span className="equalizer" aria-hidden="true">
+                    <i />
+                    <i />
+                    <i />
+                    <i />
+                  </span>
+                ) : audioPaused ? (
+                  <Pause size={18} fill="currentColor" />
+                ) : (
+                  <Play size={18} fill="currentColor" />
+                )}
+              </button>
             </div>
             <button className="text-button" onClick={() => moveBibleChapter(1)}>Next chapter <ChevronRight size={16} /></button>
           </div>
@@ -1285,10 +1298,10 @@ function AppExpanded() {
                 onClick={() => openMassReadings(new Date())}
                 className={route === "/readings" ? "current" : ""}
               >
-                  <ScrollText size={16} /> Readings
+                <ScrollText size={16} /> Readings
               </button>
               <button onClick={openBible} className={route === "/bible" ? "current" : ""}>
-                  <BookMarked size={16} /> Bible
+                <BookMarked size={16} /> Bible
               </button>
               <div className="drawer-menu-divider" />
               <button onClick={openLibrary}>
