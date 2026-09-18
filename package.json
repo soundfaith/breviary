@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
+    "import:bible": "node scripts/import-usfm.mjs",
     "preview": "vite preview"
   },
   "dependencies": {

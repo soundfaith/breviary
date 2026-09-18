@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import {
   BookOpen,
+  BookMarked,
   CalendarDays,
   Check,
   ChevronLeft,
@@ -9,13 +10,18 @@ import {
   Copy,
   Cross,
   Home,
+  Info,
+  Library,
   Menu,
   Moon,
+  Pause,
   Play,
   Share2,
   Sparkles,
   Sun,
   Sunrise,
+  ScrollText,
+  Search,
   X,
 } from "lucide-react";
 import {
@@ -130,10 +136,15 @@ function AppExpanded() {
   const [selectedDate, setSelectedDate] = useState(() => new Date());
   const [month, setMonth] = useState(() => new Date());
   const [drawer, setDrawer] = useState(false);
+  const [selectorOpen, setSelectorOpen] = useState(false);
+  const [selectorClosing, setSelectorClosing] = useState(false);
   const [dark, setDark] = useState(
     () => window.localStorage.getItem("soundfaith-theme") === "dark",
   );
-  const [fontSize, setFontSize] = useState(18);
+  const [fontSize, setFontSize] = useState(() => {
+    const saved = Number(window.localStorage.getItem("soundfaith-font-size"));
+    return Number.isFinite(saved) ? Math.min(24, Math.max(16, saved)) : 18;
+  });
   const [selected, setSelected] = useState<Hour>(() => currentHour());
   const [route, setRoute] = useState<
     | "/"
@@ -163,11 +174,28 @@ function AppExpanded() {
   const [libraryTab, setLibraryTab] = useState<LibraryTab>("psalms");
   const [libraryPage, setLibraryPage] = useState(1);
   const [isSpeaking, setIsSpeaking] = useState(false);
+  const [isAudioPaused, setIsAudioPaused] = useState(false);
+  const [speechProgress, setSpeechProgress] = useState(0);
+  const [audioProgressVisible, setAudioProgressVisible] = useState(false);
   const [isCopied, setIsCopied] = useState(false);
+  const [bibleSearchOpen, setBibleSearchOpen] = useState(false);
+  const [bibleSearchQuery, setBibleSearchQuery] = useState("");
+  const [bibleSearchLimit, setBibleSearchLimit] = useState(12);
+  const [searchedVerseKey, setSearchedVerseKey] = useState<string | null>(null);
+  const [speechVoices, setSpeechVoices] = useState<SpeechSynthesisVoice[]>([]);
+  const [selectedVoiceURI, setSelectedVoiceURI] = useState(() => window.localStorage.getItem("soundfaith-voice-uri") ?? "");
   const speechRef = useRef<SpeechSynthesisUtterance | null>(null);
   const bibleTouchStart = useRef<number | null>(null);
+  const pinchStartDistance = useRef<number | null>(null);
+  const pinchCurrentDistance = useRef<number | null>(null);
+  const selectorTouchStart = useRef<number | null>(null);
+  const bibleSearchTouchStart = useRef<number | null>(null);
   const continueBibleAudio = useRef(false);
+  const audioProgressHideTimer = useRef<number | null>(null);
+  const pendingSpeechSeek = useRef<number | null>(null);
+  const speechSession = useRef(0);
   const todayHour = currentHour();
+  const TodayHourIcon = todayHour.icon;
   const prayer = useMemo<DailyPrayer>(
     () =>
       assembleDailyPrayer({
@@ -193,6 +221,42 @@ function AppExpanded() {
   useEffect(() => {
     window.localStorage.setItem("soundfaith-bible-location", JSON.stringify({ bookId: bibleBookId, chapter: bibleChapterNumber }));
   }, [bibleBookId, bibleChapterNumber]);
+  useEffect(() => {
+    window.localStorage.setItem("soundfaith-font-size", String(fontSize));
+  }, [fontSize]);
+  useEffect(() => {
+    if (!searchedVerseKey) return;
+    const startedAt = performance.now();
+    let userScrolled = false;
+    let clearOnScroll: (() => void) | undefined;
+    const minimumDuration = window.setTimeout(() => {
+      if (userScrolled) setSearchedVerseKey(null);
+    }, 2800);
+    const scrollTimeout = window.setTimeout(() => {
+      document.getElementById(searchedVerseKey)?.scrollIntoView({ behavior: "smooth", block: "center" });
+      clearOnScroll = () => {
+        userScrolled = true;
+        if (performance.now() - startedAt >= 2800) setSearchedVerseKey(null);
+      };
+      window.addEventListener("scroll", clearOnScroll, { passive: true });
+    }, 0);
+    return () => {
+      window.clearTimeout(scrollTimeout);
+      window.clearTimeout(minimumDuration);
+      if (clearOnScroll) window.removeEventListener("scroll", clearOnScroll);
+    };
+  }, [bibleBookId, bibleChapterNumber, searchedVerseKey]);
+  useEffect(() => {
+    const updateVoices = () => setSpeechVoices(window.speechSynthesis?.getVoices() ?? []);
+    updateVoices();
+    window.speechSynthesis?.addEventListener("voiceschanged", updateVoices);
+    return () => window.speechSynthesis?.removeEventListener("voiceschanged", updateVoices);
+  }, []);
+  useEffect(() => {
+    if (selectedVoiceURI && speechVoices.some((voice) => voice.voiceURI === selectedVoiceURI)) {
+      window.localStorage.setItem("soundfaith-voice-uri", selectedVoiceURI);
+    }
+  }, [selectedVoiceURI, speechVoices]);
   useEffect(
     () => () => {
       window.speechSynthesis?.cancel();
@@ -209,9 +273,34 @@ function AppExpanded() {
     window.speechSynthesis?.cancel();
     speechRef.current = null;
     setIsSpeaking(false);
+    setIsAudioPaused(false);
+    setAudioProgressVisible(false);
+  };
+  const showAudioProgress = () => {
+    if (audioProgressHideTimer.current !== null) window.clearTimeout(audioProgressHideTimer.current);
+    if (isSpeaking) setAudioProgressVisible(true);
+  };
+  const hideAudioProgressSoon = () => {
+    if (audioProgressHideTimer.current !== null) window.clearTimeout(audioProgressHideTimer.current);
+    audioProgressHideTimer.current = window.setTimeout(() => setAudioProgressVisible(false), 1400);
+  };
+  const openSelector = () => {
+    setDrawer(false);
+    setSelectorClosing(false);
+    setSelectorOpen(true);
+  };
+  const closeSelector = () => {
+    if (!selectorOpen || selectorClosing) return;
+    setSelectorClosing(true);
+    window.setTimeout(() => {
+      setSelectorOpen(false);
+      setSelectorClosing(false);
+    }, 220);
   };
   const openHour = (hour: Hour, dateOverride = selectedDate) => {
     stopSpeech();
+    setSelectorOpen(false);
+    setSelectorClosing(false);
     setSelectedDate(dateOverride);
     setMonth(dateOverride);
     setSelected(hour);
@@ -245,6 +334,11 @@ function AppExpanded() {
     setIsCopied(true);
     window.setTimeout(() => setIsCopied(false), 1800);
   };
+  const copyReading = async () => {
+    await navigator.clipboard?.writeText(audioText);
+    setIsCopied(true);
+    window.setTimeout(() => setIsCopied(false), 1800);
+  };
   const shareLandingPage = async () => {
     const url = `${window.location.origin}${window.location.pathname}`;
     if (navigator.share)
@@ -258,14 +352,15 @@ function AppExpanded() {
   const speak = () => {
     if (!("speechSynthesis" in window) || !audioText) return;
     if (isSpeaking) {
-      continueBibleAudio.current = false;
       window.speechSynthesis.pause();
       setIsSpeaking(false);
+      setIsAudioPaused(true);
       return;
     }
     if (speechRef.current && window.speechSynthesis.paused) {
       window.speechSynthesis.resume();
       setIsSpeaking(true);
+      setIsAudioPaused(false);
       return;
     }
     continueBibleAudio.current = route === "/bible";
@@ -304,6 +399,8 @@ function AppExpanded() {
     setLibraryPage(1);
   };
   const openMassReadings = (dateOverride = selectedDate) => {
+    setSelectorOpen(false);
+    setSelectorClosing(false);
     setSelectedDate(dateOverride);
     setMonth(dateOverride);
     setRoute("/readings");
@@ -311,6 +408,8 @@ function AppExpanded() {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
   const openBible = () => {
+    setSelectorOpen(false);
+    setSelectorClosing(false);
     setRoute("/bible");
     setDrawer(false);
     window.scrollTo({ top: 0, behavior: "smooth" });
@@ -318,9 +417,34 @@ function AppExpanded() {
   const bibleBook = bibleBookById.get(bibleBookId) ?? bibleBooks[0];
   const bibleChapterNumbers = bibleChapters(bibleBook);
   const bibleVerses = bibleChapter(bibleBook, bibleChapterNumber);
+  const bibleSearchResults = useMemo(() => {
+    const query = bibleSearchQuery.trim();
+    if (!query) return [];
+    const referenceMatch = query.match(/^(.+?)\s+(\d+)(?::(\d+))?$/);
+    if (referenceMatch) {
+      const book = bibleBooks.find((candidate) => candidate.name.toLowerCase() === referenceMatch[1].trim().toLowerCase());
+      if (book) {
+        const chapter = Number(referenceMatch[2]);
+        const verseNumber = referenceMatch[3] ? Number(referenceMatch[3]) : undefined;
+        const matches = book.verses.filter((verse) => verse.chapter === chapter && (verseNumber === undefined || verse.verse === verseNumber));
+        return matches.slice(0, 20).map((verse) => ({ ...verse, bookId: book.id, bookName: book.name }));
+      }
+    }
+    const words = query.toLowerCase().split(/\s+/).filter(Boolean);
+    if (!words.length) return [];
+    const results: Array<(typeof bibleBooks)[number]["verses"][number] & { bookId: string; bookName: string }> = [];
+    for (const book of bibleBooks) {
+      for (const verse of book.verses) {
+        const text = verse.text.toLowerCase();
+        if (words.every((word) => text.includes(word))) results.push({ ...verse, bookId: book.id, bookName: book.name });
+        if (results.length >= 60) return results;
+      }
+    }
+    return results;
+  }, [bibleSearchQuery]);
   const bibleParagraphs = bibleVerses.reduce<Array<typeof bibleVerses>>((paragraphs, verse) => {
     const current = paragraphs[paragraphs.length - 1];
-    if (!current || current.length >= 4) paragraphs.push([verse]);
+    if (!current || current[0].chapter !== verse.chapter || current[0].paragraph !== verse.paragraph) paragraphs.push([verse]);
     else current.push(verse);
     return paragraphs;
   }, []);
@@ -344,12 +468,51 @@ function AppExpanded() {
     setBibleChapterNumber(1);
     setExpandedTestament(testament);
   };
+  const openBibleSearch = () => {
+    setBibleSearchQuery("");
+    setBibleSearchLimit(12);
+    setBibleSearchOpen(true);
+  };
+  const closeBibleSearch = () => setBibleSearchOpen(false);
+  const selectBibleSearchResult = (result: (typeof bibleSearchResults)[number]) => {
+    setBibleBookId(result.bookId);
+    setBibleChapterNumber(result.chapter);
+    setSearchedVerseKey(`bible-verse-${result.bookId}-${result.chapter}-${result.verse}`);
+    setBibleSearchOpen(false);
+  };
   const selectedWeekday = dateText(selectedDate, { weekday: "long" });
   const compactReadingText = (text: string) =>
     text
       .replace(/\n{2,}/g, " ")
       .replace(/\s+/g, " ")
       .trim();
+  const readableFontSize = fontSize - 2;
+  const handleReaderTouchStart = (event: React.TouchEvent<HTMLElement>) => {
+    if (event.touches.length === 2) {
+      const first = event.touches[0];
+      const second = event.touches[1];
+      const distance = Math.hypot(first.clientX - second.clientX, first.clientY - second.clientY);
+      pinchStartDistance.current = distance;
+      pinchCurrentDistance.current = distance;
+    }
+  };
+  const handleReaderTouchMove = (event: React.TouchEvent<HTMLElement>) => {
+    if (event.touches.length !== 2 || pinchStartDistance.current === null) return;
+    const first = event.touches[0];
+    const second = event.touches[1];
+    pinchCurrentDistance.current = Math.hypot(first.clientX - second.clientX, first.clientY - second.clientY);
+  };
+  const handleReaderTouchEnd = (event: React.TouchEvent<HTMLElement>) => {
+    if (pinchStartDistance.current === null) return;
+    const distance = pinchCurrentDistance.current;
+    if (distance !== null) {
+      if (Math.abs(distance - pinchStartDistance.current) > 18) {
+        setFontSize((size) => Math.min(24, Math.max(16, size + (distance > pinchStartDistance.current! ? 1 : -1))));
+      }
+    }
+    pinchStartDistance.current = null;
+    pinchCurrentDistance.current = null;
+  };
   const audioText = route === "/prayer"
     ? blocks.map((block) => block.text).join(" ")
     : route === "/readings"
@@ -357,31 +520,83 @@ function AppExpanded() {
       : route === "/bible"
         ? bibleVerses.map((verse) => verse.text).join(" ")
         : "";
-  const startSpeech = (text: string) => {
+  const audioPaused = isAudioPaused && speechRef.current !== null;
+  const audioButtonActive = isSpeaking || audioPaused;
+  const startSpeech = (text: string, voiceURI = selectedVoiceURI, offset = 0) => {
     const utterance = new SpeechSynthesisUtterance(text);
+    const session = ++speechSession.current;
+    const selectedVoice = speechVoices.find((voice) => voice.voiceURI === voiceURI);
+    if (selectedVoice) utterance.voice = selectedVoice;
+    setIsAudioPaused(false);
+    setSpeechProgress(offset / Math.max(audioText.length, 1));
+    utterance.onboundary = (event) => {
+      if (event.name === "word" || event.name === "sentence") {
+        setSpeechProgress(Math.min(1, (offset + event.charIndex) / Math.max(audioText.length, 1)));
+      }
+    };
     utterance.onend = () => {
+      if (session !== speechSession.current || speechRef.current !== utterance) return;
       speechRef.current = null;
       if (route === "/bible" && continueBibleAudio.current) {
         const currentIndex = bibleChapterNumbers.indexOf(bibleChapterNumber);
         if (currentIndex < bibleChapterNumbers.length - 1) {
           const nextChapter = bibleChapterNumbers[currentIndex + 1];
           setBibleChapterNumber(nextChapter);
-          startSpeech(bibleChapter(bibleBook, nextChapter).map((verse) => verse.text).join(" "));
+          startSpeech(bibleChapter(bibleBook, nextChapter).map((verse) => verse.text).join(" "), voiceURI, 0);
           return;
         }
         continueBibleAudio.current = false;
       }
+      setSpeechProgress(1);
       setIsSpeaking(false);
+      setIsAudioPaused(false);
+      setAudioProgressVisible(false);
     };
     utterance.onerror = () => {
+      if (session !== speechSession.current || speechRef.current !== utterance) return;
       speechRef.current = null;
       continueBibleAudio.current = false;
+      setSpeechProgress(0);
       setIsSpeaking(false);
+      setIsAudioPaused(false);
+      setAudioProgressVisible(false);
     };
     speechRef.current = utterance;
     window.speechSynthesis.cancel();
     window.speechSynthesis.speak(utterance);
     setIsSpeaking(true);
+  };
+  const seekSpeech = (value: number) => {
+    if (!speechRef.current || !audioText) return;
+    const offset = Math.floor(Math.min(1, Math.max(0, value)) * audioText.length);
+    const remainingText = audioText.slice(offset).trimStart();
+    if (!remainingText) return;
+    const shouldContinueBible = route === "/bible";
+    continueBibleAudio.current = shouldContinueBible;
+    window.speechSynthesis.cancel();
+    speechRef.current = null;
+    setSpeechProgress(offset / audioText.length);
+    startSpeech(remainingText, selectedVoiceURI, offset);
+    showAudioProgress();
+  };
+  const updateSpeechSeek = (value: number) => {
+    const nextValue = Math.min(1, Math.max(0, value));
+    pendingSpeechSeek.current = nextValue;
+    setSpeechProgress(nextValue);
+  };
+  const commitSpeechSeek = () => {
+    if (pendingSpeechSeek.current === null) return;
+    const value = pendingSpeechSeek.current;
+    pendingSpeechSeek.current = null;
+    seekSpeech(value);
+  };
+  const changeVoice = (voiceURI: string) => {
+    setSelectedVoiceURI(voiceURI);
+    if (!isSpeaking || !audioText) return;
+    continueBibleAudio.current = route === "/bible";
+    window.speechSynthesis.cancel();
+    speechRef.current = null;
+    startSpeech(audioText, voiceURI);
   };
 
   return (
@@ -395,16 +610,12 @@ function AppExpanded() {
         </button>
         <div className="header-actions">
           <button
-            className="date-chip"
-            onClick={() => setDrawer(true)}
-            aria-label="Open navigation"
+            className="header-menu-button"
+            onClick={openSelector}
+            aria-label={`Open ${route === "/bible" ? "books" : "calendar"}`}
           >
-            <CalendarDays size={15} />{" "}
-            {dateText(selectedDate, {
-              weekday: "short",
-              month: "short",
-              day: "numeric",
-            })}
+            {route === "/bible" ? <Library size={16} /> : <CalendarDays size={16} />}
+            <span>{route === "/bible" ? "Books" : "Calendar"}</span>
           </button>
           <button
             className="icon-button"
@@ -474,7 +685,7 @@ function AppExpanded() {
               onClick={() => openMassReadings(new Date())}
             >
               <div className="hour-card-icon">
-                <BookOpen size={18} />
+                <ScrollText size={18} />
               </div>
               <strong>Today’s readings</strong>
               <span className="hour-caption">Mass readings</span>
@@ -487,7 +698,7 @@ function AppExpanded() {
           <section className="landing-reading-card">
             <button className="hour-card" onClick={openBible}>
               <div className="hour-card-icon">
-                <BookOpen size={18} />
+                <BookMarked size={18} />
               </div>
               <strong>Read the Bible</strong>
               <span className="hour-caption">Bible reading</span>
@@ -500,19 +711,11 @@ function AppExpanded() {
         </main>
       )}
       {route === "/prayer" && (
-        <main className="reader-page">
+        <main className="reader-page" onTouchStart={handleReaderTouchStart} onTouchMove={handleReaderTouchMove} onTouchEnd={handleReaderTouchEnd}>
           <div className="reader-toolbar">
             <button className="back-button" onClick={goHome}>
-              <ChevronLeft size={17} /> Today
+              <ChevronLeft size={17} /> Home
             </button>
-            <span className="reader-date">
-              {dateText(selectedDate, {
-                weekday: "long",
-                month: "long",
-                day: "numeric",
-                year: "numeric",
-              })}
-            </span>
             <div className="reader-actions">
               <button
                 className="reader-action"
@@ -534,7 +737,7 @@ function AppExpanded() {
           </div>
           <article
             className="prayer-content prayer-content--enter"
-            style={{ fontSize: fontSize - 2 }}
+            style={{ fontSize: readableFontSize }}
           >
             <span className="section-kicker">
               {selected.time} ·{" "}
@@ -566,11 +769,14 @@ function AppExpanded() {
               <ChevronLeft size={16} />{" "}
               <span>Previous: {previousHour.label}</span>
             </button>
+            <div className={`audio-control ${audioProgressVisible ? "progress-visible" : ""}`} onMouseLeave={hideAudioProgressSoon}>
+            <input className="audio-progress" style={{ "--audio-progress": speechProgress } as React.CSSProperties} type="range" min="0" max="1" step="0.01" value={speechProgress} onMouseEnter={showAudioProgress} onFocus={showAudioProgress} onPointerDown={showAudioProgress} onPointerUp={(event) => { commitSpeechSeek(); hideAudioProgressSoon(); }} onKeyUp={commitSpeechSeek} onChange={(event) => updateSpeechSeek(Number(event.target.value))} aria-label="Seek audio" />
             <button
-              className={`audio-button ${isSpeaking ? "is-speaking" : ""}`}
+              className={`audio-button ${isSpeaking ? "is-speaking" : ""} ${audioButtonActive ? "audio-session-active" : ""}`}
               onClick={speak}
-              aria-label={isSpeaking ? "Pause reading" : "Play reading"}
-              title={isSpeaking ? "Pause reading" : "Play reading"}
+              onMouseEnter={showAudioProgress}
+              aria-label={isSpeaking ? "Pause reading" : audioPaused ? "Resume reading" : "Play reading"}
+              title={isSpeaking ? "Pause reading" : audioPaused ? "Resume reading" : "Play reading"}
             >
               {isSpeaking ? (
                 <span className="equalizer" aria-hidden="true">
@@ -579,10 +785,13 @@ function AppExpanded() {
                   <i />
                   <i />
                 </span>
+              ) : audioPaused ? (
+                <Pause size={18} fill="currentColor" />
               ) : (
                 <Play size={18} fill="currentColor" />
               )}
             </button>
+            </div>
             <button className="text-button" onClick={() => navigatePrayer(1)}>
               <span>Next: {nextHour.label}</span> <ChevronRight size={16} />
             </button>
@@ -601,21 +810,21 @@ function AppExpanded() {
         </main>
       )}
       {route === "/readings" && (
-        <main className="reader-page readings-page">
+        <main className="reader-page readings-page" onTouchStart={handleReaderTouchStart} onTouchMove={handleReaderTouchMove} onTouchEnd={handleReaderTouchEnd}>
           <div className="reader-toolbar">
             <button className="back-button" onClick={goHome}>
               <ChevronLeft size={17} /> Home
             </button>
-            <span className="reader-date">
-              {dateText(selectedDate, {
-                weekday: "long",
-                month: "long",
-                day: "numeric",
-                year: "numeric",
-              })}
-            </span>
+            <div className="reader-actions">
+              <button className="reader-action" onClick={copyReading} aria-label="Copy readings" title="Copy readings">
+                {isCopied ? <Check size={17} /> : <Copy size={17} />}
+              </button>
+              <button className="reader-action" onClick={shareLandingPage} aria-label="Share Breviary" title="Share Breviary">
+                <Share2 size={17} />
+              </button>
+            </div>
           </div>
-          <article className="prayer-content prayer-content--enter">
+          <article className="prayer-content prayer-content--enter" style={{ fontSize: readableFontSize }}>
             <span className="section-kicker">
               {massReadings?.season ?? "Mass readings"}
             </span>
@@ -658,6 +867,8 @@ function AppExpanded() {
             )}
           </article>
           <div className="reader-footer">
+            <div className={`audio-control ${audioProgressVisible ? "progress-visible" : ""}`} onMouseLeave={hideAudioProgressSoon}>
+            <input className="audio-progress" style={{ "--audio-progress": speechProgress } as React.CSSProperties} type="range" min="0" max="1" step="0.01" value={speechProgress} onChange={(event) => updateSpeechSeek(Number(event.target.value))} onMouseEnter={showAudioProgress} onFocus={showAudioProgress} onPointerDown={showAudioProgress} onPointerUp={(event) => { commitSpeechSeek(); hideAudioProgressSoon(); }} onKeyUp={commitSpeechSeek} aria-label="Seek audio" />
             <button
               className="text-button"
               onClick={() =>
@@ -665,6 +876,27 @@ function AppExpanded() {
               }
             >
               <ChevronLeft size={16} /> Previous day
+            </button>
+            </div>
+            <button
+              className={`audio-button ${isSpeaking ? "is-speaking" : ""} ${audioButtonActive ? "audio-session-active" : ""}`}
+              onClick={speak}
+              onMouseEnter={showAudioProgress}
+              aria-label={isSpeaking ? "Pause reading" : audioPaused ? "Resume reading" : "Play reading"}
+              title={isSpeaking ? "Pause reading" : audioPaused ? "Resume reading" : "Play reading"}
+            >
+              {isSpeaking ? (
+                <span className="equalizer" aria-hidden="true">
+                  <i />
+                  <i />
+                  <i />
+                  <i />
+                </span>
+              ) : audioPaused ? (
+                <Pause size={18} fill="currentColor" />
+              ) : (
+                <Play size={18} fill="currentColor" />
+              )}
             </button>
             <button
               className="text-button"
@@ -678,15 +910,26 @@ function AppExpanded() {
         </main>
       )}
       {route === "/bible" && (
-        <main className="reader-page bible-page">
+        <main className="reader-page bible-page" onTouchStart={handleReaderTouchStart} onTouchMove={handleReaderTouchMove} onTouchEnd={handleReaderTouchEnd}>
           <div className="reader-toolbar">
             <button className="back-button" onClick={goHome}>
               <ChevronLeft size={17} /> Home
             </button>
-            <span className="reader-date">World English Bible</span>
+            <div className="reader-actions">
+              <button className="reader-action" onClick={openBibleSearch} aria-label="Search Bible" title="Search Bible">
+                <Search size={17} />
+              </button>
+              <button className="reader-action" onClick={copyReading} aria-label="Copy Bible text" title="Copy Bible text">
+                {isCopied ? <Check size={17} /> : <Copy size={17} />}
+              </button>
+              <button className="reader-action" onClick={shareLandingPage} aria-label="Share Breviary" title="Share Breviary">
+                <Share2 size={17} />
+              </button>
+            </div>
           </div>
           <article
             className="prayer-content prayer-content--enter bible-reader"
+            style={{ fontSize: readableFontSize }}
             onTouchStart={(event) => { bibleTouchStart.current = event.touches[0]?.clientX ?? null }}
             onTouchEnd={(event) => {
               if (bibleTouchStart.current === null) return
@@ -698,14 +941,80 @@ function AppExpanded() {
             <span className="section-kicker">Scripture</span>
             <h1>{bibleBook.name}</h1>
             <div className="rule" />
-            <div className="bible-verses">{bibleParagraphs.map((paragraph, index) => <p key={`${bibleBook.id}-${bibleChapterNumber}-${index}`}>{paragraph.map((verse) => <span key={verse.verse}><sup>{verse.verse}</sup>{verse.text} </span>)}</p>)}</div>
+            <div className="bible-verses">{bibleParagraphs.map((paragraph, index) => <p key={`${bibleBook.id}-${bibleChapterNumber}-${index}`}>{paragraph.map((verse) => { const verseId = `bible-verse-${bibleBook.id}-${verse.chapter}-${verse.verse}`; return <span className={searchedVerseKey === verseId ? "bible-verse-highlight" : ""} id={verseId} key={verse.verse}><sup>{verse.verse}</sup>{verse.text} </span>; })}</p>)}</div>
           </article>
           <div className="reader-footer">
             <button className="text-button" onClick={() => moveBibleChapter(-1)}><ChevronLeft size={16} /> Previous chapter</button>
-            <button className="bible-chapter-label" onClick={() => setDrawer(true)} aria-label="Choose Bible book and chapter">{bibleBook.id === "psalms" ? "Psalm" : bibleBook.name} {bibleChapterNumber}</button>
+            <div className={`audio-control ${audioProgressVisible ? "progress-visible" : ""}`} onMouseLeave={hideAudioProgressSoon}>
+            <input className="audio-progress" style={{ "--audio-progress": speechProgress } as React.CSSProperties} type="range" min="0" max="1" step="0.01" value={speechProgress} onChange={(event) => updateSpeechSeek(Number(event.target.value))} onMouseEnter={showAudioProgress} onFocus={showAudioProgress} onPointerDown={showAudioProgress} onPointerUp={(event) => { commitSpeechSeek(); hideAudioProgressSoon(); }} onKeyUp={commitSpeechSeek} aria-label="Seek audio" />
+            <button
+              className={`audio-button ${isSpeaking ? "is-speaking" : ""} ${audioButtonActive ? "audio-session-active" : ""}`}
+              onClick={speak}
+              onMouseEnter={showAudioProgress}
+              aria-label={isSpeaking ? "Pause reading" : audioPaused ? "Resume reading" : "Play reading"}
+              title={isSpeaking ? "Pause reading" : audioPaused ? "Resume reading" : "Play reading"}
+            >
+              {isSpeaking ? (
+                <span className="equalizer" aria-hidden="true">
+                  <i />
+                  <i />
+                  <i />
+                  <i />
+                </span>
+              ) : audioPaused ? (
+                <Pause size={18} fill="currentColor" />
+              ) : (
+                <Play size={18} fill="currentColor" />
+              )}
+            </button>
+            </div>
             <button className="text-button" onClick={() => moveBibleChapter(1)}>Next chapter <ChevronRight size={16} /></button>
           </div>
         </main>
+      )}
+      {bibleSearchOpen && route === "/bible" && (
+        <>
+          <div className="selector-backdrop" onClick={closeBibleSearch} />
+          <section
+            className="selector-modal bible-search-modal"
+            role="dialog"
+            aria-modal="true"
+            aria-label="Search Bible"
+            onTouchStart={(event) => { bibleSearchTouchStart.current = event.touches[0]?.clientY ?? null; }}
+            onTouchEnd={(event) => {
+              if (bibleSearchTouchStart.current !== null && (event.changedTouches[0]?.clientY ?? bibleSearchTouchStart.current) - bibleSearchTouchStart.current > 55) closeBibleSearch();
+              bibleSearchTouchStart.current = null;
+            }}
+          >
+            <span className="selector-handle" aria-hidden="true" />
+            <div className="selector-modal-header">
+              <strong>Search Bible</strong>
+              <button className="icon-button" onClick={closeBibleSearch} aria-label="Close Bible search"><X size={18} /></button>
+            </div>
+            <div className="bible-search-input">
+              <Search size={17} aria-hidden="true" />
+              <input
+                autoFocus
+                value={bibleSearchQuery}
+                onChange={(event) => { setBibleSearchQuery(event.target.value); setBibleSearchLimit(12); }}
+                onKeyDown={(event) => { if (event.key === "Enter") setBibleSearchLimit(12); }}
+                placeholder="John 3:16 or God so loved"
+                aria-label="Search Bible"
+              />
+            </div>
+            {bibleSearchQuery.trim() && (
+              <div className="bible-search-results">
+                {bibleSearchResults.length === 0 ? <p className="bible-search-empty">No matches found.</p> : bibleSearchResults.slice(0, bibleSearchLimit).map((result) => (
+                  <button className="bible-search-result" key={`${result.bookId}-${result.chapter}-${result.verse}`} onClick={() => selectBibleSearchResult(result)}>
+                    <strong>{result.bookName} {result.chapter}:{result.verse}</strong>
+                    <span>{result.text}</span>
+                  </button>
+                ))}
+                {bibleSearchResults.length > bibleSearchLimit && <button className="bible-search-more" onClick={() => setBibleSearchLimit((limit) => limit + 12)}>Show more</button>}
+              </div>
+            )}
+          </section>
+        </>
       )}
       {route === "/library" && (
         <main className="utility-page library-page">
@@ -839,6 +1148,83 @@ function AppExpanded() {
           </section>
         </main>
       )}
+      {selectorOpen && (
+        <>
+          <div className="selector-backdrop" onClick={closeSelector} />
+          <section
+            className={`selector-modal ${selectorClosing ? "is-closing" : ""}`}
+            role="dialog"
+            aria-modal="true"
+            aria-label={route === "/bible" ? "Choose a Bible book" : "Choose a date"}
+            tabIndex={-1}
+            onBlur={(event) => {
+              if (!event.currentTarget.contains(event.relatedTarget as Node | null)) closeSelector();
+            }}
+            onTouchStart={(event) => {
+              selectorTouchStart.current = event.touches[0]?.clientY ?? null;
+            }}
+            onTouchEnd={(event) => {
+              if (selectorTouchStart.current === null) return;
+              const distance = (event.changedTouches[0]?.clientY ?? selectorTouchStart.current) - selectorTouchStart.current;
+              if (distance > 55) closeSelector();
+              selectorTouchStart.current = null;
+            }}
+          >
+            <span className="selector-handle" aria-hidden="true" />
+            <div className="selector-modal-header">
+              <strong>{route === "/bible" ? "Books" : "Calendar"}</strong>
+              <button className="icon-button" onClick={closeSelector} aria-label="Close selector">
+                <X size={18} />
+              </button>
+            </div>
+            {route === "/bible" ? (
+              <>
+                <section className="bible-testament">
+                  <button className="bible-testament-toggle" onClick={() => setExpandedTestament("old")} aria-expanded={expandedTestament === "old"}>
+                    <span>Old Testament</span><ChevronRight size={15} className={expandedTestament === "old" ? "expanded" : ""} />
+                  </button>
+                  {expandedTestament === "old" && <div className="bible-book-pills">{bibleOldTestamentBooks.map((book) => <button className={book.id === bibleBook.id ? "selected" : ""} key={book.id} onClick={() => selectBibleBook(book.id, "old")}>{book.name}</button>)}</div>}
+                </section>
+                <section className="bible-testament">
+                  <button className="bible-testament-toggle" onClick={() => setExpandedTestament("new")} aria-expanded={expandedTestament === "new"}>
+                    <span>New Testament</span><ChevronRight size={15} className={expandedTestament === "new" ? "expanded" : ""} />
+                  </button>
+                  {expandedTestament === "new" && <div className="bible-book-pills">{bibleNewTestamentBooks.map((book) => <button className={book.id === bibleBook.id ? "selected" : ""} key={book.id} onClick={() => selectBibleBook(book.id, "new")}>{book.name}</button>)}</div>}
+                </section>
+                <div className="bible-chapter-pills"><span className="nav-label">Chapters</span><div>{bibleChapterNumbers.map((chapter) => <button className={chapter === bibleChapterNumber ? "selected" : ""} key={chapter} onClick={() => setBibleChapterNumber(chapter)}>{chapter}</button>)}</div></div>
+              </>
+            ) : (
+              <div className="drawer-calendar">
+                <div className="drawer-calendar-header">
+                  <button className="icon-button" onClick={() => setMonth(new Date(month.getFullYear(), month.getMonth() - 1, 1))} aria-label="Previous month"><ChevronLeft size={15} /></button>
+                  <strong>{dateText(month, { month: "long", year: "numeric" })}</strong>
+                  <button className="icon-button" onClick={() => setMonth(new Date(month.getFullYear(), month.getMonth() + 1, 1))} aria-label="Next month"><ChevronRight size={15} /></button>
+                </div>
+                <div className="weekday-row">{["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"].map((day) => <span key={day}>{day}</span>)}</div>
+                <div className="month-grid">
+                  {Array.from({ length: firstDay }).map((_, index) => <span className="empty-day" key={`selector-empty-${index}`} />)}
+                  {days.map((date) => <button key={date.toISOString()} className={`calendar-day ${dateKey(date) === dateKey(selectedDate) ? "selected" : ""}`} onClick={() => { setSelectedDate(date); setMonth(date); }}><span>{date.getDate()}</span></button>)}
+                </div>
+                <span className="nav-label">Pray</span>
+                {hours.map((hour) => (
+                  <button
+                    key={hour.id}
+                    className={`selector-action ${selected.id === hour.id && route === "/prayer" ? "current" : ""}`}
+                    onClick={() => openHour(hour)}
+                  >
+                    <span>{hour.label}</span>
+                    <small>{hour.time}</small>
+                  </button>
+                ))}
+                <button className={`selector-action ${route === "/readings" ? "current" : ""}`} onClick={() => openMassReadings()}>
+                  <span>Mass readings</span>
+                  <small>Scripture</small>
+                </button>
+              </div>
+            )}
+          </section>
+        </>
+      )}
       {drawer && (
         <>
           <div className="drawer-backdrop" onClick={() => setDrawer(false)} />
@@ -853,104 +1239,30 @@ function AppExpanded() {
               </button>
             </div>
             <nav className="drawer-nav">
-              {route === "/bible" ? (
-                <>
-                  <span className="nav-label">Read Scripture</span>
-                  <section className="bible-testament">
-                    <button className="bible-testament-toggle" onClick={() => setExpandedTestament("old")} aria-expanded={expandedTestament === "old"}><span>Old Testament</span><ChevronRight size={15} className={expandedTestament === "old" ? "expanded" : ""} /></button>
-                    {expandedTestament === "old" && <div className="bible-book-pills">{bibleOldTestamentBooks.map((book) => <button className={book.id === bibleBook.id ? "selected" : ""} key={book.id} onClick={() => selectBibleBook(book.id, "old")}>{book.name}</button>)}</div>}
-                  </section>
-                  <section className="bible-testament">
-                    <button className="bible-testament-toggle" onClick={() => setExpandedTestament("new")} aria-expanded={expandedTestament === "new"}><span>New Testament</span><ChevronRight size={15} className={expandedTestament === "new" ? "expanded" : ""} /></button>
-                    {expandedTestament === "new" && <div className="bible-book-pills">{bibleNewTestamentBooks.map((book) => <button className={book.id === bibleBook.id ? "selected" : ""} key={book.id} onClick={() => selectBibleBook(book.id, "new")}>{book.name}</button>)}</div>}
-                  </section>
-                  <div className="bible-chapter-pills"><span className="nav-label">Chapters</span><div>{bibleChapterNumbers.map((chapter) => <button className={chapter === bibleChapterNumber ? "selected" : ""} key={chapter} onClick={() => setBibleChapterNumber(chapter)}>{chapter}</button>)}</div></div>
-                </>
-              ) : (
-                <>
-              <span className="nav-label">Choose a day</span>
-              <div className="drawer-calendar">
-                <div className="drawer-calendar-header">
+              {hours.map((hour) => {
+                const Icon = hour.icon;
+                return (
                   <button
-                    className="icon-button"
-                    onClick={() =>
-                      setMonth(
-                        new Date(month.getFullYear(), month.getMonth() - 1, 1),
-                      )
-                    }
-                    aria-label="Previous month"
+                    key={hour.id}
+                    onClick={() => openHour(hour, new Date())}
+                    className={selected.id === hour.id && route === "/prayer" ? "current" : ""}
                   >
-                    <ChevronLeft size={15} />
+                    <Icon size={16} /> {hour.label}
                   </button>
-                  <strong>
-                    {dateText(month, { month: "long", year: "numeric" })}
-                  </strong>
-                  <button
-                    className="icon-button"
-                    onClick={() =>
-                      setMonth(
-                        new Date(month.getFullYear(), month.getMonth() + 1, 1),
-                      )
-                    }
-                    aria-label="Next month"
-                  >
-                    <ChevronRight size={15} />
-                  </button>
-                </div>
-                <div className="weekday-row">
-                  {["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"].map(
-                    (day) => (
-                      <span key={day}>{day}</span>
-                    ),
-                  )}
-                </div>
-                <div className="month-grid">
-                  {Array.from({ length: firstDay }).map((_, index) => (
-                    <span className="empty-day" key={`drawer-empty-${index}`} />
-                  ))}
-                  {days.map((date) => (
-                    <button
-                      key={date.toISOString()}
-                      className={`calendar-day ${dateKey(date) === dateKey(selectedDate) ? "selected" : ""}`}
-                      onClick={() => {
-                        setSelectedDate(date);
-                        setMonth(date);
-                      }}
-                    >
-                      <span>{date.getDate()}</span>
-                    </button>
-                  ))}
-                </div>
-              </div>
-              <span className="nav-label">Pray</span>
-              {hours.map((hour) => (
-                <button
-                  key={hour.id}
-                  onClick={() => openHour(hour)}
-                  className={
-                    selected.id === hour.id && route === "/prayer"
-                      ? "current"
-                      : ""
-                  }
-                >
-                  <span>{hour.label}</span>
-                  <small>{hour.time}</small>
-                </button>
-              ))}
+                );
+              })}
               <button
-                onClick={() => openMassReadings()}
-                className={`mass-readings-nav ${route === "/readings" ? "current" : ""}`}
+                onClick={() => openMassReadings(new Date())}
+                className={route === "/readings" ? "current" : ""}
               >
-                <span>Mass readings</span>
-                <small>Scripture</small>
+                  <ScrollText size={16} /> Readings
               </button>
-              <button onClick={openBible}>
-                <BookOpen size={16} /> Bible
+              <button onClick={openBible} className={route === "/bible" ? "current" : ""}>
+                  <BookMarked size={16} /> Bible
               </button>
-                </>
-              )}
+              <div className="drawer-menu-divider" />
               <button onClick={openLibrary}>
-                <BookOpen size={16} /> Library
+                <Library size={16} /> Library
               </button>
               <button
                 onClick={() => {
@@ -958,7 +1270,7 @@ function AppExpanded() {
                   setDrawer(false);
                 }}
               >
-                <BookOpen size={16} /> About
+                <Info size={16} /> About
               </button>
             </nav>
             <div className="drawer-settings">
@@ -984,6 +1296,23 @@ function AppExpanded() {
                   onChange={(event) => setFontSize(Number(event.target.value))}
                 />
               </label>
+              {speechVoices.length > 0 && (
+                <label className="voice-setting">
+                  <span>Narrator</span>
+                  <select
+                    value={selectedVoiceURI}
+                    onChange={(event) => changeVoice(event.target.value)}
+                    aria-label="Narrator voice"
+                  >
+                    <option value="">Device default</option>
+                    {speechVoices.map((voice) => (
+                      <option value={voice.voiceURI} key={voice.voiceURI}>
+                        {voice.name}{voice.lang ? ` · ${voice.lang}` : ""}
+                      </option>
+                    ))}
+                  </select>
+                </label>
+              )}
             </div>
           </aside>
         </>
@@ -993,21 +1322,21 @@ function AppExpanded() {
           <Home size={17} />
           <span>Home</span>
         </button>
-        <button className={route === "/prayer" ? "active" : ""} onClick={() => openHour(todayHour, new Date())}>
-          <Sunrise size={18} />
-          <span>Breviary</span>
+        <button className={route === "/readings" ? "active" : ""} onClick={() => openMassReadings(new Date())}>
+          <ScrollText size={17} />
+          <span>Readings</span>
         </button>
-        <button className={`mobile-play ${isSpeaking ? "is-speaking" : ""}`} onClick={speak} disabled={!audioText} aria-label={isSpeaking ? "Pause audio" : "Play audio"} title={audioText ? (isSpeaking ? "Pause audio" : "Play audio") : "No audio on this page"}>
-          {isSpeaking ? <span className="equalizer" aria-hidden="true"><i /><i /><i /><i /></span> : <Play size={20} fill="currentColor" />}
-          <span>Play</span>
+        <button className={`mobile-hour-button ${route === "/prayer" ? "active" : ""}`} onClick={() => openHour(todayHour, new Date())}>
+          <TodayHourIcon size={18} />
+          <span>{todayHour.label}</span>
         </button>
         <button className={route === "/bible" ? "active" : ""} onClick={openBible}>
-          <BookOpen size={17} />
+          <BookMarked size={17} />
           <span>Bible</span>
         </button>
-        <button onClick={() => setDrawer(true)}>
-          <CalendarDays size={17} />
-          <span>Calendar</span>
+        <button onClick={openSelector}>
+          {route === "/bible" ? <Library size={17} /> : <CalendarDays size={17} />}
+          <span>{route === "/bible" ? "Books" : "Calendar"}</span>
         </button>
       </nav>
     </div>

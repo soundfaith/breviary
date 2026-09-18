@@ -3,3953 +3,4612 @@
   "name": "Joshua",
   "abbreviation": "JOS",
   "translation": "World English Bible (Updated)",
+  "source": "engwebp_usfm",
   "verses": [
     {
-      "id": "jos_1_1",
       "chapter": 1,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Now after the death of Moses the servant of the LORD, the LORD spoke to Joshua the son of Nun, Moses’ servant, saying,"
     },
     {
-      "id": "jos_1_2",
       "chapter": 1,
       "verse": 2,
+      "paragraph": 1,
+      "poetry": false,
       "text": "“Moses my servant is dead. Now therefore arise, go across this Jordan, you and all these people, to the land which I am giving to them, even to the children of Israel."
     },
     {
-      "id": "jos_1_3",
       "chapter": 1,
       "verse": 3,
+      "paragraph": 1,
+      "poetry": false,
       "text": "I have given you every place that the sole of your foot will tread on, as I told Moses."
     },
     {
-      "id": "jos_1_4",
       "chapter": 1,
       "verse": 4,
+      "paragraph": 1,
+      "poetry": false,
       "text": "From the wilderness and this Lebanon even to the great river, the river Euphrates, all the land of the Hittites, and to the great sea toward the going down of the sun, shall be your border."
     },
     {
-      "id": "jos_1_5",
       "chapter": 1,
       "verse": 5,
+      "paragraph": 1,
+      "poetry": false,
       "text": "No man will be able to stand before you all the days of your life. As I was with Moses, so I will be with you. I will not fail you nor forsake you."
     },
     {
-      "id": "jos_1_6",
       "chapter": 1,
       "verse": 6,
+      "paragraph": 2,
+      "poetry": false,
       "text": "“Be strong and courageous; for you shall cause this people to inherit the land which I swore to their fathers to give them."
     },
     {
-      "id": "jos_1_7",
       "chapter": 1,
       "verse": 7,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Only be strong and very courageous. Be careful to observe to do according to all the law which Moses my servant commanded you. Don’t turn from it to the right hand or to the left, that you may have good success wherever you go."
     },
     {
-      "id": "jos_1_8",
       "chapter": 1,
       "verse": 8,
+      "paragraph": 2,
+      "poetry": false,
       "text": "This book of the law shall not depart from your mouth, but you shall meditate on it day and night, that you may observe to do according to all that is written in it; for then you shall make your way prosperous, and then you shall have good success."
     },
     {
-      "id": "jos_1_9",
       "chapter": 1,
       "verse": 9,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Haven’t I commanded you? Be strong and courageous. Don’t be afraid. Don’t be dismayed, for the LORD your God is with you wherever you go.”"
     },
     {
-      "id": "jos_1_10",
       "chapter": 1,
       "verse": 10,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Then Joshua commanded the officers of the people, saying,"
     },
     {
-      "id": "jos_1_11",
       "chapter": 1,
       "verse": 11,
+      "paragraph": 3,
+      "poetry": false,
       "text": "“Pass through the middle of the camp, and command the people, saying, ‘Prepare food; for within three days you are to pass over this Jordan, to go in to possess the land which the LORD your God gives you to possess.’”"
     },
     {
-      "id": "jos_1_12",
       "chapter": 1,
       "verse": 12,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Joshua spoke to the Reubenites, and to the Gadites, and to the half-tribe of Manasseh, saying,"
     },
     {
-      "id": "jos_1_13",
       "chapter": 1,
       "verse": 13,
+      "paragraph": 4,
+      "poetry": false,
       "text": "“Remember the word which Moses the servant of the LORD commanded you, saying, ‘The LORD your God gives you rest, and will give you this land."
     },
     {
-      "id": "jos_1_14",
       "chapter": 1,
       "verse": 14,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Your wives, your little ones, and your livestock shall live in the land which Moses gave you beyond the Jordan; but you shall pass over before your brothers armed, all the mighty men of valor, and shall help them"
     },
     {
-      "id": "jos_1_15",
       "chapter": 1,
       "verse": 15,
+      "paragraph": 4,
+      "poetry": false,
       "text": "until the LORD has given your brothers rest, as he has given you, and they have also possessed the land which the LORD your God gives them. Then you shall return to the land of your possession and possess it, which Moses the servant of the LORD gave you beyond the Jordan toward the sunrise.’”"
     },
     {
-      "id": "jos_1_16",
       "chapter": 1,
       "verse": 16,
+      "paragraph": 5,
+      "poetry": false,
       "text": "They answered Joshua, saying, “All that you have commanded us we will do, and wherever you send us we will go."
     },
     {
-      "id": "jos_1_17",
       "chapter": 1,
       "verse": 17,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Just as we listened to Moses in all things, so will we listen to you. Only may the LORD your God be with you, as he was with Moses."
     },
     {
-      "id": "jos_1_18",
       "chapter": 1,
       "verse": 18,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Whoever rebels against your commandment, and doesn’t listen to your words in all that you command him shall himself be put to death. Only be strong and courageous.”"
     },
     {
-      "id": "jos_2_1",
       "chapter": 2,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Joshua the son of Nun secretly sent two men out of Shittim as spies, saying, “Go, view the land, including Jericho.” They went and came into the house of a prostitute whose name was Rahab, and slept there."
     },
     {
-      "id": "jos_2_2",
       "chapter": 2,
       "verse": 2,
+      "paragraph": 2,
+      "poetry": false,
       "text": "The king of Jericho was told, “Behold, men of the children of Israel came in here tonight to spy out the land.”"
     },
     {
-      "id": "jos_2_3",
       "chapter": 2,
       "verse": 3,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Jericho’s king sent to Rahab, saying, “Bring out the men who have come to you, who have entered into your house; for they have come to spy out all the land.”"
     },
     {
-      "id": "jos_2_4",
       "chapter": 2,
       "verse": 4,
+      "paragraph": 4,
+      "poetry": false,
       "text": "The woman took the two men and hid them. Then she said, “Yes, the men came to me, but I didn’t know where they came from."
     },
     {
-      "id": "jos_2_5",
       "chapter": 2,
       "verse": 5,
+      "paragraph": 4,
+      "poetry": false,
       "text": "About the time of the shutting of the gate, when it was dark, the men went out. Where the men went, I don’t know. Pursue them quickly. You may catch up with them.”"
     },
     {
-      "id": "jos_2_6",
       "chapter": 2,
       "verse": 6,
+      "paragraph": 4,
+      "poetry": false,
       "text": "But she had brought them up to the roof, and hidden them under the stalks of flax which she had laid in order on the roof."
     },
     {
-      "id": "jos_2_7",
       "chapter": 2,
       "verse": 7,
+      "paragraph": 4,
+      "poetry": false,
       "text": "The men pursued them along the way to the fords of the Jordan River. As soon as those who pursued them had gone out, they shut the gate."
     },
     {
-      "id": "jos_2_8",
       "chapter": 2,
       "verse": 8,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Before they had lain down, she came up to them on the roof."
     },
     {
-      "id": "jos_2_9",
       "chapter": 2,
       "verse": 9,
+      "paragraph": 4,
+      "poetry": false,
       "text": "She said to the men, “I know that the LORD has given you the land, and that the fear of you has fallen upon us, and that all the inhabitants of the land melt away before you."
     },
     {
-      "id": "jos_2_10",
       "chapter": 2,
       "verse": 10,
+      "paragraph": 4,
+      "poetry": false,
       "text": "For we have heard how the LORD dried up the water of the Red Sea before you, when you came out of Egypt; and what you did to the two kings of the Amorites, who were beyond the Jordan, to Sihon and to Og, whom you utterly destroyed."
     },
     {
-      "id": "jos_2_11",
       "chapter": 2,
       "verse": 11,
+      "paragraph": 4,
+      "poetry": false,
       "text": "As soon as we had heard it, our hearts melted, and there wasn’t any more spirit in any man, because of you: for the LORD your God, he is God in heaven above, and on earth beneath."
     },
     {
-      "id": "jos_2_12",
       "chapter": 2,
       "verse": 12,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Now therefore, please swear to me by the LORD, since I have dealt kindly with you, that you also will deal kindly with my father’s house, and give me a true sign;"
     },
     {
-      "id": "jos_2_13",
       "chapter": 2,
       "verse": 13,
+      "paragraph": 4,
+      "poetry": false,
       "text": "and that you will save alive my father, my mother, my brothers, and my sisters, and all that they have, and will deliver our lives from death.”"
     },
     {
-      "id": "jos_2_14",
       "chapter": 2,
       "verse": 14,
+      "paragraph": 5,
+      "poetry": false,
       "text": "The men said to her, “Our life for yours, if you don’t talk about this business of ours; and it shall be, when the LORD gives us the land, that we will deal kindly and truly with you.”"
     },
     {
-      "id": "jos_2_15",
       "chapter": 2,
       "verse": 15,
+      "paragraph": 6,
+      "poetry": false,
       "text": "Then she let them down by a cord through the window; for her house was on the side of the wall, and she lived on the wall."
     },
     {
-      "id": "jos_2_16",
       "chapter": 2,
       "verse": 16,
+      "paragraph": 6,
+      "poetry": false,
       "text": "She said to them, “Go to the mountain, lest the pursuers find you. Hide yourselves there three days, until the pursuers have returned. Afterward, you may go your way.”"
     },
     {
-      "id": "jos_2_17",
       "chapter": 2,
       "verse": 17,
+      "paragraph": 7,
+      "poetry": false,
       "text": "The men said to her, “We will be guiltless of this your oath which you’ve made us to swear."
     },
     {
-      "id": "jos_2_18",
       "chapter": 2,
       "verse": 18,
+      "paragraph": 7,
+      "poetry": false,
       "text": "Behold, when we come into the land, tie this line of scarlet thread in the window which you used to let us down. Gather to yourself into the house your father, your mother, your brothers, and all your father’s household."
     },
     {
-      "id": "jos_2_19",
       "chapter": 2,
       "verse": 19,
+      "paragraph": 7,
+      "poetry": false,
       "text": "It shall be that whoever goes out of the doors of your house into the street, his blood will be on his head, and we will be guiltless. Whoever is with you in the house, his blood shall be on our head, if any hand is on him."
     },
     {
-      "id": "jos_2_20",
       "chapter": 2,
       "verse": 20,
+      "paragraph": 7,
+      "poetry": false,
       "text": "But if you talk about this business of ours, then we shall be guiltless of your oath which you’ve made us to swear.”"
     },
     {
-      "id": "jos_2_21",
       "chapter": 2,
       "verse": 21,
+      "paragraph": 8,
+      "poetry": false,
       "text": "She said, “Let it be as you have said.” She sent them away, and they departed. Then she tied the scarlet line in the window."
     },
     {
-      "id": "jos_2_22",
       "chapter": 2,
       "verse": 22,
+      "paragraph": 9,
+      "poetry": false,
       "text": "They went and came to the mountain, and stayed there three days, until the pursuers had returned. The pursuers sought them all along the way, but didn’t find them."
     },
     {
-      "id": "jos_2_23",
       "chapter": 2,
       "verse": 23,
+      "paragraph": 9,
+      "poetry": false,
       "text": "Then the two men returned, descended from the mountain, crossed the river, and came to Joshua the son of Nun. They told him all that had happened to them."
     },
     {
-      "id": "jos_2_24",
       "chapter": 2,
       "verse": 24,
+      "paragraph": 9,
+      "poetry": false,
       "text": "They said to Joshua, “Truly the LORD has delivered all the land into our hands. Moreover, all the inhabitants of the land melt away before us.”"
     },
     {
-      "id": "jos_3_1",
       "chapter": 3,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Joshua got up early in the morning; and they moved from Shittim and came to the Jordan, he and all the children of Israel. They camped there before they crossed over."
     },
     {
-      "id": "jos_3_2",
       "chapter": 3,
       "verse": 2,
+      "paragraph": 1,
+      "poetry": false,
       "text": "After three days, the officers went through the middle of the camp;"
     },
     {
-      "id": "jos_3_3",
       "chapter": 3,
       "verse": 3,
+      "paragraph": 1,
+      "poetry": false,
       "text": "and they commanded the people, saying, “When you see the ark of the LORD your God’s covenant, and the Levitical priests bearing it, then leave your place and follow it."
     },
     {
-      "id": "jos_3_4",
       "chapter": 3,
       "verse": 4,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Yet there shall be a space between you and it of about two thousand cubits by measure—don’t come closer to it—that you may know the way by which you must go; for you have not passed this way before.”"
     },
     {
-      "id": "jos_3_5",
       "chapter": 3,
       "verse": 5,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Joshua said to the people, “Sanctify yourselves; for tomorrow the LORD will do wonders among you.”"
     },
     {
-      "id": "jos_3_6",
       "chapter": 3,
       "verse": 6,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Joshua spoke to the priests, saying, “Take up the ark of the covenant, and cross over before the people.” They took up the ark of the covenant, and went before the people."
     },
     {
-      "id": "jos_3_7",
       "chapter": 3,
       "verse": 7,
+      "paragraph": 4,
+      "poetry": false,
       "text": "The LORD said to Joshua, “Today I will begin to magnify you in the sight of all Israel, that they may know that as I was with Moses, so I will be with you."
     },
     {
-      "id": "jos_3_8",
       "chapter": 3,
       "verse": 8,
+      "paragraph": 4,
+      "poetry": false,
       "text": "You shall command the priests who bear the ark of the covenant, saying, ‘When you come to the brink of the waters of the Jordan, you shall stand still in the Jordan.’”"
     },
     {
-      "id": "jos_3_9",
       "chapter": 3,
       "verse": 9,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Joshua said to the children of Israel, “Come here, and hear the words of the LORD your God.”"
     },
     {
-      "id": "jos_3_10",
       "chapter": 3,
       "verse": 10,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Joshua said, “By this you shall know that the living God is among you, and that he will without fail drive the Canaanite, the Hittite, the Hivite, the Perizzite, the Girgashite, the Amorite, and the Jebusite out from before you."
     },
     {
-      "id": "jos_3_11",
       "chapter": 3,
       "verse": 11,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Behold, the ark of the covenant of the Lord of all the earth passes over before you into the Jordan."
     },
     {
-      "id": "jos_3_12",
       "chapter": 3,
       "verse": 12,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Now therefore take twelve men out of the tribes of Israel, for every tribe a man."
     },
     {
-      "id": "jos_3_13",
       "chapter": 3,
       "verse": 13,
+      "paragraph": 5,
+      "poetry": false,
       "text": "It shall be that when the soles of the feet of the priests who bear the ark of GOD, the Lord of all the earth, rest in the waters of the Jordan, that the waters of the Jordan will be cut off. The waters that come down from above shall stand in one heap.”"
     },
     {
-      "id": "jos_3_14",
       "chapter": 3,
       "verse": 14,
+      "paragraph": 6,
+      "poetry": false,
       "text": "When the people moved from their tents to pass over the Jordan, the priests who bore the ark of the covenant being before the people,"
     },
     {
-      "id": "jos_3_15",
       "chapter": 3,
       "verse": 15,
+      "paragraph": 6,
+      "poetry": false,
       "text": "and when those who bore the ark had come to the Jordan, and the feet of the priests who bore the ark had dipped in the edge of the water (for the Jordan overflows all its banks all the time of harvest),"
     },
     {
-      "id": "jos_3_16",
       "chapter": 3,
       "verse": 16,
+      "paragraph": 6,
+      "poetry": false,
       "text": "the waters which came down from above stood, and rose up in one heap a great way off, at Adam, the city that is beside Zarethan; and those that went down toward the sea of the Arabah, even the Salt Sea, were wholly cut off. Then the people passed over near Jericho."
     },
     {
-      "id": "jos_3_17",
       "chapter": 3,
       "verse": 17,
+      "paragraph": 6,
+      "poetry": false,
       "text": "The priests who bore the ark of the LORD’s covenant stood firm on dry ground in the middle of the Jordan; and all Israel crossed over on dry ground, until all the nation had passed completely over the Jordan."
     },
     {
-      "id": "jos_4_1",
       "chapter": 4,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "When all the nation had completely crossed over the Jordan, the LORD spoke to Joshua, saying,"
     },
     {
-      "id": "jos_4_2",
       "chapter": 4,
       "verse": 2,
+      "paragraph": 1,
+      "poetry": false,
       "text": "“Take twelve men out of the people, a man out of every tribe,"
     },
     {
-      "id": "jos_4_3",
       "chapter": 4,
       "verse": 3,
+      "paragraph": 1,
+      "poetry": false,
       "text": "and command them, saying, ‘Take from out of the middle of the Jordan, out of the place where the priests’ feet stood firm, twelve stones, carry them over with you, and lay them down in the place where you’ll camp tonight.’”"
     },
     {
-      "id": "jos_4_4",
       "chapter": 4,
       "verse": 4,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Then Joshua called the twelve men whom he had prepared of the children of Israel, a man out of every tribe."
     },
     {
-      "id": "jos_4_5",
       "chapter": 4,
       "verse": 5,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Joshua said to them, “Cross before the ark of the LORD your God into the middle of the Jordan, and each of you pick up a stone and put it on your shoulder, according to the number of the tribes of the children of Israel;"
     },
     {
-      "id": "jos_4_6",
       "chapter": 4,
       "verse": 6,
+      "paragraph": 2,
+      "poetry": false,
       "text": "that this may be a sign among you, that when your children ask in the future, saying, ‘What do you mean by these stones?’"
     },
     {
-      "id": "jos_4_7",
       "chapter": 4,
       "verse": 7,
+      "paragraph": 2,
+      "poetry": false,
       "text": "then you shall tell them, ‘Because the waters of the Jordan were cut off before the ark of the LORD’s covenant. When it crossed over the Jordan, the waters of the Jordan were cut off. These stones shall be for a memorial to the children of Israel forever.’”"
     },
     {
-      "id": "jos_4_8",
       "chapter": 4,
       "verse": 8,
+      "paragraph": 3,
+      "poetry": false,
       "text": "The children of Israel did as Joshua commanded, and took up twelve stones out of the middle of the Jordan, as the LORD spoke to Joshua, according to the number of the tribes of the children of Israel. They carried them over with them to the place where they camped, and laid them down there."
     },
     {
-      "id": "jos_4_9",
       "chapter": 4,
       "verse": 9,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Joshua set up twelve stones in the middle of the Jordan, in the place where the feet of the priests who bore the ark of the covenant stood; and they are there to this day."
     },
     {
-      "id": "jos_4_10",
       "chapter": 4,
       "verse": 10,
+      "paragraph": 3,
+      "poetry": false,
       "text": "For the priests who bore the ark stood in the middle of the Jordan until everything was finished that the LORD commanded Joshua to speak to the people, according to all that Moses commanded Joshua; and the people hurried and passed over."
     },
     {
-      "id": "jos_4_11",
       "chapter": 4,
       "verse": 11,
+      "paragraph": 3,
+      "poetry": false,
       "text": "When all the people had completely crossed over, the LORD’s ark crossed over with the priests in the presence of the people."
     },
     {
-      "id": "jos_4_12",
       "chapter": 4,
       "verse": 12,
+      "paragraph": 4,
+      "poetry": false,
       "text": "The children of Reuben, and the children of Gad, and the half-tribe of Manasseh crossed over armed before the children of Israel, as Moses spoke to them."
     },
     {
-      "id": "jos_4_13",
       "chapter": 4,
       "verse": 13,
+      "paragraph": 4,
+      "poetry": false,
       "text": "About forty thousand men, ready and armed for war, passed over before the LORD to battle, to the plains of Jericho."
     },
     {
-      "id": "jos_4_14",
       "chapter": 4,
       "verse": 14,
+      "paragraph": 4,
+      "poetry": false,
       "text": "On that day, the LORD magnified Joshua in the sight of all Israel; and they feared him, as they feared Moses, all the days of his life."
     },
     {
-      "id": "jos_4_15",
       "chapter": 4,
       "verse": 15,
+      "paragraph": 5,
+      "poetry": false,
       "text": "The LORD spoke to Joshua, saying,"
     },
     {
-      "id": "jos_4_16",
       "chapter": 4,
       "verse": 16,
+      "paragraph": 5,
+      "poetry": false,
       "text": "“Command the priests who bear the ark of the covenant, that they come up out of the Jordan.”"
     },
     {
-      "id": "jos_4_17",
       "chapter": 4,
       "verse": 17,
+      "paragraph": 6,
+      "poetry": false,
       "text": "Joshua therefore commanded the priests, saying, “Come up out of the Jordan!”"
     },
     {
-      "id": "jos_4_18",
       "chapter": 4,
       "verse": 18,
+      "paragraph": 6,
+      "poetry": false,
       "text": "When the priests who bore the ark of the LORD’s covenant had come up out of the middle of the Jordan, and the soles of the priests’ feet had been lifted up to the dry ground, the waters of the Jordan returned to their place, and went over all its banks, as before."
     },
     {
-      "id": "jos_4_19",
       "chapter": 4,
       "verse": 19,
+      "paragraph": 6,
+      "poetry": false,
       "text": "The people came up out of the Jordan on the tenth day of the first month, and encamped in Gilgal, on the east border of Jericho."
     },
     {
-      "id": "jos_4_20",
       "chapter": 4,
       "verse": 20,
+      "paragraph": 7,
+      "poetry": false,
       "text": "Joshua set up those twelve stones, which they took out of the Jordan, in Gilgal."
     },
     {
-      "id": "jos_4_21",
       "chapter": 4,
       "verse": 21,
+      "paragraph": 7,
+      "poetry": false,
       "text": "He spoke to the children of Israel, saying, “When your children ask their fathers in time to come, saying, ‘What do these stones mean?’"
     },
     {
-      "id": "jos_4_22",
       "chapter": 4,
       "verse": 22,
+      "paragraph": 7,
+      "poetry": false,
       "text": "Then you shall let your children know, saying, ‘Israel came over this Jordan on dry land."
     },
     {
-      "id": "jos_4_23",
       "chapter": 4,
       "verse": 23,
+      "paragraph": 7,
+      "poetry": false,
       "text": "For the LORD your God dried up the waters of the Jordan from before you until you had crossed over, as the LORD your God did to the Red Sea, which he dried up from before us, until we had crossed over,"
     },
     {
-      "id": "jos_4_24",
       "chapter": 4,
       "verse": 24,
+      "paragraph": 7,
+      "poetry": false,
       "text": "that all the peoples of the earth may know that the LORD’s hand is mighty, and that you may fear the LORD your God forever.’”"
     },
     {
-      "id": "jos_5_1",
       "chapter": 5,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "When all the kings of the Amorites, who were beyond the Jordan westward, and all the kings of the Canaanites, who were by the sea, heard how the LORD had dried up the waters of the Jordan from before the children of Israel until we had crossed over, their heart melted, and there was no more spirit in them, because of the children of Israel."
     },
     {
-      "id": "jos_5_2",
       "chapter": 5,
       "verse": 2,
+      "paragraph": 1,
+      "poetry": false,
       "text": "At that time, the LORD said to Joshua, “Make flint knives, and circumcise again the sons of Israel the second time.”"
     },
     {
-      "id": "jos_5_3",
       "chapter": 5,
       "verse": 3,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Joshua made himself flint knives, and circumcised the sons of Israel at the hill of the foreskins."
     },
     {
-      "id": "jos_5_4",
       "chapter": 5,
       "verse": 4,
+      "paragraph": 1,
+      "poetry": false,
       "text": "This is the reason Joshua circumcised them: all the people who came out of Egypt, who were males, even all the men of war, died in the wilderness along the way, after they came out of Egypt."
     },
     {
-      "id": "jos_5_5",
       "chapter": 5,
       "verse": 5,
+      "paragraph": 1,
+      "poetry": false,
       "text": "For all the people who came out were circumcised; but all the people who were born in the wilderness along the way as they came out of Egypt had not been circumcised."
     },
     {
-      "id": "jos_5_6",
       "chapter": 5,
       "verse": 6,
+      "paragraph": 1,
+      "poetry": false,
       "text": "For the children of Israel walked forty years in the wilderness until all the nation, even the men of war who came out of Egypt, were consumed, because they didn’t listen to the LORD’s voice. The LORD swore to them that he wouldn’t let them see the land which the LORD swore to their fathers that he would give us, a land flowing with milk and honey."
     },
     {
-      "id": "jos_5_7",
       "chapter": 5,
       "verse": 7,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Their children, whom he raised up in their place, were circumcised by Joshua, for they were uncircumcised, because they had not circumcised them on the way."
     },
     {
-      "id": "jos_5_8",
       "chapter": 5,
       "verse": 8,
+      "paragraph": 1,
+      "poetry": false,
       "text": "When they were done circumcising the whole nation, they stayed in their places in the camp until they were healed."
     },
     {
-      "id": "jos_5_9",
       "chapter": 5,
       "verse": 9,
+      "paragraph": 2,
+      "poetry": false,
       "text": "The LORD said to Joshua, “Today I have rolled away the reproach of Egypt from you.” Therefore the name of that place was called Gilgal to this day."
     },
     {
-      "id": "jos_5_10",
       "chapter": 5,
       "verse": 10,
+      "paragraph": 2,
+      "poetry": false,
       "text": "The children of Israel encamped in Gilgal. They kept the Passover on the fourteenth day of the month at evening in the plains of Jericho."
     },
     {
-      "id": "jos_5_11",
       "chapter": 5,
       "verse": 11,
+      "paragraph": 2,
+      "poetry": false,
       "text": "They ate unleavened cakes and parched grain of the produce of the land on the next day after the Passover, in the same day."
     },
     {
-      "id": "jos_5_12",
       "chapter": 5,
       "verse": 12,
+      "paragraph": 2,
+      "poetry": false,
       "text": "The manna ceased on the next day, after they had eaten of the produce of the land. The children of Israel didn’t have manna any more, but they ate of the fruit of the land of Canaan that year."
     },
     {
-      "id": "jos_5_13",
       "chapter": 5,
       "verse": 13,
+      "paragraph": 3,
+      "poetry": false,
       "text": "When Joshua was by Jericho, he lifted up his eyes and looked, and behold, a man stood in front of him with his sword drawn in his hand. Joshua went to him and said to him, “Are you for us, or for our enemies?”"
     },
     {
-      "id": "jos_5_14",
       "chapter": 5,
       "verse": 14,
-      "text": "He said, “No; but I have come now as commander of the LORD’s army.” Joshua fell on his face to the earth, and worshiped, and asked him, “What does my lord say to his servant?”"
+      "paragraph": 4,
+      "poetry": false,
+      "text": "He said, “No; but I have come now as commander of the LORD’s army.”"
     },
     {
-      "id": "jos_5_15",
       "chapter": 5,
       "verse": 15,
+      "paragraph": 6,
+      "poetry": false,
       "text": "The prince of the LORD’s army said to Joshua, “Take off your sandals, for the place on which you stand is holy.” Joshua did so."
     },
     {
-      "id": "jos_6_1",
       "chapter": 6,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Now Jericho was tightly shut up because of the children of Israel. No one went out, and no one came in."
     },
     {
-      "id": "jos_6_2",
       "chapter": 6,
       "verse": 2,
+      "paragraph": 1,
+      "poetry": false,
       "text": "The LORD said to Joshua, “Behold, I have given Jericho into your hand, with its king and the mighty men of valor."
     },
     {
-      "id": "jos_6_3",
       "chapter": 6,
       "verse": 3,
+      "paragraph": 1,
+      "poetry": false,
       "text": "All of your men of war shall march around the city, going around the city once. You shall do this six days."
     },
     {
-      "id": "jos_6_4",
       "chapter": 6,
       "verse": 4,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Seven priests shall bear seven trumpets of rams’ horns before the ark. On the seventh day, you shall march around the city seven times, and the priests shall blow the trumpets."
     },
     {
-      "id": "jos_6_5",
       "chapter": 6,
       "verse": 5,
+      "paragraph": 1,
+      "poetry": false,
       "text": "It shall be that when they make a long blast with the ram’s horn, and when you hear the sound of the trumpet, all the people shall shout with a great shout; then the city wall will fall down flat, and the people shall go up, every man straight in front of him.”"
     },
     {
-      "id": "jos_6_6",
       "chapter": 6,
       "verse": 6,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Joshua the son of Nun called the priests, and said to them, “Take up the ark of the covenant, and let seven priests bear seven trumpets of rams’ horns before the LORD’s ark.”"
     },
     {
-      "id": "jos_6_7",
       "chapter": 6,
       "verse": 7,
+      "paragraph": 3,
+      "poetry": false,
       "text": "They said to the people, “Advance! March around the city, and let the armed men pass on before the LORD’s ark.”"
     },
     {
-      "id": "jos_6_8",
       "chapter": 6,
       "verse": 8,
+      "paragraph": 4,
+      "poetry": false,
       "text": "It was so, that when Joshua had spoken to the people, the seven priests bearing the seven trumpets of rams’ horns before the LORD advanced and blew the trumpets, and the ark of the LORD’s covenant followed them."
     },
     {
-      "id": "jos_6_9",
       "chapter": 6,
       "verse": 9,
+      "paragraph": 4,
+      "poetry": false,
       "text": "The armed men went before the priests who blew the trumpets, and the ark went after them. The trumpets sounded as they went."
     },
     {
-      "id": "jos_6_10",
       "chapter": 6,
       "verse": 10,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Joshua commanded the people, saying, “You shall not shout nor let your voice be heard, neither shall any word proceed out of your mouth until the day I tell you to shout. Then you shall shout.”"
     },
     {
-      "id": "jos_6_11",
       "chapter": 6,
       "verse": 11,
+      "paragraph": 5,
+      "poetry": false,
       "text": "So he caused the LORD’s ark to go around the city, circling it once. Then they came into the camp, and stayed in the camp."
     },
     {
-      "id": "jos_6_12",
       "chapter": 6,
       "verse": 12,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Joshua rose early in the morning, and the priests took up the LORD’s ark."
     },
     {
-      "id": "jos_6_13",
       "chapter": 6,
       "verse": 13,
+      "paragraph": 5,
+      "poetry": false,
       "text": "The seven priests bearing the seven trumpets of rams’ horns in front of the LORD’s ark went on continually, and blew the trumpets. The armed men went in front of them. The rear guard came after the LORD’s ark. The trumpets sounded as they went."
     },
     {
-      "id": "jos_6_14",
       "chapter": 6,
       "verse": 14,
+      "paragraph": 5,
+      "poetry": false,
       "text": "The second day they marched around the city once, and returned into the camp. They did this six days."
     },
     {
-      "id": "jos_6_15",
       "chapter": 6,
       "verse": 15,
+      "paragraph": 6,
+      "poetry": false,
       "text": "On the seventh day, they rose early at the dawning of the day, and marched around the city in the same way seven times. On this day only they marched around the city seven times."
     },
     {
-      "id": "jos_6_16",
       "chapter": 6,
       "verse": 16,
+      "paragraph": 6,
+      "poetry": false,
       "text": "At the seventh time, when the priests blew the trumpets, Joshua said to the people, “Shout, for the LORD has given you the city!"
     },
     {
-      "id": "jos_6_17",
       "chapter": 6,
       "verse": 17,
+      "paragraph": 6,
+      "poetry": false,
       "text": "The city shall be devoted, even it and all that is in it, to the LORD. Only Rahab the prostitute shall live, she and all who are with her in the house, because she hid the messengers that we sent."
     },
     {
-      "id": "jos_6_18",
       "chapter": 6,
       "verse": 18,
+      "paragraph": 6,
+      "poetry": false,
       "text": "But as for you, only keep yourselves from what is devoted to destruction, lest when you have devoted it, you take of the devoted thing; so you would make the camp of Israel accursed and trouble it."
     },
     {
-      "id": "jos_6_19",
       "chapter": 6,
       "verse": 19,
+      "paragraph": 6,
+      "poetry": false,
       "text": "But all the silver, gold, and vessels of bronze and iron are holy to the LORD. They shall come into the LORD’s treasury.”"
     },
     {
-      "id": "jos_6_20",
       "chapter": 6,
       "verse": 20,
+      "paragraph": 7,
+      "poetry": false,
       "text": "So the people shouted and the priests blew the trumpets. When the people heard the sound of the trumpet, the people shouted with a great shout, and the wall fell down flat, so that the people went up into the city, every man straight in front of him, and they took the city."
     },
     {
-      "id": "jos_6_21",
       "chapter": 6,
       "verse": 21,
+      "paragraph": 7,
+      "poetry": false,
       "text": "They utterly destroyed all that was in the city, both man and woman, both young and old, and ox, sheep, and donkey, with the edge of the sword."
     },
     {
-      "id": "jos_6_22",
       "chapter": 6,
       "verse": 22,
+      "paragraph": 7,
+      "poetry": false,
       "text": "Joshua said to the two men who had spied out the land, “Go into the prostitute’s house, and bring the woman and all that she has out from there, as you swore to her.”"
     },
     {
-      "id": "jos_6_23",
       "chapter": 6,
       "verse": 23,
+      "paragraph": 7,
+      "poetry": false,
       "text": "The young men who were spies went in, and brought out Rahab with her father, her mother, her brothers, and all that she had. They also brought out all of her relatives, and they set them outside of the camp of Israel."
     },
     {
-      "id": "jos_6_24",
       "chapter": 6,
       "verse": 24,
+      "paragraph": 7,
+      "poetry": false,
       "text": "They burned the city with fire, and all that was in it. Only they put the silver, the gold, and the vessels of bronze and of iron into the treasury of the LORD’s house."
     },
     {
-      "id": "jos_6_25",
       "chapter": 6,
       "verse": 25,
+      "paragraph": 7,
+      "poetry": false,
       "text": "But Rahab the prostitute, her father’s household, and all that she had, Joshua saved alive. She lives in the middle of Israel to this day, because she hid the messengers whom Joshua sent to spy out Jericho."
     },
     {
-      "id": "jos_6_26",
       "chapter": 6,
       "verse": 26,
+      "paragraph": 8,
+      "poetry": false,
       "text": "Joshua commanded them with an oath at that time, saying, “Cursed is the man before the LORD who rises up and builds this city Jericho. With the loss of his firstborn he will lay its foundation, and with the loss of his youngest son he will set up its gates.”"
     },
     {
-      "id": "jos_6_27",
       "chapter": 6,
       "verse": 27,
+      "paragraph": 8,
+      "poetry": false,
       "text": "So the LORD was with Joshua; and his fame was in all the land."
     },
     {
-      "id": "jos_7_1",
       "chapter": 7,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "But the children of Israel committed a trespass in the devoted things; for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took some of the devoted things. Therefore the LORD’s anger burned against the children of Israel."
     },
     {
-      "id": "jos_7_2",
       "chapter": 7,
       "verse": 2,
-      "text": "Joshua sent men from Jericho to Ai, which is beside Beth Aven, on the east side of Bethel, and spoke to them, saying, “Go up and spy out the land.” The men went up and spied out Ai."
+      "paragraph": 1,
+      "poetry": false,
+      "text": "Joshua sent men from Jericho to Ai, which is beside Beth Aven, on the east side of Bethel, and spoke to them, saying, “Go up and spy out the land.”"
     },
     {
-      "id": "jos_7_3",
       "chapter": 7,
       "verse": 3,
+      "paragraph": 2,
+      "poetry": false,
       "text": "They returned to Joshua, and said to him, “Don’t let all the people go up, but let about two or three thousand men go up and strike Ai. Don’t make all the people to toil there, for there are only a few of them.”"
     },
     {
-      "id": "jos_7_4",
       "chapter": 7,
       "verse": 4,
+      "paragraph": 2,
+      "poetry": false,
       "text": "So about three thousand men of the people went up there, and they fled before the men of Ai."
     },
     {
-      "id": "jos_7_5",
       "chapter": 7,
       "verse": 5,
+      "paragraph": 2,
+      "poetry": false,
       "text": "The men of Ai struck about thirty-six men of them. They chased them from before the gate even to Shebarim, and struck them at the descent. The hearts of the people melted, and became like water."
     },
     {
-      "id": "jos_7_6",
       "chapter": 7,
       "verse": 6,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Joshua tore his clothes, and fell to the earth on his face before the LORD’s ark until the evening, he and the elders of Israel; and they put dust on their heads."
     },
     {
-      "id": "jos_7_7",
       "chapter": 7,
       "verse": 7,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Joshua said, “Alas, Lord GOD, why have you brought this people over the Jordan at all, to deliver us into the hand of the Amorites, to cause us to perish? I wish that we had been content and lived beyond the Jordan!"
     },
     {
-      "id": "jos_7_8",
       "chapter": 7,
       "verse": 8,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Oh, Lord, what shall I say, after Israel has turned their backs before their enemies?"
     },
     {
-      "id": "jos_7_9",
       "chapter": 7,
       "verse": 9,
+      "paragraph": 2,
+      "poetry": false,
       "text": "For the Canaanites and all the inhabitants of the land will hear of it, and will surround us, and cut off our name from the earth. What will you do for your great name?”"
     },
     {
-      "id": "jos_7_10",
       "chapter": 7,
       "verse": 10,
+      "paragraph": 3,
+      "poetry": false,
       "text": "The LORD said to Joshua, “Get up! Why have you fallen on your face like that?"
     },
     {
-      "id": "jos_7_11",
       "chapter": 7,
       "verse": 11,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Israel has sinned. Yes, they have even transgressed my covenant which I commanded them. Yes, they have even taken some of the devoted things, and have also stolen, and also deceived. They have even put it among their own stuff."
     },
     {
-      "id": "jos_7_12",
       "chapter": 7,
       "verse": 12,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Therefore the children of Israel can’t stand before their enemies. They turn their backs before their enemies, because they have become devoted for destruction. I will not be with you any more, unless you destroy the devoted things from among you."
     },
     {
-      "id": "jos_7_13",
       "chapter": 7,
       "verse": 13,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Get up! Sanctify the people, and say, ‘Sanctify yourselves for tomorrow, for the LORD, the God of Israel, says, “There is a devoted thing among you, Israel. You cannot stand before your enemies until you take away the devoted thing from among you.”"
     },
     {
-      "id": "jos_7_14",
       "chapter": 7,
       "verse": 14,
+      "paragraph": 3,
+      "poetry": false,
       "text": "In the morning therefore you shall be brought near by your tribes. It shall be that the tribe which the LORD selects shall come near by families. The family which the LORD selects shall come near by households. The household which the LORD selects shall come near man by man."
     },
     {
-      "id": "jos_7_15",
       "chapter": 7,
       "verse": 15,
+      "paragraph": 3,
+      "poetry": false,
       "text": "It shall be, that he who is taken with the devoted thing shall be burned with fire, he and all that he has, because he has transgressed the LORD’s covenant, and because he has done a disgraceful thing in Israel.’”"
     },
     {
-      "id": "jos_7_16",
       "chapter": 7,
       "verse": 16,
+      "paragraph": 4,
+      "poetry": false,
       "text": "So Joshua rose up early in the morning and brought Israel near by their tribes. The tribe of Judah was selected."
     },
     {
-      "id": "jos_7_17",
       "chapter": 7,
       "verse": 17,
+      "paragraph": 4,
+      "poetry": false,
       "text": "He brought near the family of Judah, and he selected the family of the Zerahites. He brought near the family of the Zerahites man by man, and Zabdi was selected."
     },
     {
-      "id": "jos_7_18",
       "chapter": 7,
       "verse": 18,
+      "paragraph": 4,
+      "poetry": false,
       "text": "He brought near his household man by man, and Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, was selected."
     },
     {
-      "id": "jos_7_19",
       "chapter": 7,
       "verse": 19,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Joshua said to Achan, “My son, please give glory to the LORD, the God of Israel, and make confession to him. Tell me now what you have done! Don’t hide it from me!”"
     },
     {
-      "id": "jos_7_20",
       "chapter": 7,
       "verse": 20,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Achan answered Joshua, and said, “I have truly sinned against the LORD, the God of Israel, and this is what I have done."
     },
     {
-      "id": "jos_7_21",
       "chapter": 7,
       "verse": 21,
+      "paragraph": 5,
+      "poetry": false,
       "text": "When I saw among the plunder a beautiful Babylonian robe, two hundred shekels of silver, and a wedge of gold weighing fifty shekels, then I coveted them and took them. Behold, they are hidden in the ground in the middle of my tent, with the silver under it.”"
     },
     {
-      "id": "jos_7_22",
       "chapter": 7,
       "verse": 22,
+      "paragraph": 6,
+      "poetry": false,
       "text": "So Joshua sent messengers, and they ran to the tent. Behold, it was hidden in his tent, with the silver under it."
     },
     {
-      "id": "jos_7_23",
       "chapter": 7,
       "verse": 23,
+      "paragraph": 6,
+      "poetry": false,
       "text": "They took them from the middle of the tent, and brought them to Joshua and to all the children of Israel. They laid them down before the LORD."
     },
     {
-      "id": "jos_7_24",
       "chapter": 7,
       "verse": 24,
+      "paragraph": 6,
+      "poetry": false,
       "text": "Joshua, and all Israel with him, took Achan the son of Zerah, the silver, the robe, the wedge of gold, his sons, his daughters, his cattle, his donkeys, his sheep, his tent, and all that he had; and they brought them up to the valley of Achor."
     },
     {
-      "id": "jos_7_25",
       "chapter": 7,
       "verse": 25,
+      "paragraph": 6,
+      "poetry": false,
       "text": "Joshua said, “Why have you troubled us? The LORD will trouble you today.” All Israel stoned him with stones, and they burned them with fire and stoned them with stones."
     },
     {
-      "id": "jos_7_26",
       "chapter": 7,
       "verse": 26,
+      "paragraph": 6,
+      "poetry": false,
       "text": "They raised over him a great heap of stones that remains to this day. The LORD turned from the fierceness of his anger. Therefore the name of that place was called “The valley of Achor” to this day."
     },
     {
-      "id": "jos_8_1",
       "chapter": 8,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "The LORD said to Joshua, “Don’t be afraid, and don’t be dismayed. Take all the warriors with you, and arise, go up to Ai. Behold, I have given into your hand the king of Ai, with his people, his city, and his land."
     },
     {
-      "id": "jos_8_2",
       "chapter": 8,
       "verse": 2,
+      "paragraph": 1,
+      "poetry": false,
       "text": "You shall do to Ai and her king as you did to Jericho and her king, except you shall take its goods and its livestock for yourselves. Set an ambush for the city behind it.”"
     },
     {
-      "id": "jos_8_3",
       "chapter": 8,
       "verse": 3,
+      "paragraph": 2,
+      "poetry": false,
       "text": "So Joshua arose, with all the warriors, to go up to Ai. Joshua chose thirty thousand men, the mighty men of valor, and sent them out by night."
     },
     {
-      "id": "jos_8_4",
       "chapter": 8,
       "verse": 4,
+      "paragraph": 2,
+      "poetry": false,
       "text": "He commanded them, saying, “Behold, you shall lie in ambush against the city, behind the city. Don’t go very far from the city, but all of you be ready."
     },
     {
-      "id": "jos_8_5",
       "chapter": 8,
       "verse": 5,
+      "paragraph": 2,
+      "poetry": false,
       "text": "I and all the people who are with me will approach the city. It shall happen, when they come out against us, as at the first, that we will flee before them."
     },
     {
-      "id": "jos_8_6",
       "chapter": 8,
       "verse": 6,
+      "paragraph": 2,
+      "poetry": false,
       "text": "They will come out after us until we have drawn them away from the city; for they will say, ‘They flee before us, like the first time.’ So we will flee before them,"
     },
     {
-      "id": "jos_8_7",
       "chapter": 8,
       "verse": 7,
+      "paragraph": 2,
+      "poetry": false,
       "text": "and you shall rise up from the ambush, and take possession of the city; for the LORD your God will deliver it into your hand."
     },
     {
-      "id": "jos_8_8",
       "chapter": 8,
       "verse": 8,
+      "paragraph": 2,
+      "poetry": false,
       "text": "It shall be, when you have seized the city, that you shall set the city on fire. You shall do this according to the LORD’s word. Behold, I have commanded you.”"
     },
     {
-      "id": "jos_8_9",
       "chapter": 8,
       "verse": 9,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Joshua sent them out; and they went to set up the ambush, and stayed between Bethel and Ai on the west side of Ai; but Joshua stayed among the people that night."
     },
     {
-      "id": "jos_8_10",
       "chapter": 8,
       "verse": 10,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Joshua rose up early in the morning, mustered the people, and went up, he and the elders of Israel, before the people to Ai."
     },
     {
-      "id": "jos_8_11",
       "chapter": 8,
       "verse": 11,
+      "paragraph": 3,
+      "poetry": false,
       "text": "All the people, even the men of war who were with him, went up and came near, and came before the city and encamped on the north side of Ai. Now there was a valley between him and Ai."
     },
     {
-      "id": "jos_8_12",
       "chapter": 8,
       "verse": 12,
+      "paragraph": 3,
+      "poetry": false,
       "text": "He took about five thousand men, and set them in ambush between Bethel and Ai, on the west side of the city."
     },
     {
-      "id": "jos_8_13",
       "chapter": 8,
       "verse": 13,
+      "paragraph": 3,
+      "poetry": false,
       "text": "So they set the people, even all the army who was on the north of the city, and their ambush on the west of the city; and Joshua went that night into the middle of the valley."
     },
     {
-      "id": "jos_8_14",
       "chapter": 8,
       "verse": 14,
+      "paragraph": 3,
+      "poetry": false,
       "text": "When the king of Ai saw it, they hurried and rose up early, and the men of the city went out against Israel to battle, he and all his people, at the time appointed, before the Arabah; but he didn’t know that there was an ambush against him behind the city."
     },
     {
-      "id": "jos_8_15",
       "chapter": 8,
       "verse": 15,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Joshua and all Israel made as if they were beaten before them, and fled by the way of the wilderness."
     },
     {
-      "id": "jos_8_16",
       "chapter": 8,
       "verse": 16,
+      "paragraph": 3,
+      "poetry": false,
       "text": "All the people who were in the city were called together to pursue after them. They pursued Joshua, and were drawn away from the city."
     },
     {
-      "id": "jos_8_17",
       "chapter": 8,
       "verse": 17,
+      "paragraph": 3,
+      "poetry": false,
       "text": "There was not a man left in Ai or Bethel who didn’t go out after Israel. They left the city open, and pursued Israel."
     },
     {
-      "id": "jos_8_18",
       "chapter": 8,
       "verse": 18,
-      "text": "The LORD said to Joshua, “Stretch out the javelin that is in your hand toward Ai, for I will give it into your hand.” Joshua stretched out the javelin that was in his hand toward the city."
+      "paragraph": 4,
+      "poetry": false,
+      "text": "The LORD said to Joshua, “Stretch out the javelin that is in your hand toward Ai, for I will give it into your hand.”"
     },
     {
-      "id": "jos_8_19",
       "chapter": 8,
       "verse": 19,
+      "paragraph": 5,
+      "poetry": false,
       "text": "The ambush arose quickly out of their place, and they ran as soon as he had stretched out his hand and entered into the city and took it. They hurried and set the city on fire."
     },
     {
-      "id": "jos_8_20",
       "chapter": 8,
       "verse": 20,
+      "paragraph": 5,
+      "poetry": false,
       "text": "When the men of Ai looked behind them, they saw, and behold, the smoke of the city ascended up to heaven, and they had no power to flee this way or that way. The people who fled to the wilderness turned back on the pursuers."
     },
     {
-      "id": "jos_8_21",
       "chapter": 8,
       "verse": 21,
+      "paragraph": 5,
+      "poetry": false,
       "text": "When Joshua and all Israel saw that the ambush had taken the city, and that the smoke of the city ascended, then they turned back and killed the men of Ai."
     },
     {
-      "id": "jos_8_22",
       "chapter": 8,
       "verse": 22,
+      "paragraph": 5,
+      "poetry": false,
       "text": "The others came out of the city against them, so they were in the middle of Israel, some on this side, and some on that side. They struck them, so that they let none of them remain or escape."
     },
     {
-      "id": "jos_8_23",
       "chapter": 8,
       "verse": 23,
+      "paragraph": 5,
+      "poetry": false,
       "text": "They captured the king of Ai alive, and brought him to Joshua."
     },
     {
-      "id": "jos_8_24",
       "chapter": 8,
       "verse": 24,
+      "paragraph": 6,
+      "poetry": false,
       "text": "When Israel had finished killing all the inhabitants of Ai in the field, in the wilderness in which they pursued them, and they had all fallen by the edge of the sword until they were consumed, all Israel returned to Ai and struck it with the edge of the sword."
     },
     {
-      "id": "jos_8_25",
       "chapter": 8,
       "verse": 25,
+      "paragraph": 6,
+      "poetry": false,
       "text": "All that fell that day, both of men and women, were twelve thousand, even all the people of Ai."
     },
     {
-      "id": "jos_8_26",
       "chapter": 8,
       "verse": 26,
+      "paragraph": 6,
+      "poetry": false,
       "text": "For Joshua didn’t draw back his hand, with which he stretched out the javelin, until he had utterly destroyed all the inhabitants of Ai."
     },
     {
-      "id": "jos_8_27",
       "chapter": 8,
       "verse": 27,
+      "paragraph": 6,
+      "poetry": false,
       "text": "Israel took for themselves only the livestock and the goods of that city, according to the LORD’s word which he commanded Joshua."
     },
     {
-      "id": "jos_8_28",
       "chapter": 8,
       "verse": 28,
+      "paragraph": 6,
+      "poetry": false,
       "text": "So Joshua burned Ai and made it a heap forever, even a desolation, to this day."
     },
     {
-      "id": "jos_8_29",
       "chapter": 8,
       "verse": 29,
+      "paragraph": 6,
+      "poetry": false,
       "text": "He hanged the king of Ai on a tree until the evening. At sundown, Joshua commanded, and they took his body down from the tree and threw it at the entrance of the gate of the city, and raised a great heap of stones on it that remains to this day."
     },
     {
-      "id": "jos_8_30",
       "chapter": 8,
       "verse": 30,
+      "paragraph": 7,
+      "poetry": false,
       "text": "Then Joshua built an altar to the LORD, the God of Israel, on Mount Ebal,"
     },
     {
-      "id": "jos_8_31",
       "chapter": 8,
       "verse": 31,
+      "paragraph": 7,
+      "poetry": false,
       "text": "as Moses the servant of the LORD commanded the children of Israel, as it is written in the book of the law of Moses: an altar of uncut stones, on which no one had lifted up any iron. They offered burnt offerings on it to the LORD and sacrificed peace offerings."
     },
     {
-      "id": "jos_8_32",
       "chapter": 8,
       "verse": 32,
+      "paragraph": 7,
+      "poetry": false,
       "text": "He wrote there on the stones a copy of Moses’ law, which he wrote in the presence of the children of Israel."
     },
     {
-      "id": "jos_8_33",
       "chapter": 8,
       "verse": 33,
+      "paragraph": 7,
+      "poetry": false,
       "text": "All Israel, with their elders, officers, and judges, stood on both sides of the ark before the Levitical priests, who carried the ark of the LORD’s covenant, the foreigner as well as the native; half of them in front of Mount Gerizim, and half of them in front of Mount Ebal, as Moses the servant of the LORD had commanded at the first, that they should bless the people of Israel."
     },
     {
-      "id": "jos_8_34",
       "chapter": 8,
       "verse": 34,
+      "paragraph": 7,
+      "poetry": false,
       "text": "Afterward he read all the words of the law, the blessing and the curse, according to all that is written in the book of the law."
     },
     {
-      "id": "jos_8_35",
       "chapter": 8,
       "verse": 35,
+      "paragraph": 7,
+      "poetry": false,
       "text": "There was not a word of all that Moses commanded which Joshua didn’t read before all the assembly of Israel, with the women, the little ones, and the foreigners who were among them."
     },
     {
-      "id": "jos_9_1",
       "chapter": 9,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "When all the kings who were beyond the Jordan, in the hill country, and in the lowland, and on all the shore of the great sea in front of Lebanon, the Hittite, the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard of it"
     },
     {
-      "id": "jos_9_2",
       "chapter": 9,
       "verse": 2,
+      "paragraph": 1,
+      "poetry": false,
       "text": "they gathered themselves together to fight with Joshua and with Israel, with one accord."
     },
     {
-      "id": "jos_9_3",
       "chapter": 9,
       "verse": 3,
+      "paragraph": 1,
+      "poetry": false,
       "text": "But when the inhabitants of Gibeon heard what Joshua had done to Jericho and to Ai,"
     },
     {
-      "id": "jos_9_4",
       "chapter": 9,
       "verse": 4,
+      "paragraph": 1,
+      "poetry": false,
       "text": "they also resorted to a ruse, and went and made as if they had been ambassadors, and took old sacks on their donkeys, and old, torn-up and bound up wineskins,"
     },
     {
-      "id": "jos_9_5",
       "chapter": 9,
       "verse": 5,
+      "paragraph": 1,
+      "poetry": false,
       "text": "and old and patched sandals on their feet, and wore old garments. All the bread of their food supply was dry and moldy."
     },
     {
-      "id": "jos_9_6",
       "chapter": 9,
       "verse": 6,
+      "paragraph": 1,
+      "poetry": false,
       "text": "They went to Joshua at the camp at Gilgal, and said to him and to the men of Israel, “We have come from a far country. Now therefore make a covenant with us.”"
     },
     {
-      "id": "jos_9_7",
       "chapter": 9,
       "verse": 7,
+      "paragraph": 2,
+      "poetry": false,
       "text": "The men of Israel said to the Hivites, “What if you live among us? How could we make a covenant with you?”"
     },
     {
-      "id": "jos_9_8",
       "chapter": 9,
       "verse": 8,
-      "text": "They said to Joshua, “We are your servants.” Joshua said to them, “Who are you? Where do you come from?”"
+      "paragraph": 3,
+      "poetry": false,
+      "text": "They said to Joshua, “We are your servants.”"
     },
     {
-      "id": "jos_9_9",
       "chapter": 9,
       "verse": 9,
+      "paragraph": 5,
+      "poetry": false,
       "text": "They said to him, “Your servants have come from a very far country because of the name of the LORD your God; for we have heard of his fame, all that he did in Egypt,"
     },
     {
-      "id": "jos_9_10",
       "chapter": 9,
       "verse": 10,
+      "paragraph": 5,
+      "poetry": false,
       "text": "and all that he did to the two kings of the Amorites who were beyond the Jordan, to Sihon king of Heshbon and to Og king of Bashan, who was at Ashtaroth."
     },
     {
-      "id": "jos_9_11",
       "chapter": 9,
       "verse": 11,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Our elders and all the inhabitants of our country spoke to us, saying, ‘Take supplies in your hand for the journey, and go to meet them. Tell them, “We are your servants. Now make a covenant with us.”’"
     },
     {
-      "id": "jos_9_12",
       "chapter": 9,
       "verse": 12,
+      "paragraph": 5,
+      "poetry": false,
       "text": "This our bread we took hot for our supplies out of our houses on the day we went out to go to you; but now, behold, it is dry, and has become moldy."
     },
     {
-      "id": "jos_9_13",
       "chapter": 9,
       "verse": 13,
+      "paragraph": 5,
+      "poetry": false,
       "text": "These wineskins, which we filled, were new; and behold, they are torn. These our garments and our sandals have become old because of the very long journey.”"
     },
     {
-      "id": "jos_9_14",
       "chapter": 9,
       "verse": 14,
+      "paragraph": 6,
+      "poetry": false,
       "text": "The men sampled their provisions, and didn’t ask counsel from the LORD’s mouth."
     },
     {
-      "id": "jos_9_15",
       "chapter": 9,
       "verse": 15,
+      "paragraph": 6,
+      "poetry": false,
       "text": "Joshua made peace with them, and made a covenant with them, to let them live. The princes of the congregation swore to them."
     },
     {
-      "id": "jos_9_16",
       "chapter": 9,
       "verse": 16,
+      "paragraph": 6,
+      "poetry": false,
       "text": "At the end of three days after they had made a covenant with them, they heard that they were their neighbors, and that they lived among them."
     },
     {
-      "id": "jos_9_17",
       "chapter": 9,
       "verse": 17,
+      "paragraph": 6,
+      "poetry": false,
       "text": "The children of Israel traveled and came to their cities on the third day. Now their cities were Gibeon, Chephirah, Beeroth, and Kiriath Jearim."
     },
     {
-      "id": "jos_9_18",
       "chapter": 9,
       "verse": 18,
+      "paragraph": 6,
+      "poetry": false,
       "text": "The children of Israel didn’t strike them, because the princes of the congregation had sworn to them by the LORD, the God of Israel. All the congregation murmured against the princes."
     },
     {
-      "id": "jos_9_19",
       "chapter": 9,
       "verse": 19,
+      "paragraph": 6,
+      "poetry": false,
       "text": "But all the princes said to all the congregation, “We have sworn to them by the LORD, the God of Israel. Now therefore we may not touch them."
     },
     {
-      "id": "jos_9_20",
       "chapter": 9,
       "verse": 20,
+      "paragraph": 6,
+      "poetry": false,
       "text": "We will do this to them, and let them live; lest wrath be on us, because of the oath which we swore to them.”"
     },
     {
-      "id": "jos_9_21",
       "chapter": 9,
       "verse": 21,
+      "paragraph": 6,
+      "poetry": false,
       "text": "The princes said to them, “Let them live.” So they became wood cutters and drawers of water for all the congregation, as the princes had spoken to them."
     },
     {
-      "id": "jos_9_22",
       "chapter": 9,
       "verse": 22,
+      "paragraph": 7,
+      "poetry": false,
       "text": "Joshua called for them, and he spoke to them, saying, “Why have you deceived us, saying, ‘We are very far from you,’ when you live among us?"
     },
     {
-      "id": "jos_9_23",
       "chapter": 9,
       "verse": 23,
+      "paragraph": 7,
+      "poetry": false,
       "text": "Now therefore you are cursed, and some of you will never fail to be slaves, both wood cutters and drawers of water for the house of my God.”"
     },
     {
-      "id": "jos_9_24",
       "chapter": 9,
       "verse": 24,
+      "paragraph": 8,
+      "poetry": false,
       "text": "They answered Joshua, and said, “Because your servants were certainly told how the LORD your God commanded his servant Moses to give you all the land, and to destroy all the inhabitants of the land from before you. Therefore we were very afraid for our lives because of you, and have done this thing."
     },
     {
-      "id": "jos_9_25",
       "chapter": 9,
       "verse": 25,
+      "paragraph": 8,
+      "poetry": false,
       "text": "Now, behold, we are in your hand. Do to us as it seems good and right to you to do.”"
     },
     {
-      "id": "jos_9_26",
       "chapter": 9,
       "verse": 26,
+      "paragraph": 9,
+      "poetry": false,
       "text": "He did so to them, and delivered them out of the hand of the children of Israel, so that they didn’t kill them."
     },
     {
-      "id": "jos_9_27",
       "chapter": 9,
       "verse": 27,
+      "paragraph": 9,
+      "poetry": false,
       "text": "That day Joshua made them wood cutters and drawers of water for the congregation and for the LORD’s altar to this day, in the place which he should choose."
     },
     {
-      "id": "jos_10_1",
       "chapter": 10,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Now when Adoni-Zedek king of Jerusalem heard how Joshua had taken Ai, and had utterly destroyed it; as he had done to Jericho and her king, so he had done to Ai and her king; and how the inhabitants of Gibeon had made peace with Israel, and were among them,"
     },
     {
-      "id": "jos_10_2",
       "chapter": 10,
       "verse": 2,
+      "paragraph": 1,
+      "poetry": false,
       "text": "they were very afraid, because Gibeon was a great city, as one of the royal cities, and because it was greater than Ai, and all its men were mighty."
     },
     {
-      "id": "jos_10_3",
       "chapter": 10,
       "verse": 3,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Therefore Adoni-Zedek king of Jerusalem sent to Hoham king of Hebron, Piram king of Jarmuth, Japhia king of Lachish, and Debir king of Eglon, saying,"
     },
     {
-      "id": "jos_10_4",
       "chapter": 10,
       "verse": 4,
+      "paragraph": 1,
+      "poetry": false,
       "text": "“Come up to me and help me. Let’s strike Gibeon; for they have made peace with Joshua and with the children of Israel.”"
     },
     {
-      "id": "jos_10_5",
       "chapter": 10,
       "verse": 5,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Therefore the five kings of the Amorites, the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, and the king of Eglon, gathered themselves together and went up, they and all their armies, and encamped against Gibeon, and made war against it."
     },
     {
-      "id": "jos_10_6",
       "chapter": 10,
       "verse": 6,
+      "paragraph": 1,
+      "poetry": false,
       "text": "The men of Gibeon sent to Joshua at the camp at Gilgal, saying, “Don’t abandon your servants! Come up to us quickly and save us! Help us; for all the kings of the Amorites that dwell in the hill country have gathered together against us.”"
     },
     {
-      "id": "jos_10_7",
       "chapter": 10,
       "verse": 7,
+      "paragraph": 2,
+      "poetry": false,
       "text": "So Joshua went up from Gilgal, he and the whole army with him, including all the mighty men of valor."
     },
     {
-      "id": "jos_10_8",
       "chapter": 10,
       "verse": 8,
+      "paragraph": 2,
+      "poetry": false,
       "text": "The LORD said to Joshua, “Don’t fear them, for I have delivered them into your hands. Not a man of them will stand before you.”"
     },
     {
-      "id": "jos_10_9",
       "chapter": 10,
       "verse": 9,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Joshua therefore came to them suddenly. He marched from Gilgal all night."
     },
     {
-      "id": "jos_10_10",
       "chapter": 10,
       "verse": 10,
+      "paragraph": 3,
+      "poetry": false,
       "text": "The LORD confused them before Israel. He killed them with a great slaughter at Gibeon, and chased them by the way of the ascent of Beth Horon, and struck them to Azekah and to Makkedah."
     },
     {
-      "id": "jos_10_11",
       "chapter": 10,
       "verse": 11,
+      "paragraph": 3,
+      "poetry": false,
       "text": "As they fled from before Israel, while they were at the descent of Beth Horon, the LORD hurled down great stones from the sky on them to Azekah, and they died. There were more who died from the hailstones than those whom the children of Israel killed with the sword."
     },
     {
-      "id": "jos_10_12",
       "chapter": 10,
       "verse": 12,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Then Joshua spoke to the LORD in the day when the LORD delivered up the Amorites before the children of Israel. He said in the sight of Israel, “Sun, stand still on Gibeon! You, moon, stop in the valley of Aijalon!”"
     },
     {
-      "id": "jos_10_13",
       "chapter": 10,
       "verse": 13,
+      "paragraph": 5,
+      "poetry": false,
       "text": "The sun stood still, and the moon stayed, until the nation had avenged themselves of their enemies. Isn’t this written in the book of Jashar? The sun stayed in the middle of the sky, and didn’t hurry to go down about a whole day."
     },
     {
-      "id": "jos_10_14",
       "chapter": 10,
       "verse": 14,
+      "paragraph": 5,
+      "poetry": false,
       "text": "There was no day like that before it or after it, that the LORD listened to the voice of a man; for the LORD fought for Israel."
     },
     {
-      "id": "jos_10_15",
       "chapter": 10,
       "verse": 15,
+      "paragraph": 6,
+      "poetry": false,
       "text": "Joshua returned, and all Israel with him, to the camp to Gilgal."
     },
     {
-      "id": "jos_10_16",
       "chapter": 10,
       "verse": 16,
+      "paragraph": 6,
+      "poetry": false,
       "text": "These five kings fled, and hid themselves in the cave at Makkedah."
     },
     {
-      "id": "jos_10_17",
       "chapter": 10,
       "verse": 17,
+      "paragraph": 6,
+      "poetry": false,
       "text": "Joshua was told, saying, “The five kings have been found, hidden in the cave at Makkedah.”"
     },
     {
-      "id": "jos_10_18",
       "chapter": 10,
       "verse": 18,
+      "paragraph": 7,
+      "poetry": false,
       "text": "Joshua said, “Roll large stones to cover the cave’s entrance, and set men by it to guard them;"
     },
     {
-      "id": "jos_10_19",
       "chapter": 10,
       "verse": 19,
+      "paragraph": 7,
+      "poetry": false,
       "text": "but don’t stay there. Pursue your enemies, and attack them from the rear. Don’t allow them to enter into their cities; for the LORD your God has delivered them into your hand.”"
     },
     {
-      "id": "jos_10_20",
       "chapter": 10,
       "verse": 20,
+      "paragraph": 8,
+      "poetry": false,
       "text": "When Joshua and the children of Israel had finished killing them with a very great slaughter until they were consumed, and the remnant which remained of them had entered into the fortified cities,"
     },
     {
-      "id": "jos_10_21",
       "chapter": 10,
       "verse": 21,
+      "paragraph": 8,
+      "poetry": false,
       "text": "all the people returned to the camp to Joshua at Makkedah in peace. None moved his tongue against any of the children of Israel."
     },
     {
-      "id": "jos_10_22",
       "chapter": 10,
       "verse": 22,
+      "paragraph": 8,
+      "poetry": false,
       "text": "Then Joshua said, “Open the cave entrance, and bring those five kings out of the cave to me.”"
     },
     {
-      "id": "jos_10_23",
       "chapter": 10,
       "verse": 23,
+      "paragraph": 9,
+      "poetry": false,
       "text": "They did so, and brought those five kings out of the cave to him: the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, and the king of Eglon."
     },
     {
-      "id": "jos_10_24",
       "chapter": 10,
       "verse": 24,
-      "text": "When they brought those kings out to Joshua, Joshua called for all the men of Israel, and said to the chiefs of the men of war who went with him, “Come near. Put your feet on the necks of these kings.” They came near, and put their feet on their necks."
+      "paragraph": 9,
+      "poetry": false,
+      "text": "When they brought those kings out to Joshua, Joshua called for all the men of Israel, and said to the chiefs of the men of war who went with him, “Come near. Put your feet on the necks of these kings.”"
     },
     {
-      "id": "jos_10_25",
       "chapter": 10,
       "verse": 25,
+      "paragraph": 11,
+      "poetry": false,
       "text": "Joshua said to them, “Don’t be afraid, nor be dismayed. Be strong and courageous, for the LORD will do this to all your enemies against whom you fight.”"
     },
     {
-      "id": "jos_10_26",
       "chapter": 10,
       "verse": 26,
+      "paragraph": 12,
+      "poetry": false,
       "text": "Afterward Joshua struck them, put them to death, and hanged them on five trees. They were hanging on the trees until the evening."
     },
     {
-      "id": "jos_10_27",
       "chapter": 10,
       "verse": 27,
+      "paragraph": 12,
+      "poetry": false,
       "text": "At the time of the going down of the sun, Joshua commanded, and they took them down off the trees, and threw them into the cave in which they had hidden themselves, and laid great stones on the mouth of the cave, which remain to this very day."
     },
     {
-      "id": "jos_10_28",
       "chapter": 10,
       "verse": 28,
+      "paragraph": 13,
+      "poetry": false,
       "text": "Joshua took Makkedah on that day, and struck it with the edge of the sword, with its king. He utterly destroyed it and all the souls who were in it. He left no one remaining. He did to the king of Makkedah as he had done to the king of Jericho."
     },
     {
-      "id": "jos_10_29",
       "chapter": 10,
       "verse": 29,
+      "paragraph": 14,
+      "poetry": false,
       "text": "Joshua passed from Makkedah, and all Israel with him, to Libnah, and fought against Libnah."
     },
     {
-      "id": "jos_10_30",
       "chapter": 10,
       "verse": 30,
+      "paragraph": 14,
+      "poetry": false,
       "text": "The LORD delivered it also, with its king, into the hand of Israel. He struck it with the edge of the sword, and all the souls who were in it. He left no one remaining in it. He did to its king as he had done to the king of Jericho."
     },
     {
-      "id": "jos_10_31",
       "chapter": 10,
       "verse": 31,
+      "paragraph": 15,
+      "poetry": false,
       "text": "Joshua passed from Libnah, and all Israel with him, to Lachish, and encamped against it, and fought against it."
     },
     {
-      "id": "jos_10_32",
       "chapter": 10,
       "verse": 32,
+      "paragraph": 15,
+      "poetry": false,
       "text": "The LORD delivered Lachish into the hand of Israel. He took it on the second day, and struck it with the edge of the sword, with all the souls who were in it, according to all that he had done to Libnah."
     },
     {
-      "id": "jos_10_33",
       "chapter": 10,
       "verse": 33,
+      "paragraph": 15,
+      "poetry": false,
       "text": "Then Horam king of Gezer came up to help Lachish; and Joshua struck him and his people, until he had left him no one remaining."
     },
     {
-      "id": "jos_10_34",
       "chapter": 10,
       "verse": 34,
+      "paragraph": 16,
+      "poetry": false,
       "text": "Joshua passed from Lachish, and all Israel with him, to Eglon; and they encamped against it and fought against it."
     },
     {
-      "id": "jos_10_35",
       "chapter": 10,
       "verse": 35,
+      "paragraph": 16,
+      "poetry": false,
       "text": "They took it on that day, and struck it with the edge of the sword. He utterly destroyed all the souls who were in it that day, according to all that he had done to Lachish."
     },
     {
-      "id": "jos_10_36",
       "chapter": 10,
       "verse": 36,
+      "paragraph": 17,
+      "poetry": false,
       "text": "Joshua went up from Eglon, and all Israel with him, to Hebron; and they fought against it."
     },
     {
-      "id": "jos_10_37",
       "chapter": 10,
       "verse": 37,
+      "paragraph": 17,
+      "poetry": false,
       "text": "They took it, and struck it with the edge of the sword, with its king and all its cities, and all the souls who were in it. He left no one remaining, according to all that he had done to Eglon; but he utterly destroyed it, and all the souls who were in it."
     },
     {
-      "id": "jos_10_38",
       "chapter": 10,
       "verse": 38,
+      "paragraph": 18,
+      "poetry": false,
       "text": "Joshua returned, and all Israel with him, to Debir, and fought against it."
     },
     {
-      "id": "jos_10_39",
       "chapter": 10,
       "verse": 39,
+      "paragraph": 18,
+      "poetry": false,
       "text": "He took it, with its king and all its cities. They struck them with the edge of the sword, and utterly destroyed all the souls who were in it. He left no one remaining. As he had done to Hebron, so he did to Debir, and to its king; as he had done also to Libnah, and to its king."
     },
     {
-      "id": "jos_10_40",
       "chapter": 10,
       "verse": 40,
+      "paragraph": 18,
+      "poetry": false,
       "text": "So Joshua struck all the land, the hill country, the South, the lowland, the slopes, and all their kings. He left no one remaining, but he utterly destroyed all that breathed, as the LORD, the God of Israel, commanded."
     },
     {
-      "id": "jos_10_41",
       "chapter": 10,
       "verse": 41,
+      "paragraph": 18,
+      "poetry": false,
       "text": "Joshua struck them from Kadesh Barnea even to Gaza, and all the country of Goshen, even to Gibeon."
     },
     {
-      "id": "jos_10_42",
       "chapter": 10,
       "verse": 42,
+      "paragraph": 18,
+      "poetry": false,
       "text": "Joshua took all these kings and their land at one time because the LORD, the God of Israel, fought for Israel."
     },
     {
-      "id": "jos_10_43",
       "chapter": 10,
       "verse": 43,
+      "paragraph": 18,
+      "poetry": false,
       "text": "Joshua returned, and all Israel with him, to the camp to Gilgal."
     },
     {
-      "id": "jos_11_1",
       "chapter": 11,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "When Jabin king of Hazor heard of it, he sent to Jobab king of Madon, to the king of Shimron, to the king of Achshaph,"
     },
     {
-      "id": "jos_11_2",
       "chapter": 11,
       "verse": 2,
+      "paragraph": 1,
+      "poetry": false,
       "text": "and to the kings who were on the north, in the hill country, in the Arabah south of Chinneroth, in the lowland, and in the heights of Dor on the west,"
     },
     {
-      "id": "jos_11_3",
       "chapter": 11,
       "verse": 3,
+      "paragraph": 1,
+      "poetry": false,
       "text": "to the Canaanite on the east and on the west, the Amorite, the Hittite, the Perizzite, the Jebusite in the hill country, and the Hivite under Hermon in the land of Mizpah."
     },
     {
-      "id": "jos_11_4",
       "chapter": 11,
       "verse": 4,
+      "paragraph": 1,
+      "poetry": false,
       "text": "They went out, they and all their armies with them, many people, even as the sand that is on the seashore in multitude, with very many horses and chariots."
     },
     {
-      "id": "jos_11_5",
       "chapter": 11,
       "verse": 5,
+      "paragraph": 1,
+      "poetry": false,
       "text": "All these kings met together; and they came and encamped together at the waters of Merom, to fight with Israel."
     },
     {
-      "id": "jos_11_6",
       "chapter": 11,
       "verse": 6,
+      "paragraph": 2,
+      "poetry": false,
       "text": "The LORD said to Joshua, “Don’t be afraid because of them; for tomorrow at this time, I will deliver them up all slain before Israel. You shall hamstring their horses and burn their chariots with fire.”"
     },
     {
-      "id": "jos_11_7",
       "chapter": 11,
       "verse": 7,
+      "paragraph": 3,
+      "poetry": false,
       "text": "So Joshua came suddenly, with all the warriors, against them by the waters of Merom, and attacked them."
     },
     {
-      "id": "jos_11_8",
       "chapter": 11,
       "verse": 8,
+      "paragraph": 3,
+      "poetry": false,
       "text": "The LORD delivered them into the hand of Israel, and they struck them, and chased them to great Sidon, and to Misrephoth Maim, and to the valley of Mizpah eastward. They struck them until they left them no one remaining."
     },
     {
-      "id": "jos_11_9",
       "chapter": 11,
       "verse": 9,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Joshua did to them as the LORD told him. He hamstrung their horses and burned their chariots with fire."
     },
     {
-      "id": "jos_11_10",
       "chapter": 11,
       "verse": 10,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Joshua turned back at that time, and took Hazor, and struck its king with the sword; for Hazor used to be the head of all those kingdoms."
     },
     {
-      "id": "jos_11_11",
       "chapter": 11,
       "verse": 11,
+      "paragraph": 3,
+      "poetry": false,
       "text": "They struck all the souls who were in it with the edge of the sword, utterly destroying them. There was no one left who breathed. He burned Hazor with fire."
     },
     {
-      "id": "jos_11_12",
       "chapter": 11,
       "verse": 12,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Joshua captured all the cities of those kings, with their kings, and he struck them with the edge of the sword, and utterly destroyed them, as Moses the servant of the LORD commanded."
     },
     {
-      "id": "jos_11_13",
       "chapter": 11,
       "verse": 13,
+      "paragraph": 3,
+      "poetry": false,
       "text": "But as for the cities that stood on their mounds, Israel burned none of them, except Hazor only. Joshua burned that."
     },
     {
-      "id": "jos_11_14",
       "chapter": 11,
       "verse": 14,
+      "paragraph": 3,
+      "poetry": false,
       "text": "The children of Israel took all the plunder of these cities, with the livestock, as plunder for themselves; but every man they struck with the edge of the sword, until they had destroyed them. They didn’t leave any who breathed."
     },
     {
-      "id": "jos_11_15",
       "chapter": 11,
       "verse": 15,
+      "paragraph": 4,
+      "poetry": false,
       "text": "As the LORD commanded Moses his servant, so Moses commanded Joshua. Joshua did so. He left nothing undone of all that the LORD commanded Moses."
     },
     {
-      "id": "jos_11_16",
       "chapter": 11,
       "verse": 16,
+      "paragraph": 4,
+      "poetry": false,
       "text": "So Joshua captured all that land, the hill country, all the South, all the land of Goshen, the lowland, the Arabah, the hill country of Israel, and the lowland of the same,"
     },
     {
-      "id": "jos_11_17",
       "chapter": 11,
       "verse": 17,
+      "paragraph": 4,
+      "poetry": false,
       "text": "from Mount Halak, that goes up to Seir, even to Baal Gad in the valley of Lebanon under Mount Hermon. He took all their kings, struck them, and put them to death."
     },
     {
-      "id": "jos_11_18",
       "chapter": 11,
       "verse": 18,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Joshua made war a long time with all those kings."
     },
     {
-      "id": "jos_11_19",
       "chapter": 11,
       "verse": 19,
+      "paragraph": 4,
+      "poetry": false,
       "text": "There was not a city that made peace with the children of Israel, except the Hivites, the inhabitants of Gibeon. They took all in battle."
     },
     {
-      "id": "jos_11_20",
       "chapter": 11,
       "verse": 20,
+      "paragraph": 4,
+      "poetry": false,
       "text": "For it was of the LORD to harden their hearts, to come against Israel in battle, that he might utterly destroy them, that they might have no favor, but that he might destroy them, as the LORD commanded Moses."
     },
     {
-      "id": "jos_11_21",
       "chapter": 11,
       "verse": 21,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Joshua came at that time, and cut off the Anakim from the hill country, from Hebron, from Debir, from Anab, and from all the hill country of Judah, and from all the hill country of Israel. Joshua utterly destroyed them with their cities."
     },
     {
-      "id": "jos_11_22",
       "chapter": 11,
       "verse": 22,
+      "paragraph": 4,
+      "poetry": false,
       "text": "There were none of the Anakim left in the land of the children of Israel. Only in Gaza, in Gath, and in Ashdod, did some remain."
     },
     {
-      "id": "jos_11_23",
       "chapter": 11,
       "verse": 23,
+      "paragraph": 4,
+      "poetry": false,
       "text": "So Joshua took the whole land, according to all that the LORD spoke to Moses; and Joshua gave it for an inheritance to Israel according to their divisions by their tribes. Then the land had rest from war."
     },
     {
-      "id": "jos_12_1",
       "chapter": 12,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Now these are the kings of the land, whom the children of Israel struck, and possessed their land beyond the Jordan toward the sunrise, from the valley of the Arnon to Mount Hermon, and all the Arabah eastward:"
     },
     {
-      "id": "jos_12_2",
       "chapter": 12,
       "verse": 2,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Sihon king of the Amorites, who lived in Heshbon, and ruled from Aroer, which is on the edge of the valley of the Arnon, and the middle of the valley, and half Gilead, even to the river Jabbok, the border of the children of Ammon;"
     },
     {
-      "id": "jos_12_3",
       "chapter": 12,
       "verse": 3,
+      "paragraph": 1,
+      "poetry": false,
       "text": "and the Arabah to the sea of Chinneroth, eastward, and to the sea of the Arabah, even the Salt Sea, eastward, the way to Beth Jeshimoth; and on the south, under the slopes of Pisgah:"
     },
     {
-      "id": "jos_12_4",
       "chapter": 12,
       "verse": 4,
+      "paragraph": 1,
+      "poetry": false,
       "text": "and the border of Og king of Bashan, of the remnant of the Rephaim, who lived at Ashtaroth and at Edrei,"
     },
     {
-      "id": "jos_12_5",
       "chapter": 12,
       "verse": 5,
+      "paragraph": 1,
+      "poetry": false,
       "text": "and ruled in Mount Hermon, and in Salecah, and in all Bashan, to the border of the Geshurites and the Maacathites, and half Gilead, the border of Sihon king of Heshbon."
     },
     {
-      "id": "jos_12_6",
       "chapter": 12,
       "verse": 6,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Moses the servant of the LORD and the children of Israel struck them. Moses the servant of the LORD gave it for a possession to the Reubenites, and the Gadites, and the half-tribe of Manasseh."
     },
     {
-      "id": "jos_12_7",
       "chapter": 12,
       "verse": 7,
+      "paragraph": 2,
+      "poetry": false,
       "text": "These are the kings of the land whom Joshua and the children of Israel struck beyond the Jordan westward, from Baal Gad in the valley of Lebanon even to Mount Halak, that goes up to Seir. Joshua gave it to the tribes of Israel for a possession according to their divisions;"
     },
     {
-      "id": "jos_12_8",
       "chapter": 12,
       "verse": 8,
+      "paragraph": 2,
+      "poetry": false,
       "text": "in the hill country, and in the lowland, and in the Arabah, and in the slopes, and in the wilderness, and in the South; the Hittite, the Amorite, and the Canaanite, the Perizzite, the Hivite, and the Jebusite:"
     },
     {
-      "id": "jos_12_9",
       "chapter": 12,
       "verse": 9,
+      "paragraph": 2,
+      "poetry": false,
       "text": "the king of Jericho, one; the king of Ai, which is beside Bethel, one;"
     },
     {
-      "id": "jos_12_10",
       "chapter": 12,
       "verse": 10,
+      "paragraph": 2,
+      "poetry": false,
       "text": "the king of Jerusalem, one; the king of Hebron, one;"
     },
     {
-      "id": "jos_12_11",
       "chapter": 12,
       "verse": 11,
+      "paragraph": 2,
+      "poetry": false,
       "text": "the king of Jarmuth, one; the king of Lachish, one;"
     },
     {
-      "id": "jos_12_12",
       "chapter": 12,
       "verse": 12,
+      "paragraph": 2,
+      "poetry": false,
       "text": "the king of Eglon, one; the king of Gezer, one;"
     },
     {
-      "id": "jos_12_13",
       "chapter": 12,
       "verse": 13,
+      "paragraph": 2,
+      "poetry": false,
       "text": "the king of Debir, one; the king of Geder, one;"
     },
     {
-      "id": "jos_12_14",
       "chapter": 12,
       "verse": 14,
+      "paragraph": 2,
+      "poetry": false,
       "text": "the king of Hormah, one; the king of Arad, one;"
     },
     {
-      "id": "jos_12_15",
       "chapter": 12,
       "verse": 15,
+      "paragraph": 2,
+      "poetry": false,
       "text": "the king of Libnah, one; the king of Adullam, one;"
     },
     {
-      "id": "jos_12_16",
       "chapter": 12,
       "verse": 16,
+      "paragraph": 2,
+      "poetry": false,
       "text": "the king of Makkedah, one; the king of Bethel, one;"
     },
     {
-      "id": "jos_12_17",
       "chapter": 12,
       "verse": 17,
+      "paragraph": 2,
+      "poetry": false,
       "text": "the king of Tappuah, one; the king of Hepher, one;"
     },
     {
-      "id": "jos_12_18",
       "chapter": 12,
       "verse": 18,
+      "paragraph": 2,
+      "poetry": false,
       "text": "the king of Aphek, one; the king of Lassharon, one;"
     },
     {
-      "id": "jos_12_19",
       "chapter": 12,
       "verse": 19,
+      "paragraph": 2,
+      "poetry": false,
       "text": "the king of Madon, one; the king of Hazor, one;"
     },
     {
-      "id": "jos_12_20",
       "chapter": 12,
       "verse": 20,
+      "paragraph": 2,
+      "poetry": false,
       "text": "the king of Shimron Meron, one; the king of Achshaph, one;"
     },
     {
-      "id": "jos_12_21",
       "chapter": 12,
       "verse": 21,
+      "paragraph": 2,
+      "poetry": false,
       "text": "the king of Taanach, one; the king of Megiddo, one;"
     },
     {
-      "id": "jos_12_22",
       "chapter": 12,
       "verse": 22,
+      "paragraph": 2,
+      "poetry": false,
       "text": "the king of Kedesh, one; the king of Jokneam in Carmel, one;"
     },
     {
-      "id": "jos_12_23",
       "chapter": 12,
       "verse": 23,
+      "paragraph": 2,
+      "poetry": false,
       "text": "the king of Dor in the height of Dor, one; the king of Goiim in Gilgal, one;"
     },
     {
-      "id": "jos_12_24",
       "chapter": 12,
       "verse": 24,
+      "paragraph": 2,
+      "poetry": false,
       "text": "the king of Tirzah, one: all the kings thirty-one."
     },
     {
-      "id": "jos_13_1",
       "chapter": 13,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Now Joshua was old and well advanced in years. The LORD said to him, “You are old and advanced in years, and there remains yet very much land to be possessed."
     },
     {
-      "id": "jos_13_2",
       "chapter": 13,
       "verse": 2,
+      "paragraph": 2,
+      "poetry": false,
       "text": "“This is the land that still remains: all the regions of the Philistines, and all the Geshurites;"
     },
     {
-      "id": "jos_13_3",
       "chapter": 13,
       "verse": 3,
+      "paragraph": 2,
+      "poetry": false,
       "text": "from the Shihor, which is before Egypt, even to the border of Ekron northward, which is counted as Canaanite; the five lords of the Philistines; the Gazites, and the Ashdodites, the Ashkelonites, the Gittites, and the Ekronites; also the Avvim,"
     },
     {
-      "id": "jos_13_4",
       "chapter": 13,
       "verse": 4,
+      "paragraph": 2,
+      "poetry": false,
       "text": "on the south; all the land of the Canaanites, and Mearah that belongs to the Sidonians, to Aphek, to the border of the Amorites;"
     },
     {
-      "id": "jos_13_5",
       "chapter": 13,
       "verse": 5,
+      "paragraph": 2,
+      "poetry": false,
       "text": "and the land of the Gebalites, and all Lebanon, toward the sunrise, from Baal Gad under Mount Hermon to the entrance of Hamath;"
     },
     {
-      "id": "jos_13_6",
       "chapter": 13,
       "verse": 6,
+      "paragraph": 2,
+      "poetry": false,
       "text": "all the inhabitants of the hill country from Lebanon to Misrephoth Maim, even all the Sidonians. I will drive them out from before the children of Israel. Just allocate it to Israel for an inheritance, as I have commanded you."
     },
     {
-      "id": "jos_13_7",
       "chapter": 13,
       "verse": 7,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Now therefore divide this land for an inheritance to the nine tribes and the half-tribe of Manasseh.”"
     },
     {
-      "id": "jos_13_8",
       "chapter": 13,
       "verse": 8,
+      "paragraph": 2,
+      "poetry": false,
       "text": "With him the Reubenites and the Gadites received their inheritance, which Moses gave them, beyond the Jordan eastward, even as Moses the servant of the LORD gave them:"
     },
     {
-      "id": "jos_13_9",
       "chapter": 13,
       "verse": 9,
+      "paragraph": 2,
+      "poetry": false,
       "text": "from Aroer, that is on the edge of the valley of the Arnon, and the city that is in the middle of the valley, and all the plain of Medeba to Dibon;"
     },
     {
-      "id": "jos_13_10",
       "chapter": 13,
       "verse": 10,
+      "paragraph": 2,
+      "poetry": false,
       "text": "and all the cities of Sihon king of the Amorites, who reigned in Heshbon, to the border of the children of Ammon;"
     },
     {
-      "id": "jos_13_11",
       "chapter": 13,
       "verse": 11,
+      "paragraph": 2,
+      "poetry": false,
       "text": "and Gilead, and the border of the Geshurites and Maacathites, and all Mount Hermon, and all Bashan to Salecah;"
     },
     {
-      "id": "jos_13_12",
       "chapter": 13,
       "verse": 12,
+      "paragraph": 2,
+      "poetry": false,
       "text": "all the kingdom of Og in Bashan, who reigned in Ashtaroth and in Edrei (who was left of the remnant of the Rephaim); for Moses attacked these, and drove them out."
     },
     {
-      "id": "jos_13_13",
       "chapter": 13,
       "verse": 13,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Nevertheless the children of Israel didn’t drive out the Geshurites, nor the Maacathites: but Geshur and Maacath live within Israel to this day."
     },
     {
-      "id": "jos_13_14",
       "chapter": 13,
       "verse": 14,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Only he gave no inheritance to the tribe of Levi. The offerings of the LORD, the God of Israel, made by fire are his inheritance, as he spoke to him."
     },
     {
-      "id": "jos_13_15",
       "chapter": 13,
       "verse": 15,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Moses gave to the tribe of the children of Reuben according to their families."
     },
     {
-      "id": "jos_13_16",
       "chapter": 13,
       "verse": 16,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Their border was from Aroer, that is on the edge of the valley of the Arnon, and the city that is in the middle of the valley, and all the plain by Medeba;"
     },
     {
-      "id": "jos_13_17",
       "chapter": 13,
       "verse": 17,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Heshbon, and all its cities that are in the plain; Dibon, Bamoth Baal, Beth Baal Meon,"
     },
     {
-      "id": "jos_13_18",
       "chapter": 13,
       "verse": 18,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Jahaz, Kedemoth, Mephaath,"
     },
     {
-      "id": "jos_13_19",
       "chapter": 13,
       "verse": 19,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Kiriathaim, Sibmah, Zereth Shahar in the mount of the valley,"
     },
     {
-      "id": "jos_13_20",
       "chapter": 13,
       "verse": 20,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Beth Peor, the slopes of Pisgah, Beth Jeshimoth,"
     },
     {
-      "id": "jos_13_21",
       "chapter": 13,
       "verse": 21,
+      "paragraph": 2,
+      "poetry": false,
       "text": "all the cities of the plain, and all the kingdom of Sihon king of the Amorites, who reigned in Heshbon, whom Moses struck with the chiefs of Midian, Evi, Rekem, Zur, Hur, and Reba, the princes of Sihon, who lived in the land."
     },
     {
-      "id": "jos_13_22",
       "chapter": 13,
       "verse": 22,
+      "paragraph": 2,
+      "poetry": false,
       "text": "The children of Israel also killed Balaam the son of Beor, the soothsayer, with the sword, among the rest of their slain."
     },
     {
-      "id": "jos_13_23",
       "chapter": 13,
       "verse": 23,
+      "paragraph": 3,
+      "poetry": false,
       "text": "The border of the children of Reuben was the bank of the Jordan. This was the inheritance of the children of Reuben according to their families, the cities and its villages."
     },
     {
-      "id": "jos_13_24",
       "chapter": 13,
       "verse": 24,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Moses gave to the tribe of Gad, to the children of Gad, according to their families."
     },
     {
-      "id": "jos_13_25",
       "chapter": 13,
       "verse": 25,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Their border was Jazer, and all the cities of Gilead, and half the land of the children of Ammon, to Aroer that is near Rabbah;"
     },
     {
-      "id": "jos_13_26",
       "chapter": 13,
       "verse": 26,
+      "paragraph": 4,
+      "poetry": false,
       "text": "and from Heshbon to Ramath Mizpeh, and Betonim; and from Mahanaim to the border of Debir;"
     },
     {
-      "id": "jos_13_27",
       "chapter": 13,
       "verse": 27,
+      "paragraph": 4,
+      "poetry": false,
       "text": "and in the valley, Beth Haram, Beth Nimrah, Succoth, and Zaphon, the rest of the kingdom of Sihon king of Heshbon, the Jordan’s bank, to the uttermost part of the sea of Chinnereth beyond the Jordan eastward."
     },
     {
-      "id": "jos_13_28",
       "chapter": 13,
       "verse": 28,
+      "paragraph": 4,
+      "poetry": false,
       "text": "This is the inheritance of the children of Gad according to their families, the cities and its villages."
     },
     {
-      "id": "jos_13_29",
       "chapter": 13,
       "verse": 29,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Moses gave an inheritance to the half-tribe of Manasseh. It was for the half-tribe of the children of Manasseh according to their families."
     },
     {
-      "id": "jos_13_30",
       "chapter": 13,
       "verse": 30,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Their border was from Mahanaim, all Bashan, all the kingdom of Og king of Bashan, and all the villages of Jair, which are in Bashan, sixty cities."
     },
     {
-      "id": "jos_13_31",
       "chapter": 13,
       "verse": 31,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Half Gilead, Ashtaroth, and Edrei, the cities of the kingdom of Og in Bashan, were for the children of Machir the son of Manasseh, even for the half of the children of Machir according to their families."
     },
     {
-      "id": "jos_13_32",
       "chapter": 13,
       "verse": 32,
+      "paragraph": 6,
+      "poetry": false,
       "text": "These are the inheritances which Moses distributed in the plains of Moab, beyond the Jordan at Jericho, eastward."
     },
     {
-      "id": "jos_13_33",
       "chapter": 13,
       "verse": 33,
+      "paragraph": 6,
+      "poetry": false,
       "text": "But Moses gave no inheritance to the tribe of Levi. The LORD, the God of Israel, is their inheritance, as he spoke to them."
     },
     {
-      "id": "jos_14_1",
       "chapter": 14,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "These are the inheritances which the children of Israel took in the land of Canaan, which Eleazar the priest, Joshua the son of Nun, and the heads of the fathers’ houses of the tribes of the children of Israel, distributed to them,"
     },
     {
-      "id": "jos_14_2",
       "chapter": 14,
       "verse": 2,
+      "paragraph": 1,
+      "poetry": false,
       "text": "by the lot of their inheritance, as the LORD commanded by Moses, for the nine tribes, and for the half-tribe."
     },
     {
-      "id": "jos_14_3",
       "chapter": 14,
       "verse": 3,
+      "paragraph": 1,
+      "poetry": false,
       "text": "For Moses had given the inheritance of the two tribes and the half-tribe beyond the Jordan; but to the Levites he gave no inheritance among them."
     },
     {
-      "id": "jos_14_4",
       "chapter": 14,
       "verse": 4,
+      "paragraph": 1,
+      "poetry": false,
       "text": "For the children of Joseph were two tribes, Manasseh and Ephraim. They gave no portion to the Levites in the land, except cities to dwell in, with their pasture lands for their livestock and for their property."
     },
     {
-      "id": "jos_14_5",
       "chapter": 14,
       "verse": 5,
+      "paragraph": 1,
+      "poetry": false,
       "text": "The children of Israel did as the LORD commanded Moses, and they divided the land."
     },
     {
-      "id": "jos_14_6",
       "chapter": 14,
       "verse": 6,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Then the children of Judah came near to Joshua in Gilgal. Caleb the son of Jephunneh the Kenizzite said to him, “You know the thing that the LORD spoke to Moses the man of God concerning me and concerning you in Kadesh Barnea."
     },
     {
-      "id": "jos_14_7",
       "chapter": 14,
       "verse": 7,
+      "paragraph": 2,
+      "poetry": false,
       "text": "I was forty years old when Moses the servant of the LORD sent me from Kadesh Barnea to spy out the land. I brought him word again as it was in my heart."
     },
     {
-      "id": "jos_14_8",
       "chapter": 14,
       "verse": 8,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Nevertheless, my brothers who went up with me made the heart of the people melt; but I wholly followed the LORD my God."
     },
     {
-      "id": "jos_14_9",
       "chapter": 14,
       "verse": 9,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Moses swore on that day, saying, ‘Surely the land where you walked shall be an inheritance to you and to your children forever, because you have wholly followed the LORD my God.’"
     },
     {
-      "id": "jos_14_10",
       "chapter": 14,
       "verse": 10,
+      "paragraph": 3,
+      "poetry": false,
       "text": "“Now, behold, the LORD has kept me alive, as he spoke, these forty-five years, from the time that the LORD spoke this word to Moses, while Israel walked in the wilderness. Now, behold, I am eighty-five years old, today."
     },
     {
-      "id": "jos_14_11",
       "chapter": 14,
       "verse": 11,
+      "paragraph": 3,
+      "poetry": false,
       "text": "As yet I am as strong today as I was in the day that Moses sent me. As my strength was then, even so is my strength now for war, to go out and to come in."
     },
     {
-      "id": "jos_14_12",
       "chapter": 14,
       "verse": 12,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Now therefore give me this hill country, of which the LORD spoke in that day; for you heard in that day how the Anakim were there, and great and fortified cities. It may be that the LORD will be with me, and I shall drive them out, as the LORD said.”"
     },
     {
-      "id": "jos_14_13",
       "chapter": 14,
       "verse": 13,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Joshua blessed him; and he gave Hebron to Caleb the son of Jephunneh for an inheritance."
     },
     {
-      "id": "jos_14_14",
       "chapter": 14,
       "verse": 14,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Therefore Hebron became the inheritance of Caleb the son of Jephunneh the Kenizzite to this day, because he followed the LORD, the God of Israel wholeheartedly."
     },
     {
-      "id": "jos_14_15",
       "chapter": 14,
       "verse": 15,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Now the name of Hebron before was Kiriath Arba, after the greatest man among the Anakim. Then the land had rest from war."
     },
     {
-      "id": "jos_15_1",
       "chapter": 15,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "The lot for the tribe of the children of Judah according to their families was to the border of Edom, even to the wilderness of Zin southward, at the uttermost part of the south."
     },
     {
-      "id": "jos_15_2",
       "chapter": 15,
       "verse": 2,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Their south border was from the uttermost part of the Salt Sea, from the bay that looks southward;"
     },
     {
-      "id": "jos_15_3",
       "chapter": 15,
       "verse": 3,
+      "paragraph": 1,
+      "poetry": false,
       "text": "and it went out southward of the ascent of Akrabbim, and passed along to Zin, and went up by the south of Kadesh Barnea, and passed along by Hezron, went up to Addar, and turned toward Karka;"
     },
     {
-      "id": "jos_15_4",
       "chapter": 15,
       "verse": 4,
+      "paragraph": 1,
+      "poetry": false,
       "text": "and it passed along to Azmon, went out at the brook of Egypt; and the border ended at the sea. This shall be your south border."
     },
     {
-      "id": "jos_15_5",
       "chapter": 15,
       "verse": 5,
+      "paragraph": 1,
+      "poetry": false,
       "text": "The east border was the Salt Sea, even to the end of the Jordan. The border of the north quarter was from the bay of the sea at the end of the Jordan."
     },
     {
-      "id": "jos_15_6",
       "chapter": 15,
       "verse": 6,
+      "paragraph": 1,
+      "poetry": false,
       "text": "The border went up to Beth Hoglah, and passed along by the north of Beth Arabah; and the border went up to the stone of Bohan the son of Reuben."
     },
     {
-      "id": "jos_15_7",
       "chapter": 15,
       "verse": 7,
+      "paragraph": 1,
+      "poetry": false,
       "text": "The border went up to Debir from the valley of Achor, and so northward, looking toward Gilgal, that faces the ascent of Adummim, which is on the south side of the river. The border passed along to the waters of En Shemesh, and ended at En Rogel."
     },
     {
-      "id": "jos_15_8",
       "chapter": 15,
       "verse": 8,
+      "paragraph": 1,
+      "poetry": false,
       "text": "The border went up by the valley of the son of Hinnom to the side of the Jebusite (also called Jerusalem) southward; and the border went up to the top of the mountain that lies before the valley of Hinnom westward, which is at the farthest part of the valley of Rephaim northward."
     },
     {
-      "id": "jos_15_9",
       "chapter": 15,
       "verse": 9,
+      "paragraph": 1,
+      "poetry": false,
       "text": "The border extended from the top of the mountain to the spring of the waters of Nephtoah, and went out to the cities of Mount Ephron; and the border extended to Baalah (also called Kiriath Jearim);"
     },
     {
-      "id": "jos_15_10",
       "chapter": 15,
       "verse": 10,
+      "paragraph": 1,
+      "poetry": false,
       "text": "and the border turned about from Baalah westward to Mount Seir, and passed along to the side of Mount Jearim (also called Chesalon) on the north, and went down to Beth Shemesh, and passed along by Timnah;"
     },
     {
-      "id": "jos_15_11",
       "chapter": 15,
       "verse": 11,
+      "paragraph": 1,
+      "poetry": false,
       "text": "and the border went out to the side of Ekron northward; and the border extended to Shikkeron, and passed along to Mount Baalah, and went out at Jabneel; and the goings out of the border were at the sea."
     },
     {
-      "id": "jos_15_12",
       "chapter": 15,
       "verse": 12,
+      "paragraph": 1,
+      "poetry": false,
       "text": "The west border was to the shore of the great sea. This is the border of the children of Judah according to their families."
     },
     {
-      "id": "jos_15_13",
       "chapter": 15,
       "verse": 13,
+      "paragraph": 2,
+      "poetry": false,
       "text": "He gave to Caleb the son of Jephunneh a portion among the children of Judah, according to the commandment of the LORD to Joshua, even Kiriath Arba, named after the father of Anak (also called Hebron)."
     },
     {
-      "id": "jos_15_14",
       "chapter": 15,
       "verse": 14,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Caleb drove out the three sons of Anak: Sheshai, and Ahiman, and Talmai, the children of Anak."
     },
     {
-      "id": "jos_15_15",
       "chapter": 15,
       "verse": 15,
+      "paragraph": 2,
+      "poetry": false,
       "text": "He went up against the inhabitants of Debir: now the name of Debir before was Kiriath Sepher."
     },
     {
-      "id": "jos_15_16",
       "chapter": 15,
       "verse": 16,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Caleb said, “He who strikes Kiriath Sepher, and takes it, to him I will give Achsah my daughter as wife.”"
     },
     {
-      "id": "jos_15_17",
       "chapter": 15,
       "verse": 17,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Othniel the son of Kenaz, the brother of Caleb, took it: and he gave him Achsah his daughter as wife."
     },
     {
-      "id": "jos_15_18",
       "chapter": 15,
       "verse": 18,
+      "paragraph": 2,
+      "poetry": false,
       "text": "When she came, she had him ask her father for a field. She got off her donkey, and Caleb said, “What do you want?”"
     },
     {
-      "id": "jos_15_19",
       "chapter": 15,
       "verse": 19,
-      "text": "She said, “Give me a blessing. Because you have set me in the land of the South, give me also springs of water.” So he gave her the upper springs and the lower springs."
+      "paragraph": 3,
+      "poetry": false,
+      "text": "She said, “Give me a blessing. Because you have set me in the land of the South, give me also springs of water.”"
     },
     {
-      "id": "jos_15_20",
       "chapter": 15,
       "verse": 20,
+      "paragraph": 5,
+      "poetry": false,
       "text": "This is the inheritance of the tribe of the children of Judah according to their families."
     },
     {
-      "id": "jos_15_21",
       "chapter": 15,
       "verse": 21,
+      "paragraph": 5,
+      "poetry": false,
       "text": "The farthest cities of the tribe of the children of Judah toward the border of Edom in the South were Kabzeel, Eder, Jagur,"
     },
     {
-      "id": "jos_15_22",
       "chapter": 15,
       "verse": 22,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Kinah, Dimonah, Adadah,"
     },
     {
-      "id": "jos_15_23",
       "chapter": 15,
       "verse": 23,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Kedesh, Hazor, Ithnan,"
     },
     {
-      "id": "jos_15_24",
       "chapter": 15,
       "verse": 24,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Ziph, Telem, Bealoth,"
     },
     {
-      "id": "jos_15_25",
       "chapter": 15,
       "verse": 25,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Hazor Hadattah, Kerioth Hezron (also called Hazor),"
     },
     {
-      "id": "jos_15_26",
       "chapter": 15,
       "verse": 26,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Amam, Shema, Moladah,"
     },
     {
-      "id": "jos_15_27",
       "chapter": 15,
       "verse": 27,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Hazar Gaddah, Heshmon, Beth Pelet,"
     },
     {
-      "id": "jos_15_28",
       "chapter": 15,
       "verse": 28,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Hazar Shual, Beersheba, Biziothiah,"
     },
     {
-      "id": "jos_15_29",
       "chapter": 15,
       "verse": 29,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Baalah, Iim, Ezem,"
     },
     {
-      "id": "jos_15_30",
       "chapter": 15,
       "verse": 30,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Eltolad, Chesil, Hormah,"
     },
     {
-      "id": "jos_15_31",
       "chapter": 15,
       "verse": 31,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Ziklag, Madmannah, Sansannah,"
     },
     {
-      "id": "jos_15_32",
       "chapter": 15,
       "verse": 32,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Lebaoth, Shilhim, Ain, and Rimmon. All the cities are twenty-nine, with their villages."
     },
     {
-      "id": "jos_15_33",
       "chapter": 15,
       "verse": 33,
+      "paragraph": 5,
+      "poetry": false,
       "text": "In the lowland, Eshtaol, Zorah, Ashnah,"
     },
     {
-      "id": "jos_15_34",
       "chapter": 15,
       "verse": 34,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Zanoah, En Gannim, Tappuah, Enam,"
     },
     {
-      "id": "jos_15_35",
       "chapter": 15,
       "verse": 35,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Jarmuth, Adullam, Socoh, Azekah,"
     },
     {
-      "id": "jos_15_36",
       "chapter": 15,
       "verse": 36,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Shaaraim, Adithaim and Gederah (or Gederothaim); fourteen cities with their villages."
     },
     {
-      "id": "jos_15_37",
       "chapter": 15,
       "verse": 37,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Zenan, Hadashah, Migdal Gad,"
     },
     {
-      "id": "jos_15_38",
       "chapter": 15,
       "verse": 38,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Dilean, Mizpah, Joktheel,"
     },
     {
-      "id": "jos_15_39",
       "chapter": 15,
       "verse": 39,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Lachish, Bozkath, Eglon,"
     },
     {
-      "id": "jos_15_40",
       "chapter": 15,
       "verse": 40,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Cabbon, Lahmam, Chitlish,"
     },
     {
-      "id": "jos_15_41",
       "chapter": 15,
       "verse": 41,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Gederoth, Beth Dagon, Naamah, and Makkedah; sixteen cities with their villages."
     },
     {
-      "id": "jos_15_42",
       "chapter": 15,
       "verse": 42,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Libnah, Ether, Ashan,"
     },
     {
-      "id": "jos_15_43",
       "chapter": 15,
       "verse": 43,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Iphtah, Ashnah, Nezib,"
     },
     {
-      "id": "jos_15_44",
       "chapter": 15,
       "verse": 44,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Keilah, Achzib, and Mareshah; nine cities with their villages."
     },
     {
-      "id": "jos_15_45",
       "chapter": 15,
       "verse": 45,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Ekron, with its towns and its villages;"
     },
     {
-      "id": "jos_15_46",
       "chapter": 15,
       "verse": 46,
+      "paragraph": 5,
+      "poetry": false,
       "text": "from Ekron even to the sea, all that were by the side of Ashdod, with their villages."
     },
     {
-      "id": "jos_15_47",
       "chapter": 15,
       "verse": 47,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Ashdod, its towns and its villages; Gaza, its towns and its villages; to the brook of Egypt, and the great sea with its coastline."
     },
     {
-      "id": "jos_15_48",
       "chapter": 15,
       "verse": 48,
+      "paragraph": 5,
+      "poetry": false,
       "text": "In the hill country, Shamir, Jattir, Socoh,"
     },
     {
-      "id": "jos_15_49",
       "chapter": 15,
       "verse": 49,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Dannah, Kiriath Sannah (which is Debir),"
     },
     {
-      "id": "jos_15_50",
       "chapter": 15,
       "verse": 50,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Anab, Eshtemoh, Anim,"
     },
     {
-      "id": "jos_15_51",
       "chapter": 15,
       "verse": 51,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Goshen, Holon, and Giloh; eleven cities with their villages."
     },
     {
-      "id": "jos_15_52",
       "chapter": 15,
       "verse": 52,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Arab, Dumah, Eshan,"
     },
     {
-      "id": "jos_15_53",
       "chapter": 15,
       "verse": 53,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Janim, Beth Tappuah, Aphekah,"
     },
     {
-      "id": "jos_15_54",
       "chapter": 15,
       "verse": 54,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Humtah, Kiriath Arba (also called Hebron), and Zior; nine cities with their villages."
     },
     {
-      "id": "jos_15_55",
       "chapter": 15,
       "verse": 55,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Maon, Carmel, Ziph, Jutah,"
     },
     {
-      "id": "jos_15_56",
       "chapter": 15,
       "verse": 56,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Jezreel, Jokdeam, Zanoah,"
     },
     {
-      "id": "jos_15_57",
       "chapter": 15,
       "verse": 57,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Kain, Gibeah, and Timnah; ten cities with their villages."
     },
     {
-      "id": "jos_15_58",
       "chapter": 15,
       "verse": 58,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Halhul, Beth Zur, Gedor,"
     },
     {
-      "id": "jos_15_59",
       "chapter": 15,
       "verse": 59,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Maarath, Beth Anoth, and Eltekon; six cities with their villages."
     },
     {
-      "id": "jos_15_60",
       "chapter": 15,
       "verse": 60,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Kiriath Baal (also called Kiriath Jearim), and Rabbah; two cities with their villages."
     },
     {
-      "id": "jos_15_61",
       "chapter": 15,
       "verse": 61,
+      "paragraph": 5,
+      "poetry": false,
       "text": "In the wilderness, Beth Arabah, Middin, Secacah,"
     },
     {
-      "id": "jos_15_62",
       "chapter": 15,
       "verse": 62,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Nibshan, the City of Salt, and En Gedi; six cities with their villages."
     },
     {
-      "id": "jos_15_63",
       "chapter": 15,
       "verse": 63,
+      "paragraph": 6,
+      "poetry": false,
       "text": "As for the Jebusites, the inhabitants of Jerusalem, the children of Judah couldn’t drive them out; but the Jebusites live with the children of Judah at Jerusalem to this day."
     },
     {
-      "id": "jos_16_1",
       "chapter": 16,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "The lot came out for the children of Joseph from the Jordan at Jericho, at the waters of Jericho on the east, even the wilderness, going up from Jericho through the hill country to Bethel."
     },
     {
-      "id": "jos_16_2",
       "chapter": 16,
       "verse": 2,
+      "paragraph": 1,
+      "poetry": false,
       "text": "It went out from Bethel to Luz, and passed along to the border of the Archites to Ataroth;"
     },
     {
-      "id": "jos_16_3",
       "chapter": 16,
       "verse": 3,
+      "paragraph": 1,
+      "poetry": false,
       "text": "and it went down westward to the border of the Japhletites, to the border of Beth Horon the lower, and on to Gezer; and ended at the sea."
     },
     {
-      "id": "jos_16_4",
       "chapter": 16,
       "verse": 4,
+      "paragraph": 2,
+      "poetry": false,
       "text": "The children of Joseph, Manasseh and Ephraim, took their inheritance."
     },
     {
-      "id": "jos_16_5",
       "chapter": 16,
       "verse": 5,
+      "paragraph": 2,
+      "poetry": false,
       "text": "This was the border of the children of Ephraim according to their families. The border of their inheritance eastward was Ataroth Addar, to Beth Horon the upper."
     },
     {
-      "id": "jos_16_6",
       "chapter": 16,
       "verse": 6,
+      "paragraph": 2,
+      "poetry": false,
       "text": "The border went out westward at Michmethath on the north. The border turned about eastward to Taanath Shiloh, and passed along it on the east of Janoah."
     },
     {
-      "id": "jos_16_7",
       "chapter": 16,
       "verse": 7,
+      "paragraph": 2,
+      "poetry": false,
       "text": "It went down from Janoah to Ataroth, to Naarah, reached to Jericho, and went out at the Jordan."
     },
     {
-      "id": "jos_16_8",
       "chapter": 16,
       "verse": 8,
+      "paragraph": 2,
+      "poetry": false,
       "text": "From Tappuah the border went along westward to the brook of Kanah; and ended at the sea. This is the inheritance of the tribe of the children of Ephraim according to their families;"
     },
     {
-      "id": "jos_16_9",
       "chapter": 16,
       "verse": 9,
+      "paragraph": 2,
+      "poetry": false,
       "text": "together with the cities which were set apart for the children of Ephraim in the middle of the inheritance of the children of Manasseh, all the cities with their villages."
     },
     {
-      "id": "jos_16_10",
       "chapter": 16,
       "verse": 10,
+      "paragraph": 2,
+      "poetry": false,
       "text": "They didn’t drive out the Canaanites who lived in Gezer; but the Canaanites dwell in the territory of Ephraim to this day, and have become servants to do forced labor."
     },
     {
-      "id": "jos_17_1",
       "chapter": 17,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "This was the lot for the tribe of Manasseh, for he was the firstborn of Joseph. As for Machir the firstborn of Manasseh, the father of Gilead, because he was a man of war, therefore he had Gilead and Bashan."
     },
     {
-      "id": "jos_17_2",
       "chapter": 17,
       "verse": 2,
+      "paragraph": 1,
+      "poetry": false,
       "text": "So this was for the rest of the children of Manasseh according to their families: for the children of Abiezer, for the children of Helek, for the children of Asriel, for the children of Shechem, for the children of Hepher, and for the children of Shemida. These were the male children of Manasseh the son of Joseph according to their families."
     },
     {
-      "id": "jos_17_3",
       "chapter": 17,
       "verse": 3,
+      "paragraph": 1,
+      "poetry": false,
       "text": "But Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, had no sons, but daughters. These are the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah."
     },
     {
-      "id": "jos_17_4",
       "chapter": 17,
       "verse": 4,
+      "paragraph": 1,
+      "poetry": false,
       "text": "They came to Eleazar the priest, and to Joshua the son of Nun, and to the princes, saying, “The LORD commanded Moses to give us an inheritance among our brothers.” Therefore according to the commandment of the LORD he gave them an inheritance among the brothers of their father."
     },
     {
-      "id": "jos_17_5",
       "chapter": 17,
       "verse": 5,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Ten parts fell to Manasseh, in addition to the land of Gilead and Bashan, which is beyond the Jordan;"
     },
     {
-      "id": "jos_17_6",
       "chapter": 17,
       "verse": 6,
+      "paragraph": 1,
+      "poetry": false,
       "text": "because the daughters of Manasseh had an inheritance among his sons. The land of Gilead belonged to the rest of the sons of Manasseh."
     },
     {
-      "id": "jos_17_7",
       "chapter": 17,
       "verse": 7,
+      "paragraph": 1,
+      "poetry": false,
       "text": "The border of Manasseh was from Asher to Michmethath, which is before Shechem. The border went along to the right hand, to the inhabitants of En Tappuah."
     },
     {
-      "id": "jos_17_8",
       "chapter": 17,
       "verse": 8,
+      "paragraph": 1,
+      "poetry": false,
       "text": "The land of Tappuah belonged to Manasseh; but Tappuah on the border of Manasseh belonged to the children of Ephraim."
     },
     {
-      "id": "jos_17_9",
       "chapter": 17,
       "verse": 9,
+      "paragraph": 1,
+      "poetry": false,
       "text": "The border went down to the brook of Kanah, southward of the brook. These cities belonged to Ephraim among the cities of Manasseh. The border of Manasseh was on the north side of the brook, and ended at the sea."
     },
     {
-      "id": "jos_17_10",
       "chapter": 17,
       "verse": 10,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Southward it was Ephraim’s, and northward it was Manasseh’s, and the sea was his border. They reached to Asher on the north, and to Issachar on the east."
     },
     {
-      "id": "jos_17_11",
       "chapter": 17,
       "verse": 11,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Manasseh had three heights in Issachar, in Asher Beth Shean and its towns, and Ibleam and its towns, and the inhabitants of Dor and its towns, and the inhabitants of Endor and its towns, and the inhabitants of Taanach and its towns, and the inhabitants of Megiddo and its towns."
     },
     {
-      "id": "jos_17_12",
       "chapter": 17,
       "verse": 12,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Yet the children of Manasseh couldn’t drive out the inhabitants of those cities; but the Canaanites would dwell in that land."
     },
     {
-      "id": "jos_17_13",
       "chapter": 17,
       "verse": 13,
+      "paragraph": 2,
+      "poetry": false,
       "text": "When the children of Israel had grown strong, they put the Canaanites to forced labor, and didn’t utterly drive them out."
     },
     {
-      "id": "jos_17_14",
       "chapter": 17,
       "verse": 14,
+      "paragraph": 2,
+      "poetry": false,
       "text": "The children of Joseph spoke to Joshua, saying, “Why have you given me just one lot and one part for an inheritance, since we are a numerous people, because the LORD has blessed us so far?”"
     },
     {
-      "id": "jos_17_15",
       "chapter": 17,
       "verse": 15,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Joshua said to them, “If you are a numerous people, go up to the forest, and clear land for yourself there in the land of the Perizzites and of the Rephaim, since the hill country of Ephraim is too narrow for you.”"
     },
     {
-      "id": "jos_17_16",
       "chapter": 17,
       "verse": 16,
+      "paragraph": 4,
+      "poetry": false,
       "text": "The children of Joseph said, “The hill country is not enough for us. All the Canaanites who dwell in the land of the valley have chariots of iron, both those who are in Beth Shean and its towns, and those who are in the valley of Jezreel.”"
     },
     {
-      "id": "jos_17_17",
       "chapter": 17,
       "verse": 17,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Joshua spoke to the house of Joseph, that is, to Ephraim and to Manasseh, saying, “You are a numerous people, and have great power. You shall not have one lot only;"
     },
     {
-      "id": "jos_17_18",
       "chapter": 17,
       "verse": 18,
+      "paragraph": 5,
+      "poetry": false,
       "text": "but the hill country shall be yours. Although it is a forest, you shall cut it down, and it’s farthest extent shall be yours; for you shall drive out the Canaanites, though they have chariots of iron, and though they are strong.”"
     },
     {
-      "id": "jos_18_1",
       "chapter": 18,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "The whole congregation of the children of Israel assembled themselves together at Shiloh, and set up the Tent of Meeting there. The land was subdued before them."
     },
     {
-      "id": "jos_18_2",
       "chapter": 18,
       "verse": 2,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Seven tribes remained among the children of Israel, which had not yet divided their inheritance."
     },
     {
-      "id": "jos_18_3",
       "chapter": 18,
       "verse": 3,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Joshua said to the children of Israel, “How long will you neglect to go in to possess the land, which the LORD, the God of your fathers, has given you?"
     },
     {
-      "id": "jos_18_4",
       "chapter": 18,
       "verse": 4,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Appoint for yourselves three men from each tribe. I will send them, and they shall arise, walk through the land, and describe it according to their inheritance; then they shall come to me."
     },
     {
-      "id": "jos_18_5",
       "chapter": 18,
       "verse": 5,
+      "paragraph": 1,
+      "poetry": false,
       "text": "They shall divide it into seven portions. Judah shall live in his borders on the south, and the house of Joseph shall live in their borders on the north."
     },
     {
-      "id": "jos_18_6",
       "chapter": 18,
       "verse": 6,
+      "paragraph": 1,
+      "poetry": false,
       "text": "You shall survey the land into seven parts, and bring the description here to me; and I will cast lots for you here before the LORD our God."
     },
     {
-      "id": "jos_18_7",
       "chapter": 18,
       "verse": 7,
+      "paragraph": 1,
+      "poetry": false,
       "text": "However, the Levites have no portion among you; for the priesthood of the LORD is their inheritance. Gad, Reuben, and the half-tribe of Manasseh have received their inheritance east of the Jordan, which Moses the servant of the LORD gave them.”"
     },
     {
-      "id": "jos_18_8",
       "chapter": 18,
       "verse": 8,
+      "paragraph": 2,
+      "poetry": false,
       "text": "The men arose and went. Joshua commanded those who went to survey the land, saying, “Go walk through the land, survey it, and come again to me. I will cast lots for you here before the LORD in Shiloh.”"
     },
     {
-      "id": "jos_18_9",
       "chapter": 18,
       "verse": 9,
+      "paragraph": 3,
+      "poetry": false,
       "text": "The men went and passed through the land, and surveyed it by cities into seven portions in a book. They came to Joshua to the camp at Shiloh."
     },
     {
-      "id": "jos_18_10",
       "chapter": 18,
       "verse": 10,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Joshua cast lots for them in Shiloh before the LORD. There Joshua divided the land to the children of Israel according to their divisions."
     },
     {
-      "id": "jos_18_11",
       "chapter": 18,
       "verse": 11,
+      "paragraph": 4,
+      "poetry": false,
       "text": "The lot of the tribe of the children of Benjamin came up according to their families. The border of their lot went out between the children of Judah and the children of Joseph."
     },
     {
-      "id": "jos_18_12",
       "chapter": 18,
       "verse": 12,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Their border on the north quarter was from the Jordan. The border went up to the side of Jericho on the north, and went up through the hill country westward. It ended at the wilderness of Beth Aven."
     },
     {
-      "id": "jos_18_13",
       "chapter": 18,
       "verse": 13,
+      "paragraph": 4,
+      "poetry": false,
       "text": "The border passed along from there to Luz, to the side of Luz (also called Bethel), southward. The border went down to Ataroth Addar, by the mountain that lies on the south of Beth Horon the lower."
     },
     {
-      "id": "jos_18_14",
       "chapter": 18,
       "verse": 14,
+      "paragraph": 4,
+      "poetry": false,
       "text": "The border extended, and turned around on the west quarter southward, from the mountain that lies before Beth Horon southward; and ended at Kiriath Baal (also called Kiriath Jearim), a city of the children of Judah. This was the west quarter."
     },
     {
-      "id": "jos_18_15",
       "chapter": 18,
       "verse": 15,
+      "paragraph": 4,
+      "poetry": false,
       "text": "The south quarter was from the farthest part of Kiriath Jearim. The border went out westward, and went out to the spring of the waters of Nephtoah."
     },
     {
-      "id": "jos_18_16",
       "chapter": 18,
       "verse": 16,
+      "paragraph": 4,
+      "poetry": false,
       "text": "The border went down to the farthest part of the mountain that lies before the valley of the son of Hinnom, which is in the valley of Rephaim northward. It went down to the valley of Hinnom, to the side of the Jebusite southward, and went down to En Rogel."
     },
     {
-      "id": "jos_18_17",
       "chapter": 18,
       "verse": 17,
+      "paragraph": 4,
+      "poetry": false,
       "text": "It extended northward, went out at En Shemesh, and went out to Geliloth, which is opposite the ascent of Adummim. It went down to the stone of Bohan the son of Reuben."
     },
     {
-      "id": "jos_18_18",
       "chapter": 18,
       "verse": 18,
+      "paragraph": 4,
+      "poetry": false,
       "text": "It passed along to the side opposite the Arabah northward, and went down to the Arabah."
     },
     {
-      "id": "jos_18_19",
       "chapter": 18,
       "verse": 19,
+      "paragraph": 4,
+      "poetry": false,
       "text": "The border passed along to the side of Beth Hoglah northward; and the border ended at the north bay of the Salt Sea, at the south end of the Jordan. This was the south border."
     },
     {
-      "id": "jos_18_20",
       "chapter": 18,
       "verse": 20,
+      "paragraph": 4,
+      "poetry": false,
       "text": "The Jordan was its border on the east quarter. This was the inheritance of the children of Benjamin, by the borders around it, according to their families."
     },
     {
-      "id": "jos_18_21",
       "chapter": 18,
       "verse": 21,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Now the cities of the tribe of the children of Benjamin according to their families were Jericho, Beth Hoglah, Emek Keziz,"
     },
     {
-      "id": "jos_18_22",
       "chapter": 18,
       "verse": 22,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Beth Arabah, Zemaraim, Bethel,"
     },
     {
-      "id": "jos_18_23",
       "chapter": 18,
       "verse": 23,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Avvim, Parah, Ophrah,"
     },
     {
-      "id": "jos_18_24",
       "chapter": 18,
       "verse": 24,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Chephar Ammoni, Ophni, and Geba; twelve cities with their villages."
     },
     {
-      "id": "jos_18_25",
       "chapter": 18,
       "verse": 25,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Gibeon, Ramah, Beeroth,"
     },
     {
-      "id": "jos_18_26",
       "chapter": 18,
       "verse": 26,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Mizpeh, Chephirah, Mozah,"
     },
     {
-      "id": "jos_18_27",
       "chapter": 18,
       "verse": 27,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Rekem, Irpeel, Taralah,"
     },
     {
-      "id": "jos_18_28",
       "chapter": 18,
       "verse": 28,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Zelah, Eleph, the Jebusite (also called Jerusalem), Gibeath, and Kiriath; fourteen cities with their villages. This is the inheritance of the children of Benjamin according to their families."
     },
     {
-      "id": "jos_19_1",
       "chapter": 19,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "The second lot came out for Simeon, even for the tribe of the children of Simeon according to their families. Their inheritance was in the middle of the inheritance of the children of Judah."
     },
     {
-      "id": "jos_19_2",
       "chapter": 19,
       "verse": 2,
+      "paragraph": 1,
+      "poetry": false,
       "text": "They had for their inheritance Beersheba (or Sheba), Moladah,"
     },
     {
-      "id": "jos_19_3",
       "chapter": 19,
       "verse": 3,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Hazar Shual, Balah, Ezem,"
     },
     {
-      "id": "jos_19_4",
       "chapter": 19,
       "verse": 4,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Eltolad, Bethul, Hormah,"
     },
     {
-      "id": "jos_19_5",
       "chapter": 19,
       "verse": 5,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Ziklag, Beth Marcaboth, Hazar Susah,"
     },
     {
-      "id": "jos_19_6",
       "chapter": 19,
       "verse": 6,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Beth Lebaoth, and Sharuhen; thirteen cities with their villages;"
     },
     {
-      "id": "jos_19_7",
       "chapter": 19,
       "verse": 7,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Ain, Rimmon, Ether, and Ashan; four cities with their villages;"
     },
     {
-      "id": "jos_19_8",
       "chapter": 19,
       "verse": 8,
+      "paragraph": 1,
+      "poetry": false,
       "text": "and all the villages that were around these cities to Baalath Beer, Ramah of the South. This is the inheritance of the tribe of the children of Simeon according to their families."
     },
     {
-      "id": "jos_19_9",
       "chapter": 19,
       "verse": 9,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Out of the part of the children of Judah was the inheritance of the children of Simeon; for the portion of the children of Judah was too much for them. Therefore the children of Simeon had inheritance in the middle of their inheritance."
     },
     {
-      "id": "jos_19_10",
       "chapter": 19,
       "verse": 10,
+      "paragraph": 2,
+      "poetry": false,
       "text": "The third lot came up for the children of Zebulun according to their families. The border of their inheritance was to Sarid."
     },
     {
-      "id": "jos_19_11",
       "chapter": 19,
       "verse": 11,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Their border went up westward, even to Maralah, and reached to Dabbesheth. It reached to the brook that is before Jokneam."
     },
     {
-      "id": "jos_19_12",
       "chapter": 19,
       "verse": 12,
+      "paragraph": 2,
+      "poetry": false,
       "text": "It turned from Sarid eastward toward the sunrise to the border of Chisloth Tabor. It went out to Daberath, and went up to Japhia."
     },
     {
-      "id": "jos_19_13",
       "chapter": 19,
       "verse": 13,
+      "paragraph": 2,
+      "poetry": false,
       "text": "From there it passed along eastward to Gath Hepher, to Ethkazin; and it went out at Rimmon which stretches to Neah."
     },
     {
-      "id": "jos_19_14",
       "chapter": 19,
       "verse": 14,
+      "paragraph": 2,
+      "poetry": false,
       "text": "The border turned around it on the north to Hannathon; and it ended at the valley of Iphtah El;"
     },
     {
-      "id": "jos_19_15",
       "chapter": 19,
       "verse": 15,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Kattath, Nahalal, Shimron, Idalah, and Bethlehem: twelve cities with their villages."
     },
     {
-      "id": "jos_19_16",
       "chapter": 19,
       "verse": 16,
+      "paragraph": 2,
+      "poetry": false,
       "text": "This is the inheritance of the children of Zebulun according to their families, these cities with their villages."
     },
     {
-      "id": "jos_19_17",
       "chapter": 19,
       "verse": 17,
+      "paragraph": 3,
+      "poetry": false,
       "text": "The fourth lot came out for Issachar, even for the children of Issachar according to their families."
     },
     {
-      "id": "jos_19_18",
       "chapter": 19,
       "verse": 18,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Their border was to Jezreel, Chesulloth, Shunem,"
     },
     {
-      "id": "jos_19_19",
       "chapter": 19,
       "verse": 19,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Hapharaim, Shion, Anaharath,"
     },
     {
-      "id": "jos_19_20",
       "chapter": 19,
       "verse": 20,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Rabbith, Kishion, Ebez,"
     },
     {
-      "id": "jos_19_21",
       "chapter": 19,
       "verse": 21,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Remeth, Engannim, En Haddah, and Beth Pazzez."
     },
     {
-      "id": "jos_19_22",
       "chapter": 19,
       "verse": 22,
+      "paragraph": 3,
+      "poetry": false,
       "text": "The border reached to Tabor, Shahazumah, and Beth Shemesh. Their border ended at the Jordan: sixteen cities with their villages."
     },
     {
-      "id": "jos_19_23",
       "chapter": 19,
       "verse": 23,
+      "paragraph": 3,
+      "poetry": false,
       "text": "This is the inheritance of the tribe of the children of Issachar according to their families, the cities with their villages."
     },
     {
-      "id": "jos_19_24",
       "chapter": 19,
       "verse": 24,
+      "paragraph": 4,
+      "poetry": false,
       "text": "The fifth lot came out for the tribe of the children of Asher according to their families."
     },
     {
-      "id": "jos_19_25",
       "chapter": 19,
       "verse": 25,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Their border was Helkath, Hali, Beten, Achshaph,"
     },
     {
-      "id": "jos_19_26",
       "chapter": 19,
       "verse": 26,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Allammelech, Amad, Mishal. It reached to Carmel westward, and to Shihorlibnath."
     },
     {
-      "id": "jos_19_27",
       "chapter": 19,
       "verse": 27,
+      "paragraph": 4,
+      "poetry": false,
       "text": "It turned toward the sunrise to Beth Dagon, and reached to Zebulun, and to the valley of Iphtah El northward to Beth Emek and Neiel. It went out to Cabul on the left hand,"
     },
     {
-      "id": "jos_19_28",
       "chapter": 19,
       "verse": 28,
+      "paragraph": 4,
+      "poetry": false,
       "text": "and Ebron, Rehob, Hammon, and Kanah, even to great Sidon."
     },
     {
-      "id": "jos_19_29",
       "chapter": 19,
       "verse": 29,
+      "paragraph": 4,
+      "poetry": false,
       "text": "The border turned to Ramah, to the fortified city of Tyre; and the border turned to Hosah. It ended at the sea by the region of Achzib;"
     },
     {
-      "id": "jos_19_30",
       "chapter": 19,
       "verse": 30,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Ummah also, and Aphek, and Rehob: twenty-two cities with their villages."
     },
     {
-      "id": "jos_19_31",
       "chapter": 19,
       "verse": 31,
+      "paragraph": 4,
+      "poetry": false,
       "text": "This is the inheritance of the tribe of the children of Asher according to their families, these cities with their villages."
     },
     {
-      "id": "jos_19_32",
       "chapter": 19,
       "verse": 32,
+      "paragraph": 5,
+      "poetry": false,
       "text": "The sixth lot came out for the children of Naphtali, even for the children of Naphtali according to their families."
     },
     {
-      "id": "jos_19_33",
       "chapter": 19,
       "verse": 33,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Their border was from Heleph, from the oak in Zaanannim, Adami-nekeb, and Jabneel, to Lakkum. It ended at the Jordan."
     },
     {
-      "id": "jos_19_34",
       "chapter": 19,
       "verse": 34,
+      "paragraph": 5,
+      "poetry": false,
       "text": "The border turned westward to Aznoth Tabor, and went out from there to Hukkok. It reached to Zebulun on the south, and reached to Asher on the west, and to Judah at the Jordan toward the sunrise."
     },
     {
-      "id": "jos_19_35",
       "chapter": 19,
       "verse": 35,
+      "paragraph": 5,
+      "poetry": false,
       "text": "The fortified cities were Ziddim, Zer, Hammath, Rakkath, Chinnereth,"
     },
     {
-      "id": "jos_19_36",
       "chapter": 19,
       "verse": 36,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Adamah, Ramah, Hazor,"
     },
     {
-      "id": "jos_19_37",
       "chapter": 19,
       "verse": 37,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Kedesh, Edrei, En Hazor,"
     },
     {
-      "id": "jos_19_38",
       "chapter": 19,
       "verse": 38,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Iron, Migdal El, Horem, Beth Anath, and Beth Shemesh; nineteen cities with their villages."
     },
     {
-      "id": "jos_19_39",
       "chapter": 19,
       "verse": 39,
+      "paragraph": 5,
+      "poetry": false,
       "text": "This is the inheritance of the tribe of the children of Naphtali according to their families, the cities with their villages."
     },
     {
-      "id": "jos_19_40",
       "chapter": 19,
       "verse": 40,
+      "paragraph": 6,
+      "poetry": false,
       "text": "The seventh lot came out for the tribe of the children of Dan according to their families."
     },
     {
-      "id": "jos_19_41",
       "chapter": 19,
       "verse": 41,
+      "paragraph": 6,
+      "poetry": false,
       "text": "The border of their inheritance was Zorah, Eshtaol, Irshemesh,"
     },
     {
-      "id": "jos_19_42",
       "chapter": 19,
       "verse": 42,
+      "paragraph": 6,
+      "poetry": false,
       "text": "Shaalabbin, Aijalon, Ithlah,"
     },
     {
-      "id": "jos_19_43",
       "chapter": 19,
       "verse": 43,
+      "paragraph": 6,
+      "poetry": false,
       "text": "Elon, Timnah, Ekron,"
     },
     {
-      "id": "jos_19_44",
       "chapter": 19,
       "verse": 44,
+      "paragraph": 6,
+      "poetry": false,
       "text": "Eltekeh, Gibbethon, Baalath,"
     },
     {
-      "id": "jos_19_45",
       "chapter": 19,
       "verse": 45,
+      "paragraph": 6,
+      "poetry": false,
       "text": "Jehud, Bene Berak, Gath Rimmon,"
     },
     {
-      "id": "jos_19_46",
       "chapter": 19,
       "verse": 46,
+      "paragraph": 6,
+      "poetry": false,
       "text": "Me Jarkon, and Rakkon, with the border opposite Joppa."
     },
     {
-      "id": "jos_19_47",
       "chapter": 19,
       "verse": 47,
+      "paragraph": 6,
+      "poetry": false,
       "text": "The border of the children of Dan went out beyond them; for the children of Dan went up and fought against Leshem, and took it, and struck it with the edge of the sword, and possessed it, and lived therein, and called Leshem, Dan, after the name of Dan their forefather."
     },
     {
-      "id": "jos_19_48",
       "chapter": 19,
       "verse": 48,
+      "paragraph": 6,
+      "poetry": false,
       "text": "This is the inheritance of the tribe of the children of Dan according to their families, these cities with their villages."
     },
     {
-      "id": "jos_19_49",
       "chapter": 19,
       "verse": 49,
+      "paragraph": 7,
+      "poetry": false,
       "text": "So they finished distributing the land for inheritance by its borders. The children of Israel gave an inheritance to Joshua the son of Nun among them."
     },
     {
-      "id": "jos_19_50",
       "chapter": 19,
       "verse": 50,
+      "paragraph": 7,
+      "poetry": false,
       "text": "According to the LORD’s commandment, they gave him the city which he asked, even Timnathserah in the hill country of Ephraim; and he built the city, and lived there."
     },
     {
-      "id": "jos_19_51",
       "chapter": 19,
       "verse": 51,
+      "paragraph": 7,
+      "poetry": false,
       "text": "These are the inheritances, which Eleazar the priest, Joshua the son of Nun, and the heads of the fathers’ houses of the tribes of the children of Israel, distributed for inheritance by lot in Shiloh before the LORD, at the door of the Tent of Meeting. So they finished dividing the land."
     },
     {
-      "id": "jos_20_1",
       "chapter": 20,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "The LORD spoke to Joshua, saying,"
     },
     {
-      "id": "jos_20_2",
       "chapter": 20,
       "verse": 2,
+      "paragraph": 1,
+      "poetry": false,
       "text": "“Speak to the children of Israel, saying, ‘Assign the cities of refuge, of which I spoke to you by Moses,"
     },
     {
-      "id": "jos_20_3",
       "chapter": 20,
       "verse": 3,
+      "paragraph": 1,
+      "poetry": false,
       "text": "that the man slayer who kills any person accidentally or unintentionally may flee there. They shall be to you for a refuge from the avenger of blood."
     },
     {
-      "id": "jos_20_4",
       "chapter": 20,
       "verse": 4,
+      "paragraph": 1,
+      "poetry": false,
       "text": "He shall flee to one of those cities, and shall stand at the entrance of the gate of the city, and declare his case in the ears of the elders of that city. They shall take him into the city with them, and give him a place, that he may live among them."
     },
     {
-      "id": "jos_20_5",
       "chapter": 20,
       "verse": 5,
+      "paragraph": 1,
+      "poetry": false,
       "text": "If the avenger of blood pursues him, then they shall not deliver up the man slayer into his hand; because he struck his neighbor unintentionally, and didn’t hate him before."
     },
     {
-      "id": "jos_20_6",
       "chapter": 20,
       "verse": 6,
+      "paragraph": 1,
+      "poetry": false,
       "text": "He shall dwell in that city until he stands before the congregation for judgment, until the death of the high priest that shall be in those days. Then the man slayer shall return, and come to his own city, and to his own house, to the city he fled from.’”"
     },
     {
-      "id": "jos_20_7",
       "chapter": 20,
       "verse": 7,
+      "paragraph": 2,
+      "poetry": false,
       "text": "They set apart Kedesh in Galilee in the hill country of Naphtali, Shechem in the hill country of Ephraim, and Kiriath Arba (also called Hebron) in the hill country of Judah."
     },
     {
-      "id": "jos_20_8",
       "chapter": 20,
       "verse": 8,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Beyond the Jordan at Jericho eastward, they assigned Bezer in the wilderness in the plain out of the tribe of Reuben, Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh."
     },
     {
-      "id": "jos_20_9",
       "chapter": 20,
       "verse": 9,
+      "paragraph": 2,
+      "poetry": false,
       "text": "These were the appointed cities for all the children of Israel, and for the alien who lives among them, that whoever kills any person unintentionally might flee there, and not die by the hand of the avenger of blood, until he stands trial before the congregation."
     },
     {
-      "id": "jos_21_1",
       "chapter": 21,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Then the heads of fathers’ houses of the Levites came near to Eleazar the priest, and to Joshua the son of Nun, and to the heads of fathers’ houses of the tribes of the children of Israel."
     },
     {
-      "id": "jos_21_2",
       "chapter": 21,
       "verse": 2,
+      "paragraph": 1,
+      "poetry": false,
       "text": "They spoke to them at Shiloh in the land of Canaan, saying, “The LORD commanded through Moses to give us cities to dwell in, with their pasture lands for our livestock.”"
     },
     {
-      "id": "jos_21_3",
       "chapter": 21,
       "verse": 3,
+      "paragraph": 2,
+      "poetry": false,
       "text": "The children of Israel gave to the Levites out of their inheritance, according to the commandment of the LORD, these cities with their pasture lands."
     },
     {
-      "id": "jos_21_4",
       "chapter": 21,
       "verse": 4,
+      "paragraph": 2,
+      "poetry": false,
       "text": "The lot came out for the families of the Kohathites. The children of Aaron the priest, who were of the Levites, had thirteen cities by lot out of the tribe of Judah, out of the tribe of the Simeonites, and out of the tribe of Benjamin."
     },
     {
-      "id": "jos_21_5",
       "chapter": 21,
       "verse": 5,
+      "paragraph": 2,
+      "poetry": false,
       "text": "The rest of the children of Kohath had ten cities by lot out of the families of the tribe of Ephraim, out of the tribe of Dan, and out of the half-tribe of Manasseh."
     },
     {
-      "id": "jos_21_6",
       "chapter": 21,
       "verse": 6,
+      "paragraph": 2,
+      "poetry": false,
       "text": "The children of Gershon had thirteen cities by lot out of the families of the tribe of Issachar, out of the tribe of Asher, out of the tribe of Naphtali, and out of the half-tribe of Manasseh in Bashan."
     },
     {
-      "id": "jos_21_7",
       "chapter": 21,
       "verse": 7,
+      "paragraph": 2,
+      "poetry": false,
       "text": "The children of Merari according to their families had twelve cities out of the tribe of Reuben, out of the tribe of Gad, and out of the tribe of Zebulun."
     },
     {
-      "id": "jos_21_8",
       "chapter": 21,
       "verse": 8,
+      "paragraph": 2,
+      "poetry": false,
       "text": "The children of Israel gave these cities with their pasture lands by lot to the Levites, as the LORD commanded by Moses."
     },
     {
-      "id": "jos_21_9",
       "chapter": 21,
       "verse": 9,
+      "paragraph": 2,
+      "poetry": false,
       "text": "They gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are mentioned by name:"
     },
     {
-      "id": "jos_21_10",
       "chapter": 21,
       "verse": 10,
+      "paragraph": 2,
+      "poetry": false,
       "text": "and they were for the children of Aaron, of the families of the Kohathites, who were of the children of Levi; for theirs was the first lot."
     },
     {
-      "id": "jos_21_11",
       "chapter": 21,
       "verse": 11,
+      "paragraph": 2,
+      "poetry": false,
       "text": "They gave them Kiriath Arba, named after the father of Anak (also called Hebron), in the hill country of Judah, with its pasture lands around it."
     },
     {
-      "id": "jos_21_12",
       "chapter": 21,
       "verse": 12,
+      "paragraph": 2,
+      "poetry": false,
       "text": "But they gave the fields of the city and its villages to Caleb the son of Jephunneh for his possession."
     },
     {
-      "id": "jos_21_13",
       "chapter": 21,
       "verse": 13,
+      "paragraph": 2,
+      "poetry": false,
       "text": "To the children of Aaron the priest they gave Hebron with its pasture lands, the city of refuge for the man slayer, Libnah with its pasture lands,"
     },
     {
-      "id": "jos_21_14",
       "chapter": 21,
       "verse": 14,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Jattir with its pasture lands, Eshtemoa with its pasture lands,"
     },
     {
-      "id": "jos_21_15",
       "chapter": 21,
       "verse": 15,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Holon with its pasture lands, Debir with its pasture lands,"
     },
     {
-      "id": "jos_21_16",
       "chapter": 21,
       "verse": 16,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Ain with its pasture lands, Juttah with its pasture lands, and Beth Shemesh with its pasture lands: nine cities out of those two tribes."
     },
     {
-      "id": "jos_21_17",
       "chapter": 21,
       "verse": 17,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Out of the tribe of Benjamin, Gibeon with its pasture lands, Geba with its pasture lands,"
     },
     {
-      "id": "jos_21_18",
       "chapter": 21,
       "verse": 18,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Anathoth with its pasture lands, and Almon with its pasture lands: four cities."
     },
     {
-      "id": "jos_21_19",
       "chapter": 21,
       "verse": 19,
+      "paragraph": 2,
+      "poetry": false,
       "text": "All the cities of the children of Aaron, the priests, were thirteen cities with their pasture lands."
     },
     {
-      "id": "jos_21_20",
       "chapter": 21,
       "verse": 20,
+      "paragraph": 3,
+      "poetry": false,
       "text": "The families of the children of Kohath, the Levites, even the rest of the children of Kohath, had the cities of their lot out of the tribe of Ephraim."
     },
     {
-      "id": "jos_21_21",
       "chapter": 21,
       "verse": 21,
+      "paragraph": 3,
+      "poetry": false,
       "text": "They gave them Shechem with its pasture lands in the hill country of Ephraim, the city of refuge for the man slayer, and Gezer with its pasture lands,"
     },
     {
-      "id": "jos_21_22",
       "chapter": 21,
       "verse": 22,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Kibzaim with its pasture lands, and Beth Horon with its pasture lands: four cities."
     },
     {
-      "id": "jos_21_23",
       "chapter": 21,
       "verse": 23,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Out of the tribe of Dan, Elteke with its pasture lands, Gibbethon with its pasture lands,"
     },
     {
-      "id": "jos_21_24",
       "chapter": 21,
       "verse": 24,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Aijalon with its pasture lands, Gath Rimmon with its pasture lands: four cities."
     },
     {
-      "id": "jos_21_25",
       "chapter": 21,
       "verse": 25,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Out of the half-tribe of Manasseh, Taanach with its pasture lands, and Gath Rimmon with its pasture lands: two cities."
     },
     {
-      "id": "jos_21_26",
       "chapter": 21,
       "verse": 26,
+      "paragraph": 3,
+      "poetry": false,
       "text": "All the cities of the families of the rest of the children of Kohath were ten with their pasture lands."
     },
     {
-      "id": "jos_21_27",
       "chapter": 21,
       "verse": 27,
+      "paragraph": 4,
+      "poetry": false,
       "text": "They gave to the children of Gershon, of the families of the Levites, out of the half-tribe of Manasseh Golan in Bashan with its pasture lands, the city of refuge for the man slayer, and Be Eshterah with its pasture lands: two cities."
     },
     {
-      "id": "jos_21_28",
       "chapter": 21,
       "verse": 28,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Out of the tribe of Issachar, Kishion with its pasture lands, Daberath with its pasture lands,"
     },
     {
-      "id": "jos_21_29",
       "chapter": 21,
       "verse": 29,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Jarmuth with its pasture lands, En Gannim with its pasture lands: four cities."
     },
     {
-      "id": "jos_21_30",
       "chapter": 21,
       "verse": 30,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Out of the tribe of Asher, Mishal with its pasture lands, Abdon with its pasture lands,"
     },
     {
-      "id": "jos_21_31",
       "chapter": 21,
       "verse": 31,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Helkath with its pasture lands, and Rehob with its pasture lands: four cities."
     },
     {
-      "id": "jos_21_32",
       "chapter": 21,
       "verse": 32,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Out of the tribe of Naphtali, Kedesh in Galilee with its pasture lands, the city of refuge for the man slayer, Hammothdor with its pasture lands, and Kartan with its pasture lands: three cities."
     },
     {
-      "id": "jos_21_33",
       "chapter": 21,
       "verse": 33,
+      "paragraph": 4,
+      "poetry": false,
       "text": "All the cities of the Gershonites according to their families were thirteen cities with their pasture lands."
     },
     {
-      "id": "jos_21_34",
       "chapter": 21,
       "verse": 34,
+      "paragraph": 5,
+      "poetry": false,
       "text": "To the families of the children of Merari, the rest of the Levites, out of the tribe of Zebulun, Jokneam with its pasture lands, Kartah with its pasture lands,"
     },
     {
-      "id": "jos_21_35",
       "chapter": 21,
       "verse": 35,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Dimnah with its pasture lands, and Nahalal with its pasture lands: four cities."
     },
     {
-      "id": "jos_21_36",
       "chapter": 21,
       "verse": 36,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Out of the tribe of Reuben, Bezer with its pasture lands, Jahaz with its pasture lands,"
     },
     {
-      "id": "jos_21_37",
       "chapter": 21,
       "verse": 37,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Kedemoth with its pasture lands, and Mephaath with its pasture lands: four cities."
     },
     {
-      "id": "jos_21_38",
       "chapter": 21,
       "verse": 38,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Out of the tribe of Gad, Ramoth in Gilead with its pasture lands, the city of refuge for the man slayer, and Mahanaim with its pasture lands,"
     },
     {
-      "id": "jos_21_39",
       "chapter": 21,
       "verse": 39,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Heshbon with its pasture lands, Jazer with its pasture lands: four cities in all."
     },
     {
-      "id": "jos_21_40",
       "chapter": 21,
       "verse": 40,
+      "paragraph": 5,
+      "poetry": false,
       "text": "All these were the cities of the children of Merari according to their families, even the rest of the families of the Levites. Their lot was twelve cities."
     },
     {
-      "id": "jos_21_41",
       "chapter": 21,
       "verse": 41,
+      "paragraph": 6,
+      "poetry": false,
       "text": "All the cities of the Levites among the possessions of the children of Israel were forty-eight cities with their pasture lands."
     },
     {
-      "id": "jos_21_42",
       "chapter": 21,
       "verse": 42,
+      "paragraph": 6,
+      "poetry": false,
       "text": "Each of these cities included their pasture lands around them. It was this way with all these cities."
     },
     {
-      "id": "jos_21_43",
       "chapter": 21,
       "verse": 43,
+      "paragraph": 7,
+      "poetry": false,
       "text": "So the LORD gave to Israel all the land which he swore to give to their fathers. They possessed it, and lived in it."
     },
     {
-      "id": "jos_21_44",
       "chapter": 21,
       "verse": 44,
+      "paragraph": 7,
+      "poetry": false,
       "text": "The LORD gave them rest all around, according to all that he swore to their fathers. Not a man of all their enemies stood before them. The LORD delivered all their enemies into their hand."
     },
     {
-      "id": "jos_21_45",
       "chapter": 21,
       "verse": 45,
+      "paragraph": 7,
+      "poetry": false,
       "text": "Nothing failed of any good thing which the LORD had spoken to the house of Israel. All came to pass."
     },
     {
-      "id": "jos_22_1",
       "chapter": 22,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Then Joshua called the Reubenites, the Gadites, and the half-tribe of Manasseh,"
     },
     {
-      "id": "jos_22_2",
       "chapter": 22,
       "verse": 2,
+      "paragraph": 1,
+      "poetry": false,
       "text": "and said to them, “You have kept all that Moses the servant of the LORD commanded you, and have listened to my voice in all that I commanded you."
     },
     {
-      "id": "jos_22_3",
       "chapter": 22,
       "verse": 3,
+      "paragraph": 1,
+      "poetry": false,
       "text": "You have not left your brothers these many days to this day, but have performed the duty of the commandment of the LORD your God."
     },
     {
-      "id": "jos_22_4",
       "chapter": 22,
       "verse": 4,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Now the LORD your God has given rest to your brothers, as he spoke to them. Therefore now return and go to your tents, to the land of your possession, which Moses the servant of the LORD gave you beyond the Jordan."
     },
     {
-      "id": "jos_22_5",
       "chapter": 22,
       "verse": 5,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Only take diligent heed to do the commandment and the law which Moses the servant of the LORD commanded you, to love the LORD your God, to walk in all his ways, to keep his commandments, to hold fast to him, and to serve him with all your heart and with all your soul.”"
     },
     {
-      "id": "jos_22_6",
       "chapter": 22,
       "verse": 6,
+      "paragraph": 2,
+      "poetry": false,
       "text": "So Joshua blessed them, and sent them away; and they went to their tents."
     },
     {
-      "id": "jos_22_7",
       "chapter": 22,
       "verse": 7,
+      "paragraph": 2,
+      "poetry": false,
       "text": "Now to the one half-tribe of Manasseh Moses had given inheritance in Bashan; but Joshua gave to the other half among their brothers beyond the Jordan westward. Moreover when Joshua sent them away to their tents, he blessed them,"
     },
     {
-      "id": "jos_22_8",
       "chapter": 22,
       "verse": 8,
+      "paragraph": 2,
+      "poetry": false,
       "text": "and spoke to them, saying, “Return with much wealth to your tents, with very much livestock, with silver, with gold, with bronze, with iron, and with very much clothing. Divide the plunder of your enemies with your brothers.”"
     },
     {
-      "id": "jos_22_9",
       "chapter": 22,
       "verse": 9,
+      "paragraph": 3,
+      "poetry": false,
       "text": "The children of Reuben and the children of Gad and the half-tribe of Manasseh returned, and departed from the children of Israel out of Shiloh, which is in the land of Canaan, to go to the land of Gilead, to the land of their possession, which they owned, according to the commandment of the LORD by Moses."
     },
     {
-      "id": "jos_22_10",
       "chapter": 22,
       "verse": 10,
+      "paragraph": 3,
+      "poetry": false,
       "text": "When they came to the region near the Jordan, that is in the land of Canaan, the children of Reuben and the children of Gad and the half-tribe of Manasseh built an altar there by the Jordan, a great altar to look at."
     },
     {
-      "id": "jos_22_11",
       "chapter": 22,
       "verse": 11,
+      "paragraph": 3,
+      "poetry": false,
       "text": "The children of Israel heard this, “Behold, the children of Reuben and the children of Gad and the half-tribe of Manasseh have built an altar along the border of the land of Canaan, in the region around the Jordan, on the side that belongs to the children of Israel.”"
     },
     {
-      "id": "jos_22_12",
       "chapter": 22,
       "verse": 12,
+      "paragraph": 3,
+      "poetry": false,
       "text": "When the children of Israel heard of it, the whole congregation of the children of Israel gathered themselves together at Shiloh, to go up against them to war."
     },
     {
-      "id": "jos_22_13",
       "chapter": 22,
       "verse": 13,
+      "paragraph": 3,
+      "poetry": false,
       "text": "The children of Israel sent to the children of Reuben, and to the children of Gad, and to the half-tribe of Manasseh, into the land of Gilead, Phinehas the son of Eleazar the priest."
     },
     {
-      "id": "jos_22_14",
       "chapter": 22,
       "verse": 14,
+      "paragraph": 3,
+      "poetry": false,
       "text": "With him were ten princes, one prince of a fathers’ house for each of the tribes of Israel; and they were each head of their fathers’ houses among the thousands of Israel."
     },
     {
-      "id": "jos_22_15",
       "chapter": 22,
       "verse": 15,
+      "paragraph": 3,
+      "poetry": false,
       "text": "They came to the children of Reuben, and to the children of Gad, and to the half-tribe of Manasseh, to the land of Gilead, and they spoke with them, saying,"
     },
     {
-      "id": "jos_22_16",
       "chapter": 22,
       "verse": 16,
+      "paragraph": 3,
+      "poetry": false,
       "text": "“The whole congregation of the LORD says, ‘What trespass is this that you have committed against the God of Israel, to turn away today from following the LORD, in that you have built yourselves an altar, to rebel today against the LORD?"
     },
     {
-      "id": "jos_22_17",
       "chapter": 22,
       "verse": 17,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Is the iniquity of Peor too little for us, from which we have not cleansed ourselves to this day, although there came a plague on the congregation of the LORD,"
     },
     {
-      "id": "jos_22_18",
       "chapter": 22,
       "verse": 18,
+      "paragraph": 3,
+      "poetry": false,
       "text": "that you must turn away today from following the LORD? It will be, since you rebel today against the LORD, that tomorrow he will be angry with the whole congregation of Israel."
     },
     {
-      "id": "jos_22_19",
       "chapter": 22,
       "verse": 19,
+      "paragraph": 3,
+      "poetry": false,
       "text": "However, if the land of your possession is unclean, then pass over to the land of the possession of the LORD, in which the LORD’s tabernacle dwells, and take possession among us; but don’t rebel against the LORD, nor rebel against us, in building an altar other than the LORD our God’s altar."
     },
     {
-      "id": "jos_22_20",
       "chapter": 22,
       "verse": 20,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Didn’t Achan the son of Zerah commit a trespass in the devoted thing, and wrath fell on all the congregation of Israel? That man didn’t perish alone in his iniquity.’”"
     },
     {
-      "id": "jos_22_21",
       "chapter": 22,
       "verse": 21,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Then the children of Reuben and the children of Gad and the half-tribe of Manasseh answered, and spoke to the heads of the thousands of Israel,"
     },
     {
-      "id": "jos_22_22",
       "chapter": 22,
       "verse": 22,
+      "paragraph": 4,
+      "poetry": false,
       "text": "“The Mighty One, God, the LORD, the Mighty One, God, the LORD, he knows; and Israel shall know: if it was in rebellion, or if in trespass against the LORD (don’t save us today),"
     },
     {
-      "id": "jos_22_23",
       "chapter": 22,
       "verse": 23,
+      "paragraph": 4,
+      "poetry": false,
       "text": "that we have built us an altar to turn away from following the LORD; or if to offer burnt offering or meal offering, or if to offer sacrifices of peace offerings, let the LORD himself require it."
     },
     {
-      "id": "jos_22_24",
       "chapter": 22,
       "verse": 24,
+      "paragraph": 5,
+      "poetry": false,
       "text": "“If we have not out of concern done this, and for a reason, saying, ‘In time to come your children might speak to our children, saying, “What have you to do with the LORD, the God of Israel?"
     },
     {
-      "id": "jos_22_25",
       "chapter": 22,
       "verse": 25,
+      "paragraph": 5,
+      "poetry": false,
       "text": "For the LORD has made the Jordan a border between us and you, you children of Reuben and children of Gad. You have no portion in the LORD.”’ So your children might make our children cease from fearing the LORD."
     },
     {
-      "id": "jos_22_26",
       "chapter": 22,
       "verse": 26,
+      "paragraph": 6,
+      "poetry": false,
       "text": "“Therefore we said, ‘Let’s now prepare to build ourselves an altar, not for burnt offering, nor for sacrifice;"
     },
     {
-      "id": "jos_22_27",
       "chapter": 22,
       "verse": 27,
+      "paragraph": 6,
+      "poetry": false,
       "text": "but it will be a witness between us and you, and between our generations after us, that we may perform the service of the LORD before him with our burnt offerings, with our sacrifices, and with our peace offerings;’ that your children may not tell our children in time to come, ‘You have no portion in the LORD.’"
     },
     {
-      "id": "jos_22_28",
       "chapter": 22,
       "verse": 28,
+      "paragraph": 7,
+      "poetry": false,
       "text": "“Therefore we said, ‘It shall be, when they tell us or our generations this in time to come, that we shall say, “Behold the pattern of the LORD’s altar, which our fathers made, not for burnt offering, nor for sacrifice; but it is a witness between us and you.”’"
     },
     {
-      "id": "jos_22_29",
       "chapter": 22,
       "verse": 29,
+      "paragraph": 8,
+      "poetry": false,
       "text": "“Far be it from us that we should rebel against the LORD, and turn away today from following the LORD, to build an altar for burnt offering, for meal offering, or for sacrifice, besides the LORD our God’s altar that is before his tabernacle!”"
     },
     {
-      "id": "jos_22_30",
       "chapter": 22,
       "verse": 30,
+      "paragraph": 9,
+      "poetry": false,
       "text": "When Phinehas the priest, and the princes of the congregation, even the heads of the thousands of Israel that were with him, heard the words that the children of Reuben and the children of Gad and the children of Manasseh spoke, it pleased them well."
     },
     {
-      "id": "jos_22_31",
       "chapter": 22,
       "verse": 31,
+      "paragraph": 9,
+      "poetry": false,
       "text": "Phinehas the son of Eleazar the priest said to the children of Reuben, to the children of Gad, and to the children of Manasseh, “Today we know that the LORD is among us, because you have not committed this trespass against the LORD. Now you have delivered the children of Israel out of the LORD’s hand.”"
     },
     {
-      "id": "jos_22_32",
       "chapter": 22,
       "verse": 32,
+      "paragraph": 9,
+      "poetry": false,
       "text": "Phinehas the son of Eleazar the priest, and the princes, returned from the children of Reuben, and from the children of Gad, out of the land of Gilead, to the land of Canaan, to the children of Israel, and brought them word again."
     },
     {
-      "id": "jos_22_33",
       "chapter": 22,
       "verse": 33,
+      "paragraph": 9,
+      "poetry": false,
       "text": "The thing pleased the children of Israel; and the children of Israel blessed God, and spoke no more of going up against them to war, to destroy the land in which the children of Reuben and the children of Gad lived."
     },
     {
-      "id": "jos_22_34",
       "chapter": 22,
       "verse": 34,
+      "paragraph": 9,
+      "poetry": false,
       "text": "The children of Reuben and the children of Gad named the altar “A Witness Between Us that the LORD is God.”"
     },
     {
-      "id": "jos_23_1",
       "chapter": 23,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "After many days, when the LORD had given rest to Israel from their enemies all around, and Joshua was old and well advanced in years,"
     },
     {
-      "id": "jos_23_2",
       "chapter": 23,
       "verse": 2,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Joshua called for all Israel, for their elders and for their heads, and for their judges and for their officers, and said to them, “I am old and well advanced in years."
     },
     {
-      "id": "jos_23_3",
       "chapter": 23,
       "verse": 3,
+      "paragraph": 1,
+      "poetry": false,
       "text": "You have seen all that the LORD your God has done to all these nations because of you; for it is the LORD your God who has fought for you."
     },
     {
-      "id": "jos_23_4",
       "chapter": 23,
       "verse": 4,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Behold, I have allotted to you these nations that remain, to be an inheritance for your tribes, from the Jordan, with all the nations that I have cut off, even to the great sea toward the going down of the sun."
     },
     {
-      "id": "jos_23_5",
       "chapter": 23,
       "verse": 5,
+      "paragraph": 1,
+      "poetry": false,
       "text": "The LORD your God will thrust them out from before you, and drive them from out of your sight. You shall possess their land, as the LORD your God spoke to you."
     },
     {
-      "id": "jos_23_6",
       "chapter": 23,
       "verse": 6,
+      "paragraph": 2,
+      "poetry": false,
       "text": "“Therefore be very courageous to keep and to do all that is written in the book of the law of Moses, that you not turn away from it to the right hand or to the left;"
     },
     {
-      "id": "jos_23_7",
       "chapter": 23,
       "verse": 7,
+      "paragraph": 2,
+      "poetry": false,
       "text": "that you not come among these nations, these that remain among you; neither make mention of the name of their gods, nor cause to swear by them, neither serve them, nor bow down yourselves to them;"
     },
     {
-      "id": "jos_23_8",
       "chapter": 23,
       "verse": 8,
+      "paragraph": 2,
+      "poetry": false,
       "text": "but hold fast to the LORD your God, as you have done to this day."
     },
     {
-      "id": "jos_23_9",
       "chapter": 23,
       "verse": 9,
+      "paragraph": 3,
+      "poetry": false,
       "text": "“For the LORD has driven great and strong nations out from before you. But as for you, no man has stood before you to this day."
     },
     {
-      "id": "jos_23_10",
       "chapter": 23,
       "verse": 10,
+      "paragraph": 3,
+      "poetry": false,
       "text": "One man of you shall chase a thousand; for it is the LORD your God who fights for you, as he spoke to you."
     },
     {
-      "id": "jos_23_11",
       "chapter": 23,
       "verse": 11,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Take good heed therefore to yourselves, that you love the LORD your God."
     },
     {
-      "id": "jos_23_12",
       "chapter": 23,
       "verse": 12,
+      "paragraph": 4,
+      "poetry": false,
       "text": "“But if you do at all go back, and hold fast to the remnant of these nations, even these who remain among you, and make marriages with them, and go in to them, and they to you;"
     },
     {
-      "id": "jos_23_13",
       "chapter": 23,
       "verse": 13,
+      "paragraph": 4,
+      "poetry": false,
       "text": "know for a certainty that the LORD your God will no longer drive these nations from out of your sight; but they shall be a snare and a trap to you, a scourge in your sides, and thorns in your eyes, until you perish from off this good land which the LORD your God has given you."
     },
     {
-      "id": "jos_23_14",
       "chapter": 23,
       "verse": 14,
+      "paragraph": 5,
+      "poetry": false,
       "text": "“Behold, today I am going the way of all the earth. You know in all your hearts and in all your souls that not one thing has failed of all the good things which the LORD your God spoke concerning you. All have happened to you. Not one thing has failed of it."
     },
     {
-      "id": "jos_23_15",
       "chapter": 23,
       "verse": 15,
+      "paragraph": 5,
+      "poetry": false,
       "text": "It shall happen that as all the good things have come on you of which the LORD your God spoke to you, so the LORD will bring on you all the evil things, until he has destroyed you from off this good land which the LORD your God has given you,"
     },
     {
-      "id": "jos_23_16",
       "chapter": 23,
       "verse": 16,
+      "paragraph": 5,
+      "poetry": false,
       "text": "when you disobey the covenant of the LORD your God, which he commanded you, and go and serve other gods, and bow down yourselves to them. Then the LORD’s anger will be kindled against you, and you will perish quickly from off the good land which he has given to you.”"
     },
     {
-      "id": "jos_24_1",
       "chapter": 24,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Joshua gathered all the tribes of Israel to Shechem, and called for the elders of Israel, for their heads, for their judges, and for their officers; and they presented themselves before God."
     },
     {
-      "id": "jos_24_2",
       "chapter": 24,
       "verse": 2,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Joshua said to all the people, “The LORD, the God of Israel, says, ‘Your fathers lived of old time beyond the River, even Terah, the father of Abraham, and the father of Nahor. They served other gods."
     },
     {
-      "id": "jos_24_3",
       "chapter": 24,
       "verse": 3,
+      "paragraph": 1,
+      "poetry": false,
       "text": "I took your father Abraham from beyond the River, and led him throughout all the land of Canaan, and multiplied his offspring, and gave him Isaac."
     },
     {
-      "id": "jos_24_4",
       "chapter": 24,
       "verse": 4,
+      "paragraph": 1,
+      "poetry": false,
       "text": "I gave to Isaac Jacob and Esau: and I gave to Esau Mount Seir, to possess it. Jacob and his children went down into Egypt."
     },
     {
-      "id": "jos_24_5",
       "chapter": 24,
       "verse": 5,
+      "paragraph": 2,
+      "poetry": false,
       "text": "“‘I sent Moses and Aaron, and I plagued Egypt, according to that which I did among them: and afterward I brought you out."
     },
     {
-      "id": "jos_24_6",
       "chapter": 24,
       "verse": 6,
+      "paragraph": 2,
+      "poetry": false,
       "text": "I brought your fathers out of Egypt: and you came to the sea. The Egyptians pursued your fathers with chariots and with horsemen to the Red Sea."
     },
     {
-      "id": "jos_24_7",
       "chapter": 24,
       "verse": 7,
+      "paragraph": 2,
+      "poetry": false,
       "text": "When they cried out to the LORD, he put darkness between you and the Egyptians, and brought the sea on them, and covered them; and your eyes saw what I did in Egypt. You lived in the wilderness many days."
     },
     {
-      "id": "jos_24_8",
       "chapter": 24,
       "verse": 8,
+      "paragraph": 3,
+      "poetry": false,
       "text": "“‘I brought you into the land of the Amorites, that lived beyond the Jordan. They fought with you, and I gave them into your hand. You possessed their land, and I destroyed them from before you."
     },
     {
-      "id": "jos_24_9",
       "chapter": 24,
       "verse": 9,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Then Balak the son of Zippor, king of Moab, arose and fought against Israel. He sent and called Balaam the son of Beor to curse you,"
     },
     {
-      "id": "jos_24_10",
       "chapter": 24,
       "verse": 10,
+      "paragraph": 3,
+      "poetry": false,
       "text": "but I would not listen to Balaam; therefore he blessed you still. So I delivered you out of his hand."
     },
     {
-      "id": "jos_24_11",
       "chapter": 24,
       "verse": 11,
+      "paragraph": 4,
+      "poetry": false,
       "text": "“‘You went over the Jordan, and came to Jericho. The men of Jericho fought against you, the Amorite, the Perizzite, the Canaanite, the Hittite, the Girgashite, the Hivite, and the Jebusite; and I delivered them into your hand."
     },
     {
-      "id": "jos_24_12",
       "chapter": 24,
       "verse": 12,
+      "paragraph": 4,
+      "poetry": false,
       "text": "I sent the hornet before you, which drove them out from before you, even the two kings of the Amorites; not with your sword, nor with your bow."
     },
     {
-      "id": "jos_24_13",
       "chapter": 24,
       "verse": 13,
+      "paragraph": 4,
+      "poetry": false,
       "text": "I gave you a land on which you had not labored, and cities which you didn’t build, and you live in them. You eat of vineyards and olive groves which you didn’t plant.’"
     },
     {
-      "id": "jos_24_14",
       "chapter": 24,
       "verse": 14,
+      "paragraph": 5,
+      "poetry": false,
       "text": "“Now therefore fear the LORD, and serve him in sincerity and in truth. Put away the gods which your fathers served beyond the River, in Egypt; and serve the LORD."
     },
     {
-      "id": "jos_24_15",
       "chapter": 24,
       "verse": 15,
+      "paragraph": 5,
+      "poetry": false,
       "text": "If it seems evil to you to serve the LORD, choose today whom you will serve; whether the gods which your fathers served that were beyond the River, or the gods of the Amorites, in whose land you dwell; but as for me and my house, we will serve the LORD.”"
     },
     {
-      "id": "jos_24_16",
       "chapter": 24,
       "verse": 16,
+      "paragraph": 6,
+      "poetry": false,
       "text": "The people answered, “Far be it from us that we should forsake the LORD, to serve other gods;"
     },
     {
-      "id": "jos_24_17",
       "chapter": 24,
       "verse": 17,
+      "paragraph": 6,
+      "poetry": false,
       "text": "for it is the LORD our God who brought us and our fathers up out of the land of Egypt, from the house of bondage, and who did those great signs in our sight, and preserved us in all the way in which we went, and among all the peoples through the middle of whom we passed."
     },
     {
-      "id": "jos_24_18",
       "chapter": 24,
       "verse": 18,
+      "paragraph": 6,
+      "poetry": false,
       "text": "The LORD drove out from before us all the peoples, even the Amorites who lived in the land. Therefore we also will serve the LORD; for he is our God.”"
     },
     {
-      "id": "jos_24_19",
       "chapter": 24,
       "verse": 19,
+      "paragraph": 7,
+      "poetry": false,
       "text": "Joshua said to the people, “You can’t serve the LORD, for he is a holy God. He is a jealous God. He will not forgive your disobedience nor your sins."
     },
     {
-      "id": "jos_24_20",
       "chapter": 24,
       "verse": 20,
+      "paragraph": 7,
+      "poetry": false,
       "text": "If you forsake the LORD, and serve foreign gods, then he will turn and do you evil, and consume you, after he has done you good.”"
     },
     {
-      "id": "jos_24_21",
       "chapter": 24,
       "verse": 21,
+      "paragraph": 8,
+      "poetry": false,
       "text": "The people said to Joshua, “No, but we will serve the LORD.”"
     },
     {
-      "id": "jos_24_22",
       "chapter": 24,
       "verse": 22,
-      "text": "Joshua said to the people, “You are witnesses against yourselves that you have chosen the LORD yourselves, to serve him.” They said, “We are witnesses.”"
+      "paragraph": 8,
+      "poetry": false,
+      "text": "Joshua said to the people, “You are witnesses against yourselves that you have chosen the LORD yourselves, to serve him.”"
     },
     {
-      "id": "jos_24_23",
       "chapter": 24,
       "verse": 23,
+      "paragraph": 10,
+      "poetry": false,
       "text": "“Now therefore put away the foreign gods which are among you, and incline your heart to the LORD, the God of Israel.”"
     },
     {
-      "id": "jos_24_24",
       "chapter": 24,
       "verse": 24,
+      "paragraph": 11,
+      "poetry": false,
       "text": "The people said to Joshua, “We will serve the LORD our God, and we will listen to his voice.”"
     },
     {
-      "id": "jos_24_25",
       "chapter": 24,
       "verse": 25,
+      "paragraph": 12,
+      "poetry": false,
       "text": "So Joshua made a covenant with the people that day, and made for them a statute and an ordinance in Shechem."
     },
     {
-      "id": "jos_24_26",
       "chapter": 24,
       "verse": 26,
+      "paragraph": 12,
+      "poetry": false,
       "text": "Joshua wrote these words in the book of the law of God; and he took a great stone, and set it up there under the oak that was by the sanctuary of the LORD."
     },
     {
-      "id": "jos_24_27",
       "chapter": 24,
       "verse": 27,
+      "paragraph": 12,
+      "poetry": false,
       "text": "Joshua said to all the people, “Behold, this stone shall be a witness against us, for it has heard all the LORD’s words which he spoke to us. It shall be therefore a witness against you, lest you deny your God.”"
     },
     {
-      "id": "jos_24_28",
       "chapter": 24,
       "verse": 28,
+      "paragraph": 12,
+      "poetry": false,
       "text": "So Joshua sent the people away, each to his own inheritance."
     },
     {
-      "id": "jos_24_29",
       "chapter": 24,
       "verse": 29,
+      "paragraph": 13,
+      "poetry": false,
       "text": "After these things, Joshua the son of Nun, the servant of the LORD, died, being one hundred ten years old."
     },
     {
-      "id": "jos_24_30",
       "chapter": 24,
       "verse": 30,
+      "paragraph": 13,
+      "poetry": false,
       "text": "They buried him in the border of his inheritance in Timnathserah, which is in the hill country of Ephraim, on the north of the mountain of Gaash."
     },
     {
-      "id": "jos_24_31",
       "chapter": 24,
       "verse": 31,
+      "paragraph": 13,
+      "poetry": false,
       "text": "Israel served the LORD all the days of Joshua, and all the days of the elders who outlived Joshua, and had known all the work of the LORD, that he had worked for Israel."
     },
     {
-      "id": "jos_24_32",
       "chapter": 24,
       "verse": 32,
+      "paragraph": 13,
+      "poetry": false,
       "text": "They buried the bones of Joseph, which the children of Israel brought up out of Egypt, in Shechem, in the parcel of ground which Jacob bought from the sons of Hamor the father of Shechem for a hundred pieces of silver. They became the inheritance of the children of Joseph."
     },
     {
-      "id": "jos_24_33",
       "chapter": 24,
       "verse": 33,
+      "paragraph": 13,
+      "poetry": false,
       "text": "Eleazar the son of Aaron died. They buried him in the hill of Phinehas his son, which was given him in the hill country of Ephraim."
     }
   ]

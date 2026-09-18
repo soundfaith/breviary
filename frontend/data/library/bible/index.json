@@ -1,6 +1,6 @@
 {
   "translation": "World English Bible (Updated)",
-  "source": "tmp_source/engwebu_vpl.txt",
+  "source": "engwebp_usfm",
   "books": [
     {
       "id": "genesis",
@@ -131,7 +131,7 @@
     {
       "id": "song_of_solomon",
       "name": "Song of Solomon",
-      "abbreviation": "SOL",
+      "abbreviation": "SNG",
       "verseCount": 117
     },
     {
@@ -173,7 +173,7 @@
     {
       "id": "joel",
       "name": "Joel",
-      "abbreviation": "JOE",
+      "abbreviation": "JOL",
       "verseCount": 73
     },
     {
@@ -329,32 +329,32 @@
     {
       "id": "mark",
       "name": "Mark",
-      "abbreviation": "MAR",
+      "abbreviation": "MRK",
       "verseCount": 678
     },
     {
       "id": "luke",
       "name": "Luke",
       "abbreviation": "LUK",
-      "verseCount": 1151
+      "verseCount": 1150
     },
     {
       "id": "john",
       "name": "John",
-      "abbreviation": "JOH",
+      "abbreviation": "JHN",
       "verseCount": 879
     },
     {
       "id": "acts",
       "name": "Acts",
       "abbreviation": "ACT",
-      "verseCount": 1007
+      "verseCount": 1004
     },
     {
       "id": "romans",
       "name": "Romans",
       "abbreviation": "ROM",
-      "verseCount": 434
+      "verseCount": 433
     },
     {
       "id": "1_corinthians",
@@ -383,7 +383,7 @@
     {
       "id": "philippians",
       "name": "Philippians",
-      "abbreviation": "PHI",
+      "abbreviation": "PHP",
       "verseCount": 104
     },
     {
@@ -437,7 +437,7 @@
     {
       "id": "james",
       "name": "James",
-      "abbreviation": "JAM",
+      "abbreviation": "JAS",
       "verseCount": 108
     },
     {
@@ -455,19 +455,19 @@
     {
       "id": "1_john",
       "name": "1 John",
-      "abbreviation": "1JO",
+      "abbreviation": "1JN",
       "verseCount": 105
     },
     {
       "id": "2_john",
       "name": "2 John",
-      "abbreviation": "2JO",
+      "abbreviation": "2JN",
       "verseCount": 13
     },
     {
       "id": "3_john",
       "name": "3 John",
-      "abbreviation": "3JO",
+      "abbreviation": "3JN",
       "verseCount": 14
     },
     {

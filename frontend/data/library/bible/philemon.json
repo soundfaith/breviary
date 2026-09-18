@@ -3,155 +3,181 @@
   "name": "Philemon",
   "abbreviation": "PHM",
   "translation": "World English Bible (Updated)",
+  "source": "engwebp_usfm",
   "verses": [
     {
-      "id": "phm_1_1",
       "chapter": 1,
       "verse": 1,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Paul, a prisoner of Christ Jesus, and Timothy our brother, to Philemon, our beloved fellow worker,"
     },
     {
-      "id": "phm_1_2",
       "chapter": 1,
       "verse": 2,
+      "paragraph": 1,
+      "poetry": false,
       "text": "to the beloved Apphia, to Archippus our fellow soldier, and to the assembly in your house:"
     },
     {
-      "id": "phm_1_3",
       "chapter": 1,
       "verse": 3,
+      "paragraph": 1,
+      "poetry": false,
       "text": "Grace to you and peace from God our Father and the Lord Jesus Christ."
     },
     {
-      "id": "phm_1_4",
       "chapter": 1,
       "verse": 4,
+      "paragraph": 2,
+      "poetry": false,
       "text": "I thank my God always, making mention of you in my prayers,"
     },
     {
-      "id": "phm_1_5",
       "chapter": 1,
       "verse": 5,
+      "paragraph": 2,
+      "poetry": false,
       "text": "hearing of your love and of the faith which you have toward the Lord Jesus and toward all the saints,"
     },
     {
-      "id": "phm_1_6",
       "chapter": 1,
       "verse": 6,
+      "paragraph": 2,
+      "poetry": false,
       "text": "that the fellowship of your faith may become effective in the knowledge of every good thing which is in us in Christ Jesus."
     },
     {
-      "id": "phm_1_7",
       "chapter": 1,
       "verse": 7,
+      "paragraph": 2,
+      "poetry": false,
       "text": "For we have much joy and comfort in your love, because the hearts of the saints have been refreshed through you, brother."
     },
     {
-      "id": "phm_1_8",
       "chapter": 1,
       "verse": 8,
+      "paragraph": 3,
+      "poetry": false,
       "text": "Therefore though I have all boldness in Christ to command you that which is appropriate,"
     },
     {
-      "id": "phm_1_9",
       "chapter": 1,
       "verse": 9,
+      "paragraph": 3,
+      "poetry": false,
       "text": "yet for love’s sake I rather appeal to you, being such a one as Paul, the aged, but also a prisoner of Jesus Christ."
     },
     {
-      "id": "phm_1_10",
       "chapter": 1,
       "verse": 10,
+      "paragraph": 3,
+      "poetry": false,
       "text": "I appeal to you for my child Onesimus, whom I have become the father of in my chains,"
     },
     {
-      "id": "phm_1_11",
       "chapter": 1,
       "verse": 11,
+      "paragraph": 3,
+      "poetry": false,
       "text": "who once was useless to you, but now is useful to you and to me."
     },
     {
-      "id": "phm_1_12",
       "chapter": 1,
       "verse": 12,
+      "paragraph": 3,
+      "poetry": false,
       "text": "I am sending him back. Therefore receive him, that is, my own heart,"
     },
     {
-      "id": "phm_1_13",
       "chapter": 1,
       "verse": 13,
+      "paragraph": 3,
+      "poetry": false,
       "text": "whom I desired to keep with me, that on your behalf he might serve me in my chains for the Good News."
     },
     {
-      "id": "phm_1_14",
       "chapter": 1,
       "verse": 14,
+      "paragraph": 3,
+      "poetry": false,
       "text": "But I was willing to do nothing without your consent, that your goodness would not be as of necessity, but of free will."
     },
     {
-      "id": "phm_1_15",
       "chapter": 1,
       "verse": 15,
+      "paragraph": 3,
+      "poetry": false,
       "text": "For perhaps he was therefore separated from you for a while that you would have him forever,"
     },
     {
-      "id": "phm_1_16",
       "chapter": 1,
       "verse": 16,
+      "paragraph": 3,
+      "poetry": false,
       "text": "no longer as a slave, but more than a slave, a beloved brother—especially to me, but how much rather to you, both in the flesh and in the Lord."
     },
     {
-      "id": "phm_1_17",
       "chapter": 1,
       "verse": 17,
+      "paragraph": 4,
+      "poetry": false,
       "text": "If then you count me a partner, receive him as you would receive me."
     },
     {
-      "id": "phm_1_18",
       "chapter": 1,
       "verse": 18,
+      "paragraph": 4,
+      "poetry": false,
       "text": "But if he has wronged you at all or owes you anything, put that to my account."
     },
     {
-      "id": "phm_1_19",
       "chapter": 1,
       "verse": 19,
+      "paragraph": 4,
+      "poetry": false,
       "text": "I, Paul, write this with my own hand: I will repay it (not to mention to you that you owe to me even your own self besides)."
     },
     {
-      "id": "phm_1_20",
       "chapter": 1,
       "verse": 20,
+      "paragraph": 4,
+      "poetry": false,
       "text": "Yes, brother, let me have joy from you in the Lord. Refresh my heart in the Lord."
     },
     {
-      "id": "phm_1_21",
       "chapter": 1,
       "verse": 21,
+      "paragraph": 5,
+      "poetry": false,
       "text": "Having confidence in your obedience, I write to you, knowing that you will do even beyond what I say."
     },
     {
-      "id": "phm_1_22",
       "chapter": 1,
       "verse": 22,
+      "paragraph": 6,
+      "poetry": false,
       "text": "Also, prepare a guest room for me, for I hope that through your prayers I will be restored to you."
     },
     {
-      "id": "phm_1_23",
       "chapter": 1,
       "verse": 23,
+      "paragraph": 7,
+      "poetry": false,
       "text": "Epaphras, my fellow prisoner in Christ Jesus, greets you,"
     },
     {
-      "id": "phm_1_24",
       "chapter": 1,
       "verse": 24,
+      "paragraph": 7,
+      "poetry": false,
       "text": "as do Mark, Aristarchus, Demas, and Luke, my fellow workers."
     },
     {
-      "id": "phm_1_25",
       "chapter": 1,
       "verse": 25,
+      "paragraph": 8,
+      "poetry": false,
       "text": "The grace of our Lord Jesus Christ be with your spirit. Amen."
     }
   ]

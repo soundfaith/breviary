@@ -109,7 +109,7 @@
 .dark .hero, .dark .reader-toolbar, .dark .reader-footer, .dark .utility-heading, .dark .drawer-search, .dark .drawer-settings, .dark .library-tabs, .dark .day-summary dl, .dark .search-group h2 { border-color: #2b3933; } .dark .rule { background: #2b3933; } .dark .search-group button { border-color: #273630; background-color: transparent; } .dark .icon-button, .dark .hour-card, .dark .calendar-panel, .dark .calendar-prayer-panel, .dark .reference-item, .dark .content-card, .dark .page-button, .dark .guide-list article { border-color: #2b3933; } .dark .library-tabs button.active { border-color: #6b5438; }
 .dark .reader-action { border-color: #2b3933; } .dark .audio-button { background: #41634e; }
 @media (max-width:720px) { .hours-grid { grid-template-columns: 1fr; } }
-@media (max-width:720px) { .reader-footer { position: relative; } .reader-footer .audio-button { position: fixed; z-index: 5; left: 50%; bottom: 18px; transform: translateX(-50%); box-shadow: 0 8px 24px rgba(10,20,14,.28); } .reader-footer .audio-button:hover { transform: translateX(-50%); } }
+@media (max-width:720px) { .reader-footer { position: relative; } .reader-footer .audio-button.audio-session-active { position: fixed; z-index: 9; right: 22px; bottom: 88px; box-shadow: 0 8px 24px rgba(10,20,14,.28); } }
 
 /* Shared SoundFaith surface language, tuned for long-form prayer reading. */
 :root {
@@ -168,6 +168,7 @@ button:focus-visible, input:focus-visible { outline: 2px solid var(--moss-deep);
 .dark .landing-reading-card .hour-card:hover { background: #22352b; border-color: var(--moss-deep); }
 .reader-page, .utility-page { width: min(1160px, calc(100% - 80px)); max-width: none; padding-left: 0; padding-right: 0; }
 .reader-toolbar, .reader-footer, .utility-heading { border-color: var(--line); }
+.reader-toolbar { min-height: 61px; }
 .reader-action { border-radius: 0; border-color: var(--line); }
 .prayer-content { max-width: 700px; }
 .prayer-content h1, .utility-heading h1 { font-family: 'DM Serif Display', 'Newsreader', serif; color: var(--ink); letter-spacing: -.04em; }
@@ -177,6 +178,16 @@ button:focus-visible, input:focus-visible { outline: 2px solid var(--moss-deep);
 .prayer-block p { color: #3f4b43; line-height: 1.85; }
 .dark .prayer-block p { color: #d4dbd1; }
 .audio-button { border-radius: 50%; background: var(--moss-deep); }
+.audio-control { position: relative; z-index: 2; display: inline-flex; align-items: center; justify-content: center; }
+.audio-progress { position: absolute; z-index: 3; right: 0; width: 150px; height: 12px; margin: 0; border: 0; outline: 0; opacity: 0; pointer-events: none; accent-color: var(--moss-deep); appearance: none; background: linear-gradient(to right, var(--moss-deep) calc(var(--audio-progress, 0) * (100% - 12px) + 6px), var(--line) calc(var(--audio-progress, 0) * (100% - 12px) + 6px)); border-radius: 999px; transform: translateX(4px); transition: opacity .35s ease, transform .35s ease; }
+.audio-control.progress-visible { gap: 10px; }
+.audio-control.progress-visible .audio-progress { position: static; order: 2; opacity: 1; pointer-events: auto; transform: translateX(0); }
+.audio-control .audio-button { order: 1; }
+.audio-progress:focus { outline: 0; }
+.audio-progress::-webkit-slider-runnable-track { height: 4px; border-radius: 999px; background: transparent; }
+.audio-progress::-webkit-slider-thumb { width: 12px; height: 12px; margin-top: -4px; border: 0; border-radius: 50%; background: var(--moss-deep); appearance: none; }
+.audio-progress::-moz-range-track { height: 4px; border-radius: 999px; background: transparent; }
+.audio-progress::-moz-range-thumb { width: 12px; height: 12px; border: 0; border-radius: 50%; background: var(--moss-deep); }
 .calendar-panel, .calendar-prayer-panel, .reference-item, .library-card, .content-card { border-radius: 0; border-color: var(--line); background: var(--white); }
 .calendar-day:hover, .calendar-day.selected { border-color: var(--moss-deep); background: var(--sage); }
 .calendar-prayer-item:hover, .calendar-prayer-item.current { color: var(--moss-deep); }
@@ -187,7 +198,41 @@ button:focus-visible, input:focus-visible { outline: 2px solid var(--moss-deep);
 .about-content h2 { font-family: 'DM Serif Display', 'Newsreader', serif; }
 .drawer { background: var(--white); }
 .drawer-nav button.current, .setting-state { color: var(--moss-deep); }
+.drawer-menu-divider { height: 1px; margin: 12px 0; background: var(--line); }
 .drawer-settings input { accent-color: var(--moss-deep); }
+.voice-setting { align-items: flex-start !important; gap: 14px; }
+.voice-setting select { min-width: 0; max-width: 230px; border: 1px solid var(--line); border-radius: 999px; outline: 0; background: var(--sage); color: inherit; padding: 9px 32px 9px 12px; font: inherit; font-size: 12px; cursor: pointer; }
+.voice-setting select:focus { border-color: var(--moss-deep); box-shadow: 0 0 0 3px color-mix(in srgb, var(--moss-deep) 14%, transparent); }
+.dark .voice-setting select { background: #24332b; border-color: #35483d; color: #f1f4ed; }
+.header-menu-button { display: inline-flex; align-items: center; gap: 8px; border: 0; background: transparent; color: inherit; font-size: 13px; font-weight: 700; }
+.selector-backdrop { position: fixed; z-index: 10; inset: 0; background: rgba(20,30,24,.35); animation: selector-fade-in .2s ease-out; }
+.selector-modal { position: fixed; z-index: 11; top: 50%; left: 50%; width: min(620px, calc(100vw - 40px)); max-height: min(760px, calc(100vh - 48px)); overflow: auto; padding: 24px 30px 30px; border: 1px solid var(--line); background: var(--white); box-shadow: 0 24px 70px rgba(25,42,31,.2); transform: translate(-50%, -50%); animation: selector-pop-in .2s ease-out; }
+.selector-modal.is-closing { animation: selector-pop-out .22s ease-in forwards; }
+.selector-modal-header { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-bottom: 20px; }
+.selector-modal-header strong { font: 400 32px 'DM Serif Display', 'Newsreader', serif; }
+.selector-handle { display: none; }
+.selector-action { display: flex; align-items: center; justify-content: space-between; width: 100%; padding: 11px 0; border: 0; border-bottom: 1px solid var(--line); background: transparent; color: inherit; text-align: left; font-size: 14px; }
+.selector-action small { color: var(--muted); font: italic 14px 'Newsreader', serif; }
+.selector-action.current { color: var(--moss-deep); font-weight: 700; }
+.selector-modal .drawer-calendar { padding: 2px 0 10px; }
+.selector-modal .drawer-calendar-header { margin-bottom: 8px; }
+.selector-modal .drawer-calendar-header .icon-button { width: 28px; height: 28px; }
+.selector-modal .drawer-calendar > .weekday-row { margin: 8px 0 3px; }
+.selector-modal .drawer-calendar > .month-grid { gap: 2px; }
+.selector-modal .drawer-calendar > .month-grid .calendar-day { aspect-ratio: auto; min-height: 28px; font-size: 11px; }
+.bible-search-input { display: flex; align-items: center; gap: 10px; border-bottom: 1px solid var(--moss-deep); padding: 10px 0; color: var(--moss-deep); }
+.bible-search-input input { width: 100%; border: 0; outline: 0; background: transparent; color: inherit; font: 18px 'Newsreader', serif; }
+.bible-search-input input::placeholder { color: var(--muted); }
+.bible-search-results { display: grid; gap: 0; margin-top: 14px; max-height: min(52vh, 420px); overflow: auto; }
+.bible-search-result { display: grid; gap: 5px; width: 100%; padding: 12px 0; border: 0; border-bottom: 1px solid var(--line); background: transparent; color: inherit; text-align: left; }
+.bible-search-result:hover { color: var(--moss-deep); }
+.bible-search-result strong { font-size: 13px; }
+.bible-search-result span { color: var(--muted); font-size: 13px; line-height: 1.45; }
+.bible-search-more { width: 100%; margin-top: 12px; padding: 10px; border: 1px solid var(--line); background: var(--sage); color: var(--moss-deep); font-weight: 700; }
+.bible-search-empty { color: var(--muted); font-size: 14px; }
+@keyframes selector-fade-in { from { opacity: 0; } to { opacity: 1; } }
+@keyframes selector-pop-in { from { opacity: 0; transform: translate(-50%, -47%); } to { opacity: 1; transform: translate(-50%, -50%); } }
+@keyframes selector-pop-out { from { opacity: 1; transform: translate(-50%, -50%); } to { opacity: 0; transform: translate(-50%, -47%); } }
 .drawer-calendar { display: block; padding: 8px 0 20px; border-bottom: 1px solid var(--line); }
 .drawer-calendar-header { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 16px; }
 .drawer-calendar-header strong { font-family: 'DM Serif Display', 'Newsreader', serif; font-size: 20px; font-weight: 400; }
@@ -246,6 +291,7 @@ button:focus-visible, input:focus-visible { outline: 2px solid var(--moss-deep);
 .bible-verses p { margin: 0 0 20px; color: #3f4b43; font: 400 1em/1.85 'DM Sans', sans-serif; }
 .dark .bible-verses p { color: #d4dbd1; }
 .bible-verses sup { display: inline; min-width: 0; margin-right: 3px; color: var(--moss-deep); font-size: .65em; font-weight: 800; vertical-align: .55em; }
+.bible-verse-highlight { border-radius: 3px; background: color-mix(in srgb, var(--moss) 30%, transparent); box-shadow: 0 0 0 4px color-mix(in srgb, var(--moss) 12%, transparent); }
 .dark .bible-verses sup { color: #a8d1b2; }
 .bible-verses p + p { margin-top: 30px; }
 .drawer-select { display: grid; gap: 7px; padding: 10px 0; color: var(--muted); font-size: 10px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
@@ -268,7 +314,6 @@ button:focus-visible, input:focus-visible { outline: 2px solid var(--moss-deep);
 .dark .bible-chapter-label { color: #a8d1b2; }
 .mobile-bottom-nav { display: none; }
 .mass-readings-card .hour-card { width: 100%; min-height: 220px; }
-.readings-page .reader-action { display: none; }
 .prayer-content h1 { margin-bottom: 22px; }
 .readings-page .prayer-subtitle { margin-top: 22px; }
 .drawer-calendar, .theme-switch { display: flex; align-items: center; gap: 10px; width: 100%; padding: 11px 0; color: inherit; font-size: 14px; }
@@ -297,6 +342,20 @@ button:focus-visible, input:focus-visible { outline: 2px solid var(--moss-deep);
 	.mobile-bottom-nav button { display: grid; place-items: center; align-content: center; gap: 3px; min-width: 0; min-height: 48px; padding: 4px 2px; border: 0; background: transparent; color: var(--muted); font-size: 8px; font-weight: 800; letter-spacing: .02em; }
 	.mobile-bottom-nav button.active, .mobile-bottom-nav button.active svg, .mobile-bottom-nav button:hover { color: var(--moss-deep); }
 	.mobile-bottom-nav button:disabled { opacity: .55; cursor: default; }
+	.mobile-bottom-nav .mobile-hour-button { width: 54px; height: 54px; align-self: center; justify-self: center; min-height: 54px; border-radius: 50%; background: #244c3b !important; color: #f5f2ec !important; box-shadow: 0 8px 18px color-mix(in srgb, #244c3b 32%, transparent); }
+	.mobile-bottom-nav button.mobile-hour-button,
+	.mobile-bottom-nav button.mobile-hour-button:hover,
+	.mobile-bottom-nav button.mobile-hour-button.active { color: #f5f2ec !important; }
+	.mobile-bottom-nav button.mobile-hour-button svg,
+	.mobile-bottom-nav button.mobile-hour-button.active svg { color: #f5f2ec !important; }
+	.mobile-bottom-nav button.mobile-hour-button span { color: #f5f2ec !important; }
+	.reader-footer .audio-control.progress-visible .audio-progress { position: absolute; z-index: 10; top: 50%; right: auto; bottom: auto; left: 14px; width: 150px; transform: translateY(-50%); opacity: 1; pointer-events: auto; }
+	.reader-footer .audio-control:has(.audio-session-active) { position: fixed; z-index: 9; right: 20px; bottom: 86px; width: 226px; height: 52px; padding: 2px 2px 2px 14px; gap: 8px; border: 1px solid transparent; border-radius: 999px; background: transparent; box-shadow: none; backdrop-filter: none; flex-direction: row-reverse; transition: background .35s ease, border-color .35s ease, box-shadow .35s ease, backdrop-filter .35s ease; }
+	.reader-footer .audio-control:has(.audio-session-active) .audio-progress { position: absolute; top: 50%; right: auto; bottom: auto; left: 14px; width: 150px; transform: translateY(-50%); }
+	.reader-footer .audio-control.progress-visible:has(.audio-session-active) { border-color: var(--line); background: color-mix(in srgb, var(--white) 94%, transparent); box-shadow: 0 12px 28px rgba(10,20,14,.22); backdrop-filter: blur(12px); }
+	.reader-footer .audio-control:has(.audio-session-active) .audio-button.audio-session-active { position: absolute; top: 50%; right: 2px; transform: translateY(-50%); }
+	.reader-footer .audio-control.progress-visible:has(.audio-session-active) .audio-progress { position: absolute; width: 150px; transform: translateY(-50%); }
+	.dark .reader-footer .audio-control.progress-visible:has(.audio-session-active) { border-color: #2b3933; background: color-mix(in srgb, #18211e 94%, transparent); }
 	.mobile-bottom-nav .mobile-play { width: 54px; height: 54px; align-self: center; justify-self: center; min-height: 54px; border: 0; border-radius: 50%; background: #244c3b !important; color: #f5f2ec !important; opacity: 1 !important; box-shadow: 0 8px 18px color-mix(in srgb, #244c3b 32%, transparent); }
 	.mobile-bottom-nav .mobile-play.is-speaking { background: #41634e; }
 	.mobile-bottom-nav .mobile-play:disabled { opacity: 1; color: var(--paper); }
@@ -311,6 +370,17 @@ button:focus-visible, input:focus-visible { outline: 2px solid var(--moss-deep);
 	.dark .mobile-bottom-nav .mobile-play svg, .dark .mobile-bottom-nav .mobile-play > span:last-child { color: #f5f2ec; }
 	.dark .mobile-bottom-nav .mobile-play .equalizer i { background: #f5f2ec; }
 	.home-page, .reader-page, .utility-page { padding-bottom: 105px; }
+	.header-menu-button { display: none; }
+	.selector-backdrop { z-index: 10; }
+	.selector-modal { top: auto; right: 0; bottom: 0; left: 0; width: 100%; max-height: min(82vh, 720px); padding: 10px 22px 28px; border-right: 0; border-bottom: 0; border-left: 0; border-radius: 22px 22px 0 0; transform: none; animation: selector-slide-up .24s ease-out; }
+	.selector-modal.is-closing { animation: selector-slide-down .22s ease-in forwards; }
+	.selector-handle { display: block; width: 42px; height: 4px; margin: 0 auto 12px; border-radius: 999px; background: var(--muted); opacity: .65; }
+	.selector-modal-header { margin-bottom: 12px; }
+	.selector-modal-header strong { font-size: 27px; }
+	.bible-search-modal { padding-bottom: 24px; }
+	.bible-search-results { max-height: 48vh; }
+	@keyframes selector-slide-up { from { opacity: 0; transform: translateY(100%); } to { opacity: 1; transform: translateY(0); } }
+	@keyframes selector-slide-down { from { opacity: 1; transform: translateY(0); } to { opacity: 0; transform: translateY(100%); } }
 }
 
 /* Keep the menu calendar as a real seven-column grid. */
