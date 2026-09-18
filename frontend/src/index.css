@@ -302,6 +302,13 @@ button:focus-visible, input:focus-visible { outline: 2px solid var(--moss-deep);
 .landing-bible-card { display: inline-block; width: calc((100% - 40px) / 3); margin-left: 10px; vertical-align: top; }
 .landing-bible-card .hour-card { width: 100%; min-height: 220px; }
 .bible-reader { touch-action: pan-y; }
+.bible-swipe-next, .bible-swipe-previous { animation-duration: .32s; animation-timing-function: ease-out; }
+@media (max-width: 720px) {
+	.bible-swipe-next { animation-name: bible-slide-next; }
+	.bible-swipe-previous { animation-name: bible-slide-previous; }
+}
+@keyframes bible-slide-next { from { opacity: .45; transform: translateX(28px); } to { opacity: 1; transform: translateX(0); } }
+@keyframes bible-slide-previous { from { opacity: .45; transform: translateX(-28px); } to { opacity: 1; transform: translateX(0); } }
 .bible-controls { display: grid; grid-template-columns: minmax(0, 1fr) 140px; gap: 12px; margin-top: 32px; }
 .bible-controls label { display: grid; gap: 7px; color: var(--muted); font-size: 10px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
 .bible-controls select { width: 100%; min-height: 42px; border: 1px solid var(--line); border-radius: 0; background: var(--white); color: var(--ink); padding: 0 11px; font: inherit; font-size: 13px; text-transform: none; letter-spacing: 0; }

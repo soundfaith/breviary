@@ -190,6 +190,7 @@ function AppExpanded() {
   const [feedbackMessage, setFeedbackMessage] = useState("");
   const [feedbackSending, setFeedbackSending] = useState(false);
   const [feedbackError, setFeedbackError] = useState("");
+  const [bibleSwipeDirection, setBibleSwipeDirection] = useState<"next" | "previous" | null>(null);
   const [speechVoices, setSpeechVoices] = useState<SpeechSynthesisVoice[]>([]);
   const [selectedVoiceURI, setSelectedVoiceURI] = useState(() => window.localStorage.getItem("soundfaith-voice-uri") ?? "");
   const speechRef = useRef<SpeechSynthesisUtterance | null>(null);
@@ -494,6 +495,11 @@ function AppExpanded() {
     const nextBookChapters = bibleChapters(nextBook);
     setBibleChapterNumber(direction === 1 ? nextBookChapters[0] : nextBookChapters[nextBookChapters.length - 1]);
     setExpandedTestament(bibleOldTestamentBooks.some((book) => book.id === nextBook.id) ? "old" : "new");
+  };
+  const moveBibleChapterWithAnimation = (direction: 1 | -1) => {
+    setBibleSwipeDirection(direction === 1 ? "next" : "previous");
+    moveBibleChapter(direction);
+    window.setTimeout(() => setBibleSwipeDirection(null), 320);
   };
   const selectBibleBook = (bookId: string, testament: "old" | "new") => {
     setBibleBookId(bookId);
@@ -952,18 +958,18 @@ function AppExpanded() {
             </div>
           </div>
           <article
-            className="prayer-content prayer-content--enter bible-reader"
+            className={`prayer-content prayer-content--enter bible-reader ${bibleSwipeDirection ? `bible-swipe-${bibleSwipeDirection}` : ""}`}
             style={{ fontSize: readableFontSize }}
             onTouchStart={(event) => { bibleTouchStart.current = event.touches[0]?.clientX ?? null }}
             onTouchEnd={(event) => {
               if (bibleTouchStart.current === null) return
               const distance = (event.changedTouches[0]?.clientX ?? bibleTouchStart.current) - bibleTouchStart.current
-              if (Math.abs(distance) > 55) moveBibleChapter(distance < 0 ? 1 : -1)
+              if (Math.abs(distance) > 55) moveBibleChapterWithAnimation(distance < 0 ? 1 : -1)
               bibleTouchStart.current = null
             }}
           >
             <span className="section-kicker">Scripture</span>
-            <h1>{bibleBook.name}</h1>
+            <h1>{bibleBook.name} {bibleChapterNumber}</h1>
             <div className="rule" />
             <div className="bible-verses">{bibleParagraphs.map((paragraph, index) => <p key={`${bibleBook.id}-${bibleChapterNumber}-${index}`}>{paragraph.map((verse) => { const verseId = `bible-verse-${bibleBook.id}-${verse.chapter}-${verse.verse}`; return <span className={searchedVerseKey === verseId ? "bible-verse-highlight" : ""} id={verseId} key={verse.verse}><sup>{verse.verse}</sup>{verse.text} </span>; })}</p>)}</div>
           </article>
@@ -1215,7 +1221,7 @@ function AppExpanded() {
                   </button>
                   {expandedTestament === "new" && <div className="bible-book-pills">{bibleNewTestamentBooks.map((book) => <button className={book.id === bibleBook.id ? "selected" : ""} key={book.id} onClick={() => selectBibleBook(book.id, "new")}>{book.name}</button>)}</div>}
                 </section>
-                <div className="bible-chapter-pills"><span className="nav-label">Chapters</span><div>{bibleChapterNumbers.map((chapter) => <button className={chapter === bibleChapterNumber ? "selected" : ""} key={chapter} onClick={() => setBibleChapterNumber(chapter)}>{chapter}</button>)}</div></div>
+                <div className="bible-chapter-pills"><span className="nav-label">Chapters</span><div>{bibleChapterNumbers.map((chapter) => <button className={chapter === bibleChapterNumber ? "selected" : ""} key={chapter} onClick={() => { setBibleChapterNumber(chapter); closeSelector(); }}>{chapter}</button>)}</div></div>
               </>
             ) : (
               <div className="drawer-calendar">

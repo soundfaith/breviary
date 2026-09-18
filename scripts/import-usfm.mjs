@@ -5,7 +5,9 @@ const root = process.cwd()
 const sourceDir = path.join(root, 'engwebp_usfm')
 const outputDir = path.join(root, 'frontend', 'data', 'library', 'bible')
 const existingIndexPath = path.join(outputDir, 'index.json')
-const sourceFiles = fs.readdirSync(sourceDir).filter((file) => /^\d+-.+engwebp\.usfm$/i.test(file))
+const sourceFiles = fs.existsSync(sourceDir)
+  ? fs.readdirSync(sourceDir).filter((file) => /^\d+-.+engwebp\.usfm$/i.test(file))
+  : []
 const ignoredFiles = new Set(['00-FRTengwebp.usfm', '106-GLOengwebp.usfm'])
 
 const codeToId = {
@@ -28,12 +30,30 @@ function cleanUsfm(text) {
   return text
     .replace(/\\f\s[\s\S]*?\\f\*/g, ' ')
     .replace(/\\x\s[\s\S]*?\\x\*/g, ' ')
+    .replace(/\\\+w\s+/g, '')
+    .replace(/\\\+w\*/g, '')
     .replace(/\\w\s+([^|\\]+)\|[^\\]*\\w\*/g, '$1')
     .replace(/\\([a-z]+\d*)\*/gi, ' ')
     .replace(/\\[a-z]+\d*\s*/gi, ' ')
     .replace(/\|[^\\\s]+/g, '')
     .replace(/\s+/g, ' ')
     .trim()
+}
+
+function cleanExistingData() {
+  for (const file of fs.readdirSync(outputDir).filter((name) => name.endsWith('.json') && name !== 'index.json')) {
+    const filePath = path.join(outputDir, file)
+    const book = JSON.parse(fs.readFileSync(filePath, 'utf8'))
+    if (!Array.isArray(book.verses)) continue
+    for (const verse of book.verses) verse.text = cleanUsfm(verse.text)
+    fs.writeFileSync(filePath, `${JSON.stringify(book, null, 2)}\n`)
+  }
+  console.log('Cleaned existing Bible JSON; engwebp_usfm was not found.')
+}
+
+if (!sourceFiles.length) {
+  cleanExistingData()
+  process.exit(0)
 }
 
 function logicalLines(raw) {
