@@ -1,0 +1,486 @@
+{
+  "translation": "World English Bible (Updated)",
+  "source": "tmp_source/engwebu_vpl.txt",
+  "books": [
+    {
+      "id": "genesis",
+      "name": "Genesis",
+      "abbreviation": "GEN",
+      "verseCount": 1533
+    },
+    {
+      "id": "exodus",
+      "name": "Exodus",
+      "abbreviation": "EXO",
+      "verseCount": 1213
+    },
+    {
+      "id": "leviticus",
+      "name": "Leviticus",
+      "abbreviation": "LEV",
+      "verseCount": 859
+    },
+    {
+      "id": "numbers",
+      "name": "Numbers",
+      "abbreviation": "NUM",
+      "verseCount": 1288
+    },
+    {
+      "id": "deuteronomy",
+      "name": "Deuteronomy",
+      "abbreviation": "DEU",
+      "verseCount": 959
+    },
+    {
+      "id": "joshua",
+      "name": "Joshua",
+      "abbreviation": "JOS",
+      "verseCount": 658
+    },
+    {
+      "id": "judges",
+      "name": "Judges",
+      "abbreviation": "JDG",
+      "verseCount": 618
+    },
+    {
+      "id": "ruth",
+      "name": "Ruth",
+      "abbreviation": "RUT",
+      "verseCount": 85
+    },
+    {
+      "id": "1_samuel",
+      "name": "1 Samuel",
+      "abbreviation": "1SA",
+      "verseCount": 810
+    },
+    {
+      "id": "2_samuel",
+      "name": "2 Samuel",
+      "abbreviation": "2SA",
+      "verseCount": 695
+    },
+    {
+      "id": "1_kings",
+      "name": "1 Kings",
+      "abbreviation": "1KI",
+      "verseCount": 816
+    },
+    {
+      "id": "2_kings",
+      "name": "2 Kings",
+      "abbreviation": "2KI",
+      "verseCount": 719
+    },
+    {
+      "id": "1_chronicles",
+      "name": "1 Chronicles",
+      "abbreviation": "1CH",
+      "verseCount": 942
+    },
+    {
+      "id": "2_chronicles",
+      "name": "2 Chronicles",
+      "abbreviation": "2CH",
+      "verseCount": 822
+    },
+    {
+      "id": "ezra",
+      "name": "Ezra",
+      "abbreviation": "EZR",
+      "verseCount": 280
+    },
+    {
+      "id": "nehemiah",
+      "name": "Nehemiah",
+      "abbreviation": "NEH",
+      "verseCount": 406
+    },
+    {
+      "id": "esther",
+      "name": "Esther",
+      "abbreviation": "EST",
+      "verseCount": 167
+    },
+    {
+      "id": "job",
+      "name": "Job",
+      "abbreviation": "JOB",
+      "verseCount": 1070
+    },
+    {
+      "id": "psalms",
+      "name": "Psalms",
+      "abbreviation": "PSA",
+      "verseCount": 2461
+    },
+    {
+      "id": "proverbs",
+      "name": "Proverbs",
+      "abbreviation": "PRO",
+      "verseCount": 915
+    },
+    {
+      "id": "ecclesiastes",
+      "name": "Ecclesiastes",
+      "abbreviation": "ECC",
+      "verseCount": 222
+    },
+    {
+      "id": "song_of_solomon",
+      "name": "Song of Solomon",
+      "abbreviation": "SOL",
+      "verseCount": 117
+    },
+    {
+      "id": "isaiah",
+      "name": "Isaiah",
+      "abbreviation": "ISA",
+      "verseCount": 1292
+    },
+    {
+      "id": "jeremiah",
+      "name": "Jeremiah",
+      "abbreviation": "JER",
+      "verseCount": 1364
+    },
+    {
+      "id": "lamentations",
+      "name": "Lamentations",
+      "abbreviation": "LAM",
+      "verseCount": 154
+    },
+    {
+      "id": "ezekiel",
+      "name": "Ezekiel",
+      "abbreviation": "EZE",
+      "verseCount": 1273
+    },
+    {
+      "id": "daniel",
+      "name": "Daniel",
+      "abbreviation": "DAN",
+      "verseCount": 357
+    },
+    {
+      "id": "hosea",
+      "name": "Hosea",
+      "abbreviation": "HOS",
+      "verseCount": 197
+    },
+    {
+      "id": "joel",
+      "name": "Joel",
+      "abbreviation": "JOE",
+      "verseCount": 73
+    },
+    {
+      "id": "amos",
+      "name": "Amos",
+      "abbreviation": "AMO",
+      "verseCount": 146
+    },
+    {
+      "id": "obadiah",
+      "name": "Obadiah",
+      "abbreviation": "OBA",
+      "verseCount": 21
+    },
+    {
+      "id": "jonah",
+      "name": "Jonah",
+      "abbreviation": "JON",
+      "verseCount": 48
+    },
+    {
+      "id": "micah",
+      "name": "Micah",
+      "abbreviation": "MIC",
+      "verseCount": 105
+    },
+    {
+      "id": "nahum",
+      "name": "Nahum",
+      "abbreviation": "NAH",
+      "verseCount": 47
+    },
+    {
+      "id": "habakkuk",
+      "name": "Habakkuk",
+      "abbreviation": "HAB",
+      "verseCount": 56
+    },
+    {
+      "id": "zephaniah",
+      "name": "Zephaniah",
+      "abbreviation": "ZEP",
+      "verseCount": 53
+    },
+    {
+      "id": "haggai",
+      "name": "Haggai",
+      "abbreviation": "HAG",
+      "verseCount": 38
+    },
+    {
+      "id": "zechariah",
+      "name": "Zechariah",
+      "abbreviation": "ZEC",
+      "verseCount": 211
+    },
+    {
+      "id": "malachi",
+      "name": "Malachi",
+      "abbreviation": "MAL",
+      "verseCount": 55
+    },
+    {
+      "id": "tobit",
+      "name": "Tobit",
+      "abbreviation": "TOB",
+      "verseCount": 244
+    },
+    {
+      "id": "judith",
+      "name": "Judith",
+      "abbreviation": "JDT",
+      "verseCount": 339
+    },
+    {
+      "id": "esther_greek",
+      "name": "Esther (Greek)",
+      "abbreviation": "ESG",
+      "verseCount": 205
+    },
+    {
+      "id": "wisdom",
+      "name": "Wisdom",
+      "abbreviation": "WIS",
+      "verseCount": 436
+    },
+    {
+      "id": "sirach",
+      "name": "Sirach",
+      "abbreviation": "SIR",
+      "verseCount": 1383
+    },
+    {
+      "id": "baruch",
+      "name": "Baruch",
+      "abbreviation": "BAR",
+      "verseCount": 213
+    },
+    {
+      "id": "1_maccabees",
+      "name": "1 Maccabees",
+      "abbreviation": "1MA",
+      "verseCount": 924
+    },
+    {
+      "id": "2_maccabees",
+      "name": "2 Maccabees",
+      "abbreviation": "2MA",
+      "verseCount": 555
+    },
+    {
+      "id": "1_esdras",
+      "name": "1 Esdras",
+      "abbreviation": "1ES",
+      "verseCount": 448
+    },
+    {
+      "id": "prayer_of_manasseh",
+      "name": "Prayer of Manasseh",
+      "abbreviation": "PRM",
+      "verseCount": 15
+    },
+    {
+      "id": "3_maccabees",
+      "name": "3 Maccabees",
+      "abbreviation": "3MA",
+      "verseCount": 228
+    },
+    {
+      "id": "4_esdras",
+      "name": "4 Esdras",
+      "abbreviation": "4ES",
+      "verseCount": 944
+    },
+    {
+      "id": "4_maccabees",
+      "name": "4 Maccabees",
+      "abbreviation": "4MA",
+      "verseCount": 484
+    },
+    {
+      "id": "daniel_greek",
+      "name": "Daniel (Greek)",
+      "abbreviation": "DNG",
+      "verseCount": 530
+    },
+    {
+      "id": "matthew",
+      "name": "Matthew",
+      "abbreviation": "MAT",
+      "verseCount": 1071
+    },
+    {
+      "id": "mark",
+      "name": "Mark",
+      "abbreviation": "MAR",
+      "verseCount": 678
+    },
+    {
+      "id": "luke",
+      "name": "Luke",
+      "abbreviation": "LUK",
+      "verseCount": 1151
+    },
+    {
+      "id": "john",
+      "name": "John",
+      "abbreviation": "JOH",
+      "verseCount": 879
+    },
+    {
+      "id": "acts",
+      "name": "Acts",
+      "abbreviation": "ACT",
+      "verseCount": 1007
+    },
+    {
+      "id": "romans",
+      "name": "Romans",
+      "abbreviation": "ROM",
+      "verseCount": 434
+    },
+    {
+      "id": "1_corinthians",
+      "name": "1 Corinthians",
+      "abbreviation": "1CO",
+      "verseCount": 437
+    },
+    {
+      "id": "2_corinthians",
+      "name": "2 Corinthians",
+      "abbreviation": "2CO",
+      "verseCount": 257
+    },
+    {
+      "id": "galatians",
+      "name": "Galatians",
+      "abbreviation": "GAL",
+      "verseCount": 149
+    },
+    {
+      "id": "ephesians",
+      "name": "Ephesians",
+      "abbreviation": "EPH",
+      "verseCount": 155
+    },
+    {
+      "id": "philippians",
+      "name": "Philippians",
+      "abbreviation": "PHI",
+      "verseCount": 104
+    },
+    {
+      "id": "colossians",
+      "name": "Colossians",
+      "abbreviation": "COL",
+      "verseCount": 95
+    },
+    {
+      "id": "1_thessalonians",
+      "name": "1 Thessalonians",
+      "abbreviation": "1TH",
+      "verseCount": 89
+    },
+    {
+      "id": "2_thessalonians",
+      "name": "2 Thessalonians",
+      "abbreviation": "2TH",
+      "verseCount": 47
+    },
+    {
+      "id": "1_timothy",
+      "name": "1 Timothy",
+      "abbreviation": "1TI",
+      "verseCount": 113
+    },
+    {
+      "id": "2_timothy",
+      "name": "2 Timothy",
+      "abbreviation": "2TI",
+      "verseCount": 83
+    },
+    {
+      "id": "titus",
+      "name": "Titus",
+      "abbreviation": "TIT",
+      "verseCount": 46
+    },
+    {
+      "id": "philemon",
+      "name": "Philemon",
+      "abbreviation": "PHM",
+      "verseCount": 25
+    },
+    {
+      "id": "hebrews",
+      "name": "Hebrews",
+      "abbreviation": "HEB",
+      "verseCount": 303
+    },
+    {
+      "id": "james",
+      "name": "James",
+      "abbreviation": "JAM",
+      "verseCount": 108
+    },
+    {
+      "id": "1_peter",
+      "name": "1 Peter",
+      "abbreviation": "1PE",
+      "verseCount": 105
+    },
+    {
+      "id": "2_peter",
+      "name": "2 Peter",
+      "abbreviation": "2PE",
+      "verseCount": 61
+    },
+    {
+      "id": "1_john",
+      "name": "1 John",
+      "abbreviation": "1JO",
+      "verseCount": 105
+    },
+    {
+      "id": "2_john",
+      "name": "2 John",
+      "abbreviation": "2JO",
+      "verseCount": 13
+    },
+    {
+      "id": "3_john",
+      "name": "3 John",
+      "abbreviation": "3JO",
+      "verseCount": 14
+    },
+    {
+      "id": "jude",
+      "name": "Jude",
+      "abbreviation": "JUD",
+      "verseCount": 25
+    },
+    {
+      "id": "revelation",
+      "name": "Revelation",
+      "abbreviation": "REV",
+      "verseCount": 404
+    }
+  ]
+}

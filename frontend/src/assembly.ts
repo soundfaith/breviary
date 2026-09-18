@@ -3,7 +3,7 @@ import { readingCycle } from './readingCycle'
 
 type JsonRecord = Record<string, any>
 
-const modules = import.meta.glob('../data/**/*.json', { eager: true, import: 'default' }) as Record<string, any>
+const modules = import.meta.glob(['../data/**/*.json', '!../data/library/bible/**'], { eager: true, import: 'default' }) as Record<string, any>
 
 function load(relativePath: string): any {
   const key = `../data/${relativePath}`

@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=DM+Serif+Display:ital@0;1&family=Manrope:wght@400;500;600;700;800&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap');
 @import 'tailwindcss';
 :root { font-family: 'DM Sans', sans-serif; color: #edf0e8; background: #18211e; color-scheme: dark; font-synthesis: none; } :root:not(.dark) { color: #26332e; background: #f6f7f2; color-scheme: light; } * { box-sizing: border-box; } body { margin: 0; min-width: 320px; background: #18211e; } :root:not(.dark) body { background: #f6f7f2; } button { font: inherit; cursor: pointer; }
 .app-shell { min-height: 100vh; background: radial-gradient(circle at 88% 10%, rgba(199,214,183,.32), transparent 28%), #f6f7f2; transition: background .35s,color .35s; } .dark .app-shell { background: radial-gradient(circle at 88% 10%, rgba(64,85,69,.22), transparent 30%), #18211e; color: #edf0e8; }
@@ -110,3 +110,216 @@
 .dark .reader-action { border-color: #2b3933; } .dark .audio-button { background: #41634e; }
 @media (max-width:720px) { .hours-grid { grid-template-columns: 1fr; } }
 @media (max-width:720px) { .reader-footer { position: relative; } .reader-footer .audio-button { position: fixed; z-index: 5; left: 50%; bottom: 18px; transform: translateX(-50%); box-shadow: 0 8px 24px rgba(10,20,14,.28); } .reader-footer .audio-button:hover { transform: translateX(-50%); } }
+
+/* Shared SoundFaith surface language, tuned for long-form prayer reading. */
+:root {
+	--paper: #f5f2ec;
+	--ink: #17201d;
+	--muted: #6f746c;
+	--line: #d9d7d0;
+	--moss: #718474;
+	--moss-deep: #244c3b;
+	--sage: #dce6d7;
+	--white: #fffdf9;
+	--sun: #e8b84c;
+	--radius-sm: 3px;
+}
+
+:root:not(.dark) { color: var(--ink); background: var(--paper); }
+:root:not(.dark) body { background: var(--paper); }
+body { font-family: 'DM Sans', 'Manrope', sans-serif; font-size: 14px; }
+button, input { font-family: inherit; }
+button:focus-visible, input:focus-visible { outline: 2px solid var(--moss-deep); outline-offset: 3px; }
+.app-shell { background: var(--paper); color: var(--ink); }
+.site-header { width: min(1160px, calc(100% - 80px)); height: 68px; padding: 0; border-bottom: 1px solid var(--line); }
+.brand { font-weight: 800; letter-spacing: -.04em; }
+.brand-mark { display: grid; place-items: center; width: 25px; height: 25px; border-radius: 50%; background: var(--moss-deep); color: var(--paper); font-size: 15px; }
+.date-chip { color: var(--muted); }
+.icon-button { width: 34px; height: 34px; border: 1px solid var(--line); border-radius: 0; transition: color .2s, border-color .2s, transform .2s; }
+.icon-button:hover, .reader-action:hover { color: var(--moss-deep); border-color: var(--moss); transform: translateY(-2px); }
+.home-page { width: min(1160px, calc(100% - 80px)); padding: 0 0 110px; }
+.hero { min-height: 500px; padding: 108px 0 82px; border-bottom-color: var(--line); }
+.eyebrow, .section-kicker { color: var(--moss-deep); font-weight: 800; letter-spacing: .18em; }
+.eyebrow-dot { background: var(--moss-deep); }
+.hero h1 { font-family: 'DM Serif Display', 'Newsreader', serif; color: var(--ink); letter-spacing: -.045em; }
+.hero h1 em, .hour-latin { color: var(--moss-deep); }
+.hero-copy { color: var(--muted); }
+.primary-button { min-height: 42px; border-radius: 0; background: var(--moss-deep); padding: 0 18px; font-size: 11px; font-weight: 800; }
+.primary-button:hover { background: var(--ink); }
+.button-arrow { color: var(--sun); }
+.hero-note { color: var(--muted); }
+.hero-note strong { color: var(--moss-deep); }
+.hours-section { padding-top: 75px; }
+.section-heading h2, .drawer h2 { font-family: 'DM Serif Display', 'Newsreader', serif; letter-spacing: -.03em; }
+.text-button, .back-button { color: var(--muted); font-weight: 700; }
+.text-button:hover, .back-button:hover { color: var(--moss-deep); }
+.hours-grid { gap: 20px; }
+.landing-reading-card { min-width: 0; }
+.landing-reading-card .hour-card { width: 100%; min-height: 220px; }
+.hour-card { min-height: 220px; padding: 24px; border-color: var(--line); background: var(--white); border-radius: 0; }
+.hour-card:hover, .hour-card.active { border-color: var(--moss-deep); background: var(--sage); transform: translateY(-4px); }
+.hour-card-icon { border-radius: 50%; background: var(--sage); color: var(--moss-deep); }
+.hour-caption, .hour-time { color: var(--muted); }
+.hour-description { color: #526158; font-size: 12px; line-height: 1.55; max-width: 250px; }
+.dark .hour-description { color: #c1cdc2; }
+.landing-reading-card .hour-card { background: var(--sage); border-color: color-mix(in srgb, var(--moss-deep) 18%, var(--line)); }
+.landing-reading-card .hour-card:hover { background: color-mix(in srgb, var(--sage) 72%, var(--white)); }
+.dark .landing-reading-card .hour-card { background: rgba(20, 32, 28, .32); border-color: #35443d; }
+.dark .landing-reading-card .hour-card:hover { background: #22352b; border-color: var(--moss-deep); }
+.reader-page, .utility-page { width: min(1160px, calc(100% - 80px)); max-width: none; padding-left: 0; padding-right: 0; }
+.reader-toolbar, .reader-footer, .utility-heading { border-color: var(--line); }
+.reader-action { border-radius: 0; border-color: var(--line); }
+.prayer-content { max-width: 700px; }
+.prayer-content h1, .utility-heading h1 { font-family: 'DM Serif Display', 'Newsreader', serif; color: var(--ink); letter-spacing: -.04em; }
+.prayer-subtitle { color: var(--moss-deep); }
+.rule { background: var(--line); }
+.prayer-block h2 { color: var(--moss-deep); }
+.prayer-block p { color: #3f4b43; line-height: 1.85; }
+.dark .prayer-block p { color: #d4dbd1; }
+.audio-button { border-radius: 50%; background: var(--moss-deep); }
+.calendar-panel, .calendar-prayer-panel, .reference-item, .library-card, .content-card { border-radius: 0; border-color: var(--line); background: var(--white); }
+.calendar-day:hover, .calendar-day.selected { border-color: var(--moss-deep); background: var(--sage); }
+.calendar-prayer-item:hover, .calendar-prayer-item.current { color: var(--moss-deep); }
+.utility-heading h1 { font-size: 64px; }
+.utility-heading p, .intro, .reference-item-main p, .library-card p { color: var(--muted); }
+.library-tabs button.active { color: var(--moss-deep); border-color: var(--moss); background: var(--sage); }
+.reference-item:hover, .library-card:hover { border-color: var(--moss-deep); transform: translateY(-3px); }
+.about-content h2 { font-family: 'DM Serif Display', 'Newsreader', serif; }
+.drawer { background: var(--white); }
+.drawer-nav button.current, .setting-state { color: var(--moss-deep); }
+.drawer-settings input { accent-color: var(--moss-deep); }
+.drawer-calendar { display: block; padding: 8px 0 20px; border-bottom: 1px solid var(--line); }
+.drawer-calendar-header { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 16px; }
+.drawer-calendar-header strong { font-family: 'DM Serif Display', 'Newsreader', serif; font-size: 20px; font-weight: 400; }
+.drawer-calendar-header .icon-button { flex: 0 0 auto; width: 30px; height: 30px; }
+.drawer-calendar .weekday-row, .drawer-calendar .month-grid { gap: 3px; }
+.drawer-calendar .weekday-row { font-size: 8px; margin-bottom: 5px; }
+.drawer-calendar .calendar-day { min-width: 0; gap: 0; font-size: 12px; }
+.drawer-calendar .calendar-day.selected { color: var(--moss-deep); font-weight: 800; }
+.dark .site-header, .dark .reader-toolbar, .dark .reader-footer { border-color: #202c26; }
+.dark .drawer-calendar { border-color: #202c26; }
+.drawer-nav .nav-label:not(:first-child) { margin-top: 20px; }
+.drawer-nav .mass-readings-nav { border-bottom: 1px solid var(--line); padding-bottom: 20px; margin-bottom: 6px; }
+@media (max-width: 720px) {
+	.site-header, .home-page, .reader-page, .utility-page { width: calc(100% - 40px); }
+	.site-header { height: 62px; }
+	.hero { padding: 67px 0 55px; }
+	.hero h1 { font-size: 60px; }
+	.hours-grid { gap: 12px; }
+	.hour-card { min-height: 185px; padding: 18px; }
+	.landing-reading-card .hour-card { min-height: 185px; }
+	.hour-description { font-size: 11px; line-height: 1.45; }
+	.utility-heading h1 { font-size: 51px; }
+}
+
+/* Final contrast and interaction polish. */
+.dark .hero h1,
+.dark .prayer-content h1,
+.dark .utility-heading h1,
+.dark .section-heading h2,
+.dark .calendar-nav h2,
+.dark .calendar-prayer-header h3,
+.dark .day-summary h2,
+.dark .library-card h2,
+.dark .reference-item-main h2,
+.dark .about-content h2,
+.dark .guide-list h2,
+.dark .search-group h2,
+.dark .rubric-page h1 { color: #f1f4ed; }
+.dark .hero h1 em,
+.dark .prayer-subtitle,
+.dark .summary-saint { color: #a8d1b2; }
+.dark .utility-heading p,
+.dark .hero-copy,
+.dark .reference-item-main p,
+.dark .library-card p,
+.dark .about-content p,
+.dark .about-content li { color: #b8c4b9; }
+.mass-readings-card { width: 100%; }
+.mass-readings-card { display: inline-block; width: calc((100% - 40px) / 3); margin-left: 10px; vertical-align: top; }
+.landing-bible-card { display: inline-block; width: calc((100% - 40px) / 3); margin-left: 10px; vertical-align: top; }
+.landing-bible-card .hour-card { width: 100%; min-height: 220px; }
+.bible-reader { touch-action: pan-y; }
+.bible-controls { display: grid; grid-template-columns: minmax(0, 1fr) 140px; gap: 12px; margin-top: 32px; }
+.bible-controls label { display: grid; gap: 7px; color: var(--muted); font-size: 10px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
+.bible-controls select { width: 100%; min-height: 42px; border: 1px solid var(--line); border-radius: 0; background: var(--white); color: var(--ink); padding: 0 11px; font: inherit; font-size: 13px; text-transform: none; letter-spacing: 0; }
+.bible-verses p { margin: 0 0 20px; color: #3f4b43; font: 400 1em/1.85 'DM Sans', sans-serif; }
+.dark .bible-verses p { color: #d4dbd1; }
+.bible-verses sup { display: inline; min-width: 0; margin-right: 3px; color: var(--moss-deep); font-size: .65em; font-weight: 800; vertical-align: .55em; }
+.dark .bible-verses sup { color: #a8d1b2; }
+.bible-verses p + p { margin-top: 30px; }
+.drawer-select { display: grid; gap: 7px; padding: 10px 0; color: var(--muted); font-size: 10px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
+.drawer-select select { width: 100%; min-height: 42px; border: 1px solid var(--line); border-radius: 0; background: var(--white); color: var(--ink); padding: 0 10px; font: inherit; font-size: 13px; letter-spacing: 0; text-transform: none; }
+.dark .drawer-select select { background: #24332b; color: #f1f4ed; border-color: #35483d; }
+.bible-testament { border-bottom: 1px solid var(--line); padding: 6px 0 12px; }
+.bible-testament-toggle { display: flex; align-items: center; justify-content: space-between; width: 100%; padding: 10px 0; border: 0; background: transparent; color: inherit; font: 600 15px 'DM Serif Display', serif; text-align: left; }
+.bible-testament-toggle svg { color: var(--muted); transition: transform .2s ease; }
+.bible-testament-toggle svg.expanded { transform: rotate(90deg); color: var(--moss-deep); }
+.bible-book-pills, .bible-chapter-pills > div { display: flex; flex-wrap: wrap; gap: 6px; }
+.bible-book-pills button, .bible-chapter-pills button { border: 1px solid var(--line); border-radius: 999px; background: transparent; color: var(--muted); padding: 7px 10px; font-size: 11px; line-height: 1.1; }
+.bible-book-pills button:hover, .bible-book-pills button.selected, .bible-chapter-pills button:hover, .bible-chapter-pills button.selected { border-color: var(--moss-deep); background: var(--sage); color: var(--moss-deep); }
+.bible-chapter-pills { padding: 18px 0 6px; }
+.bible-chapter-pills .nav-label { display: block; margin: 0 0 9px; }
+.dark .bible-testament, .dark .bible-book-pills button, .dark .bible-chapter-pills button { border-color: #35483d; }
+.dark .bible-book-pills button:hover, .dark .bible-book-pills button.selected, .dark .bible-chapter-pills button:hover, .dark .bible-chapter-pills button.selected { border-color: #a8d1b2; background: #293f33; color: #dcebdc; }
+.bible-chapter-label { color: var(--moss-deep); font: 400 20px 'DM Serif Display', serif; }
+.bible-chapter-label { border: 0; background: transparent; padding: 0; cursor: pointer; }
+.bible-chapter-label:hover { color: var(--moss); text-decoration: underline; text-underline-offset: 4px; }
+.dark .bible-chapter-label { color: #a8d1b2; }
+.mobile-bottom-nav { display: none; }
+.mass-readings-card .hour-card { width: 100%; min-height: 220px; }
+.readings-page .reader-action { display: none; }
+.prayer-content h1 { margin-bottom: 22px; }
+.readings-page .prayer-subtitle { margin-top: 22px; }
+.drawer-calendar, .theme-switch { display: flex; align-items: center; gap: 10px; width: 100%; padding: 11px 0; color: inherit; font-size: 14px; }
+.drawer-calendar span, .theme-switch span:first-child { flex: 1; }
+.drawer-calendar input { min-width: 0; border: 1px solid var(--line); border-radius: var(--radius-sm); background: transparent; color: inherit; padding: 7px 8px; font: inherit; font-size: 12px; }
+.theme-switch { cursor: pointer; }
+.theme-switch input { position: absolute; opacity: 0; pointer-events: none; }
+.switch-track { flex: 0 0 auto; width: 39px; height: 22px; padding: 3px; border-radius: 999px; background: var(--line); transition: background-color .2s ease; }
+.switch-track span { display: block; width: 16px; height: 16px; border-radius: 50%; background: var(--white); transform: translateX(0); transition: transform .2s ease; }
+.theme-switch input:checked + .switch-track { background: var(--moss-deep); }
+.theme-switch input:checked + .switch-track span { transform: translateX(17px); }
+.hour-card, .calendar-day, .reference-item, .library-card, .reader-action, .icon-button { transition: transform .25s cubic-bezier(.2,.8,.2,1), border-color .25s ease, background-color .25s ease, box-shadow .25s ease; }
+.hour-card:hover, .reference-item:hover, .library-card:hover { box-shadow: 0 16px 36px rgba(36, 76, 59, .09); }
+.dark .hour-card:hover, .dark .reference-item:hover, .dark .library-card:hover { box-shadow: 0 16px 36px rgba(0, 0, 0, .2); }
+.prayer-content--enter { animation: prayer-enter .52s cubic-bezier(.2,.8,.2,1); }
+@media (prefers-reduced-motion: reduce) {
+	*, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
+}
+@media (max-width: 720px) {
+	.mass-readings-card { display: block; width: 100%; margin-left: 0; }
+	.landing-bible-card { display: block; width: 100%; margin-left: 0; }
+	.reader-date--mobile-friendly { display: inline; }
+	.bible-controls { grid-template-columns: 1fr; }
+	.bible-reader { margin-top: 52px; }
+	.mobile-bottom-nav { position: fixed; z-index: 8; right: 12px; bottom: 12px; left: 12px; display: grid; grid-template-columns: repeat(5, 1fr); min-height: 64px; padding: 7px 5px; border: 1px solid var(--line); border-radius: 20px; background: color-mix(in srgb, var(--white) 94%, transparent); box-shadow: 0 20px 45px rgba(36, 76, 59, .14); backdrop-filter: blur(14px); }
+	.mobile-bottom-nav button { display: grid; place-items: center; align-content: center; gap: 3px; min-width: 0; min-height: 48px; padding: 4px 2px; border: 0; background: transparent; color: var(--muted); font-size: 8px; font-weight: 800; letter-spacing: .02em; }
+	.mobile-bottom-nav button.active, .mobile-bottom-nav button.active svg, .mobile-bottom-nav button:hover { color: var(--moss-deep); }
+	.mobile-bottom-nav button:disabled { opacity: .55; cursor: default; }
+	.mobile-bottom-nav .mobile-play { width: 54px; height: 54px; align-self: center; justify-self: center; min-height: 54px; border: 0; border-radius: 50%; background: #244c3b !important; color: #f5f2ec !important; opacity: 1 !important; box-shadow: 0 8px 18px color-mix(in srgb, #244c3b 32%, transparent); }
+	.mobile-bottom-nav .mobile-play.is-speaking { background: #41634e; }
+	.mobile-bottom-nav .mobile-play:disabled { opacity: 1; color: var(--paper); }
+	.mobile-bottom-nav .mobile-play svg { color: var(--paper); }
+	.mobile-bottom-nav .mobile-play > span:last-child { color: var(--paper); }
+	.mobile-bottom-nav .equalizer { height: 20px; }
+	.mobile-bottom-nav .equalizer i { background: var(--paper); }
+	.dark .mobile-bottom-nav { border-color: #202c26; background: color-mix(in srgb, #18211e 94%, transparent); box-shadow: 0 -10px 28px rgba(0, 0, 0, .18); }
+	.dark .mobile-bottom-nav button { color: #aeb9ae; }
+	.dark .mobile-bottom-nav button.active, .dark .mobile-bottom-nav button.active svg, .dark .mobile-bottom-nav button:hover { color: #a8d1b2; }
+	.dark .mobile-bottom-nav .mobile-play, .dark .mobile-bottom-nav .mobile-play:disabled { border: 0; background: #244c3b !important; color: #f5f2ec !important; box-shadow: 0 8px 18px color-mix(in srgb, #244c3b 32%, transparent); }
+	.dark .mobile-bottom-nav .mobile-play svg, .dark .mobile-bottom-nav .mobile-play > span:last-child { color: #f5f2ec; }
+	.dark .mobile-bottom-nav .mobile-play .equalizer i { background: #f5f2ec; }
+	.home-page, .reader-page, .utility-page { padding-bottom: 105px; }
+}
+
+/* Keep the menu calendar as a real seven-column grid. */
+.drawer-calendar { display: block; width: 100%; padding: 8px 0 20px; }
+.drawer-calendar-header { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+.drawer-calendar > .weekday-row,
+.drawer-calendar > .month-grid { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); width: 100%; }
+.drawer-calendar > .weekday-row { margin: 16px 0 5px; }
+.drawer-calendar > .month-grid { gap: 3px; }
+.drawer-calendar > .weekday-row span,
+.drawer-calendar > .month-grid span { flex: initial; min-width: 0; }
+.drawer-calendar > .month-grid .calendar-day { width: 100%; min-width: 0; aspect-ratio: 1; padding: 0; }
