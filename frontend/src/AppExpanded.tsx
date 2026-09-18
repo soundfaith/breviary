@@ -13,6 +13,7 @@ import {
   Info,
   Library,
   Menu,
+  MessageSquare,
   Moon,
   Pause,
   Play,
@@ -22,6 +23,7 @@ import {
   Sunrise,
   ScrollText,
   Search,
+  Type,
   X,
 } from "lucide-react";
 import {
@@ -182,6 +184,12 @@ function AppExpanded() {
   const [bibleSearchQuery, setBibleSearchQuery] = useState("");
   const [bibleSearchLimit, setBibleSearchLimit] = useState(12);
   const [searchedVerseKey, setSearchedVerseKey] = useState<string | null>(null);
+  const [feedbackOpen, setFeedbackOpen] = useState(false);
+  const [feedbackName, setFeedbackName] = useState("");
+  const [feedbackEmail, setFeedbackEmail] = useState("");
+  const [feedbackMessage, setFeedbackMessage] = useState("");
+  const [feedbackSending, setFeedbackSending] = useState(false);
+  const [feedbackError, setFeedbackError] = useState("");
   const [speechVoices, setSpeechVoices] = useState<SpeechSynthesisVoice[]>([]);
   const [selectedVoiceURI, setSelectedVoiceURI] = useState(() => window.localStorage.getItem("soundfaith-voice-uri") ?? "");
   const speechRef = useRef<SpeechSynthesisUtterance | null>(null);
@@ -338,6 +346,27 @@ function AppExpanded() {
     await navigator.clipboard?.writeText(audioText);
     setIsCopied(true);
     window.setTimeout(() => setIsCopied(false), 1800);
+  };
+  const decreaseFontSize = () => setFontSize((size) => Math.max(16, size - 1));
+  const increaseFontSize = () => setFontSize((size) => Math.min(24, size + 1));
+  const submitFeedback = async (event: React.FormEvent<HTMLFormElement>) => {
+    event.preventDefault();
+    setFeedbackSending(true);
+    setFeedbackError("");
+    try {
+      const response = await fetch("/api/feedback", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ name: feedbackName, email: feedbackEmail, message: feedbackMessage }),
+      });
+      if (!response.ok) throw new Error("Feedback could not be sent.");
+      setFeedbackMessage("");
+      setFeedbackOpen(false);
+    } catch {
+      setFeedbackError("Feedback could not be sent right now. Please try again later.");
+    } finally {
+      setFeedbackSending(false);
+    }
   };
   const shareLandingPage = async () => {
     const url = `${window.location.origin}${window.location.pathname}`;
@@ -725,14 +754,8 @@ function AppExpanded() {
               >
                 {isCopied ? <Check size={17} /> : <Copy size={17} />}
               </button>
-              <button
-                className="reader-action"
-                onClick={shareLandingPage}
-                aria-label="Share Breviary"
-                title="Share Breviary"
-              >
-                <Share2 size={17} />
-              </button>
+              <button className="reader-action font-size-action" onClick={decreaseFontSize} disabled={fontSize <= 16} aria-label="Decrease text size" title="Decrease text size"><Type size={17} /></button>
+              <button className="reader-action font-size-action" onClick={increaseFontSize} disabled={fontSize >= 24} aria-label="Increase text size" title="Increase text size"><Type size={21} /></button>
             </div>
           </div>
           <article
@@ -819,9 +842,8 @@ function AppExpanded() {
               <button className="reader-action" onClick={copyReading} aria-label="Copy readings" title="Copy readings">
                 {isCopied ? <Check size={17} /> : <Copy size={17} />}
               </button>
-              <button className="reader-action" onClick={shareLandingPage} aria-label="Share Breviary" title="Share Breviary">
-                <Share2 size={17} />
-              </button>
+              <button className="reader-action font-size-action" onClick={decreaseFontSize} disabled={fontSize <= 16} aria-label="Decrease text size" title="Decrease text size"><Type size={17} /></button>
+              <button className="reader-action font-size-action" onClick={increaseFontSize} disabled={fontSize >= 24} aria-label="Increase text size" title="Increase text size"><Type size={21} /></button>
             </div>
           </div>
           <article className="prayer-content prayer-content--enter" style={{ fontSize: readableFontSize }}>
@@ -922,9 +944,8 @@ function AppExpanded() {
               <button className="reader-action" onClick={copyReading} aria-label="Copy Bible text" title="Copy Bible text">
                 {isCopied ? <Check size={17} /> : <Copy size={17} />}
               </button>
-              <button className="reader-action" onClick={shareLandingPage} aria-label="Share Breviary" title="Share Breviary">
-                <Share2 size={17} />
-              </button>
+              <button className="reader-action font-size-action" onClick={decreaseFontSize} disabled={fontSize <= 16} aria-label="Decrease text size" title="Decrease text size"><Type size={17} /></button>
+              <button className="reader-action font-size-action" onClick={increaseFontSize} disabled={fontSize >= 24} aria-label="Increase text size" title="Increase text size"><Type size={21} /></button>
             </div>
           </div>
           <article
@@ -1317,6 +1338,38 @@ function AppExpanded() {
           </aside>
         </>
       )}
+      {feedbackOpen && (
+        <>
+          <div className="selector-backdrop" onClick={() => setFeedbackOpen(false)} />
+          <section className="selector-modal feedback-modal" role="dialog" aria-modal="true" aria-label="Send feedback">
+            <span className="selector-handle" aria-hidden="true" />
+            <div className="selector-modal-header">
+              <div>
+                <strong>Feedback</strong>
+                <p className="feedback-intro">Help us make Breviary better.</p>
+              </div>
+              <button className="icon-button" onClick={() => setFeedbackOpen(false)} aria-label="Close feedback"><X size={18} /></button>
+            </div>
+            <form className="feedback-form" onSubmit={submitFeedback}>
+              <label><span>Name <small>optional</small></span><input value={feedbackName} onChange={(event) => setFeedbackName(event.target.value)} /></label>
+              <label><span>Email <small>optional</small></span><input type="email" value={feedbackEmail} onChange={(event) => setFeedbackEmail(event.target.value)} /></label>
+              <label><span>Message</span><textarea required rows={5} value={feedbackMessage} onChange={(event) => setFeedbackMessage(event.target.value)} /></label>
+              {feedbackError && <p className="feedback-error" role="alert">{feedbackError}</p>}
+              <button className="feedback-submit" type="submit" disabled={feedbackSending}>{feedbackSending ? "Sending..." : "Send feedback"}</button>
+            </form>
+          </section>
+        </>
+      )}
+      <footer className="site-footer">
+        <div className="site-footer-brand">
+          <a href="https://soundfaith.app" target="_blank" rel="noreferrer">© SoundFaith</a>
+          <span>Prayer, Scripture, and the daily rhythm.</span>
+        </div>
+        <div className="site-footer-actions">
+          <button className="site-footer-action" onClick={shareLandingPage}><Share2 size={16} /> Share</button>
+          <button className="site-footer-action" onClick={() => setFeedbackOpen(true)}><MessageSquare size={16} /> Feedback</button>
+        </div>
+      </footer>
       <nav className="mobile-bottom-nav" aria-label="Mobile navigation">
         <button className={route === "/" ? "active" : ""} onClick={goHome}>
           <Home size={17} />
