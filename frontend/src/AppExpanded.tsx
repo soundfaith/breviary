@@ -359,11 +359,14 @@ function AppExpanded() {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ name: feedbackName, email: feedbackEmail, message: feedbackMessage }),
       });
-      if (!response.ok) throw new Error("Feedback could not be sent.");
+      if (!response.ok) {
+        const result = await response.json().catch(() => null) as { error?: string } | null;
+        throw new Error(result?.error || "Feedback could not be sent.");
+      }
       setFeedbackMessage("");
       setFeedbackOpen(false);
-    } catch {
-      setFeedbackError("Feedback could not be sent right now. Please try again later.");
+    } catch (error) {
+      setFeedbackError(error instanceof Error ? error.message : "Feedback could not be sent right now. Please try again later.");
     } finally {
       setFeedbackSending(false);
     }
